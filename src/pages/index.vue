@@ -1,5 +1,5 @@
 <template>
-	<v-layout row wrap pa-5 ma-5>
+	<v-layout row wrap>
 		<v-flex xs12 md6 pa-4>
 			<!--<v-img src="../media/images/aaron.jpg"></v-img>-->
 			<g-image src="../media/images/aaron.jpg" style="width: 100%"></g-image>
