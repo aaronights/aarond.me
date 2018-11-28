@@ -1,0 +1,622 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<!-- Mirrored from au.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 11:04:19 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+        <!-- Optimizely -->
+        <meta id="ign-optimizely" data-project-id="1369090036" />
+
+    <title>Raspberry Pi 2 powered Arcade - Blog by aaroNiGHTS - IGN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="For a while now I&amp;amp;#039;ve been wanting to do a project with the Raspberry Pi. The ultra low cost, single board computer is making roads in both educatio..." />
+<meta name="robots" content="noindex, follow" />
+<meta name="copyright" content="IGN Entertainment, Inc." />
+<link rel="canonical" href="raspberry-pi-2-powered-arcade.html" />
+<link rel="alternate" href="http://m.au.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade" media="only screen and (max-width: 640px)" />
+<link rel="alternate" hreflang="en-au" href="raspberry-pi-2-powered-arcade.html" />
+<link rel="alternate" hreflang="en-ca" href="http://ca.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade" />
+<link rel="alternate" hreflang="en-ie" href="http://ie.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade" />
+<link rel="alternate" hreflang="en-gb" href="http://uk.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade" />
+<link rel="alternate" hreflang="en" href="../../../../../../www.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade.html" />
+<link rel="alternate" hreflang="x-default" href="../../../../../../www.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade.html" />
+<meta name="live_date" content="2015-04-22" />
+    <meta name="referrer" content="always">
+<meta name="zdid" content="157b5b78" />
+<meta name="cpid" content="19dc5b052d93a13cfa12d100c02ab232" />
+<meta property="og:title" content="Raspberry Pi 2 powered Arcade - Blog by aaroNiGHTS - IGN" />
+<meta property="og:type" content="ignsocial:blog" />
+<meta property="og:image" content="../../../../../../oystatic.ignimgs.com/src/core/img/widgets/global/page/ign-logo-100x100.jpg" />
+<meta property="og:url" content="raspberry-pi-2-powered-arcade.html" />
+<meta property="og:site_name" content="IGN" />
+<meta property="fb:app_id" content="115982828429116" />
+<meta property="fb:pages" content="59685491632" />
+
+
+
+        <link rel='index' title='Raspberry Pi 2 powered Arcade - Blog by aaroNiGHTS - IGN' href='../../../../aaronights.html' />
+    
+    <link href="../../../../../../oystatic.ignimgs.com/cache/css/24/2b/242b6a4e0fb98adc7d61280652fa6400.css" media="screen" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+                <link rel="stylesheet" type="text/css" href="http://oystatic.ignimgs.com/src/core/css/lib/ie.css"/>
+            <![endif]-->
+    <link rel="shortcut icon" type="image/x-icon" href="http://media.ignimgs.com/media/ign/favicon.ico"/>
+    <link rel="apple-touch-icon" type="image/png" href="../../../../../../media.ignimgs.com/media/ign/apple-touch-icon.png"/>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            gads.src = '../../../../../../www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <!-- Amazon apstag -->
+    <script type='text/javascript'>
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","../../../../../../c.amazon-adsystem.com/aax2/apstag.js");
+
+        // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+        apstag.init({
+            pubID: '3101',
+            adServer: 'googletag',
+            bidTimeout: 2e3
+        });
+    </script>
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script>
+        var IGN = IGN || {};
+        IGN.pagetype = "blogs";
+    </script>
+    
+    <script type="text/javascript" src="../../../../../../oystatic.ignimgs.com/cache/js/4e/56/4e563daa2ec852ceb1d630f75369134b.js"></script><script type="text/javascript" async="async" src="../../../../../../zdstatic.ign.com/jst/zdconsent.js"></script>
+<script type="text/javascript" async="async" src="../../../../../../zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js"></script><script type="" src="../../../../../../oystatic.ignimgs.com/src/core/js/incs/coraltalk/count.js"></script>
+<script type="" src="../../../../../../media.ign.com/ign/stp/js/0namespace.js"></script>
+<script type="" src="../../../../../../media.ign.com/ign/stp/js/socialALPHA19.js"></script>
+<script type="" src="../../../../../../oystatic.ignimgs.com/cache/js/4a/27/4a27b59f8cc2767560871a46e1f4f38d.js"></script><script>
+    var igndrones = igndrones || {};
+    igndrones.async = igndrones.async || [];
+    igndrones.async.unshift(function() {
+        igndrones.init({"buyerbase":[],"chartbeat":{"uid":"21105","domain":"ign.com","sections":"Desktop Web,blogs"},"comscore":{"c2":"3000068"},"ga":{"uaView":"Desktop","account_number":"UA-23541058-1","_setDomainName":".ign.com","custom_vars":[[1,"pagetype","blogs",3],[8,"template","undefined-desktop-01",3],[9,"ads-disabled","no",3],[15,"action","blogview",3],[16,"controller","v2articles",3],[17,"module","default",3],[18,"resource","blogs",3],[20,"is-community","yes",3],[21,"signed-in","no",2],[22,"subscriber","no",1]]},"nielsen":{"account":"au-ziffdavis","site":"ign"}});
+    igndrones.fireTop();    });
+</script>
+
+<script>
+
+    window.IGN_UA_DataLayer = window.IGN_UA_DataLayer || [];
+    
+            window.IGN_UA_DataLayer.push({"ga":{"page":{"platform":"Desktop Web","pageType":"blog","resource":"blogs","isCommunity":"yes","adTemplate":"undefined-desktop-01","webView":false,"ZDID":"157b5b78","CPID":"19dc5b052d93a13cfa12d100c02ab232"},"user":{"signedIn":"no","primeSubscriber":"no","adsDisabled":false},"content":{"contentState":"standard","objectIds":[],"contentId":"553703767add68a0b25d3fdf"}}});
+    
+    try {
+      var optimizelyBuckets = JSON.parse(decodeURIComponent(IGN.readCookieValue('optimizelyBuckets')));
+      if (typeof optimizelyBuckets === 'object') {
+        window.IGN_UA_DataLayer.push({
+          ga: {
+            optimizely: optimizelyBuckets
+          }
+        });
+      }
+    } catch(e) {}
+
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-54DV8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../../../../../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','IGN_UA_DataLayer','GTM-54DV8X');</script>
+<!-- End Google Tag Manager -->
+
+    </head>
+
+<body layout="default"
+    data-widget-domain="widgets.ign.com"
+    data-targeting='{"adsDisabled":"false","dfp_network":"5691","dfp_adunit1":"IGN","resource":"blogs","pagetype":"blogs","template":"undefined-desktop-01","zdid":"157b5b78","cpid":"19dc5b052d93a13cfa12d100c02ab232"}'
+    data-rfr-config="1"><script>ChessKit.init([]);</script>
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
+<script type="text/javascript">
+    (function() {
+        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+        em.src = ('https:' == document.location.protocol ? 'https://au-ssl' : 'http://au-cdn') + '.effectivemeasure.net/em.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+    })();
+</script>
+<noscript>
+    <img src="http://au.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+
+
+<header id="ign-header">
+    <script type="" src="../../../../../../oystatic.ignimgs.com/cache/js/69/f4/69f4142b8fc27d9086428cf53c072498.js"></script><link href="../../../../../../oystatic.ignimgs.com/cache/css/e9/70/e970dea1db7f27f1724c0d3412967cc1.css" media="screen" rel="stylesheet" type="text/css" />
+    <div id="header-container" class="header-container spine hidden-opacity ign-transition-opacity">
+                    <!-- Global Spine -->
+            <div id="header-spine">
+                <div id="locale-selector-container" class="locale-selector-container">
+    <div class="locale-dropdown-bg ign-modal hidden">
+        <div class="button-close">&#215;</div><!-- multiplication symbol (×) -->
+        <div class="locale-dropdown-container">
+            <ul class="locale-dropdown"></ul>
+        </div>
+    </div>
+</div>
+
+                <div class="locale-shortcode" data-hover-text="edition">au</div>
+                <a href="http://au.ign.com/" id="ign-logo" title="IGN"><span class="hidden">IGN</span><svg class="ign-icon icon-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1482.1 464.2"><g fill="currentColor"><path d="M791 271.2v-79.4l213 .1c21.6 0 39.3 17.5 39.3 39.1v94.4c0 48.6-38.8 88.8-88.2 88.8l-136.4.1c-101.1 0-182.8-81.6-182.8-182.4 0-100.7 82.3-182.4 183-182.4H1030v83.8H818.8c-54.4 0-99.1 44.1-99.1 98.6 0 54.4 44 98.5 99 98.5h140.9v-59.2H791zM608.1 49.1h-82.9v326.5c0 21.5 17.5 38.9 39 38.9h43.9V76c.1-.1 0-26.9 0-26.9zM1433.7 49.3h-44.5v281.4c-.1.8-.2 1.6-.7 2.3-1 1.7-2.8 2.8-4.9 2.8-1.8 0-3.4-.8-5.1-3.1L1239.3 88.4c-15.5-26-43.9-43-75.8-43h-1.5c-48.6 0-88.1 39.4-88.1 88.1v242.1c0 21.5 17.5 38.9 38.9 38.9h44.1v-281c0-.9.4-1.8.8-2.6 1-1.7 2.8-2.9 4.9-2.9 1.7 0 3.8.6 4.9 2.8l140.2 245.9c15.5 26 43.3 41.8 75.1 41.8h1.5c48.6 0 88.1-39.4 88.1-88.1V88.2c.2-21.5-17.2-38.9-38.7-38.9zM108.4 152c10.9-16.5 25.1-30.7 41.6-41.6 2.4-21.7 5.6-41.6 9.6-59.1C109.3 71 69 111.2 49.3 161.7c17.6-4 37.4-7.3 59.1-9.7zM310.1 109.9c0 .2 0 .3.1.4 16.6 10.9 30.8 25.1 41.7 41.7 21.7 2.4 41.6 5.6 59.1 9.6-19.8-50.6-60.1-90.9-110.8-110.5 4 17.5 7.3 37.2 9.9 58.8zM150.1 353.8c-16.5-10.9-30.7-25.1-41.7-41.7-.2 0-.3 0-.5-.1-21.9-2.6-41.5-5.9-58.7-9.9 19.7 50.6 59.9 90.9 110.5 110.7-4-17.4-7.3-37.3-9.6-59zM352.3 312.1c-.2 0-.3 0-.5.1-10.9 16.6-25.1 30.8-41.7 41.7 0 .2 0 .3-.1.5-2.5 21.6-5.9 41.3-9.9 58.7 50.7-19.7 91.2-60.1 110.9-110.8-17.2 3.9-36.8 7.2-58.7 9.8zM450.8 196c-34.3-15.9-85.7-21.9-103.2-23.7-3.6-.6-6.9-.9-10.1-.9l-54.3 60.8 54.3 60.7c3.7 0 7.6-.4 11.7-1.1 17.1-2 67.6-8.2 101.5-23.9V196h.1zm-328.1-24.7c-3.1 0-6.4.3-10.1.9-17.5 1.9-68.9 7.9-103.2 23.8v71.7c33.9 15.7 84.5 22 101.6 23.9 4.1.8 8 1.1 11.7 1.1L177 232l-54.3-60.7zm46.7 168.2c0 3.1.3 6.4.9 10.1 1.9 17.5 7.9 68.9 23.8 103.1h71.7c15.7-33.9 22-84.5 24-101.5.8-4.1 1.2-8 1.2-11.7l-60.7-54.3-60.9 54.3zM194 11.4h71.7c15.7 33.9 22 84.5 24 101.5.8 4.1 1.2 7.9 1.2 11.7L230.1 179l-60.7-54.4c0-3.1.3-6.4.9-10.1 1.9-17.4 7.9-68.8 23.7-103.1z"/></g></svg>
+</a>                <div id="spine-container" class="horizontal ">
+    <div class='cover-card has-image'>
+                        <a href="http://au.ign.com/articles/2018/05/18/e3-2018-kingdom-hearts-3-first-gameplay-hands-on-impressions">
+                <div class="tile content has-label">
+                    <p class="label">Kingdom Hearts 3</p>
+                    <div class="title">Hands-On: Does It Recapture The Magic?</div>
+                </div>
+                <div class="tile image-tile">
+                                            <img src="../../../../../../assets1.ignimgs.com/2018/05/18/kh3-ps4-12-copy-1526615101391_small.png" class="image type-other" alt="Hands-On: Does It Recapture The Magic?" />
+                                    </div>
+            </a>
+            </div>
+<a class="queue-item promoted hidden" id="promoted-spine-dfp-container" href="#"><span class="hidden">Advertisement</span>
+<div id="pawn33" class="chess"></div></a>
+
+<a class="queue-item  trending " href="http://au.ign.com/articles/2018/05/29/pubg-is-reportedly-suing-fortnite-for-copyright-infringement-in-korea">
+        <div class="queue-item-content">
+                <div class="title">PUBG is Suing Fortnite For Copyright Infringement in Korea</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="http://au.ign.com/articles/2018/05/28/7-reasons-jurassic-park-fans-should-be-excited-for-jurassic-world-evolution">
+        <div class="queue-item-content">
+                <div class="title">7 Reasons Jurassic Park Fans Should Be Excited For Jurassic World Evolution</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="http://au.ign.com/articles/2018/03/02/netflixs-suburra-blood-on-rome-is-the-best-action-adventure-show-youre-not-watching">
+        <div class="queue-item-content">
+                <div class="title">The Best Action-Adventure Show You’re Not Watching is on Netflix</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="http://au.ign.com/articles/2018/05/29/yokus-island-express-review">
+        <div class="queue-item-content">
+                <div class="title">Yoku's Island Express Review</div>
+    </div>
+</a></div>
+            </div>
+                <!-- Global Navigation Bar -->
+            <nav id="header-nav" class="spine fixed section theme-light">
+                            <div class="browse">
+                    <a href="http://www.ign.com/" class="dpad-container" title="IGN"><span class="hidden">IGN</span></a>
+                    <div class="browse-area">
+                        <button id="browse-button" class="ign-button compact">
+                             <svg class="ign-icon icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M30 6H2c-.6 0-1 .4-1 1v2c0 .5.4 1 1 1h28c.5 0 1-.4 1-1V7c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1z"/></svg>
+                            <span>Browse</span>
+                        </button>
+                        <menu id="browse-dropdown" class="ign-menu">
+                                                            <ul id="browse-gaming" class="browse-category">
+                                                                            <li><a class="browse-link" href="http://au.ign.com/xbox-one">Xbox One</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/xbox-360">Xbox 360</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/ps4">PS4</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/ps3">PS3</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/ps-vita">Vita</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/nintendo">Nintendo</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/pc">PC</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/wireless">Mobile</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-entertainment" class="browse-category">
+                                                                            <li><a class="browse-link" href="http://au.ign.com/movies">Movies</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/tv">TV</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/tech">Tech</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/comics">Comics</a></li>
+                                                                    </ul>
+                                                            <ul id="browse-more" class="browse-category">
+                                                                            <li><a class="browse-link" href="http://au.ign.com/reviews">Reviews</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/upcoming/games">Upcoming</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/videos">Videos</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/wikis">Wikis + Cheats</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/podcasts">Podcasts</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/boards">Boards</a></li>
+                                                                            <li><a class="browse-link" href="http://au.ign.com/trailers">Trailers</a></li>
+                                                                    </ul>
+                                                        <div id="browse-social">
+                                <a href="http://www.youtube.com/ign" class="browse-social-youtube" title="IGN on YouTube"><span class="hidden">IGN on YouTube</span></a>
+                                <a href="http://www.facebook.com/ign" class="browse-social-facebook" title="IGN on Facebook"><span class="hidden">IGN on Facebook</span></a>
+                                <a href="http://twitter.com/IGN" class="browse-social-twitter" title="IGN on Twitter"><span class="hidden">IGN on Twitter</span></a>
+                                <a href="http://www.ign.com/wikis/ign-community-central/How_to_Follow_IGN" class="browse-social-more">MORE</a>
+                            </div>
+                        </menu>
+                    </div>
+                    <div class="search-container">
+                        <input id="search-input" type="text" maxlength="60" placeholder="Search" name="query" autocomplete="off" title="Search" />
+                        <svg class="ign-icon icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 33"><path clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M20 21l6.1 7"/><circle clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-miterlimit="10" cx="14.5" cy="13.5" r="8.5"/></svg>
+                    </div>
+                </div>
+
+                        <div class="popular-links">
+                                    <li id="ign-shows" class="ign-shows">
+                        <a class="popular-link ign-shows-label" href="http://au.ign.com/watch">Shows</a>
+                        <menu class="ign-shows-dropdown ign-menu">
+                            <ul>
+                                 <li class="ign-show first ign-transition">
+                                    <a class="ign-show-art center-parent" href="http://au.ign.com/watch/daily-fix">
+                                        <div class="ign-show-image-frame">
+                                            <img class="ign-show-image super-position" src= "#" data-image="http://assets1.ignimgs.com/2017/12/18/pvp-landscape-dailyfix-1513599555268_compact.jpg" alt="Daily Fix" />
+                                        </div>
+                                        <div class="ign-show-overlay">
+                                            <img class="ign-show-branding horizontal-center" src="#" data-image="http://assets1.ignimgs.com/2016/10/27/daily-fix-tmpng-f9b0a9.png" alt="" />
+                                            <div class="schedule-description vertical-center">Monday through Friday</div>
+                                        </div>
+                                    </a>
+                                    <div class="series-title">Daily Fix</div>
+                                    <a
+                                        class="latest-episode"
+                                        href="http://au.ign.com/videos/2018/05/25/resident-evil-7-for-switch-sounds-complicated-ign-daily-fix"
+                                        data-id="16a1952470356ff343679f28481ee4e0"
+                                        data-title="Resident Evil 7 for Switch Sounds Complicated - IGN Daily Fix"
+                                    >
+                                        <div class="episode-title">Resident Evil 7 for Switch Sounds Complicated</div>
+                                        <div class="play-latest">
+                                            <span>play latest</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="ign-shows-list-container ign-transition">
+                                                                        <ul class="ign-shows-list show-column-0">
+                                                                                <li><a href="http://au.ign.com/watch/daily-fix">Daily Fix</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/prepare-to-try">Prepare To Try</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/hot-keys">HotKeys</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/up-at-noon">Up At Noon</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/game-scoop">Game Scoop!</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/beyond">Beyond!</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/nintendo-voice-chat">Nintendo Voice Chat</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/unlocked">Unlocked</a></li>
+                                                                                <li class="more-shows"><a class="icon-pointy icon-grey" href="#">more shows</a></li>
+                                                                            </ul>
+                                                                        <ul class="ign-shows-list show-column-1">
+                                                                                <li><a href="http://au.ign.com/watch/fireteam-chat">Fireteam Chat</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/every-ever">IGN Every Ever</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/linked-together">Linked Together</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/ign-spotlight">IGN Spotlight</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/ign-unfiltered">IGN Unfiltered</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/ign-access">IGN Access</a></li>
+                                                                                <li><a href="http://au.ign.com/watch/ign-plays">IGN Plays</a></li>
+                                                                            </ul>
+                                                                    </li>
+                                                                        <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="http://au.ign.com/watch/best-game-ever">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="#" data-image="http://assets1.ignimgs.com/2017/11/16/bge-pvp-landscape-1510869693472_compact.png" alt="Best Game Ever" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="#" data-image="http://assets1.ignimgs.com/2017/11/16/bge-pvp-logo-1510869693475.png" alt="" />
+                                                    <div class="schedule-description vertical-center"></div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Best Game Ever</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="http://au.ign.com/videos/2018/01/16/mass-effect-final-fantasy-dark-souls-celebs-favorite-rpgs-best-game-ever-ep-5"
+                                                data-id="e84e505650364af1e51965b5a07c094a"
+                                                data-title="Mass Effect, Final Fantasy, Dark Souls? Celebs' Favorite RPGs - Best Game Ever Ep. 5"
+                                            >
+                                                <div class="episode-title">Mass Effect, Final Fantasy, Dark Souls? Celebs' Favorite RPGs  Ep. 5</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                            <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="http://au.ign.com/watch/nintendo-voice-chat">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="#" data-image="http://assets1.ignimgs.com/2018/02/27/nvc-landscape-1519766234931_compact.jpg" alt="Nintendo Voice Chat" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="#" data-image="http://assets2.ignimgs.com/2016/10/27/nvc-tmpng-f4824a.png" alt="" />
+                                                    <div class="schedule-description vertical-center">Every Friday</div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Nintendo Voice Chat</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="http://au.ign.com/videos/2018/05/25/nintendo-needs-to-put-these-games-on-the-n64-classic-nvc-highlight"
+                                                data-id="bb3d7ee0a15e669ae01939d9512ab313"
+                                                data-title="Nintendo Needs to Put These Games On the N64 Classic - NVC Highlight"
+                                            >
+                                                <div class="episode-title">Nintendo Needs to Put These Games On the N64 Classic - NVC Highlight</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                </ul>
+                        </menu>
+                    </li>
+                                                    <li><a class="popular-link" href="http://au.ign.com/reviews/games">Reviews</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/ps4">PS4</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/xbox-one">Xbox</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/pc">PC</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/nintendo">Nintendo</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/movies">Movies</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/tv">TV</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/tech">Tech</a></li>
+                                    <li><a class="popular-link" href="http://au.ign.com/events/esports">Esports</a></li>
+                            </div>
+            <div id="user-tools-container"></div>
+        </nav>
+    </div>
+    
+<script type="text/javascript">
+  var GlobalHeaderOptions = {
+    renderDomain : "widgets.ign.com",
+    enable_ssl : false  };
+</script>
+
+
+<div class='ign-coraltalk-notification hidden' data-settings='{"talkUrl":"https:\/\/comments.ign.com\/","layout":"desktop","theme":"standard"}'></div>
+</header>
+
+<div class="preShell " >
+    </div>
+<div class="shell container-content-main ">
+    <div class="inc-vertNav">
+            </div>
+    <script>
+    var endpointBase = "http://apis.ign.com/v1.0/social/rest/";
+    var proxyBase = "http://my.ign.com/";
+    var blog_url = "../../../../aaronights.html";
+</script>
+
+    <div id="ignSocialHeader" class="clear">
+            
+<script language="javascript">
+var numPlatforms = 0;
+var pagination = 1;
+var multiPlatformField = {"xbox":1,"psn":1,"wii":1,"wii_u":1,"wow":2,"kngrgt":1,"steam":1,"onlive":1,"xfire":1,"battlenet":1,"starcraft2":1,"gamebattle":1,"lotr":1,"aion":1,"eve":1,"coh":1,"champions":1,"daoc":1,"ffonline":1,"realid":1,"dcu":1,"gamecenter":1,"n3ds":1,"swtor":2};
+
+</script>
+
+<div class="socialProfileHeader ">
+
+
+    <div class="profilePicture">
+        <div class="avatarFrame">
+            <img src="../../../../../../oystatic.ignimgs.com/src/core/img/social/avatars/male2.jpg" border="0" width="130" />
+        </div>
+    </div>
+
+    <div class="profileInfo">
+        <div class="username"></div>
+        <ul class="profileData">
+        </ul>
+
+        <ul class="profileStats">
+            <li class="counter" onclick="location.href='http://people.ign.com//people';">
+                <div class="value">0</div>
+                <div class="label">following</div>
+            </li>
+            <li class="counter" onclick="location.href='http://people.ign.com//people';">
+                <div class="value">0</div>
+                <div class="label">followers</div>
+            </li>
+            <li class="counter" onclick="location.href='http://people.ign.com//games';">
+                <div class="value">81</div>
+                <div class="label">games</div>
+            </li>
+            <li class="controls">
+            </li>
+        </ul>
+    </div>
+
+</div>
+
+        <ul class="socialPeopleBar">
+    <li class="navHeader">&nbsp;</li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/aaronights" class="link">Activity</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink selected">
+        <a href="../../../../aaronights.html" class="link">Blog</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/aaronights/games" class="link">Games</a>
+    </li>
+    <li class="navDivider"></li>
+    <li class="navItem itemLink">
+        <a href="http://people.ign.com/aaronights/people" class="link">People</a>
+    </li>
+    <li class="navDivider"></li>
+            <li class="navItem itemLink">
+            <a href="http://my.ign.com/home" class="link">View My IGN &raquo;</a>
+        </li>
+        <li class="navDivider"></li>
+    </ul>
+
+    </div>
+
+<div class="container_24 clear">
+    <div id="content" class="narrowcolumn grid_16" role="main">
+
+        <div class="navigation">            <div id="homelink"><a href="../../../../aaronights.html">Blog Home &raquo;</a></div>
+            </div>
+
+    <div class="post type-post" id="post-553703767add68a0b25d3fdf"><h2 class="titlelink">Raspberry Pi 2 powered Arcade</h2><span class="date">April 22, 2015 by </span><a href="http://people.ign.com/aaronights" class="blog-by-line">aaroNiGHTS</a><div class="entry"><p><p>For a while now I've been wanting to do a project with the Raspberry Pi. The ultra low cost, single board computer is making roads in both education and the do-it-yourself maker scene. It's a great platform to learn programming and basic electronics, and the heart of many enthusiast projects. After thinking about what I could make, I settled on an emulation-based arcade machine.</p> <p>The new Raspberry Pi 2 pushes platform over the hump to be the ideal brains inside a homemade arcade system. Not only does it give you reasonably fast loading times and smooth menu navigation, but its quad-core Broadcom processor allows for emulation of power demanding games and platforms. The Pi platform also has a big advantage for an arcade machine - the General Purpose Input/Output pins allows standard arcade stick and buttons to be directly wired up to the unit, without any need for a keyboard simulator or any kind of USB controller. Using the Retrogame software, it's just a matter of connecting each button or joystick direction to both an unused I/O and a ground pin.</p> <div id="attachment_292" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/PiGloryShot.jpg"  rel="nofollow"><img class="size-large wp-image-292" alt="The new Raspberry Pi 2" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/PiGloryShot-600x431.jpg" width="600" height="431" /></a> <p class="wp-caption-text">The new Raspberry Pi 2</p> </div> <p>A big factor in any arcade unit is the choice of monitor or screen. Natively the Raspberry Pi can output a HDMI signal at resolutions up to full 1080p, or an older Composite video signal like every console in the 90's used. If you have a CRT or other older monitor you can get <a href="http://www.adafruit.com/products/1151"  rel="nofollow">a cheap, sub $20, adapter</a> to let you use a VGA connection.</p> <h2>Building</h2> <p>The monitor I used was an older 17" LCD. A big factor in my choice is that is has a good old, 4:3 aspect ratio. A widescreen monitor will work fine, but you'll be stretching the picture or wasting space with black bars on either side if you are emulating retro systems not designed with widescreen in mind.</p> <p>For the sake of portability, my build was a bartop unit rather than a full stand up machine. Both the monitor I use and this small size will limit it to 1 player controls, but I'll keep a USB gamepad handy for multiplayer games.</p> <div id="attachment_264" class="wp-caption alignright"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150325_233003.jpg"  rel="nofollow"><img class="size-medium wp-image-264" alt="Oh the dust" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150325_233003-300x225.jpg" width="300" height="225" /></a> <p class="wp-caption-text">Oh the dust</p> </div> <p>I built my unit out of 12mm MDF. Good quality plywood would be a lighter solution, but can be a pain to paint and has a tendency to split and crack. I opted to hand cut all my pieces. It does involve cutting a bit bigger then you need and working your biceps with some heavy sanding and a solid sanding block. A jigsaw would work, but remember to take it very slowly and be prepared for mistakes. The ideal solution is a standing joiners band saw - if you can get a professional to cut out your designs you'll get the best result. No matter what you use, there will be a huge amount of dust from MDF. Don't breathe it in! A cheap mask is worth the investment.</p> <p>Any good power drill should be enough to cut the holes out for buttons and joysticks. Look for a Spade bit at the hardware store. Always get a size on the smaller size rather than larger to ensure nothing rattles and has a tight fit.</p> <p>A cheap wood glue is good just to hold things together before putting screws in. I fixed the sides to the base, but used nuts and bolts for the controller board so it can be easily removed for maintenance and even help out with the assembly process.</p> <p>I used a bit of thick card from a craft store for the bezel around the monitor. It's not structural in any way, so doing this saves some weight compared to using more wood.</p> <div id="attachment_268" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/spraypaint.jpg"  rel="nofollow"><img class="size-large wp-image-268" alt="spraypaint" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/spraypaint-600x538.jpg" width="600" height="538" /></a> <p class="wp-caption-text">Painting</p> </div> <p style="text-align: left">For a nice finish I gave all the wood a good undercoat then sanded it down with a really high grit sandpaper until it was really smooth. A professional unit would get a vinyl stick on decal filled with graphics out of the 90's, but I needed to be cheaper. I went with a two tone spray paint finish. Red and Black, just like the Raspberry Pi logo. The main rule when spray painting is many, many thin light coats. Don't linger too long over a spot or it'll get patchy and run. For sound I took apart a set of cheap, USB powered, speakers. They wont sound amazing, but can plug directly into the Raspberry Pi. I mounted them in the sides - having them inside a marquee banner above the screen would be ideal, but I skipped this to keep the size down.</p> <p>You can wire the power for the Raspberry Pi and the monitor directly, but if space isn't an issue you can just put a power strip or double adapter in the unit. The Raspberry Pi itself is powered through a microUSB connector, just like the majority of cell phone chargers. If you experience continual and seemingly random errors it might be due to your power adapter not supplying enough juice. Check the label on the adapter to see that it provides at least 1 amp (or 1000 mA) of power. A 2 amp adapter is ideal, especially if you intend to plug several USB devices into your Raspberry Pi.</p> <div id="attachment_280" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150422_133921.jpg"  rel="nofollow"><img class="size-large wp-image-280" alt="Everything secured in place with tape." src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150422_133921-600x450.jpg" width="600" height="450" /></a> <p class="wp-caption-text">Everything secured in place with tape.</p> </div> <p>Wiring up the buttons is the toughest part. First, <a href="http://www.element14.com/community/docs/DOC-73950/l/raspberry-pi-2-model-b-gpio-40-pin-block-pinout"  rel="nofollow">look at this diagram</a>. It's the layout of the pins on the Raspberry Pi, and it can seem very confusing. Pick one of the pins labeled GPIO for each button you want to wire up, and pick four for a joystick (one for each direction). You need to wire these to one of the connections on your arcade buttons, and the best way to do this is using a set of super inexpensive <a href="https://www.adafruit.com/products/266"  rel="nofollow">female jumper wires</a>. The buttons you buy might come with suitable wires for the connections, so try and look for a good deal. The second step is to wire the other connection on your arcade buttons to one of the ground pins on the Raspberry Pi. Unlike the GPIO pin, the ground pin does not have to be unique to each button. You can daisy chain as many buttons as you like to just one ground pin, and if you want more than five or six buttons you'll have to. The same applies to connecting joysticks.</p> <div id="attachment_270" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150331_234750.jpg"  rel="nofollow"><img class="size-large wp-image-270" alt="So many wires" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150331_234750-600x450.jpg" width="600" height="450" /></a> <p class="wp-caption-text">So many wires</p> </div> <p>Note that if you're using an older Raspberry Pi the same principle applies, but you'll have less pins in a different layout to work with. To work out what model you have, just count the pins! The new models have 40 pins, and the older ones have 26. Use <a href="https://www.raspberrypi.org/documentation/usage/gpio/"  rel="nofollow">this pin out chart</a> if you have an older Raspberry Pi model.</p> <h2>Configuring</h2> <p>To make the arcade controls work once connected, you'll need to install the <a href="https://github.com/adafruit/Adafruit-Retrogame"  rel="nofollow">Retrogame software</a>. This maps the signals your arcade buttons make to buttons on a keyboard. It can be a bit confusing to follow, if you need help look at the instructions on the Retrogame Github page.</p> <p>My plan was to use the GPIO pins for the arcade controls, but the kit I ordered came with a USB based encoder with all the necessary wires. USB arcade controller boards work great, and most gaming Operating Systems for Raspberry Pi have all the drivers for these kind of devices built in. If wiring the pins manually seems a bit confusing, it's worth looking into.</p> <p>I edited the configuration files on my Raspberry Pi to force it to output at a low, 640x480 resolution. This did slightly boost performance, but my main reason was to get crisp, sharp edged pixels for all the retro games. Having the Raspberry Pi run at the higher, native resolution of my monitor gave games a more smooth and scaled look. Try both to see what you prefer.</p> <p>There are many different operating systems for the Raspberry Pi that are great for an arcade system. <a href="https://learn.adafruit.com/cupcade-raspberry-pi-micro-mini-arcade-game-cabinet/hardware-setup"  rel="nofollow">Cupcade</a> and <a href="http://www.recalbox.com/"  rel="nofollow">recalboxOS</a> are common, but for my system I used <a href="http://blog.petrockblock.com/retropie/"  rel="nofollow">RetroPie</a>. Installing it is simple, just plug your SD card into your PC and install whatever Operating System image you want. The <a href="https://github.com/petrockblog/RetroPie-Setup/wiki"  rel="nofollow">RetroPie Wiki</a> has a great tutorial if you need more help with the installation process.</p> <p>A few things to keep in mind with RetroPie:</p> <ul> <li>You will need to configure your controller or arcade controls twice; for the EmulationStation menu where you navigate between your games, and again for the emulators themselves. Some emulators, like Nintendo 64, also need to be configured separately.</li> </ul> <ul> <li>RetroPie has a setup script that gives you access to some extra settings, including installing experimental emulators that are still in development. Access it from the RetroPie menu, but keep in mind you'll need to plug in a keyboard to navigate the options in the script. The Raspberry Pi also has a similar script for more core system features.</li> </ul> <ul> <li>You can access the standard Linux command prompt at anytime with F4. Because RetroPie is based on the very common Raspbian OS, most additions and tutorials written for the Raspberry Pi should work.</li> </ul> <ul> <li>By default, RetroPie runs a standard network share that lets you copy over files and games. It's called simply RETROPIE.</li> </ul> <p>There are a lot of free ports installed by default, including the shareware versions of Doom and Duke Nukem 3D. It's not an arcade style game, but the port of Cave Story works great. There is a huge range of homebrew games available for most retro systems; <a href="http://www.nesworld.com/article.php?system=nes&amp;data=neshomebrew_bestof"  rel="nofollow">nesworld.com</a> has a great selection and a favourite of mine is <a href="http://68000.web.fc2.com/felix/index.html"  rel="nofollow">Fix it Felix Jr</a>. for the Genesis, based on the focus game in the Disney movie Wreck-it Ralph. As always, using copies of commercial games that you do not own is illegal and you're on your own to find them.</p> <div id="attachment_282" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150422_135324.jpg"  rel="nofollow"><img class="size-large wp-image-282" alt="I'm gonna wreck it!" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/IMG_20150422_135324-600x450.jpg" width="600" height="450" /></a> <p class="wp-caption-text">I'm gonna wreck it!</p> </div> <h2>Final Thoughts</h2> <p>This took longer to do than I expected. Planning, cutting and configuring was a fairly large task that I thought I'd do in a few hours, but ended up doing over a few free afternoons. The final unit is also far heavier than I would have liked. All advice and research was to use 12mm material, but I'd consider going thinner and lighter if I did it again. By far the best thing about building something like this is the huge community around both the Raspberry Pi and the whole maker scene. If you get stuck or lost there are several communities where you can research and even ask for help.</p> <div id="attachment_300" class="wp-caption aligncenter"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/Legendary.jpg"  rel="nofollow"><img class="size-large wp-image-300" alt="MegaMan Legends 2 running perfectly" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/Legendary-600x469.jpg" width="600" height="469" /></a> <p class="wp-caption-text">MegaMan Legends 2 running perfectly</p> </div> <p>An alternative to an arcade machine is building a handheld Gameboy-like system powered by a Raspberry Pi. Adafruit has <a href="https://learn.adafruit.com/pigrrl-raspberry-pi-gameboy?view=all"  rel="nofollow">a guide here</a>, and the (now former) Fragdoll Sabre has <a href="http://www.google.co.nz/url?url=http://www.youtube.com/watch%3Fv%3DRXpgLFpSBHY&amp;rct=j&amp;q=&amp;esrc=s&amp;sa=U&amp;ei=Zgk3VcyWAcHOmwWW0YHYDw&amp;ved=0CBYQtwIwAA&amp;sig2=9n0_thEx4P5EhIFahjzRTg&amp;usg=AFQjCNHWo8P5VgI5-VZ0p7___LKQA-7CRg"  rel="nofollow">a great video breaking it down</a>. Most smaller projects like this require a 3D printer - if you're interested in this it's worthwhile to research if there is a maker space or other community centre in your area that will let you print out your parts.</p> <p>Another retro gaming project would be to gut out the inside of a broken Super Nintendo or Genesis and turn it into a neat case for a Raspberry Pi PC. You can also buy a huge range of different cases premade for the Raspberry Pi or make one yourself with your own stylish finish. Just about any USB controller will work, including wired Xbox 360 controllers and wireless Playstation 3 controllers if you use a USB Bluetooth adapter.</p> <p>If you're after a different type of project, <a href="https://learn.adafruit.com/"  rel="nofollow">Adafruit has guides</a> for a huge range of guides. It's also the store I'd recommend to buy all your parts and Pi's, including joysticks and buttons. They're based in New York, so if you are in North America you won't have to wait weeks for shipping from Asia.</p> <p style="text-align: center"><a href="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/moneyshot.jpg"  rel="nofollow"><img class="size-large wp-image-286 aligncenter" alt="Red and Black" src="../../../../../../oyster.ignimgs.com/wordpress/write.ign.com/65205/2015/04/moneyshot-600x530.jpg" width="600" height="530" /></a></p> <p>Overall, I'm pleased. It's my first time building something like this and it came out reasonably well. The paint finish might be a bit patchy and it's very heavy, but it is fully functional. I still wouldn't call it fully finished as I'll probably try and touch up a few things when I get the spare time. And then there is my next project - mounting a Raspberry Pi and a small touch screen in the dash of my 1983 Toyota.</p> <p>If you have any questions or suggestions please comment below or hit me up on <a href="https://twitter.com/aaronights"  rel="nofollow">Twitter</a>. If you're attempting a project similar to this I'm happy to help out if you have any specific questions.</p> </p><div class="articletags"><p>Category: <a href="../../../category/gaming/index.html" title="View all posts in Gaming" rel="category tag">Gaming</a>, <a href="../../../category/gaming-hardware/index.html" title="View all posts in Gaming Hardware" rel="category tag">Gaming Hardware</a>, <a href="../../../category/gear-amp-gadgets/index.html" title="View all posts in Gear &amp; Gadgets" rel="category tag">Gear &amp; Gadgets</a>, <a href="../../../category/school-amp-education/index.html" title="View all posts in School &amp; Education" rel="category tag">School &amp; Education</a></p></div></div></div>
+<!-- Call to Action! -->
+<div id="submitYourBlog">
+    <a href="mailto:submissions@ign.com?subject=For your consideration..." class="submitYourBlog-submit">Submit Blog</a>
+    <div class="submitYourBlog-text">
+        Love this blog? Send it to
+        <a href="mailto:submissions@ign.com?subject=For your consideration...">submissions@ign.com</a>
+        to help us recognize and promote great bloggers on IGN.
+    </div>
+</div>
+          <a name="comments"></a>
+          
+          <script type="text/JavaScript">
+              function commentCallback(comment){
+                 jQuery.getJSON('http://au.ign.com/blogs/apiproxy/social/553703767add68a0b25d3fdf?comment_text='+encodeURIComponent(comment.text.slice(0,250)));
+              }
+          </script>
+
+          
+    </div>
+    
+<div id="sidebar" class="grid_8" role="complementary">
+
+    
+            <div class="rsslink">
+            <h3>Want to subscribe to this blog?</h3>
+            
+			<a class="rsslink" rel="nofollow" href="../../../feed.html">Grab the RSS Feed</a>
+			<div style="clear:both;"></div>
+		</div>
+
+        <!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Archives</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="2017" href="../../../2017.html">2017</a></li><li><a title="2016" href="../../../2016.html">2016</a></li><li><a title="2015" href="../../../2015.html">2015</a></li><li><a title="2013" href="../../../2013.html">2013</a></li><li><a title="2012" href="../../../2012.html">2012</a></li><li><a title="2011" href="../../../2011.html">2011</a></li></ul>
+
+<!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Categories</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="5 topics" class="category-link" href="../../../category/gaming.html">gaming</a></li><li><a title="4 topics" class="category-link" href="../../../category/my-ign.html">my-ign</a></li><li><a title="3 topics" class="category-link" href="../../../category/sex-amp-dating.html">sex-amp-dating</a></li><li><a title="3 topics" class="category-link" href="../../../category/igncom.html">igncom</a></li><li><a title="2 topics" class="category-link" href="../../../category/racing.html">racing</a></li><li><a title="2 topics" class="category-link" href="../../../category/school-amp-education.html">school-amp-education</a></li><li><a title="2 topics" class="category-link" href="../../../category/xbox-360.html">xbox-360</a></li><li><a title="2 topics" class="category-link" href="../../../category/playstation-3.html">playstation-3</a></li><li><a title="2 topics" class="category-link" href="../../../category/gear-amp-gadgets.html">gear-amp-gadgets</a></li><li><a title="2 topics" class="category-link" href="../../../category/celebs.html">celebs</a></li><li><a title="2 topics" class="category-link" href="../../../category/nintendo-wii.html">nintendo-wii</a></li><li><a title="2 topics" class="category-link" href="../../../category/fiction.html">fiction</a></li><li><a title="2 topics" class="category-link" href="../../../category/ign.html">ign</a></li><li><a title="1 topics" class="category-link" href="../../../category/arcade.html">arcade</a></li><li><a title="55 topics" class="category-link" href="../../../category/uncategorized.html">uncategorized</a></li></ul><!-- poilib start -->
+<div class="subHeaderContainer">
+    <span class="subHeader width_4"><h2>Tags</h2></span>
+</div>
+<!-- poilib end -->
+<ul class="rightRailLinkList"><li><a title="1 topics" class="tag-link" href="../../../tag/energydrinks.html">energydrinks</a></li><li><a title="1 topics" class="tag-link" href="../../../tag/caffeine.html">caffeine</a></li></ul>     </div>
+</div>
+</div>
+<div class="postShell">
+    </div>
+
+
+
+<div id="ignFooter-container" class="noprint">
+    <footer>
+        <div class="ignFooter-content">
+                            <div class="ignFooter-topRow">
+                                        <div class="ignFooter-columnLeft">
+                        <ul class='ignFooter-linkList '>
+<li class="first">IGN.com:</li>
+<li><a href="https://corp.ign.com/content-team">Content Team</a></li>
+<li><a href="https://corp.ign.com/standards-and-practices">Standards &amp; Practices</a></li>
+<li><a href="https://corp.ign.com/contact">Send Us News</a></li>
+<li><a href="http://www.ign.com/sitemaps">Site Map</a></li>
+</ul>
+                        <ul class='ignFooter-linkList '>
+<li class="first">International:</li>
+<li><a href="http://world.ign.com/">IGN World Map</a></li>
+<li><a href="http://www.ign.com/?setccpref=SR">Adria</a></li>
+<li><a href="http://www.ign.com/?setccpref=ZA">Africa</a></li>
+<li><a href="http://au.ign.com/?setccpref=AU">Australia</a></li>
+<li><a href="http://www.ign.com/?setccpref=BR">Brazil</a></li>
+<li><a href="http://www.ign.com/?setccpref=NL">Benelux</a></li>
+<li><a href="http://ca.ign.com/?setccpref=CA">Canada</a></li>
+<li><a href="http://www.ign.com/?setccpref=CN">China</a></li>
+<li><a href="http://www.ign.com/?setccpref=CZ">Czech</a></li>
+<li><a href="http://www.ign.com/?setccpref=DK">Denmark</a></li>
+<li><a href="http://www.ign.com/?setccpref=FI">Finland</a></li>
+<li><a href="http://www.ign.com/?setccpref=FR">France</a></li>
+<li><a href="http://www.ign.com/?setccpref=DE">Germany</a></li>
+<li><a href="http://www.ign.com/?setccpref=GR">Greece</a></li>
+<li><a href="http://www.ign.com/?setccpref=HU">Hungary</a></li>
+<li><a href="http://www.ign.com/?setccpref=IN">India</a></li>
+<li><a href="http://ie.ign.com/?setccpref=IE">Ireland</a></li>
+<li><a href="http://www.ign.com/?setccpref=IL">Israel</a></li>
+<li><a href="http://www.ign.com/?setccpref=IT">Italy</a></li>
+<li><a href="http://www.ign.com/?setccpref=JP">Japan</a></li>
+<li><a href="http://www.ign.com/?setccpref=LA">Latin America</a></li>
+<li><a href="http://www.ign.com/?setccpref=ME">Middle East</a></li>
+<li><a href="http://www.ign.com/?setccpref=NO">Norway</a></li>
+<li><a href="http://www.ign.com/?setccpref=PK">Pakistan</a></li>
+<li><a href="http://www.ign.com/?setccpref=PL">Poland</a></li>
+<li><a href="http://www.ign.com/?setccpref=PT">Portugal</a></li>
+<li><a href="http://www.ign.com/?setccpref=RO">Romania</a></li>
+<li><a href="http://www.ign.com/?setccpref=RU">Russia</a></li>
+<li><a href="http://www.ign.com/?setccpref=AP">Southeast Asia</a></li>
+<li><a href="http://www.ign.com/?setccpref=ES">Spain</a></li>
+<li><a href="http://www.ign.com/?setccpref=SE">Sweden</a></li>
+<li><a href="http://www.ign.com/?setccpref=TR">Turkey</a></li>
+<li><a href="http://uk.ign.com/?setccpref=UK">United Kingdom</a></li>
+<li><a href="http://www.ign.com/?setccpref=US">United States</a></li>
+</ul>
+                    </div>
+                                        <div class="ignFooter-columnRight">
+                        <a href="http://www.ign.com/articles/2015/06/04/sign-up-for-ign-newsletters" class="ignFooter-newsletterSignup">Get the IGN Games Newsletter - Over 2 Million Served!</a>
+                    </div>
+                </div>
+                        <div class="ignFooter-bottomRow ignFooter-bottomRowCompact">
+                        <div class="ignFooter-column">
+                <a href="http://www.ziffdavis.com/" class="ignFooter-logo" title="Ziff Davis"><span class="hidden">Ziff Davis</span></a>
+                <ul class='ignFooter-linkList '>
+<li><a href="http://www.ign.com/">IGN</a></li>
+<li><a href="http://www.askmen.com/">AskMen</a></li>
+<li><a href="http://www.pcmag.com/">PCMag</a></li>
+<li><a rel="nofollow" href="http://www.offers.com/">Offers.com</a></li>
+<li><a href="http://www.extremetech.com/">ExtremeTech</a></li>
+<li><a href="http://www.geek.com/">Geek</a></li>
+<li><a href="http://www.toolbox.com/">Toolbox</a></li>
+<li><a href="http://www.speedtest.net/">Speedtest.net</a></li>
+</ul>
+                            </div>
+                        <div class="ignFooter-column">
+                <p>Copyright 1996-2018 Ziff Davis, LLC
+                    <span style="padding-left:10px;">An <a href="http://corp.ign.com/">IGN Entertainment</a> Games site</span>                </p>
+                <ul class='ignFooter-linkList '>
+<li><a href="https://corp.ign.com/">About Us</a></li>
+<li><a href="https://studios.ign.com/">Advertise</a></li>
+<li><a href="https://corp.ign.com/contact">Contact Us</a></li>
+<li><a href="http://corp.ign.com/press">Press</a></li>
+<li><a href="http://www.j2global.com/careers/job-search">Careers</a></li>
+<li><a class="ignFooter-linkRss" href="http://corp.ign.com/feeds" title="Subscribe to RSS Feeds">RSS Feeds</a></li>
+</ul>
+<ul class='ignFooter-linkList showAdchoices'>
+<li><a href="https://corp.ign.com/frequently-asked-questions">Support</a></li>
+<li><a href="https://corp.ign.com/accessibility">Accessibility</a></li>
+<li><a href="https://corp.ign.com/privacy">Privacy Policy</a></li>
+<li><a class="showBorder" href="https://corp.ign.com/user-agreement">Terms of Use</a></li>
+</ul>
+                                <a id="ignFooter-adchoices" class="js-evidon-overlay" rel="nofollow" href="#">AdChoices <img src="../../../../../../cdn.ziffstatic.com/adchoices/adchoices.png" alt=""></a>
+            </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+<script type="text/javascript" src="../../../../../../oystatic.ignimgs.com/cache/js/f0/cc/f0cc3a2e101982a4ec187dc601dd73d7.js"></script>
+<script async defer type="text/javascript" src="../../../../../../static.ziffprod.com/cse/js/5.0.0/zdcse.mincfd2.js?referrer=au.ign.com&amp;bf&amp;currency=AUD"></script>
+
+<div class="privacy-content">
+  <div id="cookie-consent">
+    <div id="consent_blackbar" class="privacy-banner"></div>
+  </div>
+  <div id="cookie-policy" class="privacy-banner hidden">
+    <div class="message">
+      <p class="legal-text">We encourage you to read our updated <strong><a href="http://corp.ign.com/privacy" id="js-privacy-policy-link">PRIVACY POLICY</a></strong> and <strong><a href="https://www.ziffdavis.com/cookie-policy" target="_blank">COOKIE POLICY</a></strong>.</p>
+    </div>
+    <a href="#" class="close close-x">&times;</a>
+  </div>
+</div>
+<script>igndrones.async.push(function() {igndrones.fireBottom();});</script>
+</body>
+
+<!-- Mirrored from au.ign.com/blogs/aaronights/2015/04/22/raspberry-pi-2-powered-arcade by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 29 May 2018 11:04:19 GMT -->
+</html>
+
+<!-- View Generation: 197ms - 35.00MB - 41 - 2018-05-29 04:01:49 PDT -->
