@@ -11,7 +11,7 @@
 		<v-container>
 			<slot />
 		</v-container>
-		<v-footer fixed>
+		<v-footer>
 			<v-layout justify-center row wrap>
 			 <v-flex text-xs-center xs12 style="margin-bottom: 0">Copyright &copy; {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}</v-flex>
 			</v-layout>
