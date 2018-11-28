@@ -57,6 +57,9 @@
   import { Pager } from "gridsome";
 
   export default {
+      metaInfo: {
+    title: 'Blog'
+  },
     components: {
       Pager
     },

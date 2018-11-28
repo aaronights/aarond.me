@@ -24,7 +24,13 @@
 		</v-flex>
 	</v-layout>
 </template>
-
+<script>
+export default {
+  metaInfo: {
+    title: 'Splash!'
+  }
+}
+</script>
 <style>
 	h1 {
 		font-size: 30px;

@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: "Aaron Davies",
+  siteName: "aarond.me",
   siteUrl: "https://aarond.me",
   siteDescription: "The blog of Aaron Davies",
   //icon: "src/favicon.ico",
