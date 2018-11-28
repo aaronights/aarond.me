@@ -4,7 +4,7 @@
       <v-flex xs12 pa-4>
         <h1>{{$page.post.title}}</h1>
         <p><strong>{{(new Date($page.post.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</strong></p>
-        <div v-html="$page.post.content" />
+        <div v-html="$page.post.content" class="post" />
         <!--<v-bottom-nav color="transparent">
           <v-btn flat v-if="$page.post.previous">
             <g-link :to="{path: $page.post.previous.path}">&lt; {{$page.post.previous.title}}</g-link>
@@ -39,8 +39,8 @@ export default {
 };
 </script>
 
-<style scoped>
-  img {
+<style>
+  .post img {
     max-width: 100% !important;
     display: block;
     margin-top: 2em;
@@ -52,7 +52,7 @@ export default {
     display: block;
     margin: auto;
   }*/
-  p a + em {
+  .post p a + em {
     display: block;
     clear: both;
     margin-top: 1em;

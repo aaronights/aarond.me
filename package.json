@@ -4,7 +4,7 @@
   "scripts": {
     "import": "node ./src/HTMLToMD.js",
     "dev": "gridsome develop",
-    "build": "gridsome build",
+    "build": "node ./build.js",
     "explore": "gridsome explore",
     "share": "lt --port 8080 --subdomain aarond"
   },
