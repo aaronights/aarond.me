@@ -19,8 +19,8 @@ The first time it’s turned it on you might regret your purchase. All of the de
 
 Without connecting anything to the video inputs, the viewing options are limited to:
 
-Watching Free-to-air digital TV broadcasts
-Playing video files from a USB memory stick or hard drive.
+* Watching Free-to-air digital TV broadcasts
+* Playing video files from a USB memory stick or hard drive.
 
 This is no Smart TV. There is no networking or app functionality at all, so Netflix or YouTube don’t get a look in. The user interface is just a few pages of generic settings, and looks right out of the mid-2000’s when digital tuners and LCD screens were a brand new thing. Even the icons in the menu look poorly compressed! Thankfully, the remote is very responsive and the few options are easy to navigate.
 
