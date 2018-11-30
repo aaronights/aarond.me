@@ -1,6 +1,6 @@
 <template>
 	<v-app>
-		<v-toolbar>
+			<v-toolbar>
 			<v-toolbar-title>{{$root.$options.metaInfo.title}}</v-toolbar-title>
 			<v-spacer />
 			<v-toolbar-items>
@@ -11,7 +11,7 @@
 		<v-container>
 			<slot />
 		</v-container>
-		<v-footer>
+			<v-footer>
 			<v-layout justify-center row wrap>
 			 <v-flex text-xs-center xs12 style="margin-bottom: 0">Copyright &copy; {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}</v-flex>
 			</v-layout>
@@ -30,7 +30,7 @@
     margin-bottom: 0 !important;
   }
   h2 {
-		margin-top: 2em;
+		margin-top: 1em;
     margin-bottom: 1em;
   }
 	body {

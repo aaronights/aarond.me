@@ -1,4 +1,5 @@
 import Vuetify from 'vuetify';
+import './plugins/vuetify'
 import DefaultLayout from '~/layouts/Default.vue';
 
 import 'vuetify/dist/vuetify.min.css';

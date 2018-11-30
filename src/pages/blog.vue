@@ -27,7 +27,7 @@
       </v-flex>
     </v-layout>
   </Layout>
-</template>
+  </template>
 
 
 <page-query>
