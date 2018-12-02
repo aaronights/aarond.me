@@ -5,7 +5,7 @@ module.exports = {
   //icon: "src/favicon.ico",
   transformers: {
     remark: {
-      allowed_elements: ['v-carousel-item', 'v-carousel'],
+      allowed_elements: ['v-carousel-item', 'v-carousel', 'g-link'],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link'
