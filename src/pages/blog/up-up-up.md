@@ -9,7 +9,7 @@ After moving back from the city at the end of last year, my responsibilities and
 [![At the Beach.](../../media/images/blog/AtTheBog.jpg)]
 (/assets/static/src/media/images/blog/AtTheBog.jpg)
 _Hey! It was overcast and windy._
-But like I said before, [I get by with a little help from my friends.](/blog/2018/12/02/a-little-help-from-my-friends) Having a circle of friends has become important to me. Crazy, I know! I manage to organize things so I seem to get away every other weekend, doing things from LAN-ing up for some vintage Halo to going to a pub.
+But like I said before, [I get by with a little help from my friends.](/blog/2018/12/02/a-little-help-from-my-friends) Having a circle of friends has become important to me. Crazy, I know! I manage to organize things so I seem to get away every other weekend, doing things from LAN-ing up for some vintage Halp to going to a pub.
 
 I’m still extremely awkward, but dating is more fun than hard. It’s still not an overly frequent event, though. I have pity for [the version of me from years ago when that first “personal” entry was posted.](/blog/2017/04/11/dating-is-hard-and-i-am-very-awkward) I don’t get nervous for most things in life now, plus I’ve learned the fine art of shutting the hell up and listening rather than raving on.
 
