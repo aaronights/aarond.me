@@ -13,7 +13,7 @@ But like I said before, [I get by with a little help from my friends.](/blog/201
 
 I’m still extremely awkward, but dating is more fun than hard. It’s still not an overly frequent event, though. I have pity for [the version of me from years ago when that first “personal” entry was posted.](/blog/2017/04/11/dating-is-hard-and-i-am-very-awkward) I don’t get nervous for most things in life now, plus I’ve learned the fine art of shutting the hell up and listening rather than raving on.
 
-Some of the time, at least.
+Some of the time at least.
 
 I am gaming much more. I picked up an Xbox One and opted to go all digital with games. Right now it’s showing 204 games installed, that many physical discs would require a small shed! I’m not sure of the legitimacy of the various key trading websites I’ve been using to buy stuff, but I like to live dangerously. I’m also using the Game Pass subscription service Microsoft offers. Picking up 6 month extensions as they’ve come on sale has got me all loaded up until sometime late 2020. Remember when that felt like an unobtainable future?
 
