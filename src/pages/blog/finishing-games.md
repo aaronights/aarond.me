@@ -68,4 +68,4 @@ _Repetition._ Having to do similar missions over and over again doesn't make you
 
 But is it a bad thing? While I didn't get to see the ending of the games narrative story, I did thoroughly enjoy the majority of the games featured here. It just feels like an incomplete experience when you don't get to see the credits roll.
 
-Do you compulsively finish games? What are some titles that you've thoroughly enjoyed, but never seen the end game to? Be sure to spark a discussion and share your thoughts in the comments.
+Do you compulsively finish games? What are some titles that you've thoroughly enjoyed, but never seen the end game to? Be sure to spark a discussion and share your thoughts in the comments!
