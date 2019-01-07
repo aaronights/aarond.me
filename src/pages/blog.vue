@@ -46,7 +46,7 @@
           path
           excerpt
           date
-          timeToRead(speed: 100)
+          timeToRead(speed: 250)
         }
       }
     }
