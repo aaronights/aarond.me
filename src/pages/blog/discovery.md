@@ -3,7 +3,7 @@ title: "The Trouble with Star Trek Discovery"
 author: Aaron Davies
 date: 2019-02-27
 ---
-I’m into Star Trek way too much. I still have a mountain of physical media populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
+I’m into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
 
 The latest show, Star Trek Discovery, isn’t sitting well with me. It seems to be frequently ignoring and discarding various elements of the established fictional universe at will. It gives the impression that it is somehow embarrassed to be Star Trek, and of all that came before it.
 
@@ -37,7 +37,7 @@ This is like taking the Ecto-1 from Ghostbusters and making it look like a Toyot
 To compound matters, it’s not just one preceding show that doesn’t line up with what has been introduced in Discovery. Elements of the original Constitution-class design from The Original Series have appeared many times in the series - Relics, Trials and Tribble-ations, and the two parter In a Mirror, Darkly all connect back to this original iconography many decades after it first appeared. Even Klingon ships and designs have diverged from what was seen both before and after this point in canon. Rewrite canon, claim this to be Prime Universe, but do little to show it? Sure, no one would notice. Right?
 
 [![MirroDarkly.](../../media/images/blog/mirrordarkly.jpg)](/assets/static/src/media/images/blog/mirrordarkly.jpg)
-_A recreated Constition-class bridge, as seen in the 2004 Enterprise episode "In a Mirror, Darkly"._
+_A recreated Constitution-class bridge, as seen in the 2004 Enterprise episode "In a Mirror, Darkly"._
 
 These things - the characters, technology and iconography of the Star Trek franchise - are things I care about. Why doesn’t this new series care about these things? Star Trek has a massive and in-depth following. Some fans are comfortable compartmentalising - separating it from all the shows that came before it, and just ignoring these glaring issues that make it misaligned. My pedantic nature means that I can’t help but be reminded and frustrated every time an issue comes up. If this show doesn’t embrace and build upon what came before it, why even make it Star Trek?
 
