@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html data-html-server-rendered="true" lang="en" data-vue-tag="lang">
+  <head>
+    <title data-vue-tag="true">PS4 Backwards Compatibility: Offered by a peripheral? - aarond.me</title><meta data-vue-tag="true" charset="utf-8"/><meta data-vue-tag="true" name="generator" content="Gridsome v0.5.3"/><meta data-vue-tag="true" data-key="viewport" name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/><meta data-vue-tag="true" data-key="description" name="description" content="The blog of Aaron Davies"/><meta data-vue-tag="true" data-key="format-detection" name="format-detection" content="telephone=no"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon.ce0531f.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon.ac8d93a.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="96x96" href="/assets/static/favicon.b9532cc.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="76x76" href="/assets/static/favicon.f22e9f3.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/static/favicon.62d22cb.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="120x120" href="/assets/static/favicon.1539b60.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/static/favicon.dc0cdc5.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/static/favicon.7b22250.900df09.png"/><link data-vue-tag="true" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i"/><style data-vue-tag="true" id="vuetify-theme-stylesheet" type="text/css">a { color: #a91616; }
+.primary {
+  background-color: #a91616 !important;
+  border-color: #a91616 !important;
+}
+.primary--text {
+  color: #a91616 !important;
+  caret-color: #a91616 !important;
+}
+.primary.lighten-5 {
+  background-color: #ffa88e !important;
+  border-color: #ffa88e !important;
+}
+.primary--text.text--lighten-5 {
+  color: #ffa88e !important;
+  caret-color: #ffa88e !important;
+}
+.primary.lighten-4 {
+  background-color: #ff8c74 !important;
+  border-color: #ff8c74 !important;
+}
+.primary--text.text--lighten-4 {
+  color: #ff8c74 !important;
+  caret-color: #ff8c74 !important;
+}
+.primary.lighten-3 {
+  background-color: #ff715b !important;
+  border-color: #ff715b !important;
+}
+.primary--text.text--lighten-3 {
+  color: #ff715b !important;
+  caret-color: #ff715b !important;
+}
+.primary.lighten-2 {
+  background-color: #e85543 !important;
+  border-color: #e85543 !important;
+}
+.primary--text.text--lighten-2 {
+  color: #e85543 !important;
+  caret-color: #e85543 !important;
+}
+.primary.lighten-1 {
+  background-color: #c8382c !important;
+  border-color: #c8382c !important;
+}
+.primary--text.text--lighten-1 {
+  color: #c8382c !important;
+  caret-color: #c8382c !important;
+}
+.primary.darken-1 {
+  background-color: #8a0000 !important;
+  border-color: #8a0000 !important;
+}
+.primary--text.text--darken-1 {
+  color: #8a0000 !important;
+  caret-color: #8a0000 !important;
+}
+.primary.darken-2 {
+  background-color: #6d0000 !important;
+  border-color: #6d0000 !important;
+}
+.primary--text.text--darken-2 {
+  color: #6d0000 !important;
+  caret-color: #6d0000 !important;
+}
+.primary.darken-3 {
+  background-color: #520000 !important;
+  border-color: #520000 !important;
+}
+.primary--text.text--darken-3 {
+  color: #520000 !important;
+  caret-color: #520000 !important;
+}
+.primary.darken-4 {
+  background-color: #420000 !important;
+  border-color: #420000 !important;
+}
+.primary--text.text--darken-4 {
+  color: #420000 !important;
+  caret-color: #420000 !important;
+}
+.secondary {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.lighten-5 {
+  background-color: #777777 !important;
+  border-color: #777777 !important;
+}
+.secondary--text.text--lighten-5 {
+  color: #777777 !important;
+  caret-color: #777777 !important;
+}
+.secondary.lighten-4 {
+  background-color: #5e5e5e !important;
+  border-color: #5e5e5e !important;
+}
+.secondary--text.text--lighten-4 {
+  color: #5e5e5e !important;
+  caret-color: #5e5e5e !important;
+}
+.secondary.lighten-3 {
+  background-color: #474747 !important;
+  border-color: #474747 !important;
+}
+.secondary--text.text--lighten-3 {
+  color: #474747 !important;
+  caret-color: #474747 !important;
+}
+.secondary.lighten-2 {
+  background-color: #303030 !important;
+  border-color: #303030 !important;
+}
+.secondary--text.text--lighten-2 {
+  color: #303030 !important;
+  caret-color: #303030 !important;
+}
+.secondary.lighten-1 {
+  background-color: #1b1b1b !important;
+  border-color: #1b1b1b !important;
+}
+.secondary--text.text--lighten-1 {
+  color: #1b1b1b !important;
+  caret-color: #1b1b1b !important;
+}
+.secondary.darken-1 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-1 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.accent {
+  background-color: #e32929 !important;
+  border-color: #e32929 !important;
+}
+.accent--text {
+  color: #e32929 !important;
+  caret-color: #e32929 !important;
+}
+.accent.lighten-5 {
+  background-color: #ffc2a6 !important;
+  border-color: #ffc2a6 !important;
+}
+.accent--text.text--lighten-5 {
+  color: #ffc2a6 !important;
+  caret-color: #ffc2a6 !important;
+}
+.accent.lighten-4 {
+  background-color: #ffa48b !important;
+  border-color: #ffa48b !important;
+}
+.accent--text.text--lighten-4 {
+  color: #ffa48b !important;
+  caret-color: #ffa48b !important;
+}
+.accent.lighten-3 {
+  background-color: #ff8771 !important;
+  border-color: #ff8771 !important;
+}
+.accent--text.text--lighten-3 {
+  color: #ff8771 !important;
+  caret-color: #ff8771 !important;
+}
+.accent.lighten-2 {
+  background-color: #ff6a58 !important;
+  border-color: #ff6a58 !important;
+}
+.accent--text.text--lighten-2 {
+  color: #ff6a58 !important;
+  caret-color: #ff6a58 !important;
+}
+.accent.lighten-1 {
+  background-color: #ff4c40 !important;
+  border-color: #ff4c40 !important;
+}
+.accent--text.text--lighten-1 {
+  color: #ff4c40 !important;
+  caret-color: #ff4c40 !important;
+}
+.accent.darken-1 {
+  background-color: #c20012 !important;
+  border-color: #c20012 !important;
+}
+.accent--text.text--darken-1 {
+  color: #c20012 !important;
+  caret-color: #c20012 !important;
+}
+.accent.darken-2 {
+  background-color: #a20000 !important;
+  border-color: #a20000 !important;
+}
+.accent--text.text--darken-2 {
+  color: #a20000 !important;
+  caret-color: #a20000 !important;
+}
+.accent.darken-3 {
+  background-color: #830000 !important;
+  border-color: #830000 !important;
+}
+.accent--text.text--darken-3 {
+  color: #830000 !important;
+  caret-color: #830000 !important;
+}
+.accent.darken-4 {
+  background-color: #670000 !important;
+  border-color: #670000 !important;
+}
+.accent--text.text--darken-4 {
+  color: #670000 !important;
+  caret-color: #670000 !important;
+}
+.error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}</style><noscript data-vue-tag="true" ><style>.g-image--loading{display:none;}</style></noscript><link rel="preload" href="/assets/css/styles.00d4f326.css" as="style"><link rel="preload" href="/assets/js/app.5edeec54.js" as="script"><link rel="preload" href="/assets/css/4.styles.d26c9533.css" as="style"><link rel="preload" href="/assets/js/component--post.4cfc7d78.js" as="script"><link rel="prefetch" href="/assets/js/component--404.288e6f59.js"><link rel="prefetch" href="/assets/js/component--blog.307419fb.js"><link rel="prefetch" href="/assets/js/component--home.786164b2.js"><link rel="prefetch" href="/assets/js/page-query.d0331b79.js"><link rel="stylesheet" href="/assets/css/styles.00d4f326.css"><link rel="stylesheet" href="/assets/css/4.styles.d26c9533.css">
+  </head>
+  <body data-vue-tag="">
+    <div data-app="true" data-server-rendered="true" id="app" id="app" class="application theme--light"><div class="application--wrap"><nav class="v-toolbar theme--light" style="margin-top:0px;padding-right:0px;padding-left:0px;transform:translateY(0px);"><div class="v-toolbar__content" style="height:56px;"><div class="v-toolbar__title">aarond.me</div><div class="spacer"></div><div class="v-toolbar__items"><a href="/" class="v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Home</div></a><a href="/blog" class="v-btn--active v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Blog</div></a></div></div></nav><div class="container"><div class="layout row wrap"><div class="flex xs12 pa-4"><h1>PS4 Backwards Compatibility: Offered by a peripheral?</h1><p><strong>Sunday, March 3, 2013</strong></p><div class="post"><p>Backwards compatibility is a feature consumers might assume is available. Other than the Playstation 3, every video game console and handheld released since 2002 has offered it. Every smartphone or computer has it. Even when Apple switched processor architecture from PowerPC to Intel's x86 in 2006,  they designed the Rosetta software to allow older programs to work in the new systems.</p>
+<p>This holiday season many consumers, unaware that the Playstation 4 cannot run Playstation 3 games, may end up buying a console along with Grand Theft Auto 5 or Assassin's Creed IV and just assume that it will work. With Beyond: Two Souls and the rumour of Grand Turismo 6 being released just weeks before Playstation 4, people might be inclined to pick up the newer system to play these games just to future proof their purchase.</p>
+<p>Sony has promised to try and solve this problem using game streaming over the Internet. Going back through the patent office shows a different possibility.</p>
+<p><a href="http://www.siliconera.com/2010/09/14/sony-japan-files-patent-for-new-generation-console-to-previous-generation-console-adapter/" target="_blank" rel="nofollow noopener noreferrer"> In 2010 a patent from Sony was uncovered that demonstrated a peripheral designed to give backwards compatibility to a console.</a> It involved a small unit that contained a processor, DVD drive emulator and graphics and sound chips. The physical optical drive, controller inputs and video output of the main console would work in tandem with this additional unit to give seamless backwards compatibility.</p>
+<p><a href="/assets/static/src/media/images/blog/backcompat.png"><img class="g-image g-image--lazy g-image--loading" src="data:image/svg+xml,%3csvg fill='none' viewBox='0 0 594 470' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-66'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-66)' width='594' height='470' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAAAzCAYAAAAn3w6xAAAACXBIWXMAAA7CAAAOwgEVKEqAAAAF/0lEQVRo3uWaR0s8TRDG93P6HTx48ybqQRD04EFU8CAigjfFhDmLOeecc86x/vz6pZZ23plxZnd1V21oendCh6er6qmqnoj88RJJ1sDv7%2b/R1q72vT8DwNvbm6l/CgCvhX7n4uMGwCm2YSvl6upKampqpLy8XObm5sw1lYYw/cQKXCRRYhxrub6%2bltraWqmsrJTl5eXQ/SUcALdd9brnbB8fH%2bXp6SlUfX5%2bloeHh9B98Nzr62vcGxDxW3xQ1Gm3trZkb29P9vf3Q9WdnR3Z3Nw07wZ9n%2bcODw9lZWVF7u7ufDfOTUXt/xE3K8xvys3NjRlA719eXsrLy8v/BmFHNjY2vt2I7u7uytnZmS%2bdOtdnX3NVAb1xcXEhExMTMjs7K/Pz88ZATU9Py8zMTBQEu7AzsRrDsFXniCRgROOxYRH0SEXr9vY2uqNTU1PRgexycnIi6%2bvr5h4SwrOAAlixWPB4AEB9mDdzYO7YEiS2ubnZqAjXeAb1HBkZkZ6eHjk/PzfPsJn0E%2bFPbm6uZGZmSmdnp%2bmYF7a3t6Mon56eyvHxsemUsra2ZiQE8WOQjo4O6e3t/SBBX1l0DOaI6sEkzAVpYK5NTU0GGKR2YWFBBgcHTcui29vbzXsDAwP/qQDizOKo7CiFHWbh7Cx6xj12HqOztLQkq6urxh7Y5eDg4NscmaAqwFxYn7YUW32NCri9CMWwSFo3FQBBpxHEkicDAETaVj03%2bvaKP4wEuFlJLXA0g7C7iJSqgLNDUEVtkglALB7pBwDsizoA4o/eKPfCCOibGw0mWwK%2bxBM8Ojr6oOsMpnbCjwZ/FADQICKObisNMgDij1hzXQsqoBLAszABLDI0NCSjo6PfzgIJAeD%2b/l6ys7MlJydHurq6zMKxrAyCsbMBQCIUABbPf9r%2b/n5DNT8SAKVBFoIu252xQB2AAsf%2bOhXwswEMgKPBoqnqdDhpJ5lG0C0WCAWAGwtoix8wPDxsPETUA8fIDajvpkF7g1QiY5YAr2iJgisJFVIwljhHGvWlggRgo3BxUd9Y84oRP/HC51dJ0OsM6GYHvGxAGAclaJbYDobYINpY84qGBicnJ43DgzHUHeU/9xBvIr3FxcVoCosBYQuQh0WIsqBCNxYIAoDffT8AWDw0TIxCcIOj5jTkgWgwPz9fCgsLTcjIgqnk5%2biMwQCDQdQZAgDuaTQIQLYfEDZhGTT75OwXAAiBaVHBlpaWD55qYAlgMSBpBz/wvyYp7UKeANDCqgBjpKenS1VVlRQXF0t1dbWUlpZKX1%2bfSYqqRUfSkMi0tDRzT%2b2PmwSw6LGxMZOwoXR3d4cHwI8GAYAKGFRYgIm6GUE1jl5ijFTl5eVJa2uryQAzWRwoAOVdNgDpgm3a2tpMfgIGUgDcEiIYQSp9cw22CssKET99pBALaIJEd94t4UgOgWdQD6/KDuNO43pT%2ba3JUK2a5cHponXrk2s8i0HWOcUMQJCY%2bbOMcFDrGyRdZh%2bXuSU13cbS5wDAdtSCUGMkyImPW0fxngqFidm9DKZzDrYEBDW0ST0bDOrtkcfDwkO7XlKnAKBa/CZPWVZWFs1zegGaEoejfplfKLikpESKioqiXqkX1bJYIll%2bY0wrKiqMsU1ZAILYDSy86vVn/XipgF%2bQlBISgCWHbnG9iTe08p8sNNXrnnp%2bygK2EYQ%2bbc80ZVUAetTEC5P%2brGpqG3pWByxhNJgMAHCAwiQ29BkAwA3XoI2YJG5PMFkAeB1y%2bhlIjCLqo85RY2Pjz5UAG4Cg%2bQAFAFuAi43Fd3qrvxoAdZOdR/Oh8gGpBkAQd9mOBgnhASJhGaFkA2C7317xh4bH9pF%2bUj6S%2bgoWUF53htwKiA2M8wuRWIBIGT8A%2buIcoqCgQOrr6yUjI0PGx8fNdwfwO5XfXGtoaDBAfMm5QDIAIPYntUXuge8F6%2brqJCsry1h3fHuyPui5fpihAQ6AhTGeKQsAiySthVHTr8ZYHC3OjvK8/kf0aQmU4j4XSJVokN1nN5EGu/Wq3Hc7qv9RACTiICXe91M2H/AjvhX%2bDeXPA/APjUf6zhgcy6IAAAAASUVORK5CYII=' /%3e%3c/svg%3e" width="594" alt="From Sony's patent, an attached accessory provides backwards compatibility" data-srcset="/assets/static/backcompat.82a2fbd.4212b8c.png 480w, /assets/static/backcompat.6edcfaf.4212b8c.png 594w" data-sizes="(max-width: 594px) 100vw, 594px" data-src="/assets/static/backcompat.6edcfaf.4212b8c.png"><noscript><img class="g-image g-image--lazy g-image--loaded" src="/assets/static/backcompat.6edcfaf.4212b8c.png" width="594" alt="From Sony's patent, an attached accessory provides backwards compatibility"></noscript></a>
+<em>From Sony's patent, an attached accessory provides backwards compatibility</em></p>
+<p>At the time it was assumed that this patent was for Playstation 2 capability on the Playstation 3. This may not have been implemented due to the Playstation 3 lacking a suitably fast connection method - a standard USB port probably wouldn't be able to handle the throughput required. But with the Playstation 4 still in development, the necessary connections for such a peripheral can be integrated from the outset.  It may even be possible to design it in such a way that the memory and graphics processor in the Playstation 4 can be utilised, with only the complex Cell processor from the Playstation 3 needed in this accessory, effectively lowering the cost.</p>
+<p>If an optional peripheral was to be released for the Playstation 4 to provide backwards compatibility, would you purchase it? If the rumoured $429 price tag for the console is correct, how much above this would you be willing to pay for such an accessory? Share your thoughts in the comments below.</p>
+</div></div></div></div><footer class="v-footer theme--light" style="height:32px;"><div class="layout justify-center row wrap"><div class="flex text-xs-center xs12" style="margin-bottom:0;">Copyright © 2019 aarond.me</div></div></footer></div></div>
+    <script src="/assets/js/app.5edeec54.js" defer></script><script src="/assets/js/component--post.4cfc7d78.js" defer></script>
+  </body>
+</html>

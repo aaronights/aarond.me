@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html data-html-server-rendered="true" lang="en" data-vue-tag="lang">
+  <head>
+    <title data-vue-tag="true">Research report into Name of Austin - aarond.me</title><meta data-vue-tag="true" charset="utf-8"/><meta data-vue-tag="true" name="generator" content="Gridsome v0.5.3"/><meta data-vue-tag="true" data-key="viewport" name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/><meta data-vue-tag="true" data-key="description" name="description" content="The blog of Aaron Davies"/><meta data-vue-tag="true" data-key="format-detection" name="format-detection" content="telephone=no"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon.ce0531f.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon.ac8d93a.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="96x96" href="/assets/static/favicon.b9532cc.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="76x76" href="/assets/static/favicon.f22e9f3.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/static/favicon.62d22cb.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="120x120" href="/assets/static/favicon.1539b60.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/static/favicon.dc0cdc5.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/static/favicon.7b22250.900df09.png"/><link data-vue-tag="true" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i"/><style data-vue-tag="true" id="vuetify-theme-stylesheet" type="text/css">a { color: #a91616; }
+.primary {
+  background-color: #a91616 !important;
+  border-color: #a91616 !important;
+}
+.primary--text {
+  color: #a91616 !important;
+  caret-color: #a91616 !important;
+}
+.primary.lighten-5 {
+  background-color: #ffa88e !important;
+  border-color: #ffa88e !important;
+}
+.primary--text.text--lighten-5 {
+  color: #ffa88e !important;
+  caret-color: #ffa88e !important;
+}
+.primary.lighten-4 {
+  background-color: #ff8c74 !important;
+  border-color: #ff8c74 !important;
+}
+.primary--text.text--lighten-4 {
+  color: #ff8c74 !important;
+  caret-color: #ff8c74 !important;
+}
+.primary.lighten-3 {
+  background-color: #ff715b !important;
+  border-color: #ff715b !important;
+}
+.primary--text.text--lighten-3 {
+  color: #ff715b !important;
+  caret-color: #ff715b !important;
+}
+.primary.lighten-2 {
+  background-color: #e85543 !important;
+  border-color: #e85543 !important;
+}
+.primary--text.text--lighten-2 {
+  color: #e85543 !important;
+  caret-color: #e85543 !important;
+}
+.primary.lighten-1 {
+  background-color: #c8382c !important;
+  border-color: #c8382c !important;
+}
+.primary--text.text--lighten-1 {
+  color: #c8382c !important;
+  caret-color: #c8382c !important;
+}
+.primary.darken-1 {
+  background-color: #8a0000 !important;
+  border-color: #8a0000 !important;
+}
+.primary--text.text--darken-1 {
+  color: #8a0000 !important;
+  caret-color: #8a0000 !important;
+}
+.primary.darken-2 {
+  background-color: #6d0000 !important;
+  border-color: #6d0000 !important;
+}
+.primary--text.text--darken-2 {
+  color: #6d0000 !important;
+  caret-color: #6d0000 !important;
+}
+.primary.darken-3 {
+  background-color: #520000 !important;
+  border-color: #520000 !important;
+}
+.primary--text.text--darken-3 {
+  color: #520000 !important;
+  caret-color: #520000 !important;
+}
+.primary.darken-4 {
+  background-color: #420000 !important;
+  border-color: #420000 !important;
+}
+.primary--text.text--darken-4 {
+  color: #420000 !important;
+  caret-color: #420000 !important;
+}
+.secondary {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.lighten-5 {
+  background-color: #777777 !important;
+  border-color: #777777 !important;
+}
+.secondary--text.text--lighten-5 {
+  color: #777777 !important;
+  caret-color: #777777 !important;
+}
+.secondary.lighten-4 {
+  background-color: #5e5e5e !important;
+  border-color: #5e5e5e !important;
+}
+.secondary--text.text--lighten-4 {
+  color: #5e5e5e !important;
+  caret-color: #5e5e5e !important;
+}
+.secondary.lighten-3 {
+  background-color: #474747 !important;
+  border-color: #474747 !important;
+}
+.secondary--text.text--lighten-3 {
+  color: #474747 !important;
+  caret-color: #474747 !important;
+}
+.secondary.lighten-2 {
+  background-color: #303030 !important;
+  border-color: #303030 !important;
+}
+.secondary--text.text--lighten-2 {
+  color: #303030 !important;
+  caret-color: #303030 !important;
+}
+.secondary.lighten-1 {
+  background-color: #1b1b1b !important;
+  border-color: #1b1b1b !important;
+}
+.secondary--text.text--lighten-1 {
+  color: #1b1b1b !important;
+  caret-color: #1b1b1b !important;
+}
+.secondary.darken-1 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-1 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.accent {
+  background-color: #e32929 !important;
+  border-color: #e32929 !important;
+}
+.accent--text {
+  color: #e32929 !important;
+  caret-color: #e32929 !important;
+}
+.accent.lighten-5 {
+  background-color: #ffc2a6 !important;
+  border-color: #ffc2a6 !important;
+}
+.accent--text.text--lighten-5 {
+  color: #ffc2a6 !important;
+  caret-color: #ffc2a6 !important;
+}
+.accent.lighten-4 {
+  background-color: #ffa48b !important;
+  border-color: #ffa48b !important;
+}
+.accent--text.text--lighten-4 {
+  color: #ffa48b !important;
+  caret-color: #ffa48b !important;
+}
+.accent.lighten-3 {
+  background-color: #ff8771 !important;
+  border-color: #ff8771 !important;
+}
+.accent--text.text--lighten-3 {
+  color: #ff8771 !important;
+  caret-color: #ff8771 !important;
+}
+.accent.lighten-2 {
+  background-color: #ff6a58 !important;
+  border-color: #ff6a58 !important;
+}
+.accent--text.text--lighten-2 {
+  color: #ff6a58 !important;
+  caret-color: #ff6a58 !important;
+}
+.accent.lighten-1 {
+  background-color: #ff4c40 !important;
+  border-color: #ff4c40 !important;
+}
+.accent--text.text--lighten-1 {
+  color: #ff4c40 !important;
+  caret-color: #ff4c40 !important;
+}
+.accent.darken-1 {
+  background-color: #c20012 !important;
+  border-color: #c20012 !important;
+}
+.accent--text.text--darken-1 {
+  color: #c20012 !important;
+  caret-color: #c20012 !important;
+}
+.accent.darken-2 {
+  background-color: #a20000 !important;
+  border-color: #a20000 !important;
+}
+.accent--text.text--darken-2 {
+  color: #a20000 !important;
+  caret-color: #a20000 !important;
+}
+.accent.darken-3 {
+  background-color: #830000 !important;
+  border-color: #830000 !important;
+}
+.accent--text.text--darken-3 {
+  color: #830000 !important;
+  caret-color: #830000 !important;
+}
+.accent.darken-4 {
+  background-color: #670000 !important;
+  border-color: #670000 !important;
+}
+.accent--text.text--darken-4 {
+  color: #670000 !important;
+  caret-color: #670000 !important;
+}
+.error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}</style><noscript data-vue-tag="true" ><style>.g-image--loading{display:none;}</style></noscript><link rel="preload" href="/assets/css/styles.00d4f326.css" as="style"><link rel="preload" href="/assets/js/app.5edeec54.js" as="script"><link rel="preload" href="/assets/css/4.styles.d26c9533.css" as="style"><link rel="preload" href="/assets/js/component--post.4cfc7d78.js" as="script"><link rel="prefetch" href="/assets/js/component--404.288e6f59.js"><link rel="prefetch" href="/assets/js/component--blog.307419fb.js"><link rel="prefetch" href="/assets/js/component--home.786164b2.js"><link rel="prefetch" href="/assets/js/page-query.d0331b79.js"><link rel="stylesheet" href="/assets/css/styles.00d4f326.css"><link rel="stylesheet" href="/assets/css/4.styles.d26c9533.css">
+  </head>
+  <body data-vue-tag="">
+    <div data-app="true" data-server-rendered="true" id="app" id="app" class="application theme--light"><div class="application--wrap"><nav class="v-toolbar theme--light" style="margin-top:0px;padding-right:0px;padding-left:0px;transform:translateY(0px);"><div class="v-toolbar__content" style="height:56px;"><div class="v-toolbar__title">aarond.me</div><div class="spacer"></div><div class="v-toolbar__items"><a href="/" class="v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Home</div></a><a href="/blog" class="v-btn--active v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Blog</div></a></div></div></nav><div class="container"><div class="layout row wrap"><div class="flex xs12 pa-4"><h1>Research report into Name of Austin</h1><p><strong>Wednesday, June 21, 2017</strong></p><div class="post"><h3 id="what-is-austin"><a href="#what-is-austin" aria-hidden="true"><span class="icon icon-link"></span></a>What is Austin?</h3>
+<p>Austin is what is commonly called an “Internet Superstar”.</p>
+<p><a href="/assets/static/src/media/images/blog/eggs.png"><img class="g-image g-image--lazy g-image--loading" src="data:image/svg+xml,%3csvg fill='none' viewBox='0 0 605 343' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3e%3cdefs%3e%3cfilter id='__svg-blur-16'%3e%3cfeGaussianBlur in='SourceGraphic' stdDeviation='40'/%3e%3c/filter%3e%3c/defs%3e%3cimage x='0' y='0' filter='url(%23__svg-blur-16)' width='605' height='343' xlink:href='data:image/png%3bbase64%2ciVBORw0KGgoAAAANSUhEUgAAAEAAAAAkCAIAAAC2bqvFAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAZBUlEQVRYwz1X91ObaXfll0y%2bLztJNrtrrzEdTJWQ6L2bZhBNovdeTEf0amPA9N6LBJIoogn1jlBBogkEQhQDtinG3s3kf8gjdpOZO%2b/c9wFp7rnnnHsfacg3Bh5PeHdH3NtDzpdD9lc564ucu0Wa3WEt3Cl4D0ruFzn7m1JwLCDRsYMq4YaCv7LHWuQtT9FmhyozkrBdjRRsP5c4frS5wlgY3aPjL8Srn2Tka9HsrQx7v7dwv7/8sL/0/YT1/UzyTSV%2bUArvT7Z%2bnInFVMJkZ71CQJJziHdH/O8q6X9fHRxwVvkr41d79IdT4R%2bXO3LeypcjUADn0w79j087f1zI/lSH9Om5A/7hj0uZhmChd3N99pC3fHvE/nrIvj3k3h1y74/5B/xl4Qb2Ypv8cMx/OOGfiDZo2IHPO4yvh5z7UxF%2boGVtrGO25z17YURKm5/oaGQQhnfp%2bO0NzO0B/VK8dr01dSfF3u0u3gqnHtn9jyrxt9MtUNY3dYi%2bqyR3x1vk2aG53iaVmPTH%2bTYo7tupZIe5yJgbuD3i/biUfb%2bQflMKdxk4KQP3qNp6PNsGdf9xLv1xIftxrk7AR0BozA9WDrVUcxcnfqgEp9sb5xLK1wP2l33Wg5J3tc8UkXF77MX7E/69gn9/Irg74n054twpN8WkWTq2n4EbIU32yOgLVMIoZW6QtTZJXRvnUDDb3Lkj3uS9DP9dhntg9T3KVu%2bVAtCF%2b5PNB%2bWm%2bnuOBX9ebnOWxiWU2Zt95o9zyRc5f5uGO%2bQtKbfWfqjEoNzvZ2pUF2LaHhN/c0D/dipQVw/OL6Q/zv%2bOP8%2blGpiOnIXBQhb%2bg4iCxQx0LI923e6zAIbrPQbgDrR/l70o3Ji93mcAWtQaO%2bRe7zKud2m7TAKfOEGbG%2bKtTZNWRvtnu8rHPhZOdlTO9ZZj2ismmztnmlfmWy6lq38ouQ9HrLtjLmitOhQ88CWAENbi2AF/5VS8ARS7ONwqpWLPRGQFb%2bW7SvzjTAJqBQGKlrOJKjH5/w4lfx3%2bjeFsW6O9Om%2b6sxLbUzDZnjPdVT3S1nDAWHhQ8K52qDcAwwHz4ZinFJH4a1NA5WoMctYnGeVmn3Wn4IDXPe7SJKYrv78%2brLPa52OjS0ujS1ujW1ud%2b/tyv%2bYyRFNhRlspgdh/Ll7%2bIl17UABi%2bY%2bnm3%2bcC//nSnq%2bTRdTMKeidd7ShGBlaps0c7m9ARwI9PZdJQI%2bAUoDJT6cCJ5et7%2brtv9Cpc7/RijRaCot6G5qGOtowvaisb01fe9r5/reX%2b/Qvh4CNzO/7DM%2bHzDujjjA3IAKMQUHUH3eo3/eZwE2Ph8wRdzFwt76N21VDpW5kOxkk5R4vZhYw%2bR0s5wsK/Rbn%2bbKgObywKrMxKrUtIzo2FD/hMjQgqyk1voS7FDL/FQPfrT9cJO4y5hnEYY2ieNK0er1PhMAeFQJ1bpXP0VPrwCM%2bP%2bLBsC%2bq5/qQ422KnRPU810b8d0b/tQS9NUe4OAOH4lo3yWM2/26Td79Bs1BvoXOQPYAFAhWMMAeLdHLADsq5w7iB/wq33rlJ/8KtTHwN/VINBD28Xphb3Tq3AENDMaVpjo3Ij2b67wLYwPzo9z9HHU03mp/ULz%2bS%2b/6WppGRsawszMut%2bhJWQsY66PhRtUCle/HHIeT7celQK16Z%2bewMqPpyJ13WcACRgAwu9/IwS5SGOmr6O9tnKs7f3qRI9wberT9sZXOfvzHuN6jwYCVHlzwASd/rxPvwJ1y1kXUuoWCXMhJX9X8qlMgmdJmlk0wiwi0CwiwDzCzwzpZ5GM0gt5o4sItMyOt8pNgFbk2X%2bodshPcokOCMqNjkQnhaZG%2bPu4wy3MLM0tzAz1jQ2068uyePMjgsWxCwnp/pj37Xjzm9rugv%2bPv2bXX081J%2bpczc931ZbGwsTgh%2bry1bHOr7vUr6DcPfrVLv36KdRq2afdqJE85Wpn0z7LWecyqmAdIxeuZnU3mcSjTCJCDEJDXnh66/h6GkcHQ3PirSvfGuVlmuSkGYcFQjLiIOX5sOJsM8Rra2SAT2F8fGtRSXPDK%2bskPXOkCRz1UgdiZW5Kne47oM%2beiddvwdo52bz/e2T9BQCQoI5HpfCJFuGjUqRGogYj1sAOdvc01ZFn%2br/sA2XTr3co13vUa5DvMm52aTe7AA9wM%2b3zPuNqhw7afymj3shZt3LOwGyffWE6JCnaCBWu6R%2bojYzWiYx66ffapjADmpdmnJVhmBiv7%2b9jhHhjGIPSjwqDpkRbJKBsk1BWqSjEx4rA3FobxyRdWLbX62xzQ/2OmsIvO5RjAfHumHN/wnuKzfvjzScYT9sDYDgBYNSovgNOng7BnzT631X1NFUtDrWzFkYlVMzNDvWLGgb1ZpcKnup4Si63SerkgPFpl365S6euTyOr8y0zY81T43RRkVqIUM3gUMOkRJ3gYIPXXvpe7jqeHvpvAo3e%2bL%2bEwbWsbF698TOLRxnHRcESYwze%2bECyEwqGmtikqcHmOqBbVyu4q521hIa92aPeH3NuFRxwCQAjTs3DEwY1jBM%2bmI0Px2oAj08AnsjZ1JjubB7vbp1qqmR21EjoGDK2TylYuZMzP0nJ6hsBACCjXIjWb0C%2bS/20R/m0Sz7aWp7E9AZX5sOzU3TDI3738n/h5KHp4Pbc0lbXzfOFBeSFrp421MLQ11cTAn2mrWXs7mIeFWqCDDZNiDGKjtN289ZHodyr8ruG6rnz/TN9jY5QyPPfn7/7UPD9mA2mBZgQtwr23TEggQ%2bQ3AEM4DagUOdgLz2ePLni5O/NqIHr75gZ6NiY7vm0tfxln6bgL65j%2bqSUudsDFpDTlRRUvwbG85WUeiUjX%2b5sXMooKsl653i7S2meUWyMbjDiVwub/3im9dLMUtMU%2bpu%2b0QsTk%2be62npWcG241Us9HZiLg2c8yg4ZYpmSaJyeoh8RpecX9Coh2b2yuKypuLUsgznfDzM1efbs186Okj%2bVnJs9ytdDJrjXqDEowPrjgA0IAsxAdftP%2bN%2bOBcDlD4q/BCbQmGx/N9XTRsUOPRxzrtVzk3q%2bTaIShlgLYxfbJGDicwnpk2zjUvoUMvKVjMoi49Jaq23eZhhFonTeIH4zt9SCwg2gMAu4paW1pb2zHdwObgGHWFuaRwc41%2bTH5%2ban%2b6UnOhTk2icnQF/7mAYHGycmupXkjU61T3ZUT3Y32MNhz377ZWa4/puCdb1L/iwHNy7m3RHzXh0csIXuAZ4jnvo6o1BTca/g3qkDkMPTGG2tH26tXxzpFK5On0s2vh4wb3Yon/doEtrs%2bnTvNhlzs0tRl75NupSQP22Tz7ZJfBq%2bsveDdUaKcSTq5etATXsnQzs7b0%2bXFGRAZVJIQ3r4u7SI1pTQmbL4jY6S7nclhUVZkXkZyJzUjNTI4CAfSEiQaRTSsSA3taZibqB5rKMWYmysrfk7bb734QiMQepXORPszbtDNsBwq75fch5PNsFyUBvjKdT8qFkCf%2bVoDDTVjn58vz7Ve8BepBFG9lmE2z0wcIBgKKeCFcb8CGdx9BqIZ5t0ISZdSQCS9SvZBhY37JmVbIQM13od8Dvc1twSUhIV3JmBHMqNxpYkrtdlbHYU7QyUE5qK3pekdpSm1%2bWndhYlDJcnp8UgTB3t9J0dIQkJ0UUFgpVRORsPfWVs9spAxsDeyulqCQEbHLIABvAE8XjKB3ehfea8SkhS8JbPRBtgJN4r2GqchyyNrtqywff1SyMdVxLyIXeJTRwVLE%2bebq0AAwAJgc2ytT7FxA1cStYuJaRz0dq5aBUEcEVVS7U%2bAqHnG/g7BGoHs2hICBrJi8SXJpDrMrgf8iQ9xYKPBas1GcS69JnKNFxlCrMjn9ae/y4zHGpk8FxH1z48BI/pWZ9om%2b5q1Hup7eZgrRIRwegDAe4vX9UqUlcPtCQj41reZi70NsuZBNHKDL7rPRs/sM%2ba/6ImgaUx8KFuuLWxtRq9uTD2BfReRgFXcObCyA5t9lK6fi4mnQvXZNRZJn4IJADGmWj1VLhys7Mxg%2b3TcXLWs3fSg1vaQEzrov2wxVGkhjR2S564u2hvqEzaVSBqzeW35bNbC3YG0NKRqtXG9LmK2KTXtj///jIgOnyotRI30JwZG/nLf/4S7u/xeW/jSka62SUD0V7vkT9J11WitZOt5e11zGh9GWmic5eMJ432kMY6yROdXWW5m8vjd0dsjfnRHtxgR0VhXk1W8rcjroJPvAaW3SbzVqfphBGVcPVSqtbPHgtPxfWdbi5dildPBMQz4Qp9fcLU0f6FoYmO8asQB6uulFBcaTSlIZPbUijtKDkZqJD3lUpa34qb8whF8W8DPcLtrd/AIak%2bdonejs%2b1tSvRWbyFwcXRj/5uzj/9858FqRG3%2b6QL0cqFePl6Zx0IdYc6pxQs3ext3MoZZ1sroHFS8qyMgtlcGhavTaqh7lHAuQZxuKEkOw0R4GdjZipbw3zepamEK8cAxi5Nzlum44eA8j5tUwAVh/wF9vywgr0APqbgLoLeJGUl/qJv8IumJsIOVhcVkOBpF%2bvmgHS0i3awqQ1yx%2bYgmZWpXXFBXqavrDRfhNlBIxxh/nCTV5qaYYFeqODX70oz16Y7rSGQf//pp%2bHWkq87JJVgScHFf5KtgwaBzfN1nwIAAE6%2bHgBpgQTc0%2bh3cvoDWBfgfgmuOTKKBgv/0dnR3sLYxFBbpzgx9mGfCcYoGJfKrZWr7Q3w%2b4iBHzrmLgA/AHUdbxI3V8aPOQtHvCU5iyBl4ZuKM%2bBGBuG%2bXtavDC20tIKtIOH2Vq6Gej4m%2bt6mRm6vDKEvNRFQiwwX2/JgtyqE61AOIsQRmhD2euhdcVVeclSQ/68//6yjqbk21Xa%2bSTjhEpT8hV0aZp%2bOORctX8vW/opP0tULyeo%2bE38qWLyUrJ4Jieci4rmQeLZF1BCu9vn6uFsYG0NMX5nqG2DaGh4U7DPJOqBMuUUEFR/xiQzc4B597lKyoRKu7zNmWdhWDq6NhfnAJXSw%2b%2brRvl6pQW4hdpAsX6c8D9sYexjS0jLbGZ7hadcdFdAQ5oMOcC72ckpzgNQgnDElyI6M0Ja4YPrUx7GO6kB315/%2b8RMcZiJaH1UwsUouTrQ6ukUcOuHMHdAxx5y5C%2bGiamvhfGtByZ1fG2k9Ys2ebxFVAqACcL4EEg0BsdfRBg41M7OBmsMszCFGRoTe948KzsX2xpmYdCYEbIJNTOYsjovWpi8kZCV3TskcO2FNnLDGjqhjJ/SpgbSoWBfbwazwzrQ3tWGuRT429QFuPVEBXUg/VTt6r61sJDFwqTSOUBqDK4/FlSfMlydM5kc2F0TNDTR6uzr981//LTDI9YAxc8jE7NGwkrVxFX/%2bbBME4ZA5d8ScPVMDWFQJ5s8EhDPBIiDhQgxMCJL5UwBga7nbGmpsbQm1s7aCmJoaGxpYGhnOtNU/HnLB/jrbWj0VrIIBeswjMglD4Fff2SbujD2p4kwpWZOnzKlLwRyjt7IkwG0gAzFTFD1WED2SGTGbFz2ThpyJD5Q25ii7qog5qPXSeEZjzkZ18npVwho6frE%2bsyUfsdyPDvP3%2bZd//CMlI%2bKIjZHTZ8Rrowo2TsWbP%2bWBWkHFC/vU6T3qzIVw6Uy4pNoCFRMAHuHSmGxj4ly4AMjRYOKbIeYGZoaGIAx1tEwN9V/p6xhqvfyIzr8Urd/u04FlDzkLwNlAVLylMdCnc86kij15yppUMidP2VMK2ji2MKYvwX/2bRS%2bMGEpP3klK2ohJXQpPWy3Mfe8q0Jck8UoiuKUxTArEhi1qWtNaZuz78jjVf0VceDnzQtjneLa1DPenGhl%2bJAxfcrDKXk4wICKT1CwZkF%2bxMRK18dVgBM1gPnTTcLG2McdyiTg4RQAEMw3F2T4wmAWFibGcAtzYwMDQz1tYwNdrefPw708KJM9d3u02wP6qXD1kDsPbqanvDkVZ0LJHj9hjZ/QJ0AoWVPskYbRXOREBgKXjVzMDGEUxCxnombigtczo8nZ8YspYaySOGlT%2bnZrLqUqidlfKl5uExM/8ggfcK35MfFend2lCuaMaGXwmDN7wsGecnFKDu6QMXPEnAE2OOXh92nTIuIQAHMuWFDx8ZfCxYutRWCMc%2bGixgF5cKA9LT7FPyDQWUdL28TIyMTQ8JW%2bnrG%2bvq6m5itt3eSwYPJEN5hIwMTHvKVjDlYJALDGjxmjx7SxY/r4EW30lIuhjNQPJAfO5YSv5oWz0AmE9PCeEO8P/m4NPs7jiQhRU47kXTq/MXWpOJLWX7K1%2bEFAaJYst4uJHcSeYkJXiYDYL6djjlhYOWPmgDa9T506pGOPGZgjJgacAH/vk6eFRDDE586Bd/kEgAQAUHtghzycHhe%2bOlYjWO%2bPCAnU19W2tDA3MTQw0tU11NEBs/XFr78ZamrFIwIn2%2bqEK9MnHNwxY0xOGz2gDh%2bQhw7JI4fkMTllVLY2NJQXM5aGWCmIJBXHzWWHz6RGTMSGrGTH8GvySOjkDXQiuTwBV4jkz9RJiB9B7Kx27a73KajDm3Otq4NVoG4Fe1a2Mb5HnVTnTKyChTmkzxwysHIqVk7DADMIltQYgA1UmwTVJg4g0VDQxrZWJzaXJy5EJHR%2b5rNffn357JmWpqaRnp6Jvr6hjrYahq7Oi2fP9F9qWptZNOQlnzDHd0mDsrV%2bCbFbuNDJx7VzsM2M6aaRksS%2bpOC5nMjRlJA6b5ciO/sGD%2bdWX/dqB9u2164T6W9whZHj%2bWGzH1JxremE1lRiz9uN4VLmZJVooY09Xb82WLG9PgqmkJQ0LqfNHDFm9mmTu%2bTxfcrEHmUKuPmAhtlZnxItDwEfnm3iT/l4MbFHQ04Z3l4f2lwZHWyp0NXW9rSFDbVU%2bXm76b18aaClpftS0wAA0NHV1dLW0nzxy8//5edkTRurx7fnj9QltReGNWX41iV5lcc4FYTZvEvw7EkKGkwKnkiPaPf3anFwGfYLGPX1n/TzI2Yil0uixjODmuJcS1CWZSh4RYxNRaxNXZJDU6rL%2bwzn7mK/nuLA4UoUoSNnvquQNtkoXunb2RiXrk/ISONgJ8jpU3uUyV3K1BEbu0Oe2KdMCue7pMQ2DfFyb19D4sj7lPHWrPI85OC78j9P%2baPd7zWfv9B6oaX14oWRnhbMRM/VysjfyRzlBckOgZdGOrwNtcoOhqQFQFLVYZERYJ7kY1Yf696ZEtAR%2b3o6O3w8BdEb5NHv49Xv5zkW7bdUGL5WFjWRG1wX65ofAisKt0JH2qOj7MojbapibWsT7WoTrRpT7N6l2zem2r/PcGrNde8vC5xqiF3qeUufrGHONPLxH/fI4yfs2RMuXsmZ2wSvpO5L7pTG6sT7ptK0rsa8DxXptQXJNbnJc931CB9XF7hRuDc01g%2bSgYDnI20KImwKwq0LQq2zgi3TAmBZgVapfpBUX8uk19BEH2iMh3Gmv2VfTlBPesg7lPdEdigJnbiYHbmSF8dEJ4rqM7ZbcmbyQgez/Tszg9L9oG%2bDoeCrisLhpSgrdJRNeZRDdaxjTZx1TaJNbaJTXYJTQ5JzY7LDu1TH9%2bmOrVkeH3Pdugr8BstCZppiF7tziT35pKF87kwDd7pWA/Mhs6siqa8m6X0%2boirFuzLJDR3rgI6xrU50REfb5Ydb54RYZgZbpvpBU15Dk3yhyb4QUHGiNwS0PN4TEuthHuFskfPGfqI4YroYOZgb0hrvVx/uMZMTSUdnsCqyODU5vJqcubex9RFuEwWhy42JZSjvrGDbPATsbQhUDQBlVxLxBCPaAeiqOs62Nt6xNs6mLt6%2bIcmpMcmlMcWxIdmpIdm5LtGmIdm2McXhQ6ZLW45HS5ZbS7azRlW8XUWsLToSVh4Nq4i1Lo%2b1QUfbomOsCpDwzGCr9DeWKQGQFD9QLiTZxyLByzTeyzzKwzTKzTzazSzSwyLMBZ4Z4ISvjCGUR00URYwXRvRnIJrj/GvCvJrCvKsC3CoC3Mv9XcsD7Psy3sxVxjDas5pSwmN83PPC3XIQNrlvLPKDIXkIKLBQMdK2BGldHm1dFmVTGW1XHW9bE68mpDbBpS7eqTreoTbBvj7RoS7JsTHZuSnZuTEVUOSkgY6xL4m0KQWKjLEHpReh4MUo68IIqxwELMUfkuQHRAKJ97SIdYdGuVkgXYxRLiZIV3OUm2W4KzzYxdbTEvYxJWS5LgFbFj1dHDldHDOaF9mbHtKWEFwT5lnsZ1/oY1fxxqEryR9fGUtsTCK3ZhWE%2b4W5uyQEeqUEeWeGeGYH22cHw3IR0Nxgy7cIWGG4VQnSphRpXYKEl0fBK2NsKmNsK2PsQGcrY4Fh7CpjbasTgGcc6pMcgdI0CsKgRRGwgnBYEdKqKMy6MAxeEAbLDbJO8YUl%2bpjFeZpGu5tFgWa7mke5W8Z4Wcf6OKE8nYOc7fzsrL1tYB4QyLu4EEJVChadgEFHT5fFTxfFjuSielIQbfGBTSivJqR7R4LvTBGK1JxB78jF12ZEerogvVwjvZ3DPJwifT0SAl%2bnI7yyQlzzwhyygqCgcfmhVoWgkgjb0khbNMqmLBJWGgUHtDzlQCy2FdF2VTH21bEOANj/AtxT2bSSu8asAAAAAElFTkSuQmCC' /%3e%3c/svg%3e" width="605" alt="Figure 1: Austin" data-srcset="/assets/static/eggs.82a2fbd.45e9e4a.png 480w, /assets/static/eggs.344a8c4.45e9e4a.png 605w" data-sizes="(max-width: 605px) 100vw, 605px" data-src="/assets/static/eggs.344a8c4.45e9e4a.png"><noscript><img class="g-image g-image--lazy g-image--loaded" src="/assets/static/eggs.344a8c4.45e9e4a.png" width="605" alt="Figure 1: Austin"></noscript></a>
+<em>Figure 1: Austin</em></p>
+<h3 id="where-is-austin"><a href="#where-is-austin" aria-hidden="true"><span class="icon icon-link"></span></a>Where is Austin?</h3>
+<p>Extensive scientific research has failed to determine a precise location. We can, however, be almost certain that Austin will be found between the Gulf of Mexico and the Zilov Gap on the Trans-Siberian railway.</p>
+<h3 id="what-is-austin-made-of"><a href="#what-is-austin-made-of" aria-hidden="true"><span class="icon icon-link"></span></a>What is Austin made of?</h3>
+<p>The full chemical composition of Austin continues to elude science. Top people have estimated that large amounts of calcium, iron, uranium-235, peanut butter and Diet Mountain Dew are essential components of Austin.</p>
+<h3 id="what-is-austins-purpose"><a href="#what-is-austins-purpose" aria-hidden="true"><span class="icon icon-link"></span></a>What is Austin’s purpose?</h3>
+<p>Scientific analysis shows that Austin appears to be a large functioning portion of the YouTube channel “ThatONEshowFUN”. The two entities are so counter dependant that they have been referred to by the concatenated title “Austin Thatoneshowfun”.</p>
+<p>A large amount of the evidence we have on this topic comes from the ongoing video game based show “Eggbusters”. Despite what the name may imply, the show has little association with eggs of any kind. However, some graphical iconography does seem to be inspired by this title.</p>
+<p>Eggbusters is focused around Austin endeavouring to replicate and confirm glitches and programming flaws found in video game software. Two such flaws are normally undertaken per episode of Eggbusters, but this has increased to more than four on the rare occasion.</p>
+<h3 id="on-the-origin-of-eggbusters"><a href="#on-the-origin-of-eggbusters" aria-hidden="true"><span class="icon icon-link"></span></a>On the origin of Eggbusters</h3>
+<p>The earliest evidence we have for Eggbusters has been accurately dated to no later then February 3, 2013 when Austin attempted to uncover potential programming flaws with the hit 2010 video game Super Mario Galaxy 2. Analysis shows that this was successful for Austin as two such flaws were considered confirmed by the episodes end.</p>
+<div class="youtube">
+	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/T5eAmtKiLNA?start=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<p>Following this initial catalyst, the Eggbusters show has continued to grow and expand into more extravagant and refined forms. Current estimates are that 135,000 full episodes will be constructed before the heat death of the universe billions of years from now.</p>
+<p>Eggbusters has spanned multiple seasons with such titles as “Two”, “Ex” and “Ex Two”.</p>
+<p>Occasionally Austin has taken on the assistance of his mother to construct an episode of Eggbusters. An example of this is the hit 2016 episode focused around the video game “The Legend of Zelda: Twilight Princess HD”. During this, Austin’s mother undertook most of the controlling aspect of the video game while Austin himself brutally gave instructions on how to perform the expected glitch.</p>
+<div class="youtube">
+	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/fFIq3tTr3OE?start=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<p>As indicated by things like a tense posture and metallic green hair, crafting Eggbusters is often a tedious and frustrating experience for Austin. This is very clear in the most recent episode of Eggbusters where Austin is nearly driven beyond the halls of sanity when attempting to fly around on a metal door in the hit video game “The Breath of the Wild”. Because of the shear frustration this became the self proclaimed “Worst Episode of Eggbusters Ever”.</p>
+<div class="youtube">
+	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/5m7cb6Huf6Y?start=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<p>To counter extreme frustration, Austin often takes much delight in the results of a successfully executed glitch. A great fondness for things like unobstructed views of distant tree lines and skyboxes is also a common reaction.</p>
+<p>The entity Austin Thatoneshowfun also has constructed videos unrelated to Eggbusters. After successfully reaching a funding goal, Austin undertook the responsibility of reviewing a bidet device designed to help clean the outer anus of excess excrement with high pressure water jets.</p>
+<div class="youtube">
+	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/gpoT2D9qtTE?start=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<p>Other things such as comedic focused tech reviews, musical features, general life updates and other such miscellaneous video content is also featured on the ThatONEshowFUN YouTube channel.</p>
+<div class="youtube">
+	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/KU0EGkPO1cU?start=0" frameborder="0" allowfullscreen=""></iframe>
+</div>
+<p>This concludes this extensive investigation into Austin. To ensure access to the most up to date information on this topic it is advised to do all of the three following options:</p>
+<ol>
+<li><a href="https://www.youtube.com/user/ThatOneShowFUN/featured" target="_blank" rel="nofollow noopener noreferrer">Subscribe to ThatONEshowFUN on YouTube.</a></li>
+<li><a href="https://twitter.com/NE_austin" target="_blank" rel="nofollow noopener noreferrer">Follow Austin on Twitter.</a></li>
+<li><a href="https://www.patreon.com/ThatOneShowFUN" target="_blank" rel="nofollow noopener noreferrer">Give you life savings to Austin Thatoneshowfun on Patreon</a>.</li>
+</ol>
+<p>Thank you for your time.</p>
+</div></div></div></div><footer class="v-footer theme--light" style="height:32px;"><div class="layout justify-center row wrap"><div class="flex text-xs-center xs12" style="margin-bottom:0;">Copyright © 2019 aarond.me</div></div></footer></div></div>
+    <script src="/assets/js/app.5edeec54.js" defer></script><script src="/assets/js/component--post.4cfc7d78.js" defer></script>
+  </body>
+</html>
