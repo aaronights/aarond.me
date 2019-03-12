@@ -3,6 +3,14 @@ title: "The Trouble with Star Trek Discovery"
 author: Aaron Davies
 date: 2019-02-27
 ---
+
+_Update 13 March 2019:  Certain people are using the discussion around Star Trek Discovery to promote bigoted ideas and openly attack actors and other people involved with the show. This is both horrific and embarrassing, especially considering the ideal Star Trek represents - inclusivity._
+
+_Attacking anyone online for a TV show is never acceptable. I’m extremely frustrated and even upset about the direction Star Trek Discovery is taking in regards to continuity, but it is absolutely not grounds for abusive and hurtful interactions on social media. Many people are enjoying Discovery, and they are entitled to share how much they are enjoying it without encountering hate. I do hope Star Trek can return to be more inline with what came before, but no one is entitled to have that happen._
+
+___
+##
+
 I’m into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
 
 The latest show, Star Trek Discovery, isn’t sitting well with me. It seems to be frequently ignoring and discarding various elements of the established fictional universe at will. It gives the impression that it is somehow embarrassed to be Star Trek, and of all that came before it.
