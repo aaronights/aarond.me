@@ -65,10 +65,15 @@
     },
     methods: {
       page: function(page) {
-        this.$router.push({path: "/blog/" + page});
-      }
+       if (page === 1) {
+          this.$router.push({path: "/blog/"});
+          } 
+          else {
+          this.$router.push({path: "/blog/" + page});
+}
     }
-  };
+    }
+  }
 </script>
 
 <style>

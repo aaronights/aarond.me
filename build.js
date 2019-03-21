@@ -16,11 +16,3 @@ try {
 catch(err){
     console.log(err)
 }
-
-try {
-    fs.mkdir('./docs/blog/1/');
-    fs.copyFile('./docs/blog/index.html', './docs/blog/1/index.html');
-}
-catch(err){
-    console.log(err)
-}
