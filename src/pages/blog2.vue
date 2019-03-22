@@ -28,7 +28,7 @@
             <h1 class="headline mb-0" style="padding: 0;"><g-link :to="post.node.path">{{post.node.title}}</g-link></h1>
           </v-card-title>
           <h5 style="padding: 0em 1em;">{{(new Date(post.node.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</h5><br>
-          <g-link :to="post.node.path"><v-img style="display: block; margin: 0 auto;" max-width="100%" max-height="100px" v-if="post.node.image" :src="post.node.image.replace('./../media/', '/assets/static/src/media/') " /></g-link>
+          <g-link :to="post.node.path"><v-img style="display: block; margin: 0 auto;" max-width="100%" max-height="100px" v-if="post.node.image" :src="post.node.image.replace('./../media/', '/static/assets/static/src/media/') " /></g-link>
           <v-card-text>            
            <div v-html="post.node.excerpt" />
              <v-btn><g-link :to="post.node.path">
