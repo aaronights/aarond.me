@@ -37,7 +37,7 @@
              </v-btn>
           </v-card-text>
           <v-card-actions>
-          <h5 style="padding: 0em 1em;"> {{ post.node.timeToRead }} minute read time.</h5>
+          <h5 style="padding: 0em 1em;"> {{ post.node.timeToRead }} minute reading time.</h5>
           </v-card-actions>          
         </v-card>
         <v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" @input="page" prev-icon="<" next-icon=">"></v-pagination>
