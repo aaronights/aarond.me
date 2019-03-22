@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{270:function(e){e.exports={data:{post:{title:"The End of 1UP. Long Live 1UP",content:'<div class="youtube">\n\t<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/owiscTmBphw?start=0" frameborder="0" allowfullscreen=""></iframe>\n</div>\n',date:"2013-02-22T00:00:00.000Z",timeToRead:1}}}}}]);

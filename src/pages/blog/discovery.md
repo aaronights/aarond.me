@@ -9,15 +9,17 @@ _Update 13 March 2019:  Certain people are using the discussion around Star Trek
 _Attacking anyone online for a TV show is never acceptable. I’m extremely frustrated and even upset about the direction Star Trek Discovery is taking in regards to continuity, but it is absolutely not grounds for abusive and hurtful interactions on social media. Many people are enjoying Discovery, and they are entitled to share how much they are enjoying it without encountering hate. I do hope Star Trek can return to be more inline with what came before, but no one is entitled to have that happen._
 
 ___
-##
 
-I’m into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.<!-- more -->
+I’m into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
 
+<!-- more -->
 
 The latest show, Star Trek Discovery, isn’t sitting well with me. It seems to be frequently ignoring and discarding various elements of the established fictional universe at will. It gives the impression that it is somehow embarrassed to be Star Trek, and of all that came before it.
 
 So what is the new show doing that just doesn’t align well?
+
 ## Characters
+
 Sometimes it’s been put down to bad acting or writing, but the many characters in Star Trek behave differently. The way they interact with others, discuss topics, debate matters and even just how they carry themselves is a fair bit removed from what is the norm in the current day. These differences have been highlighted in some great time travel Star Trek stories: Voyager visited the 90’s in the two parter Future’s End, City on the Edge of Forever in the Original Series is a fan favourite episode, and Star Trek IV strongly focused on how much of a fish out of water a 23rd century crew would be in the current day.
 
 [![st4.](../../media/images/blog/st4.jpg)](/assets/static/src/media/images/blog/st4.jpg)
@@ -26,7 +28,9 @@ _23rd century astronauts being out of time._
 Discovery does things differently. The characters seem more fitting in a contemporary sitcom or drama, rather than being futuristic astronauts on some kind of star trek. Tilly, Stamets or even the Vulcan-raised Michael Burnham would be right at home in a modern day Western city in terms of behaviour and mannerisms. The bickering and interactions fail to give any hint that they are separated from us by more than two centuries. If you extrapolate how different people are today compared to the early 1800’s, you’d expect huge changes - if anything, other Star Trek iterations haven’t pushed far enough in this aspect.
 
 But this can be put down to conjecture. People are unique, and it could just be that these particular characters are a throwback to centuries gone. But there is more than that - the technology is also not lining up.
+
 ## Technology
+
 Full holographic simulations are used, despite them having been introduced as  a new and exciting technology over 100 years later in The Next Generation. A holographic communication system is casually used without note, despite again being a new and exciting technology over 100 years later - and this technology is never seen or used during the hundreds of episodes, spanning multiple shows, set in the time between Discovery and its eventual debut in the fifth season of Deep Space Nine.
 
 [![holo.](../../media/images/blog/holo.jpg)](/assets/static/src/media/images/blog/holo.jpg)
@@ -36,8 +40,10 @@ An entire war with the Klingons occurs during the first season of Discovery, wit
 
 The highly advanced Spore Drive used on Discovery might seem to violate continuity, but as of now it’s still an experimental system deployed on just one ship. The best case scenario I can think of for explaining its absence later in the timeline is that it’ll be gone and unusable before the Discovery is decommissioned or destroyed.
 
-There are even little things that don’t fit, like site-to-site transport between two locations aboard a starship being employed casually - despite it then being a very high risk and unadvisable procedure a few years later. 
+There are even little things that don’t fit, like site-to-site transport between two locations aboard a starship being employed casually - despite it then being a very high risk and unadvisable procedure a few years later.
+
 ## Iconography
+
 The model of the USS Enterprise used in filming the original series is now on display at the Smithsonian museum, yet Discovery has the gall to rewrite this iconic design. 
 [![enterprise.](../../media/images/blog/enterprise.jpg)](/assets/static/src/media/images/blog/enterprise.jpg)
 _The original filming model of the Enterprise restored and on the display at the Smithsonian National Air and Space Museum._

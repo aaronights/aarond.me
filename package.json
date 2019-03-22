@@ -2,28 +2,28 @@
   "name": "aarond.me",
   "private": true,
   "scripts": {
-    "build": "node ./build.js",
-    "dev": "gridsome develop",
-    "explore": "gridsome explore",
+    "dev": "./node_modules/.bin/gridsome develop",
+    "build": "./node_modules/.bin/gridsome build",
+    "explore": "./node_modules/.bin/gridsome explore",
     "import": "node ./src/HTMLToMD.js",
     "share": "lt --port 8080 --subdomain aarond"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
-    "gridsome": "^0.5.5",
-    "vue": "^2.6.10",
-    "vuetify": "^1.5.7"
+    "gridsome": "^0.5.5"
   },
   "devDependencies": {
     "@gridsome/source-filesystem": "^0.3.0",
     "@gridsome/transformer-remark": "^0.2.1",
     "acorn": "^6.1.1",
+    "ajv": "^6.10.0",
     "cheerio": "^1.0.0-rc.2",
     "localtunnel": "^1.9.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
     "turndown": "^5.0.3",
+    "vue": "^2.6.10",
     "vue-cli-plugin-vuetify": "^0.5.0",
+    "vuetify": "^1.5.7",
     "vuetify-loader": "^1.2.1",
     "webpack-node-externals": "^1.7.2"
   }
