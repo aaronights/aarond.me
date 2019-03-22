@@ -4,7 +4,7 @@ author: Aaron Davies
 date: 2019-01-31
 ---
 
-## Cheap or Too Cheap?
+### Cheap or Too Cheap?
 In my continuing quest to discover the cheapest viable technology products, I’ve switched my attention to smart phones. Browsing Aliexpress, the best balance between specifications and price I found was under the very obscure Vernee brand - the T3 Pro model. I opted for the dark blue color, paid my $110 and three weeks later it was in my mailbox.
 
 [![Cheap can!](../../media/images/blog/vfront.jpg)](/assets/static/src/media/images/blog/vfront.jpg)

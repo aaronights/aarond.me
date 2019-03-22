@@ -24,7 +24,7 @@
       title
       content
       date
-      timeToRead(speed: 100)
+      timeToRead(speed: 230)
     }
   }
 </page-query>

@@ -45,7 +45,7 @@ Currently the most advanced nuclear power station is the [AP1000 model designed 
 
 And that is just the beginning. The AP1000 is still a pressurised water reactor, but many more advanced alternatives are being developed.
 
-14 countries including China, Australia, Canada and the USA have joined together in the [Generation IV International Forum](www.gen-4.org/index.html). To quote their front page:
+14 countries including China, Australia, Canada and the USA have joined together in the [Generation IV International Forum](http://www.gen-4.org/index.html). To quote their front page:
 
 _The Generation IV International Forum (GIF) is a co-operative international endeavour which was set up to carry out the research and development needed to establish the feasibility and performance capabilities of the next generation nuclear energy systems._
 

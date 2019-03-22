@@ -31,7 +31,7 @@
   }
   h2 {
 		margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 0em;
   }
 	body {
 		font-family: "Roboto", arial, sans-serif;

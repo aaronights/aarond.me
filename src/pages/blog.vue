@@ -13,7 +13,7 @@
               <v-list-tile-content>
                 <v-list-tile-title>{{post.node.title}}</v-list-tile-title>
                 <v-list-tile-sub-title class="text--primary">{{(new Date(post.node.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</v-list-tile-sub-title>
-                <v-list-tile-sub-title>{{post.node.excerpt}}</v-list-tile-sub-title>
+                <v-list-tile-sub-title></v-list-tile-sub-title>
               </v-list-tile-content>
               <v-list-tile-action>
                 <v-list-tile-action-text>{{ post.node.timeToRead }} minute read</v-list-tile-action-text>
