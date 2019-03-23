@@ -4,9 +4,7 @@ author: Aaron Davies
 date: 2013-03-08
 ---
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/dyEhxX7a-8Y?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/dyEhxX7a-8Y`
 
 Is the lack of backwards compatibility in the Playstation 4 a big problem? Will this generation of games live on for after the release of the next generation of hardware? Is Gaikai viable?
 

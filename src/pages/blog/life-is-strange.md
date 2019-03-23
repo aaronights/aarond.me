@@ -8,7 +8,7 @@ Part of the motivation behind leaving my life in the city was the lack of employ
 
 My father hasn’t been very well. It’s a combination of three things, including very scared lungs and issues with the waterworks. The biggest problem right now, however, is his back. He is in extreme pain every time he moves and struggles to get comfortable. Getting in and out of bed has become too difficult, so he tries to sleep in a large recliner chair. This is compounding issues, making him stand extremely hunched over and putting more strain on his already inflamed back.
 
-[![An artist's impression, not a Disney movie!](../../media/images/blog/hunchback.png)](/assets/static/src/media/images/blog/hunchback.png)
+[![An artist's impression, not a Disney movie!](/media/images/blog/hunchback.png)](/media/images/blog/hunchback.png)
 _An artist's impression, not a Disney movie!_
 
 So after seeing the state that he was in I opted to move in and assume the role of a live in carer all over again.

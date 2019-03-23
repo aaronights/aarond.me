@@ -6,7 +6,7 @@ date: 2017-09-18
 
 Train? Bus? Nope. In the party wagon with this guy.
 
-[![That stuff is good for him, right?](../../media/images/blog/IMG_20170910_162231.jpg)](/assets/static/src/media/images/blog/IMG_20170910_162231.jpg)
+[![That stuff is good for him, right?](/media/images/blog/IMG_20170910_162231.jpg)](/media/images/blog/IMG_20170910_162231.jpg)
 _That stuff is good for him, right?_
 
 This week is the week. I can sense it in my feet! The waves are breaking to my right and the mountains are climbing to the left. The sun is slowly starting to set over the ocean. What a beautiful Sunday afternoon to travel. My brother in law is driving though; he wears two tonne shoes made of lead. I guess fuel economy isn’t a top priority in this 2003 Toyota.

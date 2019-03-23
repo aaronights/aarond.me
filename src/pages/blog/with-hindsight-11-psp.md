@@ -6,7 +6,7 @@ date: 2012-06-17
 
 _Welcome to the very first ‘With Hindsight’ article. This will be a regular series where we look back at gaming releases from this quickly fading generation and seeing how they hold up with the benefit of hindsight._
 
-![](/assets/static/src/media/images/blog/HindsightPSP2.gif)Over a series of articles I will be taking a look at the Playstation Portable. Playing the games and using the system. Along with this I will be taking a look at its time on the market, seeing how it faired and what position it is in now. For this first article, we will take a trip back in history…
+![](/media/images/blog/HindsightPSP2.gif)Over a series of articles I will be taking a look at the Playstation Portable. Playing the games and using the system. Along with this I will be taking a look at its time on the market, seeing how it faired and what position it is in now. For this first article, we will take a trip back in history…
 
 ## PSP Part 1: History
 

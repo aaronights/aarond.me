@@ -12,7 +12,7 @@ Sony has promised to try and solve this problem using game streaming over the In
 
 [ In 2010 a patent from Sony was uncovered that demonstrated a peripheral designed to give backwards compatibility to a console.](http://www.siliconera.com/2010/09/14/sony-japan-files-patent-for-new-generation-console-to-previous-generation-console-adapter/) It involved a small unit that contained a processor, DVD drive emulator and graphics and sound chips. The physical optical drive, controller inputs and video output of the main console would work in tandem with this additional unit to give seamless backwards compatibility.
 
-[![From Sony's patent, an attached accessory provides backwards compatibility](../../media/images/blog/backcompat.png)](/assets/static/src/media/images/blog/backcompat.png)
+[![From Sony's patent, an attached accessory provides backwards compatibility](/media/images/blog/backcompat.png)](/media/images/blog/backcompat.png)
 _From Sony's patent, an attached accessory provides backwards compatibility_
 
 At the time it was assumed that this patent was for Playstation 2 capability on the Playstation 3. This may not have been implemented due to the Playstation 3 lacking a suitably fast connection method - a standard USB port probably wouldn't be able to handle the throughput required. But with the Playstation 4 still in development, the necessary connections for such a peripheral can be integrated from the outset.  It may even be possible to design it in such a way that the memory and graphics processor in the Playstation 4 can be utilised, with only the complex Cell processor from the Playstation 3 needed in this accessory, effectively lowering the cost.

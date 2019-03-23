@@ -12,12 +12,12 @@ The biggest strength I take from this is my awareness of just how strange and do
 
 I’m also awful at reading people. In conversation I find myself staring right into at faces just to be able to gauge their reactions, often making people very uncomfortable. I’d be the worst phone psychologist.
 
-[![Sharing goofy photos of myself is meant to boost confidence.](../../media/images/blog/IMG_20170410_165227.jpg)](/assets/static/src/media/images/blog/IMG_20170410_165227.jpg)
+[![Sharing goofy photos of myself is meant to boost confidence.](/media/images/blog/IMG_20170410_165227.jpg)](/media/images/blog/IMG_20170410_165227.jpg)
 _Sharing goofy photos of myself is meant to boost confidence._
 
 How do people meet, how does this modern social game work? Around 100 years ago people had status and classes to dictate how people interacted, at least in the western world. Now people seem to engage in a conversational volley, talking back and fourth even in large groups. The media portrays it as simple and effortless, a skill inherent to being human. There is no negotiation done beforehand, no leader or moderator to ensure the talk flows and stays fluid. I'm not good at it; it always comes out as awkward and uncomfortable. I've never done a survey, but get the impression that others find me frustrating in this environment. What are the queues that people follow in social situations, do they consciously pay attention? Or does the nuance and subtlety come naturally, without the need for effort?
 
-But power, confidence and knowledge comes with experience. Over the past six months I’ve been ramping up my secular social life. [As my previous blog entry shows](/assets/static/src/media/images/blog/01/coming-out-as-an-atheist.html), I don’t have experience in this area. So, I try and get some:
+But power, confidence and knowledge comes with experience. Over the past six months I’ve been ramping up my secular social life. [As my previous blog entry shows](/media/images/blog/01/coming-out-as-an-atheist.html), I don’t have experience in this area. So, I try and get some:
 
 * To start, I regularly attend [a local meetup group](https://www.meetup.com/Palmerston-North-SitP/). It’s nothing exciting, just a handful of fellow skeptic dudes meeting in a café. It’s fun, very casual. I’d like it if it didn’t always resort to a debate, but I guess that is what skeptical thinkers like to do.
 * I am part of a weekly pub quiz team. In terms of peer socialisation, it’s a bit awkward. My team is made up primarily of retired, 60+ people. I joined to meet people, but during the event it’s impossible to chat with anyone on other teams. The annoying thing is my team is really good. Old people know heaps, and I fill in the gaps for anything since 1999.

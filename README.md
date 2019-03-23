@@ -17,8 +17,7 @@ There are a few extra NPM packages needed for Gridsome, and for the conversion o
 
 ```bash
 cd aarond.me
-npm i vuetify
-npm i --dev @gridsome/source-filesystem @gridsome/transformer-remark webpack-node-externals cheerio localtunnel turndown
+npm i --dev @gridsome/source-filesystem @gridsome/transformer-remark webpack-node-externals cheerio localtunnel turndown vuetify
 ```
 
 ### Generate MD files from HTML
@@ -36,7 +35,7 @@ node ./src/HTMLToMD.js
 This will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.
 
 ```bash
-gridsome develop
+npm run dev
 ```
 
 ### Visit the Site
@@ -56,7 +55,7 @@ Like Gatsby, Gridsome uses GraphQL in Development to expose page data to the fro
 This command will create a set of static website files in the "dist" directory.
 
 ```bash
-gridsome build
+npm run build
 ```
 
 ### Push to GitHub

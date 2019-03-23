@@ -29,7 +29,7 @@ Taking all things together, would you say you are:
 3. Not very happy
 4. Not at all happy
 
-[![All those lines! More going up than down.](../../media/images/blog/share-of-people-who-say-they-are-happy.png)](/assets/static/src/media/images/blog/share-of-people-who-say-they-are-happy.png)
+[![All those lines! More going up than down.](/media/images/blog/share-of-people-who-say-they-are-happy.png)](/media/images/blog/share-of-people-who-say-they-are-happy.png)
 _All those lines! More going up than down._
 
 [This chart represents the percentage of people that answered either as being Very happy or Rather happy, plotted against time](https://ourworldindata.org/grapher/share-of-people-who-say-they-are-happy?country=ALB+DZA+AND+ARG+ARM+AUS+AZE+BHR+BGD+BLR+BIH+BRA+BGR+BFA+CAN+CHL+CHN+COL+HRV+EGY+FRA+GEO+DEU+HUN+IND+IRQ+JPN+MYS+MEX+PER+POL+RUS+SGP+SWE+CHE+TWN+THA+UKR+USA+URY+ZMB+ZWE+CYP+CZE+DOM+ECU+SLV+EST+ETH+FIN+GHA+GTM+HKG+IDN+IRN+ISR+ITA+JOR+KAZ+KWT+KGZ+LVA+LBN+LBY+LTU+MKD+MLI+MDA+MNE+MAR+NLD+NZL+NGA+NOR+PAK+PSE+PHL+PRI+QAT+ROU+RWA+SAU+OWID_SRM+SRB+SVK+SVN+ZAF+KOR+ESP+TZA+TTO+TUN+TUR+UGA+GBR+UZB+VEN+VNM+YEM). While there are exceptions, such as Egypt and the United States, the trend is that happiest is staying level or increasing. But even in absolutely terms, the most recent 2014 survey results show that the majority of nations have far more people reporting to be happy than are not. All 2014 nations have over 60% of people claiming to be happy with most reporting above 85%.
@@ -49,9 +49,7 @@ Is violence increasing? No.
 
 Less people than ever in history are dying as the result of human violence than ever.
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/ramBFRt1Uzk?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/ramBFRt1Uzk`
 
 Torture, punishment and even the death penalty is less common than ever. [The rate of homicide is at its lowest ever.](https://ourworldindata.org/homicides/) In even nation in the world, including third world nations, people in general are less likely to be the victim of physical violence now than in any time in recorded history. Violence motivated my racism, sexism, homophobia and even religion is seen as an increasingly disgusting thing. [Violence and mistreatment of children is becoming less common.](https://ourworldindata.org/violence-against-rights-for-children/)
 

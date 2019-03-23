@@ -8,9 +8,7 @@ tags:
 
 With the discussion of violence in media and it's reflections on peoples actions increasing, a topic that is bound to get more attention is the ESRB classification system. I have a few thoughts on this topic that I'd like to share with my 33 intimate followers here on MyIGN!
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/0xsbfJgp1eU?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/0xsbfJgp1eU`
 
 _Video discussion: The ESRB and violence in games_
 

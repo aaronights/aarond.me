@@ -12,7 +12,7 @@ It’s not a label I like to give myself. I don’t want people to make assumpti
 
 I really liked Star Trek. I bounced off the walls when Tuvok quoted Spock during the finale of Voyager - watching it over barely viewable UHF reception. Getting an in-universe reason for the smooth-foreheaded Klingons seen in the original series during the last season of Star Trek: Enterprise made things fit so well - it was beautiful! 
 
-[![Smooth.](../../media/images/blog/smoothhead.jpg)](/assets/static/src/media/images/blog/smoothhead.jpg)
+[![Smooth.](/media/images/blog/smoothhead.jpg)](/media/images/blog/smoothhead.jpg)
 _Coming full circle and making everything fit beautifully._
 
 More than just watching the shows (and spending way too much money on videos, DVDs and books), I did all that I could to become engrossed in this fictional universe.

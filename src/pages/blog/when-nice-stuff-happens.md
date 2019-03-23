@@ -6,15 +6,13 @@ date: 2017-07-15
 
 Doesn’t stuff happen? Nice stuff happens. I like it when nice stuff happens.
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/s4U4FuIyPkc?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/s4U4FuIyPkc`
 
 Oh, in other news I’ll be voting Green in the upcoming general election here in New Zealand. Why? That’s a great story. I do disagree on things, most notably policies relating to the research and development of Generation 4 nuclear technology, but certain events over the past day or two have persuaded me that this is the right thing for me to do.
 
 As I pen this (litreally with a pen and paper) I’m on the waterfront in Wellington city during a beautiful and surprisingly warm winter’s day.
 
-[![Inception.](../../media/images/blog/IMG_20170715_124011.jpg)](/assets/static/src/media/images/blog/IMG_20170715_124011.jpg)
+[![Inception.](/media/images/blog/IMG_20170715_124011.jpg)](/media/images/blog/IMG_20170715_124011.jpg)
 _Inception._
 
 There are problems in the world, in this country and right now in my life. I keep in mind what I wrote in the Humanist Society of New Zealand’s newsletter last month – that the tremendous amount of good I observe around me far outweighs the bad. More than that, the good inside each of us is the driving force that makes us strive to fight and eliminate any bad we see.
@@ -33,8 +31,6 @@ Perhaps this is the best way to learn. I’ve relied on reading an immense amoun
 
 And that’s the epiphany I attained. The outcome and prospects for the future can be best described in this great song from all of our childhoods.
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/-kl4hJ4j48s?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/-kl4hJ4j48s`
 
 Now I’m in a whole new world, complete with new horizons to pursue.

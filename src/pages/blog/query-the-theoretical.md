@@ -28,9 +28,7 @@ She’s a character. Bouncing around drinking and teasing, leaving a wake of cru
 
 She wants some action, she wants to live.
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/cYhuDCs2zCc?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/cYhuDCs2zCc`
 
 She might want the calm and simple life deep down, but she would never admit it. The small town blues with 2.5 children is something that clashes with her reputation. Besides, she has a dog. They’re just like kids, but less hassle.
 
@@ -64,7 +62,7 @@ If it’s going to be like black goop on water it isn’t worth trying in the fi
 
 There are many steps in between, but there is the ultimate. The final epiphany. The revelation. Just by chance the combining of these two worlds could yield a massive fission explosion consuming both of their minds and bodies in heat, power and passion.
 
-[![Oh the metaphors.](../../media/images/blog/boom.jpg)](/assets/static/src/media/images/blog/boom.jpg)
+[![Oh the metaphors.](/media/images/blog/boom.jpg)](/media/images/blog/boom.jpg)
 _Oh the metaphors._
 
 How much trepidation should she have, how much research should he do to predict the outcome? Should they just go into it and see what happens, not caring about any potential mess? Should they come at it extremely hard and fast, using all their strength and will power to give it the best chance possible of catalysing that huge explosion? Or should they just lazily lark about and be contempt with just being bland and a little sweet?

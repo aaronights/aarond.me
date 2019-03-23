@@ -24,7 +24,7 @@ If you want more information [Wikipedia has a dedicated page](https://en.wikiped
 
 I've still yet to read every book in the series - the older ones are out of print and aren't available digitally. Still, my collection is slowly forming.
 
-[![The non-digital part of my book heap.](../../media/images/blog/IMG_20151117_161855.jpg)](/assets/static/src/media/images/blog/IMG_20151117_161855.jpg)
+[![The non-digital part of my book heap.](/media/images/blog/IMG_20151117_161855.jpg)](/media/images/blog/IMG_20151117_161855.jpg)
 _The non-digital part of my book heap._
 
 The genesis of my story started with a short fact mentioned in the 1967 short story Flatlander (available in both the _Crashlander_ and _Neutron Star_ compilations). In passing it was stated that one the early interstellar slowboats sent to colonise another planet, the Lazy Eight II, missed its target world entirely. It continued to accelerate to near light speed under its Ramscoop Fusion powered drive, going so fast to make retrieving it near impossible even with modern faster than light Hyperdrive technology.

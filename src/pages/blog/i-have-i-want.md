@@ -67,7 +67,7 @@ I want.
 * I want friends. Being the king of all introverts doesn’t help. Things… changed over the last 12 months for me (long story, I did a speech about it) and I guess now I don’t have a circle to slot into.
 * I want goals. I don’t really know what goals I could set. The things I’d like can seem insurmountable, and anything else is just frivolous.
 
-In [the presentation I gave](/assets/static/src/media/images/blog/15/public-spoken.html) I ended with this corny sentence:
+In [the presentation I gave](/media/images/blog/15/public-spoken.html) I ended with this corny sentence:
 
 _And learning – both how things work and how to be a better person – is the ultimate goal that anyone could want to strive for._
 

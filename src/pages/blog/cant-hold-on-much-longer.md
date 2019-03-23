@@ -8,7 +8,7 @@ This stinks.
 
 I am used to rejection, but this is getting absurd.
 
-[![One of many.](../../media/images/blog/storyofmylife.gif)](/assets/static/src/media/images/blog/storyofmylife.gif)
+[![One of many.](/media/images/blog/storyofmylife.gif)](/media/images/blog/storyofmylife.gif)
 _One of many._
 
 Over and over again I get turned down for roles with a generic mail merge response. The most annoying thing is how positive I feel all the interviews go. I get along well with the people plus I am familiar with every scenario and software environment that is brought up. I’d like to think I could learn something from each and every interview, but even with a time machine I have no idea how I could go back and change things to improve my chances. I almost wish I was crashing and burning so I could clearly see how I would improve things for next time.
@@ -25,7 +25,7 @@ I also have a little bit of a cough. Not too bad, but enough to be a pain. It do
 
 Wasn’t 1999 such a simpler time? I would start playing Sonic Adventure, but I’m sure I’d be disappointed that it doesn’t live up to how I remember it. At least I have this beautiful framed piece of art on my wall to keep my spirits up.
 
-[![All Mighty Hedgehog.](../../media/images/blog/IMG_20170919_130623.jpg)](/assets/static/src/media/images/blog/IMG_20170919_130623.jpg)
+[![All Mighty Hedgehog.](/media/images/blog/IMG_20170919_130623.jpg)](/media/images/blog/IMG_20170919_130623.jpg)
 _All Mighty Hedgehog._
 
 [Email me with offers and advice: aaronights@gmail.com.](mailto:aaronights@gmail.com)

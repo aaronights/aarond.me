@@ -16,7 +16,7 @@ So right now I just wait until I really get the burn to eat… then I just resor
 
 To roll back the clock a bit, many years ago I changed my lifestyle. I started running and exercising regularly and cut down on large portions of bad food. I stuck with it, too. I’m physically fitter and healthier than I’ve even been in my life.
 
-[![Could still be better.](../../media/images/blog/bmi.jpg)](/assets/static/src/media/images/blog/bmi.jpg)
+[![Could still be better.](/media/images/blog/bmi.jpg)](/media/images/blog/bmi.jpg)
 _Could still be better._
 
 I guess I thought that if I cleaned myself up from being a fat pie into the size medium I am now that other things might get better – some fulfilment would come! It didn’t really. It’s a comedy of errors almost, but lately I feel worse that I ever have before.
@@ -25,7 +25,7 @@ I used to love cooking and preparing meals. With work I often spent weeks on a p
 
 To try and recapture the past I summoned up all the willpower I could grasp and got back to baking.
 
-[![Full cream in the frosting gives it that shiny glaze.](../../media/images/blog/cake.jpg)](/assets/static/src/media/images/blog/cake.jpg)
+[![Full cream in the frosting gives it that shiny glaze.](/media/images/blog/cake.jpg)](/media/images/blog/cake.jpg)
 _Full cream in the frosting gives it that shiny glaze._
 
 I made cake! Brown sugar with a chocolate frosting. No recipe, no measuring – I tested if I still had those skills from long ago. If it looks a little thin that is because I only had two eggs and a large cake pan. It’s good, I enjoyed it. Fluffy and not too sweet. Dark chocolate things should always have that hit of bitterness.

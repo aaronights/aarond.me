@@ -20,9 +20,7 @@ Look at music, movies, people and hairstyles from generations ago and it will of
 
 In 1964 Bob Dylan released The Times They Are a-Changin’. It’s clearly a commentary on the turbulent times of change that the 60’s were facing, but today those old lyrics might be more relevant than ever before.
 
-<div class="youtube">
-	<iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/BfFZ9FyB6rs?start=0" frameborder="0" allowfullscreen=""></iframe>
-</div>
+`youtube:https://www.youtube.com/embed/BfFZ9FyB6rs`
 
 * _Admit that the waters around you have grown_
 
@@ -56,7 +54,7 @@ For what seems like an eternity I haven’t exactly been doing much winning. It 
 
 The opposite is also true. Those currently winning and are on top of the world will eventually fall and fail.
 
-[![trump](../../media/images/blog/trump.jpg)](/assets/static/src/media/images/blog/trump.jpg)
+[![trump](/media/images/blog/trump.jpg)](/media/images/blog/trump.jpg)
 _Hopefully some sooner than most._
 
 \- [@aaronights](http://twitter.com/aaronights)

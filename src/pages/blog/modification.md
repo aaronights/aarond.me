@@ -16,7 +16,7 @@ Be yourself.
 
 I'm not interested in being myself!
 
-[![One day I'll look at the world again.](../../media/images/blog/meclosed.jpg)](/assets/static/src/media/images/blog/meclosed.jpg)
+[![One day I'll look at the world again.](/media/images/blog/meclosed.jpg)](/media/images/blog/meclosed.jpg)
 _One day I'll look at the world again._
 
 I’m not a huge fan of the version of myself that exists now. I like even less the version of me that existed a month ago, a week ago or yesterday. I do, however, have the potential to like the version of myself that exists somewhere in the future.

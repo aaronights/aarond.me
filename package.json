@@ -17,6 +17,7 @@
     "acorn": "^6.1.1",
     "ajv": "^6.10.0",
     "cheerio": "^1.0.0-rc.2",
+    "gridsome-plugin-remark-youtube": "^1.0.1",
     "localtunnel": "^1.9.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",

@@ -16,7 +16,7 @@ At the Playstation briefing, Sony claimed that Playstation 3 games would be play
 
 The tentative Holiday 2013 release of the next generation consoles puts it within less than a dozen weeks of Grand Theft Auto 5, quite possibly the biggest game of the year. Being such a huge game, people will still be playing it by the time the new systems arrive. To compound the issue, people may want to purchase a new console to play next generation games along with GTA 5 for the holidays.
 
-[![It might be worthwhile to have your new console run the biggest game of the year](../../media/images/blog/gta.jpg)](/assets/static/src/media/images/blog/gta.jpg)
+[![It might be worthwhile to have your new console run the biggest game of the year](/media/images/blog/gta.jpg)](/media/images/blog/gta.jpg)
 _It might be worthwhile to have your new console run the biggest game of the year_
 
 ## One box is enough
@@ -31,7 +31,7 @@ The current generation is the first to have games distributed over the Internet 
 
 As you might gather by my Game Failings features, I play a good deal of older games. Right now I'm enjoying Halo Anniversary, SSX and about to start Driver:San Francisco.  Being as poor and scarcely employed as I am, I seek out deals and bargains where I can. Old game might be old, but if fashion taught us anything it's to mix some of the old with the new.
 
-[![Older games that I still fully intend to play and complete.](../../media/images/blog/IMG_20130227_232022.jpg)](/assets/static/src/media/images/blog/IMG_20130227_232022.jpg)
+[![Older games that I still fully intend to play and complete.](/media/images/blog/IMG_20130227_232022.jpg)](/media/images/blog/IMG_20130227_232022.jpg)
 _Older games that I still fully intend to play and complete._
 
 ## Digital sales

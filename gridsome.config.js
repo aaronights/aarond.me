@@ -19,6 +19,11 @@ module.exports = {
         path: "src/pages/blog/*.md",
         typeName: "Post",
         route: '/blog/:year/:month/:day/:slug',
+        remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube']
+          ]
+        }
       }
     }
   ]

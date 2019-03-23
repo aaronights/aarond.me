@@ -10,7 +10,7 @@ At a guess I would assume that most people don’t really understand how a nucle
 
 I’m purely an amateur that has just read way too many books on the topic, but this is just a short run down on nuclear technology. How it works, the problems with it and where it is going in the future.
 
-[![Nuclear Fission.](../../media/images/blog/nuclear-fission3.jpg)](/assets/static/src/media/images/blog/nuclear-fission3.jpg)
+[![Nuclear Fission.](/media/images/blog/nuclear-fission3.jpg)](/media/images/blog/nuclear-fission3.jpg)
 _Nuclear Fission._
 
 The basic principle of all nuclear technology is one word: fission. You take a very large atom, such as certain Uranium isotopes, and knock it with neutrons. These atoms are so big that nuclear force can barely hold them together. That knock causes them to split into two smaller atoms – along with releasing a tremendous amount of energy that was contained within the binding force of the nucleus. Also released in these reactions are more neutrons, and these impact neighbouring atoms to cause them to undergo fission. The resulting cascade enables a continuous release of energy without any external intervention.
@@ -19,14 +19,14 @@ The most common type of nuclear power station in use today is the [Pressurised L
 
 Fissionable material, most commonly the isotope Uranium-235, is embedded into ceramic pellets that are grouped together then placed into long zirconium metal tubes. These solid fuel rods are then group together into bundles and are then ready to be inserted into a reactor.
 
-[![A Fuel Rod Bundle.](../../media/images/blog/Nuclear-fuel-rods_0.png)](/assets/static/src/media/images/blog/Nuclear-fuel-rods_0.png)
+[![A Fuel Rod Bundle.](/media/images/blog/Nuclear-fuel-rods_0.png)](/media/images/blog/Nuclear-fuel-rods_0.png)
 _A Fuel Rod Bundle._
 
 When a fission reaction occurs most of the energy is released as heat. Heat exchangers inside the reactor pump water around the fuel rod bundles so it can absorb all the heat being produced. This heat is exchanged into a separate reservoir of water that turns into steam. The pressure behind the steam is used to rotate a turbine that spins a generator producing electrical power.
 
 The original style of power plant had large cooling towers to vent all the steam out, but modern designs use a condenser manifold to turn the steam back into liquid water to start the process all over again.
 
-[![Reality is no longer like The Simpsons.](../../media/images/blog/800px-Springfield_Nuclear_Power_Plant.png)](/assets/static/src/media/images/blog/800px-Springfield_Nuclear_Power_Plant.png)
+[![Reality is no longer like The Simpsons.](/media/images/blog/800px-Springfield_Nuclear_Power_Plant.png)](/media/images/blog/800px-Springfield_Nuclear_Power_Plant.png)
 _Reality is no longer like The Simpsons._
 
 So how do you turn this style of nuclear power plant off?
@@ -64,7 +64,7 @@ These are hugely simplified summaries of extremely complex and detailed systems 
 
 Climate change could be classed as the biggest problem the world currently faces. We are burning fossil fuels and releasing huge quantities of carbon, nitrogen oxides and even soot into the atmosphere. Renewable sources of energy are improving, but still face obstacles. Rain can become rare, winds can calm down and overcast days occur. All these options also can’t scale to demand. If more energy is required on a calm and cold night, you can’t tell the wind to speed up! It also requires significant modification and long term use of vast landscapes. In a country like mine there isn’t much suitable land that people would be willing to give up for this use.
 
-[![\#savethepolarbears](../../media/images/blog/climate-change.jpg)](/assets/static/src/media/images/blog/climate-change.jpg)
+[![\#savethepolarbears](/media/images/blog/climate-change.jpg)](/media/images/blog/climate-change.jpg)
 _\#savethepolarbears_
 
 Is nuclear a viable option now? For New Zealand it might not be. But technology is moving forward very quickly. My biggest concern is it will become a fully viable and even factually preferable option, yet the stigma and demonising around it that people are almost indoctrinated with might prevent it from being adopted. As we push forward with lifting people out of poverty and expanding the economy we may require it – lest we stagnate as others pass us.
