@@ -6,7 +6,7 @@ date: 2018-11-28
 
 ## Ultra low cost bargain?
 
-I live in New Zealand, a rather small country with a population of just under 5 million people. This relatively small amount of consumers can lead to a lack of product variety in some areas. Out side of the known brands – Samsung to Sony, Panasonic to Philips – there isn’t much of a choice when it comes to low cost consumer electronics. There is just one exception I’m aware of to this, a store brand owned by the biggest department store chain in the country: [Veon Televisions by The Warehouse](https://www.thewarehouse.co.nz/c/electronics-gaming/tvs-accessories-/televisions#prefn1=brandCode&prefv1=Veon).
+I live in New Zealand, a rather small country with a population of just under 5 million people. This relatively small amount of consumers can lead to a lack of product variety in some areas. Out side of the known brands – Samsung to Sony, Panasonic to Philips – there isn’t much of a choice when it comes to low cost consumer electronics. There is just one exception I’m aware of to this, a store brand owned by the biggest department store chain in the country: [Veon Televisions by The Warehouse](https://www.thewarehouse.co.nz/c/electronics-gaming/tvs-accessories-/televisions#prefn1=brandCode&prefv1=Veon). <!-- more -->
 
 You might think that with little competition the prices might suffer, but this store brand undercuts the competition hugely. Having a Veon 4K TV cost half as much as the nearest other brand is standard, and sales and promotions can make the price gap even wider.
 

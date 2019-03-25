@@ -12,7 +12,7 @@ ___
 
 I’m into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
 
-<!-- more -->
+ <!-- more -->
 
 The latest show, Star Trek Discovery, isn’t sitting well with me. It seems to be frequently ignoring and discarding various elements of the established fictional universe at will. It gives the impression that it is somehow embarrassed to be Star Trek, and of all that came before it.
 

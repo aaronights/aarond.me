@@ -10,7 +10,7 @@ date: 2018-12-02
 
 Thanks to extensive help from a good friend I was able to import my seven years of posts into this new system. And it was a task! IGN really didn’t care about helping people keep their content from the ”little My IGN blogging experiment." 
 
-Side note: Really? You run a platform for 10 years, encourage people to use it under hopes of getting featured on the front page and even getting commissioned work from it and after all that you call it just a “little experiment”? That feels like a way to skirt all archival responsibility and belittle the extensive work that a sizeable number of your readers contributed. Thanks [Peer](https://twitter.com/PeerIGN ).
+Side note: Really? You run a platform for 10 years, encourage people to use it under hopes of getting featured on the front page and even getting commissioned work from it and after all that you call it just a “little experiment”? That feels like a way to skirt all archival responsibility and belittle the extensive work that a sizeable number of your readers contributed. Thanks [Peer](https://twitter.com/PeerIGN ). <!-- more -->
 
 [![Thanks IGN.](/media/images/blog/thanksign.jpg)](/media/images/blog/thanksign.jpg)
 _I edited the ads out. The last laugh is mine!._

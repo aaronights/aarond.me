@@ -5,7 +5,7 @@ date: 2018-12-30
 ---
 ### 2018 hasn’t been a very... progressive year.
 
-After moving back from the city at the end of last year, my responsibilities and life have become rather static. I get told I do an important job and do it well, but I still feel sharply pathetic revealing what I do. Saying to someone that I look after an elderly man in a small, dead town isn’t very attractive.
+After moving back from the city at the end of last year, my responsibilities and life have become rather static. I get told I do an important job and do it well, but I still feel sharply pathetic revealing what I do. Saying to someone that I look after an elderly man in a small, dead town isn’t very attractive. <!-- more -->
 
 [![At the Beach.](/media/images/blog/AtTheBog.jpg)](/media/images/blog/AtTheBog.jpg)
 _Hey! It was overcast and windy._

@@ -9,7 +9,7 @@ I’ve never been into Fallout. The closest thing was putting 50 hours into Obli
 [![Past.](/media/images/blog/past.jpg)](/media/images/blog/past.jpg)
 _Still have em, mint in box._
 
-But since that time I’ve made friends - one who loves the Bethesda style. In the lead up to the recently released Fallout 76, he was eager to dive in, but wanted buddies to join him to get the most out of the new multiplayer online experience.
+But since that time I’ve made friends - one who loves the Bethesda style. In the lead up to the recently released Fallout 76, he was eager to dive in, but wanted buddies to join him to get the most out of the new multiplayer online experience. <!-- more -->
 
 I was not going to pay the box price, especially after seeing the reception it received. Despite extensive bugs, glitches and overall wonkiness, the previous games in the franchise have had a fairly positive reception, but this one just tanked critically. The boss over at Giantbomb couldn’t even get anyone on staff to play the game long enough to give it a review score, [so it just ended up with a “Don’t play this game”.](https://www.reddit.com/r/Games/comments/9z3w5l/giantbomb_unlikely_to_review_fallout_76_gerstmann/)
 

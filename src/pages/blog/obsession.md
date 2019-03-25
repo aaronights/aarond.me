@@ -8,7 +8,7 @@ My whole life I’ve been obsessive. There isn’t any middle ground, if I enjoy
 
 I grew up very awkwardly. School wasn’t fun, I was bullied and could never fit into any social circles. I left high school prematurely, and a few months after that I got admitted to professional help. Doing that ended up with me being diagnosed as having high functioning autism, also called Asperger syndrome.
 
-It’s not a label I like to give myself. I don’t want people to make assumptions about who I am based on a flaw in how my brain is wired, but I know it’ll help to make sense of how I behave and think in this context.<!-- more -->
+It’s not a label I like to give myself. I don’t want people to make assumptions about who I am based on a flaw in how my brain is wired, but I know it’ll help to make sense of how I behave and think in this context. <!-- more -->
 
 I really liked Star Trek. I bounced off the walls when Tuvok quoted Spock during the finale of Voyager - watching it over barely viewable UHF reception. Getting an in-universe reason for the smooth-foreheaded Klingons seen in the original series during the last season of Star Trek: Enterprise made things fit so well - it was beautiful! 
 
