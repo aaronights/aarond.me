@@ -1,7 +1,7 @@
 <template>
   <Layout>
-    <v-layout row wrap style="max-width: 90%">
-      <v-flex xs12 pa-4>
+    <v-layout style="max-width: 1100px">
+      <v-flex xs12 pa-1>
         <!--<p v-for="post in $page.posts.edges">
           <g-link :to="post.node.path">
             {{ post.node.title }}
@@ -23,6 +23,25 @@
           </template>
         </v-list>-->
         <!--<Pager :info="$page.posts.pageInfo"/>-->
+        <template>
+	<v-layout row wrap>
+		<v-flex xs12 md6 pa-0>
+			<!--<v-img src="../media/images/aaron.jpg"></v-img>-->
+			<!--<g-image align="right" src="../media/images/aaron.jpg" style="max-width: 160px"></g-image>-->
+		</v-flex>
+		<v-flex xs12 md6 px-3 py-0>
+			<h1>I am Aaron Davies.</h1>
+			<p>I blog here like my opinions actually matter.</p>
+			<ul class="social">
+				<li><a href="https://twitter.com/aaronights" alt="Twitter" target="_blank" rel="nofollow noopener noreferrer"><g-image src="../media/images/social/webicon-twitter.png" /></a></li>
+				<li><a href="https://www.youtube.com/user/aaroNiGHTS" alt="YouTube" target="_blank" rel="nofollow noopener noreferrer"><g-image src="../media/images/social/webicon-youtube.png" /></a></li>
+				<li><a href="https://www.facebook.com/aaronights" alt="Facebook" target="_blank" rel="nofollow noopener noreferrer"><g-image src="../media/images/social/webicon-facebook.png" /></a></li>
+				<li><a href="https://www.instagram.com/aaronights/" alt="Instagram" target="_blank" rel="nofollow noopener noreferrer"><g-image src="../media/images/social/webicon-instagram.png" /></a></li>
+			</ul>
+		</v-flex>
+	</v-layout>
+</template>
+
         <v-card v-for="(post, index) in $page.posts.edges" :key="index">
                     <v-card-title primary-title>
             <h1 class="headline mb-0" style="padding: 0;"><g-link :to="post.node.path">{{post.node.title}}</g-link></h1>
@@ -95,6 +114,24 @@
 </script>
 
 <style>
+	h1 {
+		font-size: 30px;
+    line-height: 34px;
+		margin-bottom: 20px;
+	}
+	.want {
+		list-style-type: none;
+		padding-left: 0;
+	}
+	.social {
+		margin-top: 2em;
+		list-style-type: none;
+		padding-left: 0;
+	}
+	.social li {
+		display: inline;
+		margin-right: 1em;
+	}
   .v-list__tile {
     font-size: inherit;
   }
