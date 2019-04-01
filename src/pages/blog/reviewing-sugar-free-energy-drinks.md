@@ -40,4 +40,4 @@ It's actually surprising to get a sugar free energy drink that isn't extremely s
 
 **171 out of 190**
 
-So, clearly there is one obvious winner. I do realise that using dissimilar fractions for the review scores can be confusing. If you need a bit more energy to try and compare the final scores I recommend reading my [review of various sugar free energy drinks here](/media/images/blog/02/reviewing-sugar-free-energy-drinks/index.html).
+So, clearly there is one obvious winner. I do realise that using dissimilar fractions for the review scores can be confusing. If you need a bit more energy to try and compare the final scores I recommend reading my [review of various sugar free energy drinks here](blog/2016/06/02/reviewing-sugar-free-energy-drinks/).

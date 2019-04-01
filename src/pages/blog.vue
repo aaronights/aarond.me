@@ -137,5 +137,12 @@
   }
   .v-list__tile__sub-title {
     font-size: 0.8em;
+  }  
+  table, th, td, tr, thead, tbody {
+  border: 91px solid black;  padding: 5px;
   }
+  table {
+  border-collapse: collapse;
+  }
+
 </style>

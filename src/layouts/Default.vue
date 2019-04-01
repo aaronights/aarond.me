@@ -51,4 +51,10 @@
   ul, ol {
     margin-bottom: 1em;
   }
+	  table, th, td, tr, thead, tbody {
+  border: 1px solid black;  padding: 4px; margin-left:auto; margin-right:auto;
+  }
+  table {
+  border-collapse: collapse;
+  }
 </style>
