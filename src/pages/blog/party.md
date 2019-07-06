@@ -8,7 +8,7 @@ Right now it’s 2:30 am on Saturday morning and I just can’t sleep...
 
 For the best reason ever! I am ecstatic, hyped and bouncing off the walls, all at once! Yesterday was my birthday, and it was so special - it was my first birthday.
 
-Well, it was my first at least from some aspects. You see, I was born, raised and long associated with a religion that didn’t allow the celebration of birthdays in any way. For my first 31 birthdays were just any other day, often completely forgotten and sometimes noted with a casual mention and nothing more. Long time readers would know that I disassociated myself from the religion a few years ago, but just kept July 5 as any other day.
+Well, it was my first at least from some aspects. You see, I was born, raised and long associated with a religion that didn’t allow the celebration of birthdays in any way. My first 31 birthdays were just like any other day, often completely forgotten and sometimes noted with a casual mention and nothing more. Long time readers would know that I disassociated myself from the religion a few years ago, but just kept July 5 as any other day.
 
 This year I thought would be a little different. My very good friend Mark invited me out to have a burger and a drink somewhere in the city. Maybe Gordy would come too, if he was free!
 
