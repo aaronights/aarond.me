@@ -4,14 +4,14 @@ author: Aaron Davies
 date: 2019-08-02
 ---
 
-Since restarting my blogging venture last year the post that I’ve received the most feedback on was my budget Veon TV review. I still get emails nearly a year later with people asking questions while they’re looking into buying one, or wanting help with different settings and features. There is very little information on these TV’s available online, The Warehouse doesn’t  provide any documentation and there are very few professional reviews available.
+Since restarting my blogging venture last year the post that I’ve received the most feedback on [was my budget Veon TV review.](/blog/2018/11/28/veon-4-k-tv-review) I still get emails nearly a year later with people asking questions while they’re looking into buying one, or wanting help with different settings and features. There is very little information on these TV’s available online, [The Warehouse](https://www.thewarehouse.co.nz/) doesn’t  provide any documentation and there are very few professional reviews available.
 
 [![Veon.](/media/images/blog/veonmaster.jpg)](/media/images/blog/veonmaster.jpg)
 _Veon: A brand shrouded in mystery._
 
 Over the past few years I’ve had a few dealings with this ultra low cost brand, from my first 32” about 8 years ago to my recent acquisition of the rather large (65”) one now sitting in my lounge.
 
-Because of these factors I’ve put together a FAQ, hopefully providing helpful information to people thinking about buying a Veon TV. If you can think of any other questions worth including, feel free to drop me a line.
+Because of these factors I’ve put together a FAQ, hopefully providing helpful information to people thinking about buying a Veon TV. If you can think of any other questions worth including, [feel free to drop me a line.](mailto:aaronights@gmail.com)
 
 # Veon 4K TV FAQ
 
