@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html data-html-server-rendered="true" lang="en" data-vue-tag="lang">
+  <head>
+    <title data-vue-tag="true">Pearson Vue, Microsoft and Upskilling - aarond.me</title><meta data-vue-tag="true" charset="utf-8"/><meta data-vue-tag="true" name="generator" content="Gridsome v0.5.5"/><meta data-vue-tag="true" data-key="viewport" name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/><meta data-vue-tag="true" data-key="description" name="description" content="The blog of Aaron Davies"/><meta data-vue-tag="true" data-key="format-detection" name="format-detection" content="telephone=no"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon.ce0531f.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon.ac8d93a.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="96x96" href="/assets/static/favicon.b9532cc.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="76x76" href="/assets/static/favicon.f22e9f3.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/static/favicon.62d22cb.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="120x120" href="/assets/static/favicon.1539b60.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/static/favicon.dc0cdc5.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/static/favicon.7b22250.900df09.png"/><link data-vue-tag="true" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i"/><style data-vue-tag="true" id="vuetify-theme-stylesheet" type="text/css">a { color: #a91616; }
+.primary {
+  background-color: #a91616 !important;
+  border-color: #a91616 !important;
+}
+.primary--text {
+  color: #a91616 !important;
+  caret-color: #a91616 !important;
+}
+.primary.lighten-5 {
+  background-color: #ffa88e !important;
+  border-color: #ffa88e !important;
+}
+.primary--text.text--lighten-5 {
+  color: #ffa88e !important;
+  caret-color: #ffa88e !important;
+}
+.primary.lighten-4 {
+  background-color: #ff8c74 !important;
+  border-color: #ff8c74 !important;
+}
+.primary--text.text--lighten-4 {
+  color: #ff8c74 !important;
+  caret-color: #ff8c74 !important;
+}
+.primary.lighten-3 {
+  background-color: #ff715b !important;
+  border-color: #ff715b !important;
+}
+.primary--text.text--lighten-3 {
+  color: #ff715b !important;
+  caret-color: #ff715b !important;
+}
+.primary.lighten-2 {
+  background-color: #e85543 !important;
+  border-color: #e85543 !important;
+}
+.primary--text.text--lighten-2 {
+  color: #e85543 !important;
+  caret-color: #e85543 !important;
+}
+.primary.lighten-1 {
+  background-color: #c8382c !important;
+  border-color: #c8382c !important;
+}
+.primary--text.text--lighten-1 {
+  color: #c8382c !important;
+  caret-color: #c8382c !important;
+}
+.primary.darken-1 {
+  background-color: #8a0000 !important;
+  border-color: #8a0000 !important;
+}
+.primary--text.text--darken-1 {
+  color: #8a0000 !important;
+  caret-color: #8a0000 !important;
+}
+.primary.darken-2 {
+  background-color: #6d0000 !important;
+  border-color: #6d0000 !important;
+}
+.primary--text.text--darken-2 {
+  color: #6d0000 !important;
+  caret-color: #6d0000 !important;
+}
+.primary.darken-3 {
+  background-color: #520000 !important;
+  border-color: #520000 !important;
+}
+.primary--text.text--darken-3 {
+  color: #520000 !important;
+  caret-color: #520000 !important;
+}
+.primary.darken-4 {
+  background-color: #420000 !important;
+  border-color: #420000 !important;
+}
+.primary--text.text--darken-4 {
+  color: #420000 !important;
+  caret-color: #420000 !important;
+}
+.secondary {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.lighten-5 {
+  background-color: #777777 !important;
+  border-color: #777777 !important;
+}
+.secondary--text.text--lighten-5 {
+  color: #777777 !important;
+  caret-color: #777777 !important;
+}
+.secondary.lighten-4 {
+  background-color: #5e5e5e !important;
+  border-color: #5e5e5e !important;
+}
+.secondary--text.text--lighten-4 {
+  color: #5e5e5e !important;
+  caret-color: #5e5e5e !important;
+}
+.secondary.lighten-3 {
+  background-color: #474747 !important;
+  border-color: #474747 !important;
+}
+.secondary--text.text--lighten-3 {
+  color: #474747 !important;
+  caret-color: #474747 !important;
+}
+.secondary.lighten-2 {
+  background-color: #303030 !important;
+  border-color: #303030 !important;
+}
+.secondary--text.text--lighten-2 {
+  color: #303030 !important;
+  caret-color: #303030 !important;
+}
+.secondary.lighten-1 {
+  background-color: #1b1b1b !important;
+  border-color: #1b1b1b !important;
+}
+.secondary--text.text--lighten-1 {
+  color: #1b1b1b !important;
+  caret-color: #1b1b1b !important;
+}
+.secondary.darken-1 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-1 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.accent {
+  background-color: #e32929 !important;
+  border-color: #e32929 !important;
+}
+.accent--text {
+  color: #e32929 !important;
+  caret-color: #e32929 !important;
+}
+.accent.lighten-5 {
+  background-color: #ffc2a6 !important;
+  border-color: #ffc2a6 !important;
+}
+.accent--text.text--lighten-5 {
+  color: #ffc2a6 !important;
+  caret-color: #ffc2a6 !important;
+}
+.accent.lighten-4 {
+  background-color: #ffa48b !important;
+  border-color: #ffa48b !important;
+}
+.accent--text.text--lighten-4 {
+  color: #ffa48b !important;
+  caret-color: #ffa48b !important;
+}
+.accent.lighten-3 {
+  background-color: #ff8771 !important;
+  border-color: #ff8771 !important;
+}
+.accent--text.text--lighten-3 {
+  color: #ff8771 !important;
+  caret-color: #ff8771 !important;
+}
+.accent.lighten-2 {
+  background-color: #ff6a58 !important;
+  border-color: #ff6a58 !important;
+}
+.accent--text.text--lighten-2 {
+  color: #ff6a58 !important;
+  caret-color: #ff6a58 !important;
+}
+.accent.lighten-1 {
+  background-color: #ff4c40 !important;
+  border-color: #ff4c40 !important;
+}
+.accent--text.text--lighten-1 {
+  color: #ff4c40 !important;
+  caret-color: #ff4c40 !important;
+}
+.accent.darken-1 {
+  background-color: #c20012 !important;
+  border-color: #c20012 !important;
+}
+.accent--text.text--darken-1 {
+  color: #c20012 !important;
+  caret-color: #c20012 !important;
+}
+.accent.darken-2 {
+  background-color: #a20000 !important;
+  border-color: #a20000 !important;
+}
+.accent--text.text--darken-2 {
+  color: #a20000 !important;
+  caret-color: #a20000 !important;
+}
+.accent.darken-3 {
+  background-color: #830000 !important;
+  border-color: #830000 !important;
+}
+.accent--text.text--darken-3 {
+  color: #830000 !important;
+  caret-color: #830000 !important;
+}
+.accent.darken-4 {
+  background-color: #670000 !important;
+  border-color: #670000 !important;
+}
+.accent--text.text--darken-4 {
+  color: #670000 !important;
+  caret-color: #670000 !important;
+}
+.error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}</style><noscript data-vue-tag="true" ><style>.g-image--loading{display:none;}</style></noscript><link rel="preload" href="/assets/css/0.styles.06bd8f09.css" as="style"><link rel="preload" href="/assets/js/app.d510a407.js" as="script"><link rel="preload" href="/assets/js/component--post.b48c5d1f.js" as="script"><link rel="prefetch" href="/assets/js/component--404.aac76733.js"><link rel="prefetch" href="/assets/js/component--blog.44725d3b.js"><link rel="prefetch" href="/assets/js/component--home.a79d4686.js"><link rel="prefetch" href="/assets/js/component--index2.17fd9af2.js"><link rel="prefetch" href="/assets/js/component--list.4aad6516.js"><link rel="prefetch" href="/assets/js/page-query.beb0dd65.js"><link rel="stylesheet" href="/assets/css/0.styles.06bd8f09.css">
+  </head>
+  <body data-vue-tag="">
+    <div data-app="true" data-server-rendered="true" id="app" id="app" class="application theme--light"><div class="application--wrap"><nav class="v-toolbar theme--light" style="margin-top:0px;padding-right:0px;padding-left:0px;transform:translateY(0px);"><div class="v-toolbar__content" style="height:56px;"><div class="v-toolbar__title">aarond.me</div><div class="spacer"></div><div class="v-toolbar__items"><a href="/" class="v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Home</div></a><a href="/blog" class="v-btn--active v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Blog</div></a></div></div></nav><div class="container"><div class="layout row wrap"><div class="flex xs12 pa-4"><h1>Pearson Vue, Microsoft and Upskilling</h1><p><strong>Thursday, September 5, 2019</strong></p><div class="post"><p>On my quest to upskill, I decided to take exams online to gain some Microsoft certified qualifications. Starting at the beginning, I opted for <strong><a href="https://www.microsoft.com/en-us/learning/exam-ms-900.aspx" target="_blank" rel="nofollow noopener noreferrer">MS-900: Microsoft 365 Certified Fundamentals.</a></strong> I signed up to take the exam with the online provider <strong><a href="https://home.pearsonvue.com/" target="_blank" rel="nofollow noopener noreferrer">Pearson Vue</a></strong> at 9pm this Thursday night, and spent the last few days doing not much else other than studying. These exams are not free: $184 in local (NZ) currency. It might not seem like much, but money is tight for me right now.</p>
+<p>I was a bit nervous, but I was feeling good! Understanding the ins and outs of Microsoft's cloud platform took a little bit of grasping, but I got there. I was very confident leading up to the exam, but still went over the material many times in preparation. I even took hand-written notes! Surely that helps with information retention.</p>
+<p>I went through the setup process at 8:30pm, just like it told me - be there half an hour early! During the setup process I had to:</p>
+<ul>
+<li>Position to get my webcam to get a clear view of my desk</li>
+<li>Take multiple photos of my desk, the space behind it and to the left and right</li>
+<li>Take clear photographs of my government issued ID, front and back.</li>
+</ul>
+<p>That all went well, and I was all set and ready to go. The last step was to read and accept the Non-Disclosure Agreement.</p>
+<p>I tried to click “Yes” to agree. I couldn’t, clicking yes did nothing.</p>
+<p>I tried to scroll. I couldn’t. </p>
+<p>I use a big 4K TV as a monitor with 100% display scaling, I think this meant that all the text in the agreement was on the screen at the same time. The program for taking the exam had gone full screen, covering everything including the start bar, meaning I was unable to change any Windows settings.</p>
+<p>No matter what I did, I could not progress.</p>
+<p>All the preparation material warned me not to have any other applications open or to close the exam application at any time. The only option I had was to click the “Chat” button to get help.</p>
+<p>After waiting a bit, an exam proctor chatted with me.</p>
+<p>“You need to scroll down in the agreement before you can click yes and accept it”</p>
+<p>I can’t scroll down. The scroll bar is greyed out.</p>
+<p>There was a timer counting down in the top right corner: I had five minutes to accept the agreement. </p>
+<p>I started to panic. I tried clicking many times. I tried scrolling down. I tried using tab to highlight the “Yes” option, but I couldn’t.</p>
+<p>A voice came over my speakers. It was the exam proctor, now trying to help over voice chat. No matter what I did, I could not scroll down and I couldn’t click yes. </p>
+<p>Then the time ran out. The screen now told me I had failed: scoring 0 out of 700.</p>
+<p>Before the voice chat ended I was told that I had to contact customer support to resolve this issue.</p>
+<p>I asked if there was a way I could lower my screen resolution or switch to my laptop to try and take the exam. That wasn’t an option, the only thing I could do is to submit a case where I would get a result in 3-5 business days. I pleaded to let me re-take the exam sooner - I was prepared and ready, having spent the week getting to this point. Nope, it’s 3-5 business days or nothing. I don’t even know if the case will be in my favour.</p>
+<p>At a guess, the agreement page had a trigger to enable the Yes option when the page has been scrolled to the bottom. However, as my high resolution display could show the whole document at once there was no way to scroll down and no way to enable the Yes button.</p>
+<p>It was impossible for me to start the exam.</p>
+<p>I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn’t have issues like this. It’s very sloppy.</p>
+<p><a href="/media/images/blog/exam.png"><img src="/media/images/blog/exam.png" alt="exam."></a>
+<em>I didn't take any exam.</em></p>
+<p>I’m eager to get this exam done! This might seem like a little thing, but for me it’s crushing.</p>
+</div></div></div></div><footer class="v-footer theme--light" style="height:32px;"><div class="layout justify-center row wrap"><div class="flex text-xs-center xs12" style="margin-bottom:0;">Copyright © 2019 aarond.me</div></div></footer></div></div>
+    <script src="/assets/js/app.d510a407.js" defer></script><script src="/assets/js/component--post.b48c5d1f.js" defer></script>
+  </body>
+</html>
