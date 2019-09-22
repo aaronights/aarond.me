@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html data-html-server-rendered="true" lang="en" data-vue-tag="lang">
+  <head>
+    <title data-vue-tag="true">IT: Getting an old Windows machine running. - aarond.me</title><meta data-vue-tag="true" charset="utf-8"/><meta data-vue-tag="true" name="generator" content="Gridsome v0.5.5"/><meta data-vue-tag="true" data-key="viewport" name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/><meta data-vue-tag="true" data-key="description" name="description" content="The blog of Aaron Davies"/><meta data-vue-tag="true" data-key="format-detection" name="format-detection" content="telephone=no"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon.ce0531f.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon.ac8d93a.900df09.png"/><link data-vue-tag="true" rel="icon" type="image/png" sizes="96x96" href="/assets/static/favicon.b9532cc.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="76x76" href="/assets/static/favicon.f22e9f3.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/static/favicon.62d22cb.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="120x120" href="/assets/static/favicon.1539b60.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/static/favicon.dc0cdc5.900df09.png"/><link data-vue-tag="true" rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/static/favicon.7b22250.900df09.png"/><link data-vue-tag="true" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i"/><style data-vue-tag="true" id="vuetify-theme-stylesheet" type="text/css">a { color: #a91616; }
+.primary {
+  background-color: #a91616 !important;
+  border-color: #a91616 !important;
+}
+.primary--text {
+  color: #a91616 !important;
+  caret-color: #a91616 !important;
+}
+.primary.lighten-5 {
+  background-color: #ffa88e !important;
+  border-color: #ffa88e !important;
+}
+.primary--text.text--lighten-5 {
+  color: #ffa88e !important;
+  caret-color: #ffa88e !important;
+}
+.primary.lighten-4 {
+  background-color: #ff8c74 !important;
+  border-color: #ff8c74 !important;
+}
+.primary--text.text--lighten-4 {
+  color: #ff8c74 !important;
+  caret-color: #ff8c74 !important;
+}
+.primary.lighten-3 {
+  background-color: #ff715b !important;
+  border-color: #ff715b !important;
+}
+.primary--text.text--lighten-3 {
+  color: #ff715b !important;
+  caret-color: #ff715b !important;
+}
+.primary.lighten-2 {
+  background-color: #e85543 !important;
+  border-color: #e85543 !important;
+}
+.primary--text.text--lighten-2 {
+  color: #e85543 !important;
+  caret-color: #e85543 !important;
+}
+.primary.lighten-1 {
+  background-color: #c8382c !important;
+  border-color: #c8382c !important;
+}
+.primary--text.text--lighten-1 {
+  color: #c8382c !important;
+  caret-color: #c8382c !important;
+}
+.primary.darken-1 {
+  background-color: #8a0000 !important;
+  border-color: #8a0000 !important;
+}
+.primary--text.text--darken-1 {
+  color: #8a0000 !important;
+  caret-color: #8a0000 !important;
+}
+.primary.darken-2 {
+  background-color: #6d0000 !important;
+  border-color: #6d0000 !important;
+}
+.primary--text.text--darken-2 {
+  color: #6d0000 !important;
+  caret-color: #6d0000 !important;
+}
+.primary.darken-3 {
+  background-color: #520000 !important;
+  border-color: #520000 !important;
+}
+.primary--text.text--darken-3 {
+  color: #520000 !important;
+  caret-color: #520000 !important;
+}
+.primary.darken-4 {
+  background-color: #420000 !important;
+  border-color: #420000 !important;
+}
+.primary--text.text--darken-4 {
+  color: #420000 !important;
+  caret-color: #420000 !important;
+}
+.secondary {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.lighten-5 {
+  background-color: #777777 !important;
+  border-color: #777777 !important;
+}
+.secondary--text.text--lighten-5 {
+  color: #777777 !important;
+  caret-color: #777777 !important;
+}
+.secondary.lighten-4 {
+  background-color: #5e5e5e !important;
+  border-color: #5e5e5e !important;
+}
+.secondary--text.text--lighten-4 {
+  color: #5e5e5e !important;
+  caret-color: #5e5e5e !important;
+}
+.secondary.lighten-3 {
+  background-color: #474747 !important;
+  border-color: #474747 !important;
+}
+.secondary--text.text--lighten-3 {
+  color: #474747 !important;
+  caret-color: #474747 !important;
+}
+.secondary.lighten-2 {
+  background-color: #303030 !important;
+  border-color: #303030 !important;
+}
+.secondary--text.text--lighten-2 {
+  color: #303030 !important;
+  caret-color: #303030 !important;
+}
+.secondary.lighten-1 {
+  background-color: #1b1b1b !important;
+  border-color: #1b1b1b !important;
+}
+.secondary--text.text--lighten-1 {
+  color: #1b1b1b !important;
+  caret-color: #1b1b1b !important;
+}
+.secondary.darken-1 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-1 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-2 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-2 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.accent {
+  background-color: #e32929 !important;
+  border-color: #e32929 !important;
+}
+.accent--text {
+  color: #e32929 !important;
+  caret-color: #e32929 !important;
+}
+.accent.lighten-5 {
+  background-color: #ffc2a6 !important;
+  border-color: #ffc2a6 !important;
+}
+.accent--text.text--lighten-5 {
+  color: #ffc2a6 !important;
+  caret-color: #ffc2a6 !important;
+}
+.accent.lighten-4 {
+  background-color: #ffa48b !important;
+  border-color: #ffa48b !important;
+}
+.accent--text.text--lighten-4 {
+  color: #ffa48b !important;
+  caret-color: #ffa48b !important;
+}
+.accent.lighten-3 {
+  background-color: #ff8771 !important;
+  border-color: #ff8771 !important;
+}
+.accent--text.text--lighten-3 {
+  color: #ff8771 !important;
+  caret-color: #ff8771 !important;
+}
+.accent.lighten-2 {
+  background-color: #ff6a58 !important;
+  border-color: #ff6a58 !important;
+}
+.accent--text.text--lighten-2 {
+  color: #ff6a58 !important;
+  caret-color: #ff6a58 !important;
+}
+.accent.lighten-1 {
+  background-color: #ff4c40 !important;
+  border-color: #ff4c40 !important;
+}
+.accent--text.text--lighten-1 {
+  color: #ff4c40 !important;
+  caret-color: #ff4c40 !important;
+}
+.accent.darken-1 {
+  background-color: #c20012 !important;
+  border-color: #c20012 !important;
+}
+.accent--text.text--darken-1 {
+  color: #c20012 !important;
+  caret-color: #c20012 !important;
+}
+.accent.darken-2 {
+  background-color: #a20000 !important;
+  border-color: #a20000 !important;
+}
+.accent--text.text--darken-2 {
+  color: #a20000 !important;
+  caret-color: #a20000 !important;
+}
+.accent.darken-3 {
+  background-color: #830000 !important;
+  border-color: #830000 !important;
+}
+.accent--text.text--darken-3 {
+  color: #830000 !important;
+  caret-color: #830000 !important;
+}
+.accent.darken-4 {
+  background-color: #670000 !important;
+  border-color: #670000 !important;
+}
+.accent--text.text--darken-4 {
+  color: #670000 !important;
+  caret-color: #670000 !important;
+}
+.error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}</style><noscript data-vue-tag="true" ><style>.g-image--loading{display:none;}</style></noscript><link rel="preload" href="/assets/css/0.styles.06bd8f09.css" as="style"><link rel="preload" href="/assets/js/app.b81bfd14.js" as="script"><link rel="preload" href="/assets/js/component--post.801f9603.js" as="script"><link rel="prefetch" href="/assets/js/component--404.7516816c.js"><link rel="prefetch" href="/assets/js/component--blog.0417b9eb.js"><link rel="prefetch" href="/assets/js/component--home.fef3411c.js"><link rel="prefetch" href="/assets/js/component--index2.af1fe192.js"><link rel="prefetch" href="/assets/js/component--list.986481a3.js"><link rel="prefetch" href="/assets/js/page-query.b4d9abfc.js"><link rel="stylesheet" href="/assets/css/0.styles.06bd8f09.css">
+  </head>
+  <body data-vue-tag="">
+    <div data-app="true" data-server-rendered="true" id="app" id="app" class="application theme--light"><div class="application--wrap"><nav class="v-toolbar theme--light" style="margin-top:0px;padding-right:0px;padding-left:0px;transform:translateY(0px);"><div class="v-toolbar__content" style="height:56px;"><div class="v-toolbar__title">aarond.me</div><div class="spacer"></div><div class="v-toolbar__items"><a href="/" class="v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Home</div></a><a href="/blog" class="v-btn--active v-btn v-btn--flat v-btn--router theme--light"><div class="v-btn__content">Blog</div></a></div></div></nav><div class="container"><div class="layout row wrap"><div class="flex xs12 pa-4"><h1>IT: Getting an old Windows machine running.</h1><p><strong>Sunday, September 22, 2019</strong></p><div class="post"><p>After throwing my friend Mark a surprise birthday party yesterday, I was given the task of getting a decade old Windows machine working and running Windows 10. I was given a Windows 7 Ultimate N key and this computer - a four hard drive behemoth - and set to work.</p>
+<p><a href="/media/images/blog/nemesis.png"><img src="/media/images/blog/nemesis.png" alt="mynemesis."></a>
+<em>My nemesis for an evening.</em></p>
+<p>I plugged it in and turned it on. The lights came on and the fans spun up. The monitor sprung to life!</p>
+<p>There was a black screen, no POST beep codes and after a few seconds then everything shut down. Before the fans could spin down entirely, the computer started up again! This was an endless loop that it had got locked into.</p>
+<p>My initial hunch was that it was a power supply issue, but a suggestion given to me was that the problem was more likely to be with the memory. I juggled the four memory DIMMs in the four slots available, and managed to fix the issue by having just a single 1GB stick out of 4GB in the machine. Even after this the machine was only intermittently working, sometimes entering the same loop seemingly at random. It still entered the boot loop, but reseating the memory again fixed it. After a while of playing around, the issue seemed to occur less frequently.</p>
+<p>Yay, progress!</p>
+<p>Next up was sorting out the drives. There were four in this machine, and I was told that the operating system would need to be on the smallest one. I tried removing the drives to look at the labels, but an awkward case design made this difficult. To ensure I knew what size each drive was, I unplugged all but one at a time and then proceeded to boot into the BIOS to get the model numbers, and these included the capacity of each drive.</p>
+<p>There was a 1000 GB, a 1500 GB, a 2000 GB and a 250 GB. Easy choice!</p>
+<p>I plugged in nothing but that 250GB drive, plugged in my Windows 10 USB installation media, and hit F12 during boot to see the boot menu.</p>
+<p>I was presented with odd, 2008 era menu options. I had to choose between USB-HDD, USB-FDD, USB-ZIP, and USB-CDROM. Boot from a ZIP drive! That’s a blast from the past. Unfortunately none of them worked for booting from the USB drive. So I bridged the jumpers on the CMOS to reset the BIOS settings, but still no cigar. Going through all the settings in the BIOS and changing everything related to booting and USB support still had no luck. </p>
+<p>So I booted up what was on that 250GB drive. It started to load Windows, but it just hung. I rebooted into safe mode and it worked! After a quick Google, I found that disabling all programs and services that start on boot and doing a “clean boot” was a common trick to getting normal Windows to start.</p>
+<p>It worked! Here I was in Windows…. 7. Unactivated. The key I was given didn’t work. I tried running an upgrade to Windows 10, but that either required an activated version of Windows 7 or a valid Windows 10 key.</p>
+<p>Looking carefully, I noticed that they key I had was for Windows 7 Ultimate N. I wondered if the N made a difference to the keys working. I couldn’t see any reference to this N version in the Control Panel, so on my laptop I headed over to <strong><a href="https://archive.org/details/Win7UltimateNSP1" target="_blank" rel="nofollow noopener noreferrer">archive.org and downloaded a Windows 7 Ultimate N ISO</a></strong> and wrote it to my USB memory stick using the <strong><a href="https://www.microsoft.com/en-us/download/details.aspx?id=56485" target="_blank" rel="nofollow noopener noreferrer">Windows USB/DVD Tool</a></strong>.</p>
+<p>I ran a clean install of Windows 7, and after an extremely slow install process I entered the activation key. I didn’t have much hope.</p>
+<p>But it worked! Windows 7 Ultimate N was activated.</p>
+<p>Installing Windows 10 using the current activation credentials should be a straightforward process. Downloading and executing the official Media Creation Tool for Windows 10 gives the option not only to make a bootable USB memory stick, but also to upgrade the current machine. On the first try, the installer wouldn’t get very far: Windows 10 demands a minimum of 2GB memory. I crossed my fingers and slotted in another memory module. Yay, luck was with me and there was no boot loop.</p>
+<p> It took a few hours to complete the install process, but afterwards I was presented with this:</p>
+<p><a href="/media/images/blog/windowserror.png"><img src="/media/images/blog/windowserror.png" alt="didntwork."></a>
+<em>It didn't work.</em></p>
+<p>Ugh. Another Google search showed this error can happen sometimes, and a common solution was just to try again. And it worked! After another few hours Windows 10 Pro N was cleanly installed and activated.</p>
+<p>It was a 10 year old PC, so Windows 10 runs rather slowly. I figured that what would help would be getting the PC back to its full 4GB of memory! I went back into the BIOS and tweaked any settings related to memory to try to get it working, hoping the issue wasn’t something hardware related. I installed another stick of memory, and it booted. Going all the way, I put all four in - the evil boot loop showed up again. I took that last memory module out and reseated it very firmly, really pushing it down and engaging the clips in the sides.</p>
+<p>And with luck being a lady, it booted into Windows 10 and showed all 4GB of installed memory. While I don’t want to risk testing it, my guess is that either the memory sticks or slots on the motherboard are a bit flakey and abused with age. A little wiggle or shake might make them misbehave, but the hope is that keeping the machine stationary and stable will give it the best chance of running without fault.</p>
+</div></div></div></div><footer class="v-footer theme--light" style="height:32px;"><div class="layout justify-center row wrap"><div class="flex text-xs-center xs12" style="margin-bottom:0;">Copyright © 2019 aarond.me</div></div></footer></div></div>
+    <script src="/assets/js/app.b81bfd14.js" defer></script><script src="/assets/js/component--post.801f9603.js" defer></script>
+  </body>
+</html>
