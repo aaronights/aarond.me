@@ -16,17 +16,19 @@
 		</v-flex>
 	</v-layout>
 </template>
+
 <script>
-export default {
-  metaInfo: {
-    title: 'Splash!'
-  }
-}
+	export default {
+		metaInfo: {
+			title: 'Splash!'
+		}
+	}
 </script>
+
 <style>
 	h1 {
 		font-size: 30px;
-    line-height: 34px;
+		line-height: 34px;
 		margin-bottom: 20px;
 	}
 	.want {

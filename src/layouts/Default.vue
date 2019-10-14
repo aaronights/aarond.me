@@ -4,8 +4,8 @@
 			<v-toolbar-title>{{$root.$options.metaInfo.title}}</v-toolbar-title>
 			<v-spacer />
 			<v-toolbar-items>
-				<v-btn flat exact :to="{name: 'home'}">Home</v-btn>
-				<v-btn flat :to="{name: 'blog'}">Blog</v-btn>
+				<v-btn text exact :to="{name: 'home'}">Home</v-btn>
+				<v-btn text :to="{name: 'blog'}">Blog</v-btn>
 			</v-toolbar-items>
 		</v-toolbar>
 		<v-container>

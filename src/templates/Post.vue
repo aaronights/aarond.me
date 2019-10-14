@@ -6,10 +6,10 @@
         <p><strong>{{(new Date($page.post.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</strong></p>
         <div v-html="$page.post.content" class="post" />
         <!--<v-bottom-nav color="transparent">
-          <v-btn flat v-if="$page.post.previous">
+          <v-btn text v-if="$page.post.previous">
             <g-link :to="{path: $page.post.previous.path}">&lt; {{$page.post.previous.title}}</g-link>
           </v-btn>
-          <v-btn flat v-if="$page.post.next">
+          <v-btn text v-if="$page.post.next">
             <g-link :to="{path: $page.post.next.path}">{{$page.post.next.title}} &gt;</g-link>
           </v-btn>
         </v-bottom-nav>-->

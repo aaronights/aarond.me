@@ -15,9 +15,9 @@ I went through the setup process at 8:30pm, just like it told me - be there half
 
 That all went well, and I was all set and ready to go. The last step was to read and accept the Non-Disclosure Agreement.
 
-I tried to click “Yes” to agree. I couldn’t, clicking yes did nothing.
+I tried to click “Yes” to agree. I couldn't, clicking yes did nothing.
 
-I tried to scroll. I couldn’t. 
+I tried to scroll. I couldn't.
 
 I use a big 4K TV as a monitor with 100% display scaling, I think this meant that all the text in the agreement was on the screen at the same time. The program for taking the exam had gone full screen, covering everything including the start bar, meaning I was unable to change any Windows settings.
 
@@ -29,27 +29,27 @@ After waiting a bit, an exam proctor chatted with me.
 
 “You need to scroll down in the agreement before you can click yes and accept it”
 
-I can’t scroll down. The scroll bar is greyed out.
+I can't scroll down. The scroll bar is greyed out.
 
-There was a timer counting down in the top right corner: I had five minutes to accept the agreement. 
+There was a timer counting down in the top right corner: I had five minutes to accept the agreement.
 
-I started to panic. I tried clicking many times. I tried scrolling down. I tried using tab to highlight the “Yes” option, but I couldn’t.
+I started to panic. I tried clicking many times. I tried scrolling down. I tried using tab to highlight the “Yes” option, but I couldn't.
 
-A voice came over my speakers. It was the exam proctor, now trying to help over voice chat. No matter what I did, I could not scroll down and I couldn’t click yes. 
+A voice came over my speakers. It was the exam proctor, now trying to help over voice chat. No matter what I did, I could not scroll down and I couldn't click yes.
 
 Then the time ran out. The screen now told me I had failed: scoring 0 out of 700.
 
 Before the voice chat ended I was told that I had to contact customer support to resolve this issue.
 
-I asked if there was a way I could lower my screen resolution or switch to my laptop to try and take the exam. That wasn’t an option, the only thing I could do is to submit a case where I would get a result in 3-5 business days. I pleaded to let me re-take the exam sooner - I was prepared and ready, having spent the week getting to this point. Nope, it’s 3-5 business days or nothing. I don’t even know if the case will be in my favour.
+I asked if there was a way I could lower my screen resolution or switch to my laptop to try and take the exam. That wasn't an option, the only thing I could do is to submit a case where I would get a result in 3-5 business days. I pleaded to let me re-take the exam sooner - I was prepared and ready, having spent the week getting to this point. Nope, it's 3-5 business days or nothing. I don't even know if the case will be in my favour.
 
 At a guess, the agreement page had a trigger to enable the Yes option when the page has been scrolled to the bottom. However, as my high resolution display could show the whole document at once there was no way to scroll down and no way to enable the Yes button.
 
 It was impossible for me to start the exam.
 
-I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn’t have issues like this. It’s very sloppy.
+I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn't have issues like this. It's very sloppy.
 
 [![exam.](/media/images/blog/exam.png)](/media/images/blog/exam.png)
 _I didn't take any exam._
 
-I’m eager to get this exam done! This might seem like a little thing, but for me it’s crushing.
+I'm eager to get this exam done! This might seem like a little thing, but for me it's crushing.

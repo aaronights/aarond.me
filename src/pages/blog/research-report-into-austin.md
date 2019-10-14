@@ -19,7 +19,7 @@ Extensive scientific research has failed to determine a precise location. We can
 
 The full chemical composition of Austin continues to elude science. Top people have estimated that large amounts of calcium, iron, uranium-235, peanut butter and Diet Mountain Dew are essential components of Austin.
 
-### What is Austin’s purpose?
+### What is Austin's purpose?
 
 Scientific analysis shows that Austin appears to be a large functioning portion of the YouTube channel “ThatONEshowFUN”. The two entities are so counter dependant that they have been referred to by the concatenated title “Austin Thatoneshowfun”.
 
@@ -37,7 +37,7 @@ Following this initial catalyst, the Eggbusters show has continued to grow and e
 
 Eggbusters has spanned multiple seasons with such titles as “Two”, “Ex” and “Ex Two”.
 
-Occasionally Austin has taken on the assistance of his mother to construct an episode of Eggbusters. An example of this is the hit 2016 episode focused around the video game “The Legend of Zelda: Twilight Princess HD”. During this, Austin’s mother undertook most of the controlling aspect of the video game while Austin himself brutally gave instructions on how to perform the expected glitch.
+Occasionally Austin has taken on the assistance of his mother to construct an episode of Eggbusters. An example of this is the hit 2016 episode focused around the video game “The Legend of Zelda: Twilight Princess HD”. During this, Austin's mother undertook most of the controlling aspect of the video game while Austin himself brutally gave instructions on how to perform the expected glitch.
 
 `youtube:https://www.youtube.com/embed/fFIq3tTr3OE`
 

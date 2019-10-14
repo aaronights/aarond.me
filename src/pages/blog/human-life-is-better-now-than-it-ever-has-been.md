@@ -10,7 +10,7 @@ A common claim is this: We are living in horrific times full of hateful atrociti
 
 A tactic used is to then appeal to emotional decision making to reach a conclusion. Rather than presenting statistics or facts, rhetorical questions are asked about the status of humanity and the world.
 
-* _“Have you noticed a general downward trend in people’s attitudes?”_
+* _“Have you noticed a general downward trend in people's attitudes?”_
 * _“Have you noticed that the world is becoming increasingly filled with violence?”_
 * _“Have you noticed that major wars, famine, poverty, lawlessness and even a lack of love have become common place in modern life?”_
 
@@ -20,7 +20,7 @@ These are all very big claims, and importantly they can be proven true or false 
 
 This is a broad topic, tough to pin down to a specific metric. Generally, I assume attitude would be how happy people are, and how well they treat each other.
 
-The best source of information I could find relating to happiness doesn’t extend back centuries, but only a few decades. Dating back to 1984, [The World Value Survey](http://www.worldvaluessurvey.org/wvs.jsp) asked the following question:
+The best source of information I could find relating to happiness doesn't extend back centuries, but only a few decades. Dating back to 1984, [The World Value Survey](http://www.worldvaluessurvey.org/wvs.jsp) asked the following question:
 
 Taking all things together, would you say you are:
 
@@ -76,7 +76,7 @@ Even more than a decline in bad things, there is so many advantages to living to
 
 Politics is a hostile issue that seems to dominate the headlines. The United States has a President that is reaching all time lows in so many areas. But people are speaking up and criticising! They are openly challenging and fighting what could be the most powerful man on the planet. It was barely a few centuries ago that speaking out against a King, Emperor or other powerful leader could result in torture or death.
 
-We are not there. Humanity still has such a long way to go to! While so many things are better now than ever, it doesn’t mean we have reached the ultimate goal state of these things. Plus, we face issues around climate change, substance abuse and sexual bigotry.
+We are not there. Humanity still has such a long way to go to! While so many things are better now than ever, it doesn't mean we have reached the ultimate goal state of these things. Plus, we face issues around climate change, substance abuse and sexual bigotry.
 
 But we are getting there. If someone states that the world has become a horrible and loveless place, insist they back it up with facts and statistics.
 
