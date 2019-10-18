@@ -8,7 +8,7 @@ This is not your usual About Me page, but I’m sharing here five things about m
 
 ### 1. I take medication for my mental health.
 
-This is something I’m not eager to admit. Seeing local TV personality Matt Chisholm talk about his struggles with mental health makes it seem…  acceptable to be more open about this. 
+This is something I’m not eager to admit. Seeing [local TV personality Matt Chisholm talk about his struggles with mental health](https://twitter.com/MattChisTVNZ/status/1177127318977798145) makes it seem…  acceptable to be more open about this. 
 
 I hate it. Despite the compassion and reassurance from media personalities and health professionals that it’s an okay thing to do, I still don’t like it. Even if it is irrational, I feel weak and defective because of it. I’ve never gotten into drugs or alcohol, as having substances alter my mental state is something I’m not a fan of.
 
