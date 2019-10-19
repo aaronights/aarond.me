@@ -36,6 +36,6 @@ Driving is tedious. While I do it as required, if there is an option to walk I�
 
 I hate admitting this, mainly because I’m not a fan of giving people labels. I was diagnosed in my late teens, soon after leaving school. I think my parents were relieved that there was an actual reason as to why I was so… weird. 
 
-If you’re interested in what this is all about, the Wikipedia article here is generally relatable to me. It’s not at all fun, but I like to think I’m used to it. Things people do without thinking, like most social interactions, are things I’ve had to focus on learning how to do properly. 
+If you’re interested in what this is all about, [the Wikipedia article here is generally relatable to me.](https://en.wikipedia.org/wiki/Asperger_syndrome) It’s not at all fun, but I like to think I’m used to it. Things people do without thinking, like most social interactions, are things I’ve had to focus on learning how to do properly. 
 
 I’m still not good at it. It’s probably one of many reasons as to why I’ve been struggling to find employment. It’s a bit upsetting, but I understand.
