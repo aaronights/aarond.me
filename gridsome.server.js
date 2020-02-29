@@ -1,6 +1,4 @@
 const nodeExternals = require('webpack-node-externals');
-//const RemarkTransformer = require('@gridsome/transformer-remark');
-//const remark = new RemarkTransformer({}, {});
 const remark = require('remark');
 const html = require('remark-html');
 
