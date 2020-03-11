@@ -1,0 +1,601 @@
+<!DOCTYPE html>
+<html data-html-server-rendered="true" lang="en" data-vue-tag="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D">
+  <head>
+    <title>Query the theoretical - aarond.me</title><meta name="gridsome:hash" content="d7e4b3f8a6ccc665c97aaaa45ccf8c19dbb8b228"><meta data-vue-tag="ssr" charset="utf-8"><meta data-vue-tag="ssr" name="generator" content="Gridsome v0.7.13"><meta data-vue-tag="ssr" data-key="viewport" name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta data-vue-tag="ssr" data-key="format-detection" name="format-detection" content="telephone=no"><meta data-vue-tag="ssr" data-key="description" name="description" content="The blog of Aaron Davies"><link data-vue-tag="ssr" rel="icon" href="data:,"><link data-vue-tag="ssr" rel="icon" type="image/png" sizes="16x16" href="/assets/static/favicon.ce0531f.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="icon" type="image/png" sizes="32x32" href="/assets/static/favicon.ac8d93a.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="icon" type="image/png" sizes="96x96" href="/assets/static/favicon.b9532cc.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="apple-touch-icon" type="image/png" sizes="76x76" href="/assets/static/favicon.f22e9f3.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="apple-touch-icon" type="image/png" sizes="152x152" href="/assets/static/favicon.62d22cb.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="apple-touch-icon" type="image/png" sizes="120x120" href="/assets/static/favicon.1539b60.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="apple-touch-icon" type="image/png" sizes="167x167" href="/assets/static/favicon.dc0cdc5.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="apple-touch-icon" type="image/png" sizes="180x180" href="/assets/static/favicon.7b22250.900df0937a2dfe431b6a65e70abbb5d5.png"><link data-vue-tag="ssr" rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"><link data-vue-tag="ssr" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i"><link rel="preload" href="/assets/css/0.styles.e3f7b214.css" as="style"><link rel="preload" href="/assets/js/app.fe97c833.js" as="script"><link rel="preload" href="/assets/js/page--src--templates--post-vue.2618d684.js" as="script"><link rel="prefetch" href="/assets/js/page--node-modules--gridsome--app--pages--404-vue.3d5b2ab2.js"><link rel="prefetch" href="/assets/js/page--src--pages--blog-vue.1e9cd18d.js"><link rel="prefetch" href="/assets/js/page--src--pages--index-vue.91fa3bcd.js"><link rel="prefetch" href="/assets/js/page--src--pages--list-vue.95f3daeb.js"><link rel="stylesheet" href="/assets/css/0.styles.e3f7b214.css"><style data-vue-tag="vuetify" type="text/css" id="vuetify-theme-stylesheet" nonce="undefined">.v-application a { color: #1976d2; }
+.v-application .primary {
+  background-color: #1976d2 !important;
+  border-color: #1976d2 !important;
+}
+.v-application .primary--text {
+  color: #1976d2 !important;
+  caret-color: #1976d2 !important;
+}
+.v-application .primary.lighten-5 {
+  background-color: #c7fdff !important;
+  border-color: #c7fdff !important;
+}
+.v-application .primary--text.text--lighten-5 {
+  color: #c7fdff !important;
+  caret-color: #c7fdff !important;
+}
+.v-application .primary.lighten-4 {
+  background-color: #a8e0ff !important;
+  border-color: #a8e0ff !important;
+}
+.v-application .primary--text.text--lighten-4 {
+  color: #a8e0ff !important;
+  caret-color: #a8e0ff !important;
+}
+.v-application .primary.lighten-3 {
+  background-color: #8ac5ff !important;
+  border-color: #8ac5ff !important;
+}
+.v-application .primary--text.text--lighten-3 {
+  color: #8ac5ff !important;
+  caret-color: #8ac5ff !important;
+}
+.v-application .primary.lighten-2 {
+  background-color: #6aaaff !important;
+  border-color: #6aaaff !important;
+}
+.v-application .primary--text.text--lighten-2 {
+  color: #6aaaff !important;
+  caret-color: #6aaaff !important;
+}
+.v-application .primary.lighten-1 {
+  background-color: #488fef !important;
+  border-color: #488fef !important;
+}
+.v-application .primary--text.text--lighten-1 {
+  color: #488fef !important;
+  caret-color: #488fef !important;
+}
+.v-application .primary.darken-1 {
+  background-color: #005eb6 !important;
+  border-color: #005eb6 !important;
+}
+.v-application .primary--text.text--darken-1 {
+  color: #005eb6 !important;
+  caret-color: #005eb6 !important;
+}
+.v-application .primary.darken-2 {
+  background-color: #00479b !important;
+  border-color: #00479b !important;
+}
+.v-application .primary--text.text--darken-2 {
+  color: #00479b !important;
+  caret-color: #00479b !important;
+}
+.v-application .primary.darken-3 {
+  background-color: #003180 !important;
+  border-color: #003180 !important;
+}
+.v-application .primary--text.text--darken-3 {
+  color: #003180 !important;
+  caret-color: #003180 !important;
+}
+.v-application .primary.darken-4 {
+  background-color: #001e67 !important;
+  border-color: #001e67 !important;
+}
+.v-application .primary--text.text--darken-4 {
+  color: #001e67 !important;
+  caret-color: #001e67 !important;
+}
+.v-application .secondary {
+  background-color: #424242 !important;
+  border-color: #424242 !important;
+}
+.v-application .secondary--text {
+  color: #424242 !important;
+  caret-color: #424242 !important;
+}
+.v-application .secondary.lighten-5 {
+  background-color: #c1c1c1 !important;
+  border-color: #c1c1c1 !important;
+}
+.v-application .secondary--text.text--lighten-5 {
+  color: #c1c1c1 !important;
+  caret-color: #c1c1c1 !important;
+}
+.v-application .secondary.lighten-4 {
+  background-color: #a6a6a6 !important;
+  border-color: #a6a6a6 !important;
+}
+.v-application .secondary--text.text--lighten-4 {
+  color: #a6a6a6 !important;
+  caret-color: #a6a6a6 !important;
+}
+.v-application .secondary.lighten-3 {
+  background-color: #8b8b8b !important;
+  border-color: #8b8b8b !important;
+}
+.v-application .secondary--text.text--lighten-3 {
+  color: #8b8b8b !important;
+  caret-color: #8b8b8b !important;
+}
+.v-application .secondary.lighten-2 {
+  background-color: #727272 !important;
+  border-color: #727272 !important;
+}
+.v-application .secondary--text.text--lighten-2 {
+  color: #727272 !important;
+  caret-color: #727272 !important;
+}
+.v-application .secondary.lighten-1 {
+  background-color: #595959 !important;
+  border-color: #595959 !important;
+}
+.v-application .secondary--text.text--lighten-1 {
+  color: #595959 !important;
+  caret-color: #595959 !important;
+}
+.v-application .secondary.darken-1 {
+  background-color: #2c2c2c !important;
+  border-color: #2c2c2c !important;
+}
+.v-application .secondary--text.text--darken-1 {
+  color: #2c2c2c !important;
+  caret-color: #2c2c2c !important;
+}
+.v-application .secondary.darken-2 {
+  background-color: #171717 !important;
+  border-color: #171717 !important;
+}
+.v-application .secondary--text.text--darken-2 {
+  color: #171717 !important;
+  caret-color: #171717 !important;
+}
+.v-application .secondary.darken-3 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary--text.text--darken-3 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .secondary.darken-4 {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.v-application .secondary--text.text--darken-4 {
+  color: #000000 !important;
+  caret-color: #000000 !important;
+}
+.v-application .accent {
+  background-color: #82b1ff !important;
+  border-color: #82b1ff !important;
+}
+.v-application .accent--text {
+  color: #82b1ff !important;
+  caret-color: #82b1ff !important;
+}
+.v-application .accent.lighten-5 {
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+.v-application .accent--text.text--lighten-5 {
+  color: #ffffff !important;
+  caret-color: #ffffff !important;
+}
+.v-application .accent.lighten-4 {
+  background-color: #f8ffff !important;
+  border-color: #f8ffff !important;
+}
+.v-application .accent--text.text--lighten-4 {
+  color: #f8ffff !important;
+  caret-color: #f8ffff !important;
+}
+.v-application .accent.lighten-3 {
+  background-color: #daffff !important;
+  border-color: #daffff !important;
+}
+.v-application .accent--text.text--lighten-3 {
+  color: #daffff !important;
+  caret-color: #daffff !important;
+}
+.v-application .accent.lighten-2 {
+  background-color: #bce8ff !important;
+  border-color: #bce8ff !important;
+}
+.v-application .accent--text.text--lighten-2 {
+  color: #bce8ff !important;
+  caret-color: #bce8ff !important;
+}
+.v-application .accent.lighten-1 {
+  background-color: #9fccff !important;
+  border-color: #9fccff !important;
+}
+.v-application .accent--text.text--lighten-1 {
+  color: #9fccff !important;
+  caret-color: #9fccff !important;
+}
+.v-application .accent.darken-1 {
+  background-color: #6596e2 !important;
+  border-color: #6596e2 !important;
+}
+.v-application .accent--text.text--darken-1 {
+  color: #6596e2 !important;
+  caret-color: #6596e2 !important;
+}
+.v-application .accent.darken-2 {
+  background-color: #467dc6 !important;
+  border-color: #467dc6 !important;
+}
+.v-application .accent--text.text--darken-2 {
+  color: #467dc6 !important;
+  caret-color: #467dc6 !important;
+}
+.v-application .accent.darken-3 {
+  background-color: #2364aa !important;
+  border-color: #2364aa !important;
+}
+.v-application .accent--text.text--darken-3 {
+  color: #2364aa !important;
+  caret-color: #2364aa !important;
+}
+.v-application .accent.darken-4 {
+  background-color: #004c90 !important;
+  border-color: #004c90 !important;
+}
+.v-application .accent--text.text--darken-4 {
+  color: #004c90 !important;
+  caret-color: #004c90 !important;
+}
+.v-application .error {
+  background-color: #ff5252 !important;
+  border-color: #ff5252 !important;
+}
+.v-application .error--text {
+  color: #ff5252 !important;
+  caret-color: #ff5252 !important;
+}
+.v-application .error.lighten-5 {
+  background-color: #ffe4d5 !important;
+  border-color: #ffe4d5 !important;
+}
+.v-application .error--text.text--lighten-5 {
+  color: #ffe4d5 !important;
+  caret-color: #ffe4d5 !important;
+}
+.v-application .error.lighten-4 {
+  background-color: #ffc6b9 !important;
+  border-color: #ffc6b9 !important;
+}
+.v-application .error--text.text--lighten-4 {
+  color: #ffc6b9 !important;
+  caret-color: #ffc6b9 !important;
+}
+.v-application .error.lighten-3 {
+  background-color: #ffa99e !important;
+  border-color: #ffa99e !important;
+}
+.v-application .error--text.text--lighten-3 {
+  color: #ffa99e !important;
+  caret-color: #ffa99e !important;
+}
+.v-application .error.lighten-2 {
+  background-color: #ff8c84 !important;
+  border-color: #ff8c84 !important;
+}
+.v-application .error--text.text--lighten-2 {
+  color: #ff8c84 !important;
+  caret-color: #ff8c84 !important;
+}
+.v-application .error.lighten-1 {
+  background-color: #ff6f6a !important;
+  border-color: #ff6f6a !important;
+}
+.v-application .error--text.text--lighten-1 {
+  color: #ff6f6a !important;
+  caret-color: #ff6f6a !important;
+}
+.v-application .error.darken-1 {
+  background-color: #df323b !important;
+  border-color: #df323b !important;
+}
+.v-application .error--text.text--darken-1 {
+  color: #df323b !important;
+  caret-color: #df323b !important;
+}
+.v-application .error.darken-2 {
+  background-color: #bf0025 !important;
+  border-color: #bf0025 !important;
+}
+.v-application .error--text.text--darken-2 {
+  color: #bf0025 !important;
+  caret-color: #bf0025 !important;
+}
+.v-application .error.darken-3 {
+  background-color: #9f0010 !important;
+  border-color: #9f0010 !important;
+}
+.v-application .error--text.text--darken-3 {
+  color: #9f0010 !important;
+  caret-color: #9f0010 !important;
+}
+.v-application .error.darken-4 {
+  background-color: #800000 !important;
+  border-color: #800000 !important;
+}
+.v-application .error--text.text--darken-4 {
+  color: #800000 !important;
+  caret-color: #800000 !important;
+}
+.v-application .info {
+  background-color: #2196f3 !important;
+  border-color: #2196f3 !important;
+}
+.v-application .info--text {
+  color: #2196f3 !important;
+  caret-color: #2196f3 !important;
+}
+.v-application .info.lighten-5 {
+  background-color: #d4ffff !important;
+  border-color: #d4ffff !important;
+}
+.v-application .info--text.text--lighten-5 {
+  color: #d4ffff !important;
+  caret-color: #d4ffff !important;
+}
+.v-application .info.lighten-4 {
+  background-color: #b5ffff !important;
+  border-color: #b5ffff !important;
+}
+.v-application .info--text.text--lighten-4 {
+  color: #b5ffff !important;
+  caret-color: #b5ffff !important;
+}
+.v-application .info.lighten-3 {
+  background-color: #95e8ff !important;
+  border-color: #95e8ff !important;
+}
+.v-application .info--text.text--lighten-3 {
+  color: #95e8ff !important;
+  caret-color: #95e8ff !important;
+}
+.v-application .info.lighten-2 {
+  background-color: #75ccff !important;
+  border-color: #75ccff !important;
+}
+.v-application .info--text.text--lighten-2 {
+  color: #75ccff !important;
+  caret-color: #75ccff !important;
+}
+.v-application .info.lighten-1 {
+  background-color: #51b0ff !important;
+  border-color: #51b0ff !important;
+}
+.v-application .info--text.text--lighten-1 {
+  color: #51b0ff !important;
+  caret-color: #51b0ff !important;
+}
+.v-application .info.darken-1 {
+  background-color: #007cd6 !important;
+  border-color: #007cd6 !important;
+}
+.v-application .info--text.text--darken-1 {
+  color: #007cd6 !important;
+  caret-color: #007cd6 !important;
+}
+.v-application .info.darken-2 {
+  background-color: #0064ba !important;
+  border-color: #0064ba !important;
+}
+.v-application .info--text.text--darken-2 {
+  color: #0064ba !important;
+  caret-color: #0064ba !important;
+}
+.v-application .info.darken-3 {
+  background-color: #004d9f !important;
+  border-color: #004d9f !important;
+}
+.v-application .info--text.text--darken-3 {
+  color: #004d9f !important;
+  caret-color: #004d9f !important;
+}
+.v-application .info.darken-4 {
+  background-color: #003784 !important;
+  border-color: #003784 !important;
+}
+.v-application .info--text.text--darken-4 {
+  color: #003784 !important;
+  caret-color: #003784 !important;
+}
+.v-application .success {
+  background-color: #4caf50 !important;
+  border-color: #4caf50 !important;
+}
+.v-application .success--text {
+  color: #4caf50 !important;
+  caret-color: #4caf50 !important;
+}
+.v-application .success.lighten-5 {
+  background-color: #dcffd6 !important;
+  border-color: #dcffd6 !important;
+}
+.v-application .success--text.text--lighten-5 {
+  color: #dcffd6 !important;
+  caret-color: #dcffd6 !important;
+}
+.v-application .success.lighten-4 {
+  background-color: #beffba !important;
+  border-color: #beffba !important;
+}
+.v-application .success--text.text--lighten-4 {
+  color: #beffba !important;
+  caret-color: #beffba !important;
+}
+.v-application .success.lighten-3 {
+  background-color: #a2ff9e !important;
+  border-color: #a2ff9e !important;
+}
+.v-application .success--text.text--lighten-3 {
+  color: #a2ff9e !important;
+  caret-color: #a2ff9e !important;
+}
+.v-application .success.lighten-2 {
+  background-color: #85e783 !important;
+  border-color: #85e783 !important;
+}
+.v-application .success--text.text--lighten-2 {
+  color: #85e783 !important;
+  caret-color: #85e783 !important;
+}
+.v-application .success.lighten-1 {
+  background-color: #69cb69 !important;
+  border-color: #69cb69 !important;
+}
+.v-application .success--text.text--lighten-1 {
+  color: #69cb69 !important;
+  caret-color: #69cb69 !important;
+}
+.v-application .success.darken-1 {
+  background-color: #2d9437 !important;
+  border-color: #2d9437 !important;
+}
+.v-application .success--text.text--darken-1 {
+  color: #2d9437 !important;
+  caret-color: #2d9437 !important;
+}
+.v-application .success.darken-2 {
+  background-color: #00791e !important;
+  border-color: #00791e !important;
+}
+.v-application .success--text.text--darken-2 {
+  color: #00791e !important;
+  caret-color: #00791e !important;
+}
+.v-application .success.darken-3 {
+  background-color: #006000 !important;
+  border-color: #006000 !important;
+}
+.v-application .success--text.text--darken-3 {
+  color: #006000 !important;
+  caret-color: #006000 !important;
+}
+.v-application .success.darken-4 {
+  background-color: #004700 !important;
+  border-color: #004700 !important;
+}
+.v-application .success--text.text--darken-4 {
+  color: #004700 !important;
+  caret-color: #004700 !important;
+}
+.v-application .warning {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+.v-application .warning--text {
+  color: #fb8c00 !important;
+  caret-color: #fb8c00 !important;
+}
+.v-application .warning.lighten-5 {
+  background-color: #ffff9e !important;
+  border-color: #ffff9e !important;
+}
+.v-application .warning--text.text--lighten-5 {
+  color: #ffff9e !important;
+  caret-color: #ffff9e !important;
+}
+.v-application .warning.lighten-4 {
+  background-color: #fffb82 !important;
+  border-color: #fffb82 !important;
+}
+.v-application .warning--text.text--lighten-4 {
+  color: #fffb82 !important;
+  caret-color: #fffb82 !important;
+}
+.v-application .warning.lighten-3 {
+  background-color: #ffdf67 !important;
+  border-color: #ffdf67 !important;
+}
+.v-application .warning--text.text--lighten-3 {
+  color: #ffdf67 !important;
+  caret-color: #ffdf67 !important;
+}
+.v-application .warning.lighten-2 {
+  background-color: #ffc24b !important;
+  border-color: #ffc24b !important;
+}
+.v-application .warning--text.text--lighten-2 {
+  color: #ffc24b !important;
+  caret-color: #ffc24b !important;
+}
+.v-application .warning.lighten-1 {
+  background-color: #ffa72d !important;
+  border-color: #ffa72d !important;
+}
+.v-application .warning--text.text--lighten-1 {
+  color: #ffa72d !important;
+  caret-color: #ffa72d !important;
+}
+.v-application .warning.darken-1 {
+  background-color: #db7200 !important;
+  border-color: #db7200 !important;
+}
+.v-application .warning--text.text--darken-1 {
+  color: #db7200 !important;
+  caret-color: #db7200 !important;
+}
+.v-application .warning.darken-2 {
+  background-color: #bb5900 !important;
+  border-color: #bb5900 !important;
+}
+.v-application .warning--text.text--darken-2 {
+  color: #bb5900 !important;
+  caret-color: #bb5900 !important;
+}
+.v-application .warning.darken-3 {
+  background-color: #9d4000 !important;
+  border-color: #9d4000 !important;
+}
+.v-application .warning--text.text--darken-3 {
+  color: #9d4000 !important;
+  caret-color: #9d4000 !important;
+}
+.v-application .warning.darken-4 {
+  background-color: #802700 !important;
+  border-color: #802700 !important;
+}
+.v-application .warning--text.text--darken-4 {
+  color: #802700 !important;
+  caret-color: #802700 !important;
+}</style><noscript data-vue-tag="ssr"><style>.g-image--loading{display:none;}</style></noscript>
+  </head>
+  <body >
+    <div data-app="true" data-server-rendered="true" id="app" id="app" class="v-application v-application--is-ltr theme--light"><div class="v-application--wrap"><header class="v-sheet v-sheet--tile theme--light v-toolbar" style="height:64px;"><div class="v-toolbar__content" style="height:64px;"><div class="v-toolbar__title"></div><div class="spacer"></div><div class="v-toolbar__items"><a href="/" class="v-btn v-btn--flat v-btn--router v-btn--text theme--light v-size--default"><span class="v-btn__content">
+				Home
+			</span></a><a href="/" class="v-btn--active v-btn v-btn--flat v-btn--router v-btn--text theme--light v-size--default"><span class="v-btn__content">
+				Blog
+			</span></a></div></div></header><div class="container"><div class="layout row wrap"><div class="flex xs12 pa-4"><h1>Query the theoretical</h1><p><strong>Tuesday, July 11, 2017</strong></p><div class="post"><p>This will be a bit of thinking out loud, a stream of consciousness. It won't have the editorial quality that I'm trying to follow, but some strange force is motivating me to put this out before I sleep. It's just turned 1 am.</p>
+<p>--</p>
+<p>Start with imagining a girl. Well, more of a woman. Is there an age limit for that? Let's call her…</p>
+<p>Deedee.</p>
+<p>She's a character. Bouncing around drinking and teasing, leaving a wake of crushed egos as she strolls. She does begrudgingly do the humble and innocent things. She works, takes part in family obligations. But she lives and breathes to be where the people dance.</p>
+<p>She wants some action, she wants to live.</p>
+<p><div style="width: 100%; margin: 0 0;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/cYhuDCs2zCc"></iframe></div></div></p>
+<p>She might want the calm and simple life deep down, but she would never admit it. The small town blues with 2.5 children is something that clashes with her reputation. Besides, she has a dog. They're just like kids, but less hassle.</p>
+<p>Now imagine a boy. Or a man? There should be guidelines for these naming conventions. Let's call him…</p>
+<p>Charles Emmerson Winchester III.</p>
+<p>He doesn't live in the real world right now. The tedium of day to day living has forced his mind to forge a survival tactic founded on fantasy and imagination. He gets by though. He stays fit, takes a little pride in his appearance and can even sustain a conversation for hours on end. That latter part is a skill he's proud of. But the thing he wants most is action.</p>
+<p>Action, he's got so much to give. He wants to give it, he wants to get some too.</p>
+<p>That imagination of his might be a problem. It has let him dig his heels in for too long, not needing to get out. But hey, it's never too late to change. Right?</p>
+<p>Some things mix.</p>
+<p>Take warm water and white sugar, mix it together and you'll be left with a bland but sweet liquid. No problems, but nothing special there.</p>
+<p>Do something similar with a very crude, unrefined fossil fuel. It's barely one grade above road sealing bitumen - the thick black paste that gets sticky on a hot summers day. No amount of force will get that to blend with water. Put it in an industrial blender, heat the water to boiling point – you'll still be left with a thick paste layer floating on the water. They don't mix, and trying to force it just makes a mess.</p>
+<p>Now for the other extreme. Get two almost pure but sub-critical mass sized balls of Uranium-235. Don't just mix them together, but slam them together hard at supersonic speeds. Do you end up with just a nice mixture? Nope.</p>
+<p>You get one of the most intense demonstrations of heat, force and radiation ever seen. It's an awe inspiring amount of power that overwhelms the senses and sends chills and tingles through every nerve in an observer's body.</p>
+<p>To the point of this metaphor.</p>
+<p>If the two worlds of our characters here were to collide, could the outcome be predicted?</p>
+<p>A sugary water blend might have charm, but it's dull and bland. It might be good for some things, but neither of them wants that.</p>
+<p>If it's going to be like black goop on water it isn't worth trying in the first place. It'll be a waste of time and a mess.</p>
+<p>There are many steps in between, but there is the ultimate. The final epiphany. The revelation. Just by chance the combining of these two worlds could yield a massive fission explosion consuming both of their minds and bodies in heat, power and passion.</p>
+<p><a href="/media/images/blog/boom.jpg"><img src="/media/images/blog/boom.jpg" alt="Oh the metaphors."></a>
+<em>Oh the metaphors.</em></p>
+<p>How much trepidation should she have, how much research should he do to predict the outcome? Should they just go into it and see what happens, not caring about any potential mess? Should they come at it extremely hard and fast, using all their strength and will power to give it the best chance possible of catalysing that huge explosion? Or should they just lazily lark about and be contempt with just being bland and a little sweet?</p>
+<p>That's exhausting, characters are hard. Share ideas below or on Twitter - <a href="http://twitter.com/aaronights" target="_blank" rel="nofollow noopener noreferrer">@aaronights</a>.</p>
+</div></div></div></div><footer class="v-footer v-sheet v-sheet--tile theme--light"><div class="layout justify-center row wrap"><div class="flex text-xs-center xs12" style="margin-bottom:0;">Copyright © 2020 </div></div></footer></div></div>
+    <script>window.__INITIAL_STATE__={"data":{"post":{"title":"Query the theoretical","content":"\u003Cp\u003EThis will be a bit of thinking out loud, a stream of consciousness. It won't have the editorial quality that I'm trying to follow, but some strange force is motivating me to put this out before I sleep. It's just turned 1 am.\u003C\u002Fp\u003E\n\u003Cp\u003E--\u003C\u002Fp\u003E\n\u003Cp\u003EStart with imagining a girl. Well, more of a woman. Is there an age limit for that? Let's call her…\u003C\u002Fp\u003E\n\u003Cp\u003EDeedee.\u003C\u002Fp\u003E\n\u003Cp\u003EShe's a character. Bouncing around drinking and teasing, leaving a wake of crushed egos as she strolls. She does begrudgingly do the humble and innocent things. She works, takes part in family obligations. But she lives and breathes to be where the people dance.\u003C\u002Fp\u003E\n\u003Cp\u003EShe wants some action, she wants to live.\u003C\u002Fp\u003E\n\u003Cp\u003E\u003Cdiv style=\"width: 100%; margin: 0 0;\"\u003E\u003Cdiv style=\"position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;\"\u003E\u003Ciframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https:\u002F\u002Fwww.youtube.com\u002Fembed\u002FcYhuDCs2zCc\"\u003E\u003C\u002Fiframe\u003E\u003C\u002Fdiv\u003E\u003C\u002Fdiv\u003E\u003C\u002Fp\u003E\n\u003Cp\u003EShe might want the calm and simple life deep down, but she would never admit it. The small town blues with 2.5 children is something that clashes with her reputation. Besides, she has a dog. They're just like kids, but less hassle.\u003C\u002Fp\u003E\n\u003Cp\u003ENow imagine a boy. Or a man? There should be guidelines for these naming conventions. Let's call him…\u003C\u002Fp\u003E\n\u003Cp\u003ECharles Emmerson Winchester III.\u003C\u002Fp\u003E\n\u003Cp\u003EHe doesn't live in the real world right now. The tedium of day to day living has forced his mind to forge a survival tactic founded on fantasy and imagination. He gets by though. He stays fit, takes a little pride in his appearance and can even sustain a conversation for hours on end. That latter part is a skill he's proud of. But the thing he wants most is action.\u003C\u002Fp\u003E\n\u003Cp\u003EAction, he's got so much to give. He wants to give it, he wants to get some too.\u003C\u002Fp\u003E\n\u003Cp\u003EThat imagination of his might be a problem. It has let him dig his heels in for too long, not needing to get out. But hey, it's never too late to change. Right?\u003C\u002Fp\u003E\n\u003Cp\u003ESome things mix.\u003C\u002Fp\u003E\n\u003Cp\u003ETake warm water and white sugar, mix it together and you'll be left with a bland but sweet liquid. No problems, but nothing special there.\u003C\u002Fp\u003E\n\u003Cp\u003EDo something similar with a very crude, unrefined fossil fuel. It's barely one grade above road sealing bitumen - the thick black paste that gets sticky on a hot summers day. No amount of force will get that to blend with water. Put it in an industrial blender, heat the water to boiling point – you'll still be left with a thick paste layer floating on the water. They don't mix, and trying to force it just makes a mess.\u003C\u002Fp\u003E\n\u003Cp\u003ENow for the other extreme. Get two almost pure but sub-critical mass sized balls of Uranium-235. Don't just mix them together, but slam them together hard at supersonic speeds. Do you end up with just a nice mixture? Nope.\u003C\u002Fp\u003E\n\u003Cp\u003EYou get one of the most intense demonstrations of heat, force and radiation ever seen. It's an awe inspiring amount of power that overwhelms the senses and sends chills and tingles through every nerve in an observer's body.\u003C\u002Fp\u003E\n\u003Cp\u003ETo the point of this metaphor.\u003C\u002Fp\u003E\n\u003Cp\u003EIf the two worlds of our characters here were to collide, could the outcome be predicted?\u003C\u002Fp\u003E\n\u003Cp\u003EA sugary water blend might have charm, but it's dull and bland. It might be good for some things, but neither of them wants that.\u003C\u002Fp\u003E\n\u003Cp\u003EIf it's going to be like black goop on water it isn't worth trying in the first place. It'll be a waste of time and a mess.\u003C\u002Fp\u003E\n\u003Cp\u003EThere are many steps in between, but there is the ultimate. The final epiphany. The revelation. Just by chance the combining of these two worlds could yield a massive fission explosion consuming both of their minds and bodies in heat, power and passion.\u003C\u002Fp\u003E\n\u003Cp\u003E\u003Ca href=\"\u002Fmedia\u002Fimages\u002Fblog\u002Fboom.jpg\"\u003E\u003Cimg src=\"\u002Fmedia\u002Fimages\u002Fblog\u002Fboom.jpg\" alt=\"Oh the metaphors.\"\u003E\u003C\u002Fa\u003E\n\u003Cem\u003EOh the metaphors.\u003C\u002Fem\u003E\u003C\u002Fp\u003E\n\u003Cp\u003EHow much trepidation should she have, how much research should he do to predict the outcome? Should they just go into it and see what happens, not caring about any potential mess? Should they come at it extremely hard and fast, using all their strength and will power to give it the best chance possible of catalysing that huge explosion? Or should they just lazily lark about and be contempt with just being bland and a little sweet?\u003C\u002Fp\u003E\n\u003Cp\u003EThat's exhausting, characters are hard. Share ideas below or on Twitter - \u003Ca href=\"http:\u002F\u002Ftwitter.com\u002Faaronights\" target=\"_blank\" rel=\"nofollow noopener noreferrer\"\u003E@aaronights\u003C\u002Fa\u003E.\u003C\u002Fp\u003E\n","date":"2017-07-11T00:00:00.000Z","timeToRead":3}},"context":{}};(function(){var s;(s=document.currentScript||document.scripts[document.scripts.length-1]).parentNode.removeChild(s);}());</script><script src="/assets/js/app.fe97c833.js" defer></script><script src="/assets/js/page--src--templates--post-vue.2618d684.js" defer></script>
+  </body>
+</html>

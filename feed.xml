@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>aarond.me</title>
+        <link>https://aarond.me/</link>
+        <description>The blog of Aaron Davies</description>
+        <lastBuildDate>Wed, 11 Mar 2020 00:44:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Gridsome Feed Plugin</generator>
+        <item>
+            <title><![CDATA[About me.]]></title>
+            <link>https://aarond.me/blog/2019/10/19/about-me/</link>
+            <guid>https://aarond.me/blog/2019/10/19/about-me/</guid>
+            <pubDate>Sat, 19 Oct 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+This is not your usual About Me page, but I’m sharing here five things about me that aren’t very common knowledge. These include things I’m not very comfortable publishing, but I’m hoping getting them out there will, in some strange way, take a small bit of the load off me.
+
+### 1. I take medication for my mental health.
+
+This is something I’m not eager to admit. Seeing [local TV personality Matt Chisholm talk about his struggles with mental health](https://twitter.com/MattChisTVNZ/status/1177127318977798145) makes it seem…  acceptable to be more open about this. 
+
+I hate it. Despite the compassion and reassurance from media personalities and health professionals that it’s an okay thing to do, I still don’t like it. Even if it is irrational, I feel weak and defective because of it. I’ve never gotten into drugs or alcohol, as having substances alter my mental state is something I’m not a fan of.
+
+But since I lost my Dad earlier this year I just haven’t been coping very well. Functioning day-to-day can be a huge challenge, and going against the advice of my doctor would only make it worse.
+
+
+### 2. I hate printed stuff on clothing.
+
+This is an odd one. None of my clothes feature writing or graphics printed on them, unless it’s something that was given to me. I don’t like being a walking sign, whether it’s for a clothing brand’s logo or some quirky slogan on a t-shirt. Also, the feeling of screen printing on fabric is uncomfortable.
+
+### 3. I am very poorly traveled.
+
+The total area that I’ve traveled over in the past 10 years:
+
+[![travel.](/media/images/blog/travel.png)](/media/images/blog/travel.png)
+_It's the bit in red. Look closer._	
+
+Before that, the distance wasn’t much further than a few family holidays three hours drive away from the small town I live in. It’s not that I don’t want to travel, but between being very introverted in nature and looking after my father for many years, the opportunity never came up. Due to my work being on a very casual basis right now, I doubt I’ll have the means to go on epic long distance voyages any time soon. Besides, I wouldn’t want to travel for whimsical reasons. I’m not a tourist.
+
+### 4. I’d rather walk than drive.
+
+Driving is tedious. While I do it as required, if there is an option to walk I’d much rather do that. If I need something from the supermarket or have an errand to run, I’ll strap my boots on and march there under my own power. It saves money and saves the planet!
+
+### 5. I have Asperger syndrome.
+
+I hate admitting this, mainly because I’m not a fan of giving people labels. I was diagnosed in my late teens, soon after leaving school. I think my parents were relieved that there was an actual reason as to why I was so… weird. 
+
+If you’re interested in what this is all about, [the Wikipedia article here is generally relatable to me.](https://en.wikipedia.org/wiki/Asperger_syndrome) It’s not at all fun, but I like to think I’m used to it. Things people do without thinking, like most social interactions, are things I’ve had to focus on learning how to do properly. 
+
+I’m still not good at it. It’s probably one of many reasons as to why I’ve been struggling to find employment. It’s a bit upsetting, but I understand.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Printer Troubleshooting]]></title>
+            <link>https://aarond.me/blog/2019/09/26/printer-troubleshooting/</link>
+            <guid>https://aarond.me/blog/2019/09/26/printer-troubleshooting/</guid>
+            <pubDate>Thu, 26 Sep 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+I was recently contacted to help an elderly person in my small town get his printer working. The printer was consistently printing poorly, with text coming out very blurry and smudged.
+
+My troubleshooting plan was to start simple, and work from there.
+
+[![spoilers.](/media/images/blog/spoilers.jpg)](/media/images/blog/spoilers.jpg)
+_Spoilers: My hands get dirty!_
+
+First was a printer head clean, which was accessed using the touch screen menu on the printer. Running this diagnostic would also print a test pattern to help me see what the specific problem could be. It took a while, but the resulting pattern was rather fuzzy. The edges of fonts had blurry trails and lacked any sharp edges. This matched how the problem had been described to me!
+
+I tried using the printer's auto alignment function next. This function does all kinds of magic to make sure the software is aware of exactly where the print heads are, and can compensate for their position to improve accuracy. This at least seemed to improve things slightly, but unfortunately didn't resolve the issue entirely.
+
+Next up was a manual head align. This is a process where the printer outputs an A4 page full of different patterns, and you inspect each of them and apply the settings to the printer based on which patterns are the most well aligned. This process is done for each printing head: Black, Cyan, Magenta and Yellow.
+
+The trouble is that none of the resulting patterns were good enough. Now it was time to get a little dirty...
+
+I disassembled the printer to get access to the actual print heads, and removed them from the printer. The heads didn't seem too dirty, but could definitely be improved.
+
+[![cart.](/media/images/blog/cart.jpg)](/media/images/blog/cart.jpg)
+_The polished printer heads._
+
+I used cotton swabs and isopropyl alcohol to clean up the heads. Surprisingly, a lot of built-up dried ink came off that wasn't obvious with a simple visual inspection. After cleaning the assembly, I left it out to dry for an hour. When I put it back in the printer I tried another head clean.
+
+The result was an improvement, but still not ideal.
+
+I went in much deeper and disassembled the printing head assembly. It was flooded with excessive ink. Googling for more information showed me that a plastic plate inside the head should be clean and white, but this one was soaked in ink. I cleaned it out as best as I could, but still couldn't get it shiny and white like most example photos online showed.
+
+[![white.](/media/images/blog/shouldbewhite.jpg)](/media/images/blog/shouldbewhite.jpg)
+_That should be completely white._
+
+I put it all back together, and another test page showed very little improvement.
+
+I was now reasonably sure that the fault was either with the ink cartridges or a defect in the printing head. No amount of cleaning was going to resolve this issue, and any further diagnosis would require extra parts to test if my ideas had any merit.
+
+So, not a great result. Still, the printer was better than when I started! It's unfortunate that getting replacement parts for this printer could very well cost more than an entirely new printer, one that would likely be an updated model with better features.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Chrome App Mode: webapps with elegance]]></title>
+            <link>https://aarond.me/blog/2019/09/23/chrome-app-mode-webapps-with-elegance/</link>
+            <guid>https://aarond.me/blog/2019/09/23/chrome-app-mode-webapps-with-elegance/</guid>
+            <pubDate>Mon, 23 Sep 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Browser-based apps have progressed a lot since the laggy and unresponsive experience that Google Docs was when it launched over a decade ago. Thanks to the power of HTML5, tasks from office suites to video editing now perform well enough that the browser can be a viable app platform for daily use.
+
+However, having all this functionality tied to a tab in your Chrome or Opera browser can make it somewhat inelegant, especially if you're like me and many tabs open. Additionally, the address and navigation bars  just aren't needed for most web apps, and take up valuable screen space unnecessarily.
+
+Thankfully, there is a feature in Chrome that can allow you to setup a web app to behave more like a traditional Windows program - app mode. This mode takes away the navigation, address and settings controls that most browsers have, and leaves you with a clean, dedicated window for your browser based apps.
+
+Setting up is easy. Make a new shortcut to the Chrome browser, and add in the “--app” modifier along with the address of the web app you want to use.
+
+Changing the shortcut target from:
+
+```
+C:\GoogleChromePortable64\GoogleChromePortable.exe
+```
+
+To
+
+```
+C:\GoogleChromePortable64\GoogleChromePortable.exe --app=https://docs.google.com
+```
+
+[![Shortcut.](/media/images/blog/portableshortcut.png)](/media/images/blog/portableshortcut.png)
+_Shortcut menu, accessed by right clicking the shortcut and going into properties._
+
+This trick also works with an offline website - just use the Windows file path of the home page in the Chrome shortcut, rather than a web address.
+
+Running Chrome in app mode also changes the icon that displays in the taskbar. It no longer displays the Chrome compass, but instead uses the favicon.ico of the website. This goes a long way to hiding completely that the program is a browser-based app, making it seem more like a standard Windows program to the user.
+
+If you're using a browser-based web app for anything mission critical or where security is a requirement, you can also have an independent instance of the Chrome browser specifically for running an app. This can be on the same machine as a standard Chrome installation without making any unwanted changes to your installed Chrome browser. To do this, just install **[the PortableApps version of the Chrome browser](https://portableapps.com/apps/internet/google_chrome_portable)** to a local directly on the machine. After it's installed just right click on the Chrome executable, click “Send To”, then click “Desktop (create shortcut)”. Now add the app parameter to your newly created desktop icon. Before doing this, you can run the portable version of Chrome normally and tweak any settings you want the webapp's browser environment to have - ideal if you want to completely lock it down for security, such as never remembering passwords, only accepting specific security certificates, or flushing all saved and cached data when exiting the app.
+
+[![browser.](/media/images/blog/browser.png)](/media/images/blog/browser.png)
+_A clean experience, you might not know it's a browser based app!_
+
+You can install as many instances of the PortableApps version of Chrome as you need, and perform the same shortcut trick for each one. If you have several browser-based web apps in use, and want them all completely independent from other browsing activities, you can deploy the portable version of Chrome as many times as required.
+
+Using this PortableApps method also allows you to use a different account for each installed copy. This can be very useful: you can have access to both a personal and a business Google Docs suite in two different windows without having to cycle between logins.
+
+There are some other modifiers you can add to the shortcut to further tweak the way the webapp works. Adding --incognito will make the browser run in, as you'd expect, incognito mode. You can also enter chrome://flags into the address bar while the browser is running in normal mode to get access to an extensive range of additional settings.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[IT: Getting an old Windows machine running]]></title>
+            <link>https://aarond.me/blog/2019/09/22/it-getting-an-old-windows-machine-running/</link>
+            <guid>https://aarond.me/blog/2019/09/22/it-getting-an-old-windows-machine-running/</guid>
+            <pubDate>Sun, 22 Sep 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+After throwing my friend Mark a surprise birthday party yesterday, I was given the task of getting a decade old Windows machine working and running Windows 10. I was given a Windows 7 Ultimate N key and this computer - a four hard drive behemoth - and set to work.
+
+[![mynemesis.](/media/images/blog/nemesis.png)](/media/images/blog/nemesis.png)
+_My nemesis for an evening._
+
+I plugged it in and turned it on. The lights came on and the fans spun up. The monitor sprung to life!
+
+There was a black screen, no POST beep codes and after a few seconds then everything shut down. Before the fans could spin down entirely, the computer started up again! This was an endless loop that it had got locked into.
+
+My initial hunch was that it was a power supply issue, but a suggestion given to me was that the problem was more likely to be with the memory. I juggled the four memory DIMMs in the four slots available, and managed to fix the issue by having just a single 1GB stick out of 4GB in the machine. Even after this the machine was only intermittently working, sometimes entering the same loop seemingly at random. It still entered the boot loop, but reseating the memory again fixed it. After a while of playing around, the issue seemed to occur less frequently.
+
+Yay, progress!
+
+Next up was sorting out the drives. There were four in this machine, and I was told that the operating system would need to be on the smallest one. I tried removing the drives to look at the labels, but an awkward case design made this difficult. To ensure I knew what size each drive was, I unplugged all but one at a time and then proceeded to boot into the BIOS to get the model numbers, and these included the capacity of each drive.
+
+There was a 1000 GB, a 1500 GB, a 2000 GB and a 250 GB. Easy choice!
+
+I plugged in nothing but that 250GB drive, plugged in my Windows 10 USB installation media, and hit F12 during boot to see the boot menu.
+
+I was presented with odd, 2008 era menu options. I had to choose between USB-HDD, USB-FDD, USB-ZIP, and USB-CDROM. Boot from a ZIP drive! That's a blast from the past. Unfortunately none of them worked for booting from the USB drive. So I bridged the jumpers on the CMOS to reset the BIOS settings, but still no cigar. Going through all the settings in the BIOS and changing everything related to booting and USB support still had no luck.
+
+So I booted up what was on that 250GB drive. It started to load Windows, but it just hung. I rebooted into safe mode and it worked! After a quick Google, I found that disabling all programs and services that start on boot and doing a “clean boot” was a common trick to getting normal Windows to start.
+
+It worked! Here I was in Windows…. 7. Unactivated. The key I was given didn't work. I tried running an upgrade to Windows 10, but that either required an activated version of Windows 7 or a valid Windows 10 key.
+
+Looking carefully, I noticed that they key I had was for Windows 7 Ultimate N. I wondered if the N made a difference to the keys working. I couldn't see any reference to this N version in the Control Panel, so on my laptop I headed over to **[archive.org and downloaded a Windows 7 Ultimate N ISO](https://archive.org/details/Win7UltimateNSP1)** and wrote it to my USB memory stick using the **[Windows USB/DVD Tool](https://www.microsoft.com/en-us/download/details.aspx?id=56485)**.
+
+I ran a clean install of Windows 7, and after an extremely slow install process I entered the activation key. I didn't have much hope.
+
+But it worked! Windows 7 Ultimate N was activated.
+
+Installing Windows 10 using the current activation credentials should be a straightforward process. Downloading and executing the official Media Creation Tool for Windows 10 gives the option not only to make a bootable USB memory stick, but also to upgrade the current machine. On the first try, the installer wouldn't get very far: Windows 10 demands a minimum of 2GB memory. I crossed my fingers and slotted in another memory module. Yay, luck was with me and there was no boot loop.
+
+ It took a few hours to complete the install process, but afterwards I was presented with this:
+
+[![didntwork.](/media/images/blog/windowserror.png)](/media/images/blog/windowserror.png)
+_It didn't work._
+
+Ugh. Another Google search showed this error can happen sometimes, and a common solution was just to try again. And it worked! After another few hours Windows 10 Pro N was cleanly installed and activated.
+
+It was a 10 year old PC, so Windows 10 runs rather slowly. I figured that what would help would be getting the PC back to its full 4GB of memory! I went back into the BIOS and tweaked any settings related to memory to try to get it working, hoping the issue wasn't something hardware related. I installed another stick of memory, and it booted. Going all the way, I put all four in - the evil boot loop showed up again. I took that last memory module out and reseated it very firmly, really pushing it down and engaging the clips in the sides.
+
+And with luck being a lady, it booted into Windows 10 and showed all 4GB of installed memory. While I don't want to risk testing it, my guess is that either the memory sticks or slots on the motherboard are a bit flakey and abused with age. A little wiggle or shake might make them misbehave, but the hope is that keeping the machine stationary and stable will give it the best chance of running without fault.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pearson Vue, Microsoft and Upskilling]]></title>
+            <link>https://aarond.me/blog/2019/09/05/pearson-vue-microsoft-and-upskilling/</link>
+            <guid>https://aarond.me/blog/2019/09/05/pearson-vue-microsoft-and-upskilling/</guid>
+            <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+On my quest to upskill, I decided to take exams online to gain some Microsoft certified qualifications. Starting at the beginning, I opted for **[MS-900: Microsoft 365 Certified Fundamentals.](https://www.microsoft.com/en-us/learning/exam-ms-900.aspx)** I signed up to take the exam with the online provider **[Pearson Vue](https://home.pearsonvue.com/)** at 9pm this Thursday night, and spent the last few days doing not much else other than studying. These exams are not free: $184 in local (NZ) currency. It might not seem like much, but money is tight for me right now.
+
+I was a bit nervous, but I was feeling good! Understanding the ins and outs of Microsoft's cloud platform took a little bit of grasping, but I got there. I was very confident leading up to the exam, but still went over the material many times in preparation. I even took hand-written notes! Surely that helps with information retention.
+
+I went through the setup process at 8:30pm, just like it told me - be there half an hour early! During the setup process I had to:
+- Position to get my webcam to get a clear view of my desk
+- Take multiple photos of my desk, the space behind it and to the left and right
+- Take clear photographs of my government issued ID, front and back.
+
+That all went well, and I was all set and ready to go. The last step was to read and accept the Non-Disclosure Agreement.
+
+I tried to click “Yes” to agree. I couldn't, clicking yes did nothing.
+
+I tried to scroll. I couldn't.
+
+I use a big 4K TV as a monitor with 100% display scaling, I think this meant that all the text in the agreement was on the screen at the same time. The program for taking the exam had gone full screen, covering everything including the start bar, meaning I was unable to change any Windows settings.
+
+No matter what I did, I could not progress.
+
+All the preparation material warned me not to have any other applications open or to close the exam application at any time. The only option I had was to click the “Chat” button to get help.
+
+After waiting a bit, an exam proctor chatted with me.
+
+“You need to scroll down in the agreement before you can click yes and accept it”
+
+I can't scroll down. The scroll bar is greyed out.
+
+There was a timer counting down in the top right corner: I had five minutes to accept the agreement.
+
+I started to panic. I tried clicking many times. I tried scrolling down. I tried using tab to highlight the “Yes” option, but I couldn't.
+
+A voice came over my speakers. It was the exam proctor, now trying to help over voice chat. No matter what I did, I could not scroll down and I couldn't click yes.
+
+Then the time ran out. The screen now told me I had failed: scoring 0 out of 700.
+
+Before the voice chat ended I was told that I had to contact customer support to resolve this issue.
+
+I asked if there was a way I could lower my screen resolution or switch to my laptop to try and take the exam. That wasn't an option, the only thing I could do is to submit a case where I would get a result in 3-5 business days. I pleaded to let me re-take the exam sooner - I was prepared and ready, having spent the week getting to this point. Nope, it's 3-5 business days or nothing. I don't even know if the case will be in my favour.
+
+At a guess, the agreement page had a trigger to enable the Yes option when the page has been scrolled to the bottom. However, as my high resolution display could show the whole document at once there was no way to scroll down and no way to enable the Yes button.
+
+It was impossible for me to start the exam.
+
+I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn't have issues like this. It's very sloppy.
+
+[![exam.](/media/images/blog/exam.png)](/media/images/blog/exam.png)
+_I didn't take any exam._
+
+I'm eager to get this exam done! This might seem like a little thing, but for me it's crushing.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Information on Veon 4K TV's]]></title>
+            <link>https://aarond.me/blog/2019/08/02/information-on-veon-4-k-tv-s/</link>
+            <guid>https://aarond.me/blog/2019/08/02/information-on-veon-4-k-tv-s/</guid>
+            <pubDate>Fri, 02 Aug 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Since restarting my blogging venture last year the post that I've received the most feedback on [was my budget Veon TV review.](/blog/2018/11/28/veon-4-k-tv-review) I still get emails nearly a year later with people asking questions while they're looking into buying one, or wanting help with different settings and features. There is very little information on these TV's available online, [The Warehouse](https://www.thewarehouse.co.nz/) doesn't  provide any documentation and there are very few professional reviews available.
+
+[![Veon.](/media/images/blog/veonmaster.jpg)](/media/images/blog/veonmaster.jpg)
+_Veon: A brand shrouded in mystery._
+
+Over the past few years I've had a few dealings with this ultra low cost brand, from my first 32” about 8 years ago to my recent acquisition of the rather large (65”) one now sitting in my lounge.
+
+Because of these factors I've put together a FAQ, hopefully providing helpful information to people thinking about buying a Veon TV. If you can think of any other questions worth including, [feel free to drop me a line.](mailto:aaronights@gmail.com)
+
+# Veon 4K TV FAQ
+
+### Do the 4K models actually support full 4K?
+
+Yes, based on my experience they can take a full 3840x2160 (4K) resolution signal at 60hz. They also support HDCP 2.2 copy protection, meaning 4K BluRay players and most streaming devices for Netflix and YouTube work fully.
+
+There are a variety of options to take full advantage of this. Some choices are the Chromecast Ultra, DishTV Android media players, Xbox One S or X, Playstation 4 Pro and the 5th generation Apple TV - most things that output at 4K pair well with these TV's. Devices that don't support 4K will also work perfectly fine, but just don't get to take advantage of the TV's full resolution.
+
+[![Streaming services like Netflix work very well.](/media/images/blog/netflix.jpg)](/media/images/blog/netflix.jpg)
+_Streaming services like Netflix work very well._
+
+### What features are built in?
+
+Other than standard video signal inputs, the feature set is limited. Video playback from USB works, but doesn't support playing files at 4k resolution - the maximum appears to be 1080p. The built in TV tuner supports New Zealand Freeview in HD over a UHF aerial. Satellite Freeview support is not built in. There is limited functionality for recording Freeview TV to a USB drive, but this is limited to recording what is currently being watched.
+
+There are some new Veon Smart TV models that are advertised as supporting Netflix and YouTube, but I haven't used one.
+
+### How is the sound quality?
+
+The audio coming out of the built in speakers is fine for dialog on a talk show, or the evening news, but for movies and gaming it's not great. Fortunately, every Veon TV I've used has many options for connecting an external sound system - HDMI Audio Return Channel (ARC), digital optical out, analog line level out and a headphone jack.
+
+### Are the TVs wall mountable?
+
+Yes, they work with a standard VESA mount. Based on listings online, 50 inch and smaller TVs use the 200mm by 200mm size mount, and the bigger TVs use 400mm by 200mm.
+
+### What's the 3 year warranty like?
+
+Veon TVs come with a 3 year warranty against defects. If an issue develops you take the TV, along with a purchase receipt, into a Warehouse store - even if the TV was purchased online. At the store the TV will be plugged in and turned on to identify the defect. If it's clear there is a fault with the TV (at least a fault that isn't caused by user error, like a cricket bat impact) it will be sent away for assessment. From my experience it will either be repaired or replaced, or the purchase price will be refunded.
+
+Keep in mind you will need the purchase receipt to make a warranty claim! As soon as you have that receipt in your hand take a snap of it with your phone, and keep that photo safe.
+
+### What are the optimal settings?
+
+The menu isn't extensive, but going through and tweaking the settings is the best way to get the most out of these Veon TVs.
+
+#### Picture settings
+
+- *Picture Mode:*
+To get the best picture quality possible, the picture mode needs to be set to “User” and each option needs to be adjusted manually. Getting the perfect picture will need differing settings for different models, and also the viewing environment the TV will be used in. In my experience the most benefit comes from lowering the Sharpness setting to 0. Most other settings work well near 50, with the Contrast working well at 55, and the Brightness and Colour slightly below in the low 40s.
+
+- *Aspect Ratio:*
+Generally, unless you are using older devices that don't output a widescreen image, this setting should always be set to “Just Scan”. This makes the TV use all of the incoming signal, without cropping the edges of the picture or adding any unnecessary image processing - this is the best option for most modern digital video devices. Old games consoles, VHS players and even early DVD players work well with a Veon TV, but this aspect ratio setting might need adjusting to get an undistorted picture with them.
+
+- *Colour Temperature:*
+Keeping these Red, Green and Blue values all at 50 is OK, but I found bringing down the Red just a little to around 45 makes the picture a little more balanced.
+
+- *Noise Reduction:*
+Unless you're using a really low quality video source, such as an older DVD player or home videos, this is best kept off.
+
+
+#### Sound settings
+
+- *Sound Mode:*
+Keeping this on the Standard preset is best for the internal speakers - adding more bass just adds distortion. If using an external speaker system, adjust the audio settings on that rather than the TV.
+
+- *Balance:*
+If you only want sound coming out of one speaker for some reason? It's not a setting most people need to touch.
+
+- *Auto Volume:*
+This setting is meant to keep the volume levels somewhat normalised, but I can't really notice it doing anything.
+
+- *Surround Sound:*
+This adds an effect to the audio that is meant to “simulate” surround sound. I think it just makes everything sound like it was recorded in a large bathroom - not a very useful feature
+
+- *SPDIF Mode:*
+This setting changes the audio output format that is sent over HDMI and digital optical. If using a two channel stereo system like a sound bar, set this to PCM. If you have a surround sound home theatre system then setting this to Auto will allow the TV to pass through 5.1 channel Dolby Digital surround sound.
+
+- *SPDIF Audio Delay:*
+When using the digital sound outputs, this setting can be used to add a delay to the audio output to keep the picture in sync with the sound. Leave this on the default unless you notice issues with audio and video not lining up.
+
+#### Option settings:
+
+Here the settings are mainly about what language the menu and subtitles are in, but there are two settings here worth paying attention to: HDMI CEC and EDID.
+
+HDMI CEC is a part of the HDMI connection that enables you to control devices, like DVD Players or Freeview boxes, using the TV's remote control. This is great at eliminating clutter, letting you control various HDMI devices all with one remote.
+
+- *HDMI CEC:* Enables general CEC functionality
+
+- *HDMI ARC:* Audio Return Channel. If you have a surround sound system or sound bar, you should connect it to the physical HDMI port on the Veon TV labeled “HDMI (ARC)” and turn this setting on. Using HDMI ARC will also enable the volume of the external sound system to be controlled with the Veon remote.
+
+- *Auto Standby or Auto TV On:* Allows both for a Veon TV to turn on a connected HDMI device when it is turned on, and for a connected device to wake up the Veon TV from standby. This is great for allowing one button to turn on the TV, DVD Player and surround sound system together.
+
+- *Device Control:* Enables the main point of CEC, allowing the Veon TV to control connected devices and vice versa. Generally, this must be enabled to allow other CEC based features to work.
+
+- *Device List:* Shows a list of HDMI devices the TV has detected that support CEC. If you have an HDMI device that isn't listed here, try going into the menu options for that device and find a setting to turn CEC on. Keep in mind that not all HDMI devices support CEC.
+
+[![CEC.](/media/images/blog/cec.jpg)](/media/images/blog/cec.jpg)
+_CEC can allow easy control of HDMI devices with just one remote._
+
+EDID, or Extended Display Identification Data, is the way the TV talks to attached HDMI devices to tell it what settings it supports. Leave this set to *EDID 2.0* unless you have an HDMI device that is outputting the wrong resolution or not working at all.
+
+
+### Do they work well as a computer monitor?
+
+Yes, I would recommend them. For nearly a year I've been using my 50” model as my monitor at my desk. Using the “Just Scan” aspect ratio setting makes the TV do one-to-one pixel mapping from my desktop computer. Fonts are very crisp and clear, and having such a big screen running at a high 3840x2160 resolution lets me use one monitor similar to how a multi monitor setup would work. I normally have a web browser, a document, messenger and a video displaying side by side, taking advantage of all the screen real estate. If you have the space for one at a workplace it's a low cost option worth considering. Keep in mind you'll need a computer with an HDMI port that is capable of outputting at 4k resolution.
+
+[![Veon 4K TV as a desktop monitor.](/media/images/blog/monitor.jpg)](/media/images/blog/monitor.jpg)
+_A Veon 4K TV as a desktop monitor._
+
+### What's this Secret Menu I've heard about?
+
+There is a hidden settings menu used by the factory to test and tweak these TVs. It has several hundred options that allow you to adjust just about any parameter you could imagine, but none of these options are named well and the menu is difficult to navigate.
+
+If you want to use this menu, do so at your own risk! You could very well change a setting that makes your TV completely unusable.
+
+The secret menu is accessed by pressing the Input/Source button on your remote, followed by 2, 5, 8 and 0.
+
+### Finally, are these Veon TV's any good?
+
+Yes, I think so. The picture quality is really, really good but you can notice flaws if you look for them - the black levels are slightly grey and the backlight isn't completely even. The casing is made out of plastic that doesn't feel very premium, but the bezel around the screen is so slim you'd never notice once you've set it up. Even the built-in menu looks rather crude, but in most scenarios you won't be navigating these very often.
+
+[![_.](/media/images/blog/green4k.jpg)](/media/images/blog/green4k.jpg)
+_A very good picture for a low cost display._
+
+A budget Veon is not going to have the same picture quality or feature set as a branded TV that costs three times as much, but with tweaking and tuning the settings you can be pleasantly surprised at how good it can be for the price.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[It doesn't go away, it changes]]></title>
+            <link>https://aarond.me/blog/2019/07/24/it-doesn-t-go-away-it-changes/</link>
+            <guid>https://aarond.me/blog/2019/07/24/it-doesn-t-go-away-it-changes/</guid>
+            <pubDate>Wed, 24 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+### It's odd
+
+
+The grief and feeling of missing Dad doesn't go away or lessen at all, it just changes.
+
+In day to day life I find myself wanting to talk to Dad, share stuff with him, chat with him about things I know he'd be interested in. I go from being happy about finding out something, to less than a second later knowing I don't have my best friend to share it with.
+
+It's simple things. Finding out about a concert at the local library, or a Railway documentary from Australian TV, are the kinds of things I've honed into seeking out for him. It's an automatic sense I've developed over many years, and it'll be a long time before it fades away.
+
+One show my Dad and I regularly watched was Outback Truckers, a show all about long-haul truck drivers who drive across Australia. In a recent episode one of the star drivers, Sludge, was on his second working holiday here in New Zealand. When he's back in Australia Sludge drives a purple fuel tanker he named The Phantom, but here his task was to drive a big fruit truck from Cromwell in the South Island right up to Auckland. During the journey he had to stop for technical difficulties with the refrigeration unit, and ended up sleeping overnight right here in my home town, at the Levin railway yard.
+
+Yes, the show Dad and I have watched was filmed just down the road. If we had known we would have both been there in a flash. Seeing this on the show was huge! I messaged everyone I could when I watched the episode, but it's upsetting that I can't share it with Dad.
+
+[![Sludge was here.](/media/images/blog/railwayyard.jpg)](/media/images/blog/railwayyard.jpg)
+_Sludge was here._
+
+That railway yard is of special significance. My grandfather was a railway worker, and for the first 40 years of my Dad's life he lived in a house right there inside the yard. He always liked going there, if we were out and saw the signals indicating that a train would be passing soon we would park up and watch it speed past.
+
+I'm slowly getting used to living on my own.
+
+It's nice to have command over the house. Dad worked hard in his life to get the house, so I'm putting a lot of effort into keeping it clean and organised. I'm not going to slack off like a deadbeat bachelor, I want to keep this home in a condition that he would be proud of. In a way, keeping his house well-kept is a tribute to him.
+
+I've still yet to go and sort through the stuff in his bedroom, but that'll be a big and rather emotional task that I'll probably need help with.
+
+Being in this house alone wasn't entirely new, as during his last 6 weeks Dad was either in the hospital or the care home. In that time I was so occupied with visiting him, and attending to his logistics and his needs that I didn't stop to think about not only living without Dad, but even just living alone. It's something I wasn't anticipating, but I think it's going to be okay. Dad and I got on so well living together for many years, the idea of living with someone else right now isn't appealing.
+
+One day at a time. Now that Dad's no longer around, I miss the small talk. To any friends and family reading this, please call in anytime you want. I'd appreciate it.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Good Deals 2019]]></title>
+            <link>https://aarond.me/blog/2019/07/14/good-deals-2019/</link>
+            <guid>https://aarond.me/blog/2019/07/14/good-deals-2019/</guid>
+            <pubDate>Sun, 14 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+This chain of events started off on one of those long nights I was spending at the care home, staying up all night next to my Dad during his final weeks. I couldn't watch TV or play any kind of sound, nor did I want to put headphones on. I was there for Dad, and wanted to be alert. I sat there browsing my phone, mainly as a way to keep distracted from the gravity of his situation.
+
+Talking to my friend Mark about sound systems, and the nuance of fidelity and connections, got me browsing the Facebook trading groups. One unit caught my eye - it was a Samsung 5.1 Blu-ray based sound system, listed as defective. Apparently the owner's daughter had been opening and closing the disc tray for fun, and it had eventually stuck closed. This wouldn't matter to me, because as long as the device would play audio from an external source over a digital connection, I could live without the disc tray.
+
+Forty dollars later, and thanks again to Mark for running an errand for me to pick it up, it was mine. Other than the noted issue, it seemed to work well when I got it home and plugged it in. I took it apart easily, in case there was some way I could fix it, but couldn't see any way to get the drive to open at all. Nothing looked broken or out of place, but that thing was stuck solid.
+
+So, with nothing to lose, I gave it some welly. By giving it more force than I felt comfortable with, I managed to pull the disc tray out! It was now rolling free. After putting it all back together, I was 50/50 about whether I'd broken the drive entirely, but a negative outcome wouldn't have made anything worse. As it turned out, the device now functions flawlessly, opening and closing, and reading all sorts of discs without error.
+
+## Good Deal #1
+
+Getting on this track got me hooked on wheeling dealing. I looked around for a TV to upgrade my lounge, to make it more suitable for social viewing and gaming events.
+
+Remember the Veon TV I reviewed last year? It's still going well. Interestly, unlike most other brands, the budget Veons come with a full 3 year warranty. Someone in the Hutt Valley was selling a 65” Veon that had developed an issue - a thin seam of light down the middle. It was a 2016 model, so I was reasonably sure it was still in its warranty period. I messaged the seller to make sure they still had the receipt - the TV was originally ordered online, so he was able to print out a copy for me. The seller was asking $500 for it, but me feeling cheeky, I offered $350.
+
+It was accepted!
+
+The next time I was down that way, Mark and I went in his car and picked up the TV, and then immediately dropped it off at my local Warehouse store for a warranty claim. I was unsure if my claim would go through, but after about an hour of sorting out paperwork the store took the TV away for an inspection and repair.
+
+## Good Deal #2
+
+Knowing that I had a giant TV coming home at some point, I went searching for some way of mounting it. I looked into wall mounting - it would work well, but it's a fairly permanent solution. Plus an array of cables dangling down the wall doesn't look good. A cabinet would be nice, but just having something as big as a 65” TV resting on top of the cabinet felt like it would be rather unsafe.
+
+Again, looking at the used listings, I came across a compromise - a cabinet with a fully built-in mount stand at the rear to secure a TV to - far safer than free-standing it. The seller was asking for $150, but I got him down to $100. I was happy, especially knowing the shop price of a new one is around $799 right now.
+
+## Good Deal #3
+
+I went around to pick up the stand, and it was in really good condition. Unfortunately there was no way it was fitting in my little Mazda. Mark again to the rescue! He kindly picked it up in his small, but surprisingly roomy, car.
+
+On Wednesday I received a call from the TV store. My TV was deemed uneconomical to repair, so I needed to head into the store to sort things out.
+
+I expected to be offered a gift card of some value, or maybe another refurbished replacement. At a stretch, possibly a new unit of the same model.
+
+Nope, I was given a full refund of the original purchase price - $1000. I had just gained $650, given that I had purchased the TV a few days before for $350.
+
+I still wanted a new TV, but with no good sales in The Warehouse or anywhere else I opted to wait. Now it's Friday, and once again I'm browsing online, this time on TradeMe. I noticed something interesting - someone was selling a 65” Veon TV, 8 months old, barely used and still with the box. She was asking $680. I offered $650, and they accepted.
+
+## Good Deal #4
+
+See what happened there? I got a near new, still under warranty, 65” 4K TV for…
+
+Free! Well, other than the cost of all of this wheeling and dealing!
+
+I'm here now, waiting on Mark. He has kindly offered to come and pick up the TV in his car just hours after I purchased it. The guy is amazing, did I ever say that? Between these errands and helping me with the death of my father, he is just such a kind, generous and good friend. I'd offer to paint his house, but he knows too well the many ways I'd screw that up. I hope I can help him out some day.
+
+These deals all relied a lot on sheer luck. At any step in the process it could've all fallen apart. The first TV might have outright died and not have been claimable under warranty, the sound system could have not worked at all with a failed drive, and I could have been without transport to get any of it to my house.
+
+Kenny Rogers was right when he sang about knowing when to hold ‘em and when to roll them, but even the best gambler must always be aware of the risks involved. These deals turned out amazing, but could have all hit the fan with a slight tweak to reality.
+
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Party like it's]]></title>
+            <link>https://aarond.me/blog/2019/07/07/party-like-it-s/</link>
+            <guid>https://aarond.me/blog/2019/07/07/party-like-it-s/</guid>
+            <pubDate>Sun, 07 Jul 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Right now it's 2:30 am on Saturday morning and I just can't sleep...
+
+For the best reason ever! I am ecstatic, hyped and bouncing off the walls, all at once! Yesterday was my birthday, and it was so special - it was my first birthday.
+
+Well, it was my first at least from some aspects. You see, I was born, raised and long associated with a religion that didn't allow the celebration of birthdays in any way. My first 31 birthdays were just like any other day, often completely forgotten and sometimes noted with a casual mention and nothing more. Long time readers would know that I disassociated myself from the religion a few years ago, but just kept July 5 as any other day.
+
+This year I thought would be a little different. My very good friend Mark invited me out to have a burger and a drink somewhere in the city. Maybe Gordy would come too, if he was free!
+
+I rolled up to his place on Friday afternoon, and proceeded to try and solve some issues he's been having with his graphics card. We headed out at 4:30, picked up Gordy and headed to the Southern Cross in Wellington. It was a nice place! We started playing a game of giant Jenga at the outdoor seating.
+
+Then Daniel and Lisa showed up. At first I thought they just happened to be there by coincidence.
+But then more and more people I knew started arriving.
+They had cards and beautifully wrapped presents.
+Then Mark's wife Karen and their girls showed up with an absolutely amazing chocolate cake, decorated beautifully with chocolate numbers from 1 to 32, and 32 candles.
+
+[![candles.](/media/images/blog/candle.jpg)](/media/images/blog/candle.jpg)
+_32 candles. I needed help!_
+
+So many people came! And we all had so much fun! I ended up in a conga party line with the kids - they like to dance about, unlike the adults. The kids and I came up with an evil plan - in my birthday speech I'd put pressure on Mark to dab as one last birthday gift. Even though he despises it, he yielded! Using my birthday powers for such evilness was a rush.
+
+The whole thing was a huge rush of joy. Once I realised what had happened, I couldn't get rid of my cheesy smile. I had absolutely no idea what was being planned, and I've never had a surprise anywhere near this magnitude before.
+
+I have to give a huge thank you to Karen - the cake she made was just amazing in every detail. Kudos to Mia, Abi and Elena for being so good at keeping the surprise a secret - I would struggle to do that! And a massive thank you to my main-man Mark, for setting this whole thing up. It means so much to me.
+
+When my Dad passed away last month I was devastated and crushed.  My very best friend, my partner in doing most things along with my job and purpose to get up each day, was gone. It still hurts, and I know that it will always feel like that to an extent.
+
+But, after seeing such a massive outpouring of love and friendship yesterday, I just feel a little bit more… complete. I have never felt less alone. Great, I'm tearing up now! Still got that smile, though.
+
+I'm not expecting my future to be easy. But right now, for the first time in a while, I'm wanting to give it a go.
+
+Thank you.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Dying Changes Everything]]></title>
+            <link>https://aarond.me/blog/2019/06/30/dying-changes-everything/</link>
+            <guid>https://aarond.me/blog/2019/06/30/dying-changes-everything/</guid>
+            <pubDate>Sun, 30 Jun 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+### Ebbs and flows.
+
+It's been comforting to have family and friends come together for my Dad's funeral. Due to various differences I wasn't at all sure how the various… factions... would gel, but it turned out well. Seeing the huge number of people that attended the funeral and shared stories about my Dad is a testament to how loved of a man he was.
+
+It's been the worst and hardest time, too. I've lost my father, my work and my best friend. I miss him. It comes in waves; sometimes it's nice just to remember and talk about him, but at other times it's crushing and doesn't seem to be worth doing anything at all.
+
+I never want to forget my Dad. To that end I'm going to try and get many of the stories he's told me into writing.
+
+I hope his grandson can remember him, even just a little. Dad liked to nap in the afternoon, but when my nephew was around and wanted to play, napping wasn't allowed! He'd go up and tap on Dad's knee, saying “No sleep Grandad! No sleep!” It soon became a regular little game, and Dad would play - pretending to wake up in a comical splutter. My Dad would always love to entertain his grandson, playing with his toys, reading him a story or just being interested and talking to him with a big smile.
+
+Dad was into his cars before I came along, but sometimes there was a bit of bad luck. He told me stories about his vehicle mishaps - driving up north and having the ceiling lining in the car collapse down over him and his passengers. He bought a small boat once, and when he transported it home on the roof of the car it slid forward over the windshield after a sudden stop.
+
+[![Jump in my car.](/media/images/blog/dadscar.jpg)](/media/images/blog/dadscar.jpg)
+_Jump in my car._
+
+He painted and did up that little boat, but he never once used it on water. He was terrified of being in water - he never went swimming, and rarely had baths. One time the family stayed at a motel with a pool while on vacation - I was able to get him to wade in to just below his waist, but it was a challenge! It might have been due to a bad experience he had when he was young, but I never did find out.
+
+Dad traveled a lot, often saying that he'd been around the whole world twice. Despite this vast travels, the stories that stuck with me were the little comical ones. The first time he was overseas and saw a KFC restaurant he was shocked! “Chicken? Why would they do a place that sells only chicken?!” In his life chicken was something you brought young and raised in the backyard for eggs. The only time it was eaten was when the old bird stopped laying eggs - and by then it was a tough and bad tasting meat, only served as a last resort. The idea of a shop selling that awful food was just crazy! Still, later he became a fan of crispy oven baked chicken wings.
+
+Dad and his traveling partner often got into places they were probably not allowed, just by showing up and asking the right questions. As a railway enthusiast he wanted to see train depots around the world, and they were regularly able to smooth-talk themselves into a guided tour.
+
+That took a few days to put together. It's more difficult than my usual writing to put this stuff together, but I intend to add to this. I'm trying, here.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My Dad]]></title>
+            <link>https://aarond.me/blog/2019/06/17/my-dad/</link>
+            <guid>https://aarond.me/blog/2019/06/17/my-dad/</guid>
+            <pubDate>Mon, 17 Jun 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+The past few weeks have been difficult.
+
+Right now I'm in a hospital grade rest home in my hometown. Next to me is my Dad, sleeping in his bed. He looks so weak and frail. He hasn't been able to speak or even seem at all aware for a few days now.
+
+About a month ago he started to go downhill. He was a bit wonky, being exhausted and disoriented far more than usual. At one point he ended up being  rushed off to hospital in the ambulance. During a two week stay in hospital he was put on a course of powerful intravenous antibiotics.
+
+Unfortunately the antibiotics didn't work. The infection had started in his lungs, something he has always had trouble with. During his working years he worked with very strong glues and solvents, and back in those days health and safety around chemicals wasn't considered to be an issue at all. Now the infection has spread to his liver and kidneys, and has put a strain on his heart. He's not doing very well at all, and there is nothing that can be done. Recently the hospital sent him back to this local rest home to be more comfortable in a less sterile looking environment.
+
+Dad's on a good dose of morphine. It makes him a little more delirious than he has been, but it takes away all of his obvious discomfort and pain. He fidgets and twitches every so often. When that happens I get the nurses to come and reposition him - he doesn't have the physical strength to roll over by himself these days.
+
+About six years ago I took on the role of full time caregiver for my Dad. He was happy at home, and we got along well. Prior to that both of us were taking care of my mother. She had extreme dementia, and we looked after her until it got to the point where she needed professional care.
+
+For those six years that I was dad's carer, my Dad and I did everything together. Every day we'd figure out something to do: go for a ride in the car, get a milkshake, see what changes were going on in his hometown of 80 years. He enjoyed it, and was kind and very appreciative of everything myself and others did for him. I'd go for a run in a forestry track out the back of our hometown, and he'd wait in the car listening on the car stereo to an SD card I had loaded up with all of his favourite music. When I came back I was always given a run down of all the traffic and other happenings dad saw while he waited for me.
+
+Every time I was away from Dad, I've always felt a little paranoid. I'd phone all the time to make sure everything was well, and to check if dad had learned anything he'd want to share with me. We were a team. He might have needed me for help with mobility and getting things done, but I needed him too - because he was my best friend. Not many people with a 52 year age gap would get along as well as we did.
+
+Growing up, and through my entire life, I have always had everything I needed. Dad worked hard for his whole life, and when my sister and I came along he kept working to ensure we were happy. He would have done anything for us, and I did everything I could for him.
+
+But now there is nothing to be done. No matter how much effort I can put in, it won't help him at all. I reassure him that I'm going to be ok - I don't know if he can understand me, but I know that's something he would worry about. I'm not actually sure I will be ok. I have never been so scared or hurt in my life.
+
+I've booked in to see my GP, after getting a recommendation to seek out grief counselling. It seems selfish to do something like that right now, I'm not the one dying. But I hope it can help.
+
+My Dad was the best. I hope I can keep all the stories he told alive and well. Whenever someone asks me about my Dad, I want to share all his tales and also tell people how he was the best Dad I could have ever wanted.
+
+[![My Dad.](/media/images/blog/Dad.jpg)](/media/images/blog/Dad.jpg)
+_The best father I could have ever wanted._
+
+My Dad passed a few hours after I finished writing this. Goodbye Dad. I love you, and will miss you so much.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SciFi revivals: Stay Authentic or Redesign?]]></title>
+            <link>https://aarond.me/blog/2019/05/10/sci-fi-revivals-stay-authentic-or-redesign/</link>
+            <guid>https://aarond.me/blog/2019/05/10/sci-fi-revivals-stay-authentic-or-redesign/</guid>
+            <pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Season two of Star Trek Discovery features the return of the premier starship Enterprise, but with a striking redesign that is causing some debate amongst fans. Narratively it is stated to be the same NCC-1701 ship from the original series, but many aspects of the new design are inconsistent with the original. The size, shape and basic layout reference the original but have been modified, putting it at odds with the recognizable ship's form people have come to love from Star Trek: The Original Series.
+
+How have other revived Science Fiction franchises approached this issue? It's often a case of coming back many years later, sometimes with a switch in format between feature films, TV and games. Do the creators of a new entry in a franchise opt to update designs to be more modern, despite causing a contradiction? Or do they remain true to the original iconography of these ships and machines?
+
+Rebooted and reimagined franchises don't have this concern, so things like the title ship from 2004's Battlestar Galactica are not eligible for this list - it's a different universe and an entirely different ship!
+
+### Doctor Who - TARDIS original design.
+<span style="color:green">Authentic</span>[![Tardis.](/media/images/blog/DoctorWho-Tardis.png)](/media/images/blog/DoctorWho-Tardis.png)
+
+During Peter Capaldi's last season portraying the Doctor, he encounters his original self complete with TARDIS in crossover with the 1966 episode “The Tenth Planet”. This TARDIS is accurately based on the original design that was seen in the pilot, with the same clean all white motif - although at a much greater level of detail to hold up under the scrutiny of modern HD displays. This original interior also appeared during recent episodes as other TARDIS ships in the “factory default” setting.
+
+### Star Wars: The Force Awakens, Solo - Millennium Falcon.
+<span style="color:green">Authentic</span>
+[![Falcon.](/media/images/blog/StarWars-Falcon.jpg)](/media/images/blog/StarWars-Falcon.jpg)
+
+There are changes to this kessel running ship, but they're not in conflict with any prior work. They show upgrades Han and Lando would have made over the ship's long and rough life. The bones, size and structure all match up from Star Wars in 1977 to Solo in 2018, but features like the communications array and color schemes change as the rag-tag ship gets repaired and improved over the decades.
+
+
+### Back to the Future: The Game - DeLorean Time Machine.
+<span style="color:green">Authentic</span>
+[![DeLorean.](/media/images/blog/BackToTheFuture.jpg)](/media/images/blog/BackToTheFuture.jpg)
+
+Despite a change from live action to a very stylized computer generated game, Back to the Future: The Game from 2010 accurately recreated the DeLorean Time Machine from the original movie trilogy. It's still a DeLorean DMC-12 with the Time Circuits, Flux Capacitor and red, green and amber LCD time displays - exactly as you remember them.
+
+
+### Star Trek: The Next Generation, Deep Space 9, Enterprise - Constitution-class Starship.
+<span style="color:green">Authentic</span>
+[![Defiant.](/media/images/blog/Defiant-Enterprise.png)](/media/images/blog/Defiant-Enterprise.png)
+
+Yes, other Star Trek series make an appearance in this list. The original design of the Enterprise has appeared in three other shows, each time heavily accurate to the original appearance. In the Enterprise episode “In a Mirror, Darkly” the deceased crew of the ill fated USS Defiant are even positioned in the same way as they were last seen in the original series episode “The Tholian Web”.
+
+### 2010 - The Year We Make Contact - Discovery.
+<span style="color:green">Authentic</span>
+[![Discovery.](/media/images/blog/2010-Discovery.png)](/media/images/blog/2010-Discovery.png)
+
+It's another space vessel bearing the name Discovery, but this one was recreated accurately to resemble the design from years before. Due to budget limitations the whole interior wasn't remade, just key areas like the bridge, EVA pod bay and the computer core. Despite endeavouring to stay true to the 1968 original, there was one mistake - the number of modules making up the long spine of the ship was inadvertently increased.
+
+### Stargate SG-1 - The Stargate.
+<span style="color:red">Redesign</span>
+[![Stargate.](/media/images/blog/StargateStargate.png)](/media/images/blog/StargateStargate.png)
+
+Between the 1994 feature film and the pilot of Stargate SG-1 in 1997 the design of the Stargate changed. The glyphs around the gate went from being engraved to pop-out embossed. The nine chevrons also changed from metallic to being transparent and lighting up in red as the Stargate dialed. It still remained a 15-foot high metal ring, but the details weren't consistent.
+
+### Alien franchise - Space Jockey Ship.
+<span style="color:green">Authentic</span>
+[![Jockey.](/media/images/blog/SpaceJockey.png)](/media/images/blog/SpaceJockey.png)
+
+Despite many sequels over the years, the original Space Jockey ship design with it's enormous chair wasn't seen following the 1979 original until Ridley Scott returned to direct the prequel Prometheus in 2012. It's not the same ship, but two separate ships of the same design. The colours are slightly different between the two vessels, but the aesthetic, size and details are accurately represented.
+
+### Blade Runner - Spinner Car.
+<span style="color:green">Authentic</span>
+[![Cop Car.](/media/images/blog/BladeCar.jpg)](/media/images/blog/BladeCar.jpg)
+
+The sequel is set 30 years after the original, so there have been some logical upgrades to the vehicle shown (such as a detachable drone and improved screens) - but this design of car and the overall aesthetics in Blade Runner 2049 still retains solid continuity with the original.
+
+### Star Fox - Arwing.
+<span style="color:red">Redesign</span>
+[![Arwing.](/media/images/blog/Arwing.png)](/media/images/blog/Arwing.png)
+
+The very low polygon count of the Super-FX charged 1993 original wouldn't make for a very good technical showoff in a Nintendo 64 title, so redesign was the choice here. The simple size and outline of the ship has largely remained the same, but extensive detail has been added in successive games. The lack of an overarching story does open the possibility that the ships have just been upgraded by Fox McCloud and the team - maybe there was a 90's trend in ship design for flat coloured surfaces!
+
+---
+There are some shows that take the upgrade route, but many franchises chose to stay true to the original series. Video games trend towards a redesign, largely to show off improvements in rendering technology. Concerns about designs and technology looking dated are often not an issue when it comes to a time machine or space ship in a movie - having designs the viewers will be familiar with tend to be more important.
+
+Speaking on the DVD release of Star Trek: Enterprise, showrunner Manny Coto spoke of concerns when using an outdated 1966 ship design in a modern show: *“Our fear was: would it look cardboard, would it look like our heroes had gone to a cheesier set… but it didn't work out that way. The sleekness of the 60's set actually looked like we were going into a futuristic vessel”.*
+
+ Now with Star Trek Discovery, that perspective is out with an enhanced redesign being the chosen way to bring the original Federation Starship Enterprise back.
+&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+> >*Do you know of other show revivals that went for a more modern look? Are you pleased with the redesign used in Star Trek: Discovery? Would you rather it stayed more true to the original series? I'm sure I've missed many! [Drop me a line and let me know.](https://twitter.com/aaronights)*
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Sugar Free Cola Challenge]]></title>
+            <link>https://aarond.me/blog/2019/04/01/sugar-free-cola-challenge/</link>
+            <guid>https://aarond.me/blog/2019/04/01/sugar-free-cola-challenge/</guid>
+            <pubDate>Mon, 01 Apr 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+My quest for finding and reviewing the cheapest products possible has taken an interesting turn. This time I roped in a group of friends to tackle a twist on the Pepsi challenge - testing an array of sugar free cola beverages, seeing what comes out on top and if the no-name brands can stand up to the titans.
+
+The motivation for this challenge was my friend Mark's proclamation that Diet Coke is his drink of choice and, while some other options are bearable, nothing beats the original. It's 95% of his beverage consumption - outside of exorbitant craft beer, at least. He put his pre-game odds of spotting the Diet Coke at 75% - very modest for the enthusiast he is. <!-- more -->
+
+The test had six choices. Three were Coca Cola official brand - Zero, No Sugar and Diet. Chasing this was Pepsi Max and two store brands - Nice Sparkling Cola from The Warehouse and Value Cola from New World.
+
+[![A Five Star Selection.](/media/images/blog/coke.jpg)](/media/images/blog/coke.jpg)
+_A Five Star Collection._
+
+Three contestants took part in the challenge, each given six cups marked only by a number or letter - and the drinks were in a different order for each contestant, to prevent them being influenced by others' opinions.
+
+**The Results:**
+
+
+| Actual Drink         | Overall Rating | Mark's Guess  | Mark's Rating | Gordy's Rating | Nate's Guess  | Nate's Rating |
+|----------------------|----------------|---------------|---------------|----------------|---------------|---------------|
+| Diet Coke            | 12             | Diet Coke     | 5             | 6              | Value         | 1             |
+| Coke Zero            | 9              | Coke Zero     | 1             | 5              | Nice          | 3             |
+| Coke No Sugar        | 5              | Pepsi Max     | 1             | 3              | Coke No Sugar | 1             |
+| Pepsi Max            | 12             | Coke No Sugar | 3             | 4              | Pepsi Max     | 5             |
+| Nice (The Warehouse) | 10             | Nice          | 4             | 2              | Coke Zero     | 4             |
+| Value (New World)    | 4              | Value         | 1             | 1              | Diet Coke     | 2             |
+
+  <br />
+
+He got it! Mark did spot which one the Diet Coke was, but wasn't very confident in his choice. Curiously, all players were surprised that the difference between the choices was far more subtle than expected. Nate has a preference for Pepsi Max, and was able to spot that. Gordy wasn't familiar with the drink choices so opted just to review rather than identifying them.
+
+The Nice store brand was said to taste like slightly watered down Diet Coke, but the Value brand just wasn't good. Outside of this, there are rather few trends to show from these results. Coke Zero beat Coke No Sugar, but Diet Coke did come out on top for two of the three contestants. People have preferences, so this is not an objective ranking. Pepsi Max had a strong showing - even if the resident Diet Coke fan ranked it in the middle.
+
+[![Cupping.](/media/images/blog/cups.jpg)](/media/images/blog/cups.jpg)
+_Cupping._
+
+The result? Well, no minds were changed. Despite claiming that the difference between the drinks wasn't great, Mark's favourite Diet Coke still ranked number 1. He'll be sticking with that as his beverage of choice, with the added confidence of “knowing”.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Nature of my Obsession]]></title>
+            <link>https://aarond.me/blog/2019/03/16/the-nature-of-my-obsession/</link>
+            <guid>https://aarond.me/blog/2019/03/16/the-nature-of-my-obsession/</guid>
+            <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+My whole life I've been obsessive. There isn't any middle ground, if I enjoy something I want it all. I want to deep dive into every little thing about it. On the other hand, if something doesn't grab me I can't half like it. Sitting on fences is just too uncomfortable.
+
+I grew up very awkwardly. School wasn't fun, I was bullied and could never fit into any social circles. I left high school prematurely, and a few months after that I got admitted to professional help. Doing that ended up with me being diagnosed as having high functioning autism, also called Asperger syndrome.
+
+It's not a label I like to give myself. I don't want people to make assumptions about who I am based on a flaw in how my brain is wired, but I know it'll help to make sense of how I behave and think in this context. <!-- more -->
+
+I really liked Star Trek. I bounced off the walls when Tuvok quoted Spock during the finale of Voyager - watching it over barely viewable UHF reception. Getting an in-universe reason for the smooth-foreheaded Klingons seen in the original series during the last season of Star Trek: Enterprise made things fit so well - it was beautiful!
+
+[![Smooth.](/media/images/blog/smoothhead.jpg)](/media/images/blog/smoothhead.jpg)
+_Coming full circle and making everything fit beautifully._
+
+More than just watching the shows (and spending way too much money on videos, DVDs and books), I did all that I could to become engrossed in this fictional universe.
+
+I roped in my Dad and went to the nearby park to measure the size of the various Starships. I did them all! I remember being surprised that smaller looking Intrepid-class Voyager was notably bigger than than Kirk and Spock's Enterprise. Seeing the space these massive ships would actually occupy made them a little bit more graspable.
+
+After leaving school I forced myself into higher education and went for a bachelor's degree in Information Technology. During a Human Resources-esque paper I had to prepare an interactive training curriculum and presentation. I chose the topic of the principles of warp drive. I went all in - nothing was missed, and I made assumptions to fill any holes in the information available. Pedantically calling it the Gravimetric Field Displacement Manifold, giving intermix ratios and explaining how the warp bubble around the ship caused a lensing effect to make the stars fly past the way they do. Hey - it was a people focused paper! Somehow the lecturer allowed it.
+
+This engrossment gave me such a profound sense of belonging at a time that I had nothing. I had no social life, partly because of my disabling social anxiety and being somewhat alienated from my family - [for reasons](/blog/2016/09/01/coming-out). Star Trek - and a handful of other deep obsessions - were things I clinged onto (!) to get by.
+
+I'm in a much better place now. My 20s were ten years of learning social cues and how to function as a person. Life isn't great, but I know I'll get there!
+
+The three most recent Star Trek movies had a story crafted to justify the differences and allow it to be distinctly separate, not conflicting with all that came before it.  Even if I didn't love one of the movies (Into Darkness, much?) it didn't demand cognitive dissonance to make it fit. It was still frustrating when even this didn't really line up, but it was better than nothing
+
+With Star Trek Discovery I feel like I am being lied to. I am being told things from a position of authority that do not align with established facts. The show is sold as being the same world as the 5 shows and 10 movies that precede it. If it was simply modifying the aesthetic, making the visuals more in line with what a modern audience expects, I'd probably be ok with it. [As I posted last month, the narrative, the story and the technology](/blog/2019/02/27/the-trouble-with-star-trek-discovery) - how it all would sit in 2257 just isn't even trying to work.
+
+It's not fair of me to place this kind of…. requirement onto the new show. It's an entertainment product! I should shut up and be entertained.
+
+I'm such an unreasonable idiot that I can't.
+
+It hurts, somehow. It hurts far more than I thought it would. I thought I had matured to point I'd just not care about these things, but it turns out this deep obsession I've had for decades now is still something unreasonably important to me.
+
+It is unreasonable. This is a for-profit franchise that is solely for entertainment. It is not something that has a tangible effect on my life or anyone else's.
+
+And I am sorry. I do not question for a second that the people behind the show are doing all they can to make the best show possible. I don't give much credibility to the conspiracy theories that some pundits present as to why Discovery can't use elements from the previous shows. The show is trying to be good, there is no secret sabotage being done behind the scenes.
+
+I'll live. It's a TV show, another one to add to the millions of other TV shows that I don't watch. If I don't like a show, I don't have to watch it. Move aside jeweled up gauntlets, this is where the real power is at.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[The Trouble with Star Trek Discovery]]></title>
+            <link>https://aarond.me/blog/2019/02/27/the-trouble-with-star-trek-discovery/</link>
+            <guid>https://aarond.me/blog/2019/02/27/the-trouble-with-star-trek-discovery/</guid>
+            <pubDate>Wed, 27 Feb 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+_Update 13 March 2019:  Certain people are using the discussion around Star Trek Discovery to promote bigoted ideas and openly attack actors and other people involved with the show. This is both horrific and embarrassing, especially considering the ideal Star Trek represents - inclusivity._
+
+_Attacking anyone online for a TV show is never acceptable. I'm extremely frustrated and even upset about the direction Star Trek Discovery is taking in regards to continuity, but it is absolutely not grounds for abusive and hurtful interactions on social media. Many people are enjoying Discovery, and they are entitled to share how much they are enjoying it without encountering hate. I do hope Star Trek can return to be more inline with what came before, but no one is entitled to have that happen._
+
+___
+
+I'm into Star Trek way too much. I still have a mountain of tapes, discs and books populating the majority of my shelf space, and my friends get irritated at my need to quote and reference the characters and plots in casual conversation.
+
+ <!-- more -->
+
+The latest show, Star Trek Discovery, isn't sitting well with me. It seems to be frequently ignoring and discarding various elements of the established fictional universe at will. It gives the impression that it is somehow embarrassed to be Star Trek, and of all that came before it.
+
+So what is the new show doing that just doesn't align well?
+
+## Characters
+
+Sometimes it's been put down to bad acting or writing, but the many characters in Star Trek behave differently. The way they interact with others, discuss topics, debate matters and even just how they carry themselves is a fair bit removed from what is the norm in the current day. These differences have been highlighted in some great time travel Star Trek stories: Voyager visited the 90's in the two parter Future's End, City on the Edge of Forever in the Original Series is a fan favourite episode, and Star Trek IV strongly focused on how much of a fish out of water a 23rd century crew would be in the current day.
+
+[![st4.](/media/images/blog/st4.jpg)](/media/images/blog/st4.jpg)
+_23rd century astronauts being out of time._
+
+Discovery does things differently. The characters seem more fitting in a contemporary sitcom or drama, rather than being futuristic astronauts on some kind of star trek. Tilly, Stamets or even the Vulcan-raised Michael Burnham would be right at home in a modern day Western city in terms of behaviour and mannerisms. The bickering and interactions fail to give any hint that they are separated from us by more than two centuries. If you extrapolate how different people are today compared to the early 1800's, you'd expect huge changes - if anything, other Star Trek iterations haven't pushed far enough in this aspect.
+
+But this can be put down to conjecture. People are unique, and it could just be that these particular characters are a throwback to centuries gone. But there is more than that - the technology is also not lining up.
+
+## Technology
+
+Full holographic simulations are used, despite them having been introduced as  a new and exciting technology over 100 years later in The Next Generation. A holographic communication system is casually used without note, despite again being a new and exciting technology over 100 years later - and this technology is never seen or used during the hundreds of episodes, spanning multiple shows, set in the time between Discovery and its eventual debut in the fifth season of Deep Space Nine.
+
+[![holo.](/media/images/blog/holo.jpg)](/media/images/blog/holo.jpg)
+_The holo-communicator - first seen in the late 24th century._
+
+An entire war with the Klingons occurs during the first season of Discovery, with the key technological advantage for the Klingons being that the their fleet of ships have cloaking technology - making them invisible and undetectable. The episode Balance of Terror from The Original Series shows an entire starship being able to cloak - and this is presented as something that the whole crew of the Enterprise are astounded by, and it is obvious they are unfamiliar with even the concept of cloaking. Did everyone on the flagship of the fleet just forget at some point before this encounter? Were they not informed? Why did the writers do this, rather than pursuing a storyline that actually fits? Personally, I think that it comes off as rather lazy and disrespectful of the show that started the franchise all those years ago.
+
+The highly advanced Spore Drive used on Discovery might seem to violate continuity, but as of now it's still an experimental system deployed on just one ship. The best case scenario I can think of for explaining its absence later in the timeline is that it'll be gone and unusable before the Discovery is decommissioned or destroyed.
+
+There are even little things that don't fit, like site-to-site transport between two locations aboard a starship being employed casually - despite it then being a very high risk and unadvisable procedure a few years later.
+
+## Iconography
+
+The model of the USS Enterprise used in filming the original series is now on display at the Smithsonian museum, yet Discovery has the gall to rewrite this iconic design.
+
+[![enterprise.](/media/images/blog/enterprise.jpg)](/media/images/blog/enterprise.jpg)
+_The original filming model of the Enterprise restored and on the display at the Smithsonian National Air and Space Museum._
+
+This is like taking the Ecto-1 from Ghostbusters and making it look like a Toyota Prius in a sequel, or replacing the button and switch covered helm of the Millenium Falcon with nothing but backlit LCD touch screens. Discovery is not even saying that the designs evolved or were changed from the original setting - it's actually replacing what you thought you saw of the original form. Few specific design elements from the established continuity are used in the show, yet it was a choice to set it smack bang in the middle of the 23rd century.
+
+To compound matters, it's not just one preceding show that doesn't line up with what has been introduced in Discovery. Elements of the original Constitution-class design from The Original Series have appeared many times in the series - Relics, Trials and Tribble-ations, and the two parter In a Mirror, Darkly all connect back to this original iconography many decades after it first appeared. Even Klingon ships and designs have diverged from what was seen both before and after this point in canon. Rewrite canon, claim this to be Prime Universe, but do little to show it? Sure, no one would notice. Right?
+
+[![MirroDarkly.](/media/images/blog/mirrordarkly.jpg)](/media/images/blog/mirrordarkly.jpg)
+_A recreated Constitution-class bridge, as seen in the 2004 Enterprise episode "In a Mirror, Darkly"._
+
+These things - the characters, technology and iconography of the Star Trek franchise - are things I care about. Why doesn't this new series care about these things? Star Trek has a massive and in-depth following. Some fans are comfortable compartmentalising - separating it from all the shows that came before it, and just ignoring these glaring issues that make it misaligned. My pedantic nature means that I can't help but be reminded and frustrated every time an issue comes up. If this show doesn't embrace and build upon what came before it, why even make it Star Trek?
+
+Sorry, I guess? I wish Star Trek was back, and that I could be a huge evangeliser for it, but I really just cannot.
+
+_Agree or disagree? Hit me up on Twitter to let me know how right or wrong I really am - **[@aaronights](https://twitter.com/aaronights)**._
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Ultra Budget: Vernee T3 Pro review]]></title>
+            <link>https://aarond.me/blog/2019/01/31/ultra-budget-vernee-t3-pro-review/</link>
+            <guid>https://aarond.me/blog/2019/01/31/ultra-budget-vernee-t3-pro-review/</guid>
+            <pubDate>Thu, 31 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+### Cheap or Too Cheap?
+
+In my continuing quest to discover the cheapest viable technology products, I've switched my attention to smart phones. Browsing Aliexpress, the best balance between specifications and price I found was under the very obscure Vernee brand - the T3 Pro model. I opted for the dark blue color, paid my $110 and three weeks later it was in my mailbox. <!-- more -->
+
+[![Cheap can!](/media/images/blog/vfront.jpg)](/media/images/blog/vfront.jpg)
+_Cheap and Standard._
+
+The hardware is solid, but a very basic all plastic design. The whole back cover of the phone needs to be removed to access the SD card and SIM slot, no sliding trays here. The back cover has a unique serrated texture all of over it - I don't know if this gives much grip, but you can make a really annoying sound by sliding the back of your fingernail over it. Both the headphone jack and micro USB port are found on the top - that's a first for me! While it doesn't cause problems with most uses, it does make it unable to be used with a docking station.
+
+[![Back!](/media/images/blog/vback.jpg)](/media/images/blog/vback.jpg)
+_Ziggy and Zaggy._
+
+In the middle of the back is a round fingerprint scanner. I registered my right index finger, and haven't had an issue with it. It's not the fastest response - tap it and it's about one second before you're greeted with the launcher. Occasionally it takes two taps to register correctly, but from my experience this would be less than 5% of the time.
+
+There are no front-facing buttons, so the stock navigation bar is used. It works well with the screen - it's a bit wider than standard widescreen, so watching 16:9 content with the navigation bar present fits the display perfectly.
+
+Theat display specs out at 1440x720 resolution. It's not the Full HD that other devices use, but it gives a great amount of detail with bright and accurate colours (at least to my untrained eyes). Nothing appears blurry, even when setting the font size to Extra Small.
+
+The micro USB port also isn't compatible with OTG, meaning you can't use a micro USB flash drive or other USB peripherals through an adapter. It's an odd omission, but at a guess it's not a commonly used feature for most people.
+
+The phone only has 16GB of internal storage, but does have a micro SD card slot. I found that some apps run slowly when running from the micro SD card, but that's likely a case of the card I'm using being fairly old and slow.
+
+This is a dual SIM card phone, but the design of the slots means you can't use one of the SIM card slots when you're using a micro SD card. Considering the internal storage is on the low end, you might be relying on that expandability just to get reasonable base functionality.
+
+[![slot!](/media/images/blog/vslot.jpg)](/media/images/blog/vslot.jpg)
+_Dual SIM or SD Card and Single Sim._
+
+The software is largely untouched from the way Google intended it to be. It's just... Android. Stock and raw! The same settings menu, launcher and user interface without anything put on top of it. As it's running Android 8.1 you do get a wide range of features, but nothing additional or extra flashy. This is very useful - some of my previous phones came loaded with all kinds of bloatware and Chinese language apps that were a pain to get rid of.
+
+The Android implementation runs well. The only times I've had it lock up on me was when certain apps started being resource hogs - Instagram, I'm looking at you! Thanks to its above average 3GB of memory it works rather well with multi tasking. I haven't had a music or Podcast app close on me while it's running in the background, and going between a browser and Twitter normally doesn't force a complete reload.
+
+[![Cat!](/media/images/blog/vcat.jpg)](/media/images/blog/vcat.jpg)
+_The Rear Camera works. Also, he's not posing at all!_
+
+The camera is useable under good lighting. The rear has twin 13 megapixel lenses - one standard, and one locked into a 2x optical zoom. The photos are clear and detailed, even if they do look extremely flat. It's accurate enough, but lacks the vibrancy that the high end of the market delivers. Even worse is the front facing camera - under anything but the midday sun the color almost disappears and the whole image looks to be covered with an extreme grain filter. Sexy selfies late at night are just disappointing! But this time not just because of my bad complexion.
+
+[![Outside!](/media/images/blog/voutside.jpg)](/media/images/blog/voutside.jpg)
+_The Sun is the best kind of light._
+
+You do get what you pay for, but in this case it's just basic functionality rather than anything broken. The Android implementation is bare bones, but solid. It's not overly prone to crashing or even hanging for long periods, but just won't hold up for power users - especially those vain enough to shower their feeds with selfies.
+
+[![Self!](/media/images/blog/vself.jpg)](/media/images/blog/vself.jpg)
+_I don't like this guy either._
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fall-ing Out]]></title>
+            <link>https://aarond.me/blog/2019/01/14/fall-ing-out/</link>
+            <guid>https://aarond.me/blog/2019/01/14/fall-ing-out/</guid>
+            <pubDate>Mon, 14 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+I've never been into Fallout. The closest thing was putting 50 hours into Oblivion over a decade ago. I have owned Skyrim, Fallout 3 and Fallout 4 (via Xbox Game Pass) but wasn't compelled enough to move very far beyond the introductions. I do understand the appeal! It's a vast world with extremely diverse ways to do things. The several hundred hours that even a casual player can put into these worlds makes perfect sense.
+
+[![Past.](/media/images/blog/past.jpg)](/media/images/blog/past.jpg)
+_Still have em, mint in box._
+
+But since that time I've made friends - one who loves the Bethesda style. In the lead up to the recently released Fallout 76, he was eager to dive in, but wanted buddies to join him to get the most out of the new multiplayer online experience. <!-- more -->
+
+I was not going to pay the box price, especially after seeing the reception it received. Despite extensive bugs, glitches and overall wonkiness, the previous games in the franchise have had a fairly positive reception, but this one just tanked critically. The boss over at Giantbomb couldn't even get anyone on staff to play the game long enough to give it a review score, [so it just ended up with a “Don't play this game”.](https://www.reddit.com/r/Games/comments/9z3w5l/giantbomb_unlikely_to_review_fallout_76_gerstmann/)
+
+But, following the negative reception and presumably unimpressive sales, the price of entry dropped. In mid-December one of my favourite and totally legitimate key trading sites had the PC version for $19 - down from the $100 to $120 that it was selling for just a week or two before.
+
+[![Rake.](/media/images/blog/rake.png)](/media/images/blog/rake.png)
+_People weren't forking over their cash, perhaps._
+
+It's an experience. The biggest thing I've taken away is just how rigid and static the whole world is. You can never move anything, change anything, or do much in the story to make things around you different at all. It's like everything is cast in solid steel, and you can't get a plasma cutter. Completing a mission involving burying a dead body, the pile of dirt and the hole doesn't change one bit after the mission has been completed. Partly because it's a shared online world, you also don't seem to be able to do any world changing events.The only exception is base building, but that is always fairly dry and bland. You might be able to get nicer walls and beds at later levels, but getting there would be a task.
+
+[![Trees.](/media/images/blog/trees.jpg)](/media/images/blog/trees.jpg)
+_A forest of never changing Trees._
+
+I've been told that a big part of the Fallout experience is the story. With this I think you'd be better reading a book. Every plot mission so far is a fool's errand. You get an audio recording of someone or a script for something to do, and when you get there the promised end game - generally the person - isn't there. There are some interesting plot points, but these are focused on things that have happened far in the past rather than what is happening now. Going to an abandoned Country Club gives you an idea of the fun that could be had if things were happening - exciting story events that were happening as you played - but instead it's just robots  telling you bland and basic dialog on a loop.
+
+It's not very good looking at all, or very well performing. Well, at least not for me. I'm operating below the minimum system requirements with my GTX 750 - something I brought extremely cheaply out of a decommissioned crypto mining farm. Combining this with my vintage 2011 CPU gives me frame rates in the mid 20's with every possible option set to low - even resolution. I know I shouldn't be surprised, as this is below the stated minimum demanded specifications, but after having Destiny 2 run at full 1920x1080 with moderate settings and never once dropping below 30? Oddly disappointing. It looks just awful, but I still find it playable. I get a little thrill out of being able squeeze every drop out of this old rig.
+
+[![Comparison.](/media/images/blog/comp.jpg)](/media/images/blog/comp.jpg)
+_Comparison: 750 vs 1050Ti._
+
+Outside of the settings and performance, Fallout 76 doesn't look to behave in a logical manner. You see a teammate hacking into a safe while they are a good two meters away and not even facing the right direction. The number of animations are at a bare minimum. Most doors don't animate to open, and any player-to-player interactions just show two people standing next each other doing nothing. In a single player game these things probably wouldn't be noticeable, but now that everything can be observed from the perspective of another character it just seems lacking.
+
+But by far the biggest and most irritating issue is the sheer instability of the whole experience. Some glitches are just comical - I regularly see my other player companions wearing nothing but tighty whitey underwear despite them being fully clothed. Once my character was animated as  swimming over dry land! But this just happened for my companion - for me, my character was running and walking as normal. This example is funny, but some glitches just break the game. A friend's camp once had everyone spawning under the floor after fast traveling there, stuck and unable to get out. These are all similar glitches that past games have been plagued with, but the online nature takes it to another level.
+
+[![Nude.](/media/images/blog/nude.jpg)](/media/images/blog/nude.jpg)
+_Bringing sexy back, but not by choice._
+
+Additionally the servers just aren't stable. At least half of my friends and my play sessions have resulted in being kicked out of world to the main menu due to a server failure. Often the game just locks all movement with a prompt saying the server can't be reached, sometimes doing this repeatedly for minutes on end. Sometimes the whole game can just crash, either locking up or closing without any notification. It's not just my pathetic hardware, asking my friends and browsing Reddit shows that these events are fairly common. I'm not that bothered, I paid a rock bottom price to play! But considering this game right now is on store shelves, at full retail price? It's not acceptable. Anyone can buy this game and it doesn't function correctly anywhere near often enough. My friend guessed that there likely is a memory leak or some bad looping code that forces the server to occasionally get bogged down, and which point the server gets rebooted and all players get kicked off.
+
+Despite all of this, it still can be very fun. Just wandering around a polygonal wasteland in a team of four, chatting about the game and other life issues is very compelling. Seeing someone who is hoarding way too much stuff waddle around overencumbered like a duck is endlessly hilarious. The combat isn't great, but shooting and slicing up giant mutated insects is still fun enough to keep going. Well, that is until you get one giant blood sucking thing that constantly revives itself, never letting you get back to all your stuff that you drop when you die! But in that case it's nice to have difficulty from actual game mechanics rather than the pervasive glitches.
+
+I'm at level 10, I've built myself a base and already have too much stuff in my Stash Box. I will continue playing, probably for as long as I have friends still interested. There is a good chance that things will improve, the latest patch did correct 150 known bugs. Even if stability just got better the whole game would be a far more tolerable experience. It might get there, maybe with a massive re-release similar to what Final Fantasy XIV did with its A Realm Reborn edition three years after the initial outing was unsuccessful.
+
+If you're curious? Look out for a low cost deal, hold your breath and dive in. If you want a tourist guide, [hit me up.](https://twitter.com/aaronights) I'll play with anyone eager, and I have so much wood to give.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Story of my day.]]></title>
+            <link>https://aarond.me/blog/2019/01/11/story-of-my-day/</link>
+            <guid>https://aarond.me/blog/2019/01/11/story-of-my-day/</guid>
+            <pubDate>Fri, 11 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+I'm just putting this together before bed. Feeling rather reflective, I'm documenting my day. It's an archetype of my existence, being a caregiver and being this goofy human being [in small town nowhere.](https://www.google.co.nz/maps/place/Levin/data=!4m2!3m1!1s0x6d40f3627c967d4d:0x500ef6143a2d9d0?ved=2ahUKEwjP4bj2oOPfAhWGYisKHRQUCaEQ8gEwDnoECAkQCA)
+
+Because the best way to improve things is to start with a clear and accurate understanding of the actual situation! That's what I always say.
+
+I'm awake at 8:30am. The first task of the day is to make sure my Dad has had his morning medication and is feeling well enough to be able to get around inside the house using his walking frame. He was good today, so it was easy enough to get him to his favourite chair.
+
+[![Ceiling.](/media/images/blog/roof.jpg)](/media/images/blog/roof.jpg)
+_What an exciting ceiling._
+
+At 9am every day my Dad gets a professional caregiver to help with his personal cleaning and grooming. It's a huge help - it's one of the biggest tasks and the most necessary. They also sort out his breakfast and try to help with any other tasks he might have. While that's going on I head to my desk to check up on all the events, news and emails that pop up during the night.
+
+After the caregiver has gone I make myself something quick to eat. I had an unfortunate errand to run - I reversed into a lamp post last month and need to drop of my car at the local panel beater. What a fun expense that is! Annoyingly, the replacement rear right light fitting hadn't arrived on schedule.
+
+[![Toast.](/media/images/blog/PB.jpg)](/media/images/blog/PB.jpg)
+_A toast! To being out of focus._
+
+Unlike a few months ago, Dad is at the point where I can leave him for an hour or so during the day. It is a little bit of a risk, but if he's feeling good and a little bit mobile I'm comfortable doing it. Before he was extremely unmobile, unable to get around at all without assistance. After a stay in hospital for an infusion of some kind to strengthen the bones in his back he's improved to the point that he often can make it to the bathroom or the fridge on his own. Having a fall is one of the biggest and scariest risks.
+
+I'm only gone for a few minutes, and when I'm back home I get right back to my desk. I'm doing a consulting job sorting out hardware and infrastructure requirements for a new business. I finish up a document finalising the requirements and use cases. Getting these things signed and confirmed is important - proof of an agreement, in case minds get changed down the road!
+
+[![Paper.](/media/images/blog/PB2.jpg)](/media/images/blog/PB2.jpg)
+_Paper! I also send faxes, sometimes a telegraph._
+
+The biggest thing my Dad likes to do these days is to go for a ride. Getting him in and out of the car can be a tad difficult, but he gets there. I want to discuss these requirements and get them signed off in person, so I head out with him to get it done now that I have my car today. It's only half an hour away, not too bad!
+
+I end up staying there for way too long, both getting the hardware signed off and somehow moving on to domains and patient management systems. I get a bit frustrated, but my Dad is happy just sitting in a nice chair with a view. This client is family, and while that can lead to much greater tension it also helps with being able to bring pops along with me.
+
+[![Professioanl.](/media/images/blog/PB3.jpg)](/media/images/blog/PB3.jpg)
+_Professional Style._
+
+On the way back home I go into the supermarket and get some things I need. Mainly cake. That counts! Right?
+
+When I get home it's 3pm, and my Dad is just zonked. He has a snooze until dinner time and I sit back down to work more and totally not procrastinate.. Not at all! What gave you that idea? The tedium of the day has me feeling like I've been hit by a bus, too.
+
+On weekdays my Dad gets an evening meal delivered. It's meant to come hot, but is normally just… tepid. Before he eats I cut up the roast meat so he can swallow it with ease, then give it a good microwave zap. Pops likes his food hot! Part of his condition means eating isn't done very fast, either.
+
+It's hot here in summer, so I aim to do any outdoor stuff when the sun is low. I could get up at 5am and go for a run, but that's crazy talk! [Out the back of this small down there is a forest](https://www.horowhenua.govt.nz/Places-Events/Cycle-Tracks-Walking-Trails/Trig-Walkway), and to keep my body looking so extremely good I try to run there most days. It's a 5 kilometer route up and down a fairly steep hill to a trig station. If Dad is up to it he likes to wait in the car and listen to his favourite old person radio station. Remember AM radio? It's full of amplitude. Going for a run can be the last thing I feel like doing, but somehow I scrape up the motivation.
+
+[![Hill.](/media/images/blog/hill.jpg)](/media/images/blog/hill.jpg)
+_[Sweat til you bleed.](https://www.youtube.com/watch?v=LaTGrV58wec)_
+
+When I'm home my Dad watches the evening news as I shower my sweatiness away and make a sandwich for my dinner.
+
+Now is when the fun begins. The evenings are by far the hardest part of any day. Getting him prepared for bed is a set of tasks. I have to sort out his Pyjamas, get him changed into them, give him his topical treatments (Yes, that's not fun), arrange his clean clothes for the morning, give him his inhalers, get him a dessert type snack, tidy his bedroom, clean up the living areas of the house and get his teeth cleaned. Somehow, that takes over 3 hours to get done. It feels longer.
+
+While that's going on I try to get something to watch that both of us will find somewhat interesting. It's…. Difficult, his attention span isn't huge. Tonight it ended up being something about Coastal British Railways. It's like this show read the mind of every old person in the world and generated itself from them.
+
+[![Old.](/media/images/blog/PB4.jpg)](/media/images/blog/PB4.jpg)
+_I try to like it._
+
+After he has climbed into bed I finally get left to my own devices. I normally watch a show or play a game to chill out. Tonight it was Fallout 76 with friends! That's…. Quite a game. I'm working on a review to put up here soon, but for now know that it's an interesting game. Playing with friends does make it fun, though. I also spend some time watching YouTube subs. Tonight it was the latest stuff from [Digital Foundry](https://www.youtube.com/user/DigitalFoundry) and [EEVBlog - finding out about patent laws was insightful.](https://www.youtube.com/watch?v=Nes0MnoeRtg)
+
+And then it's past 1am. Here I am now! It's an extremely warm night, so sleeping with the windows open and a cool breeze running through is key to success.
+
+That is a Thursday, similar to all the rest! Being tied to this town and having my father rely on me can feel tedious and miserable at times. I do manage to get out with friends and to meet people, but it does require a bit of planning. When I meet someone I feel pathetic when I get asked what I do for a job, or where I live. Sometimes I despise my lifestyle with a violent passion.
+
+I have to try and not let it show. If I'm feeling bad about something I don't want my Dad to pick up on it, he doesn't really deserve that burden.
+
+But I'll get there! Somehow. [The living's in the way we die.](https://www.youtube.com/watch?v=de2rBeWNgFo)
+
+Any advice? Please, share it with me - [Twitter](https://twitter.com/aaronights), [The Facebook](https://www.facebook.com/aaronights) or [Here.](mailto:aaronights@gmail.com) Putting this post up here is a rather selfish thing to do, but it does feel beneficial. How exactly? I'm not sure. My pedantic need for documentation, maybe.
+
+If you did read this I owe you a drink. Remind me sometime.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Camping?]]></title>
+            <link>https://aarond.me/blog/2019/01/07/camping/</link>
+            <guid>https://aarond.me/blog/2019/01/07/camping/</guid>
+            <pubDate>Mon, 07 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Over the New Year's vacation I got invited by a friend to visit him and his family while they were camping at a nearby site. It was the real deal! Extra large tents, barbeques, mosquitoes - the works. There might have been a plug to charge a phone, but that'd be about it. Hipsters could call it a digital detox. The idea of a whole week without screens, games and lines of code made him shiver.
+
+He's a camper to the core, though. Play Halo or any other shooter and he likes to find a spot with something Sniper-able and camp until dawn.
+
+So how does one cope with such a strong technology withdrawal? You don't!
+
+I got together a plastic box and some bungee cords, and mounted my old 40 inch display and a Wii U in the back of my Mazda 2.
+
+[![Goofy.](/media/images/blog/WiiUCar.jpg)](/media/images/blog/WiiUCar.jpg)
+_I'm the goofy thumbs up guy, if you wondered._
+
+I used the Wii U rather than my Xbox One or PC just due to its low power use. Reports claim that a Wii U nominally draws around 34 watts. I could manage that off the car's starting battery for an hour or so, but the 150-plus watts that an alternative system would demand just wouldn't last.
+
+The TV is the LED backlit LCD panel I was using prior to Black Friday. It's unbranded and lacks any extra features - and that's ideal! I'm sure some kind of fancy image processing or smart user interface would just drive up the power draw. Ths sticker on the back says it'll use a maximum of 58 watts - very reasonable considering its size.
+
+Both the Wii U and the display do run off DC. If I wanted extreme efficiency I could have rectified a smooth 15v rail to go directly into the Wii U and build a little power box to provide both the 5 and 12 volt rails the TV uses internally. But I wasn't going to be that pedantic! I purchased a cheap inverter online that connects to a standard car accessory socket. It claimed to be able to provide a constant 150 watt output - impressive considering its only cooling was a tiny fan. No doubt the power coming out of it wasn't very smooth, undoubtedly a crude stepped AC sine wave. I was a little hesitant to plug everything together, mildly concerned about potential damage. Thankfully there were no such issues.
+
+[![Power.](/media/images/blog/PlayingwithPower.jpg)](/media/images/blog/PlayingwithPower.jpg)
+_Now you're playing with Power!_
+
+Everyone loved it! The adults enjoyed playing a few rounds of Mario Kart, and enjoyed it even more when the kids sat still for an hour or two and did the same. A few other hits were 7-player Smash Bros (where no one actually could tell what was going on) and the Artwork mode of Game and Wario.
+
+[![How It's Done.](/media/images/blog/HowItsDone.jpg)](/media/images/blog/HowItsDone.jpg)
+_This is how it's done, kids!_
+
+I partook of some non-digital activities too. Mountain biking to a little artisan brewery and turning tomato red swimming all afternoon were highlights. Overall it was a fun time! I'm just glad I got to drive home, just up the road, to my nice normal bed every night.
+
+[![In the dark.](/media/images/blog/InDark.jpg)]
+(/media/images/blog/InDark.jpg)
+_It's not like I was winning or anything._
+
+Not to drag things down, but I did have somewhat of a rough time over the holiday break. Nothing important! It was something of my own making. My head got a bit worked up and let something trivial and unimportant get to me. It's all over now, dead and buried. I just feel bad that I got so down while everyone around me was enjoying their vacation.
+
+In the future? [I ain't gonna let it get to me.](https://www.youtube.com/watch?v=vxL_r-0VC1k)
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Brains!]]></title>
+            <link>https://aarond.me/blog/2019/01/02/brains/</link>
+            <guid>https://aarond.me/blog/2019/01/02/brains/</guid>
+            <pubDate>Wed, 02 Jan 2019 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+This won't make sense, but I'm trying here.
+
+I'm wanting to come up with a method for detailing how my mind ticks. It's difficult, but to try and have a better grasp and understanding of… living, it seems like a good idea to write down and document a manual or reference.
+
+My mental states are heavily compartmentalised. There are different states of me that I go into at different times. It's not just one or the other, an ideal functioning state would probably be to have a bit of… me in many different compartments.
+
+These compartments don't really talk to each other, but are kept in check by some kind of governor. This is a little bit of me that is outside and above these mental compartments.
+
+Using this higher mind bit lets me be aware that I can change. I can be aware of things that I will love at some point, but not now. I don't have to encounter something for the first time in the correct mindset for it, I am capable of recognizing how I will respond to things when I'm in a different mind set.
+
+It makes living and decision making better.
+
+Like I said, these things are optimal when they're in balance. But sometimes the balance goes way out. When one compartment starts to get a foothold, it can have a runaway cascade. A particular state of mind can propagate like a virus, taking resources away from every other compartment. Being aggressive to gain exclusivity of my weak little brain.
+
+I don't want to give the impression that this only happens with perceived negative things. Being sad or frustrated can consume like that, but just as much as being ecstatically happy or excited. Bouncing off the walls, dancing on Cloud 9! [Like a drug that's the high and not the pill.](https://www.youtube.com/watch?v=AMD2TwRvuoU)
+
+Having a strong leaning towards happy or even sad every so often is a useful and normal part of functioning. But these things can overreach their boundaries. The governor or regulator itself gets consumed by one particular mindset. It steals the ability to think and comprehend outside of the currently dominating extreme way of thinking. No matter how much you try to reason with yourself, it's impossible to grasp a perspective outside of the one currently overwhelming your emotional bucket capacity.
+
+It can feel so, so good. When you're just that ecstatic, that charged with being happy or excited you feel so strong and powerful. [It's electrifying.](https://www.youtube.com/watch?v=QfezAoB3Oy8)
+
+At the same time, it can be the comforting and path of least resistance. Letting go of hope and giving in to unchecked despair. You might think that'd be an unpleasant thing to do, but it can be like taking a huge burden off your shoulders.
+
+Being in either of these mindsets makes me an incredibly annoying person to be around, by the way. You probably think negative me would be just a depressing thing to be around, but wait until you see the version of me that just doesn't shut up and randomly breaks out in song.
+
+I don't really know a tried and true method for getting back to the baseline. Crashing down isn't fun. Most of the time you don't really have the desire to even try.
+
+Well, that's something. This post will be full of errors and make little sense. I might try and clean it up later, or remove it even. It's the afternoon on New Year's Holiday! I should have better things to do.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Up, up, up! Down, down, down...]]></title>
+            <link>https://aarond.me/blog/2018/12/30/up-up-up-down-down-down/</link>
+            <guid>https://aarond.me/blog/2018/12/30/up-up-up-down-down-down/</guid>
+            <pubDate>Sun, 30 Dec 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[### 2018 hasn't been a very... progressive year.
+
+After moving back from the city at the end of last year, my responsibilities and life have become rather static. I get told I do an important job and do it well, but I still feel sharply pathetic revealing what I do. Saying to someone that I look after an elderly man in a small, dead town isn't very attractive. <!-- more -->
+
+[![At the Beach.](/media/images/blog/AtTheBog.jpg)](/media/images/blog/AtTheBog.jpg)
+_Hey! It was overcast and windy._
+
+But like I said before, [I get by with a little help from my friends.](/blog/2018/12/02/a-little-help-from-my-friends) Having a circle of friends has become important to me. Crazy, I know! I manage to organize things so I seem to get away every other weekend, doing things from LAN-ing up for some vintage Halp to going to a pub.
+
+I'm still extremely awkward, but dating is more fun than hard. It's still not an overly frequent event, though. I have pity for [the version of me from years ago when that first “personal” entry was posted.](/blog/2017/04/11/dating-is-hard-and-i-am-very-awkward) I don't get nervous for most things in life now, plus I've learned the fine art of shutting the hell up and listening rather than raving on.
+
+Some of the time at least.
+
+I am gaming much more. I picked up an Xbox One and opted to go all digital with games. Right now it's showing 204 games installed, that many physical discs would require a small shed! I'm not sure of the legitimacy of the various key trading websites I've been using to buy stuff, but I like to live dangerously. I'm also using the Game Pass subscription service Microsoft offers. Picking up 6 month extensions as they've come on sale has got me all loaded up until sometime late 2020. Remember when that felt like an unobtainable future?
+
+[![Too Many Games.](/media/images/blog/XboxGameCount.jpg)](/media/images/blog/XboxGameCount.jpg)
+_The big number is daunting._
+
+A few highlights from the experience are:
+
+* [Snake Pass:](http://www.snake-pass.com/) Very frustrating until you figure out how to actually progress, but it's such a beautiful game with a neat approach to traversal.
+* [Sniper Elite 4:](https://sniperelite4.com/en) Yes, it's absolutely absurd. But it's fun! Any bugs or annoying quirks from prior installments in the series have been ironed out. Testicle shots always cause me to wince.
+* [Sonic Forces:](https://www.sega.com/games/sonic-forces) An attempt to return to the tried and true method, after not being successful for a bit. It is the same Sonic Colours/Sonic Generations gameplay, oddly limited in scope despite attempts to put new features in like character creation. Not amazing, but I was still left wanting more. Maybe even [One More Last First Bump.](https://www.youtube.com/watch?v=9gc0169Ht48)
+* [Halo 5: Guardians:](https://www.microsoft.com/en-us/p/halo-5-guardians/brrc2bp0g9p0?activetab=pivot:overviewtab) Extremely strong mechanics, tuned almost too well.. The story got a bit… bogged down. The removal of split screen was unfortunate, largely because none of my friends are at all interested in an Xbox One. Would love to do a 4 player team to push through on Legendary difficulty, but alas.
+* [Forza Horizon 4:](https://forzamotorsport.net/en-us/games/fh4) I was impressed by realising how much tech must be under the hood in order to have all these different vehicles handle so well in so many different environments. Racing isn't a high priority, my biggest time sink is blindly exploring this little bit of fictional Britain.
+
+I still have things to get to! I really want to dive into Paper Mario: Color Splash on Wii U - having that and others in my backlog is somewhat holding me back from investing in a Switch.
+
+Sometime in the New Year, when the postal service starts to run again, I should have another budget review up. This time it's for what I'd call the cheapest viable phone. It's from a brand I've never heard of, but on paper it looks like a deal. I think I'm getting hooked to the thrill of the gamble. [I take a chance, I roll the dice](https://youtu.be/kzwHs9PhJwY?t=99) and either get a great deal or dog shit.
+
+Could that be a metaphor for dating? Maybe, but it's not very kind.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[A Little Help from my Friends]]></title>
+            <link>https://aarond.me/blog/2018/12/02/a-little-help-from-my-friends/</link>
+            <guid>https://aarond.me/blog/2018/12/02/a-little-help-from-my-friends/</guid>
+            <pubDate>Sun, 02 Dec 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+### After a whole year, I'm back on this here train.
+
+`youtube:https://www.youtube.com/embed/0C58ttB2-Qg`
+
+Thanks to extensive help from a good friend I was able to import my seven years of posts into this new system. And it was a task! IGN really didn't care about helping people keep their content from the ”little My IGN blogging experiment."
+
+Side note: Really? You run a platform for 10 years, encourage people to use it under hopes of getting featured on the front page and even getting commissioned work from it and after all that you call it just a “little experiment”? That feels like a way to skirt all archival responsibility and belittle the extensive work that a sizeable number of your readers contributed. Thanks [Peer](https://twitter.com/PeerIGN ). <!-- more -->
+
+[![Thanks IGN.](/media/images/blog/thanksign.jpg)](/media/images/blog/thanksign.jpg)
+_I edited the ads out. The last laugh is mine!._
+
+Looking back through what I've posted over those years can be rather embarrassing, but I'm not about to hide from that. [Mark, my handsome and talented friend](https://mark.honeychurch.org/) that helped me move over all my past content, couldn't help but fix a few dozen spelling and grammar errors. He's like that.
+
+I'm using the brand new blogging software [Gridsome](https://gridsome.org/ ) to run this place. It's a neat concept - rather than hosting a active server running PHP, the entire site is processed and generated offline before being deployed and hosted as a fully static website. It relies on most client side browsers having more than enough horsepower to render anything somewhat fancy. It gives me a sleek and clean result, plus it makes hosting both cheaper and faster. Gridsome is still new and in development, so as new features become available I'll aim to implement them.
+
+The first new thing I put up was [a review of my new 4K TV](/blog/2018/11/28/veon-4-k-tv-review). Ever seen ultra cheap consumer electronics with an obscure brand name and wondered - what's the catch? I took the plunge so you don't have to! Spoilers: It's kind of a good deal! If you know what you're doing and don't want anything fancy.
+
+[![How Meta.](/media/images/blog/howmeta.jpg)](/media/images/blog/howmeta.jpg)
+_I'm that guy using a 50 inch TV as a monitor. Hey! It works._
+
+As for me, I'm still living in a small town being caregiver to my father. It's not the most exciting thing, but I get by. I have a few side projects going on! I try to get out as much as I can, but as you might expect my primary occupation does make that difficult.
+
+No comment system is running here (yet!), so hit me up on Twitter if you'd like to get in touch - [@aaronights](https://twitter.com/aaronights). For more formal enquires you can also email [aaronights@gmail.com](mailto:aaronights@gmail.com). My business card still says I'm a writer! All opportunities are welcome.
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Veon 4K TV review]]></title>
+            <link>https://aarond.me/blog/2018/11/28/veon-4-k-tv-review/</link>
+            <guid>https://aarond.me/blog/2018/11/28/veon-4-k-tv-review/</guid>
+            <pubDate>Wed, 28 Nov 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+## Ultra low cost bargain?
+
+I live in New Zealand, a rather small country with a population of just under 5 million people. This relatively small amount of consumers can lead to a lack of product variety in some areas. Out side of the known brands – Samsung to Sony, Panasonic to Philips – there isn't much of a choice when it comes to low cost consumer electronics. There is just one exception I'm aware of to this, a store brand owned by the biggest department store chain in the country: [Veon Televisions by The Warehouse](https://www.thewarehouse.co.nz/c/electronics-gaming/tvs-accessories-/televisions#prefn1=brandCode&prefv1=Veon). <!-- more -->
+
+You might think that with little competition the prices might suffer, but this store brand undercuts the competition hugely. Having a Veon 4K TV cost half as much as the nearest other brand is standard, and sales and promotions can make the price gap even wider.
+
+Is there a catch? Only one way to find out!
+
+On Black Friday this year (one of many American traditions that was recently adopted here) a doorbusting offer was the [Flagship 50 inch 4K model] (https://www.thewarehouse.co.nz/p/veon-50-inch-4k-ultra-hd-tv/R2419177.html#sz=24&start=49) for the record low cost of $399. As of writing that exchanges to around $270 US in current rates, similar to the prices of low cost brands I see listed at Walmart and Amazon.com.  A quick look around online, the next best Black Friday deal I could find for a similar sized 4K display was a 49 inch for $718 – not quite double the cost, but nearly there.
+
+[![Black Friday display.](/media/images/blog/veon1.jpg)](/media/images/blog/veon1.jpg)
+_Extremely fancy Black Friday store display._
+
+### Impressions
+
+It looks fine, but nothing fancy. The bezel is nice and thin, but it goes for an imitation brushed metal look to try and spice up an all plastic frame. Unless you look close you don't really notice, but it feels cheap when handling it.
+
+[![Branding.](/media/images/blog/veon5.jpg)](/media/images/blog/veon5.jpg)
+_Thin bezel, maximum branding!_
+The first time it's turned it on you might regret your purchase. All of the default picture preset options are horrendous, with colour and sharpness pushed way over the top making most skin tones look like Donald Trump. The Sharpness setting seemed to be doing the most damage, applying a unwanted filter over the whole image. Turning that down to 0 instantly made the picture quality pop. Beyond that, tweaking to be colour accurate is fairly easy. I was able to dial in close to a pixel perfect image by changing each value independently. Depending on the room, the colour temperature setting might need changing to compensate for ambient lighting present. I'm still undecided if I prefer the Cool or Medium setting. Each setting is saved separately for each input. Using the ‘Custom' option under Picture in the menu options, I found these settings yielded the best result:
+
+[![Tweaked to perfection.](/media/images/blog/veon3.jpg)](/media/images/blog/veon3.jpg)
+_Tweaked to perfection._
+
+### Functionality (No Smarts Allowed)
+
+Without connecting anything to the video inputs, the viewing options are limited to:
+
+* Watching Free-to-air digital TV broadcasts
+* Playing video files from a USB memory stick or hard drive.
+
+This is no Smart TV. There is no networking or app functionality at all, so Netflix or YouTube don't get a look in. The user interface is just a few pages of generic settings, and looks right out of the mid-2000's when digital tuners and LCD screens were a brand new thing. Even the icons in the menu look poorly compressed! Thankfully, the remote is very responsive and the few options are easy to navigate.
+
+[![Option.](/media/images/blog/veon8.jpg)](/media/images/blog/veon8.jpg)
+_Checking out the available OPTION._
+
+Fortunately the video input options are plentiful, headlined by 3 HDMI connections that all support 4K. I was able to get the full 3840x2160 resolution working at 24hz, 30hz and 60hz. All colour signalling I could throw at it ran flawlessly, testing RGB along with 4:4:4, 4:2:2 and 4:2:0 chroma sub-sampling. There were no issues with overscan and my Nvidia graphics card could identify the TV and switched to full 4K automatically. A line in the instruction manual also states that all HDMI inputs support HDCP 2.2, so there should be no issues with copy protected content.
+
+[![Hertz.](/media/images/blog/veon7.jpg)](/media/images/blog/veon7.jpg)
+_Impressive with support of all refresh rates you'd ever use!_
+
+There are also a range of legacy connections, but using that Yellow RCA composite video connector might result in an extremely distorted picture when blown up on this 8 million pixel display. If you are desperate to break out your VCR, it works good enough. The single Component video connector will work up to 1080p, but the picture is much blurrier compared to using HDMI at the same resolution.
+
+Playback of media using the single USB port is notably limited. 1920x1080 is the maximum resolution supported, and it won't play any x265 HEVC encoded files whatsoever. At a guess it's the same video processor as the non-4k models, as the user interface is identical. This does mean it's impossible to take advantage of the 4K resolution using anything except the HDMI inputs.
+
+[![Tweaked to perfection.](/media/images/blog/veon6.jpg)](/media/images/blog/veon6.jpg)
+_Extremely unsupportive._
+
+Connecting a 4K capable device can make this budget display sing. While it doesn't support any HDR modes, it looks great when displaying a standard colour range image. It's definitely not an OLED competitor, but the blacks are black enough and the vibrancy of colours looks fantastic to my admittedly untrained eye. It easily competes with anything close to its price range; I'd be willing to put a well configured unit head to head with brand names costing over twice as much.
+
+A great but not well known feature in modern televisions is the CEC, or Consumer Electronics Control, protocol. This allows you to use the remote of a Television to control devices connected over HDMI. This Veon model supports the full CEC standard, allowing control of both the TV plus most media boxes, Blu-Ray players and streaming sticks all from the one remote control that is included in the box. It's incredibly useful - using one remote to do everything! Not having to juggle through four or five just to figure out what one turns the volume down. In some ways this can compensate for the lack of Smart TV integration as it makes using an attached smart device a very seamless experience.
+
+Using an external sound system is worthwhile, as the included stereo speakers don't cut the mustard for anything but basic dialog. Fittingly, there are digital and analogue audio outputs plus support for Audio Return Channel on one of the HDMI inputs.
+
+### Secrets
+
+Most TVs, brand names included, have hidden menu options used by the factory for calibration and hardware testing. Some are blocked from being accessed when they're sent to the retailer, but this budget model does no such thing. It is found by pressing Source, 2, 5, 8 and 0 in sequence, giving you access to a huge number of options to tweak the TV including:
+
+* Lower the backlight level - a feature often found in high end displays.
+* Change the picture and audio presets.
+* Disable or enable film processing for things like 3:2 pulldown.
+* Change the analogue TV tuner from PAL to SECAM (In case you want to watch broadcast TV in 1999 France).
+* Flip the image upside down.
+* Adjust the volume level curve
+* Enable and customise the amount of overscan (It's set to off by default, thankfully).
+* Display various test patterns to check the integrity of the LCD panel.
+* Show information about software and hardware. My unit had a software build date of August 23, 2018, just a few months before I purchased it!
+
+[![Black Friday display.](/media/images/blog/veon4.jpg)](/media/images/blog/veon4.jpg)
+_Details for nerds._
+
+My personal preference was to lower the backlight level down to 75 from 100, but if you are viewing the TV from farther away you might want to keep it much higher. Accessing a test pattern under Factory Setting > Other is an ideal way to test the configuration around each colour. It might not be an advertised feature, but this hidden menu allows for tweaking and adjusting of every little detail. Be careful – some settings might make it very difficult to recover, like turning the backlight off entirely or maxing out some obscure dithering option.
+
+### Deal or No Deal?
+
+Basic, pure and simple TV's like this are a dying breed. Even most economy models come with crude Internet connectivity for video streaming. It's unfortunate! For some use scenarios an integrated media streaming solution just won't be wanted. Partnering this TV with a Xbox One X, Playstation 4 Pro, Chromecast Ultra or any number of 4k streaming boxes not only gives a fantastic viewing experience, but is probably a far better user experience than what a budget Smart TV could offer. Plus you're not dependant on the manufacturer firmware updates for compatibility and security in the ever changing digital media landscape.
+
+It's unfortunate that fairly extensive calibration is needed to get a good viewing experience. At this super low cost the average consumer would probably be the target market, yet to get a good result you need the skill set closer to that of an enthusiast.
+
+[![Sonic.](/media/images/blog/veon9.jpg)](/media/images/blog/veon9.jpg)
+_Budget TV meets All Mighty Hedgehog - Perfect Match!_
+
+This TV isn't high end, but it doesn't claim to be. While it does have its fair share of issues, the picture quality once it is well calibrated isn't one of them. If you want an all in one media solution or inky blacks running in High Dynamic Range this has to be a hard pass, but if you want something cheap that looks great when running at full 4K from an HDMI device? This is the best deal available in the country.
+
+*Have any questions about this review? Buzz me on Twitter [@aaronights](https://twitter.com/aaronights) or email [aaronights@gmail.com](mailto:aaronights@gmail.com).*]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Human life is better now than it ever has been]]></title>
+            <link>https://aarond.me/blog/2017/12/20/human-life-is-better-now-than-it-ever-has-been/</link>
+            <guid>https://aarond.me/blog/2017/12/20/human-life-is-better-now-than-it-ever-has-been/</guid>
+            <pubDate>Wed, 20 Dec 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+A common claim made by some religious doctrines is that the world is in an awful state, and that humanity is deteriorating. In many Christian denominations this is based on so called prophecies that are claimed to have been made thousands of years ago. It is generally stated that mankind, growing distant from their deity, would just hit the fan.
+
+A common claim is this: We are living in horrific times full of hateful atrocities worse than any other time in history, and the only way out is through supernatural salvation by an all powerful deity.
+
+A tactic used is to then appeal to emotional decision making to reach a conclusion. Rather than presenting statistics or facts, rhetorical questions are asked about the status of humanity and the world.
+
+* _“Have you noticed a general downward trend in people's attitudes?”_
+* _“Have you noticed that the world is becoming increasingly filled with violence?”_
+* _“Have you noticed that major wars, famine, poverty, lawlessness and even a lack of love have become common place in modern life?”_
+
+These are all very big claims, and importantly they can be proven true or false with research and statistical information.
+
+## Attitude
+
+This is a broad topic, tough to pin down to a specific metric. Generally, I assume attitude would be how happy people are, and how well they treat each other.
+
+The best source of information I could find relating to happiness doesn't extend back centuries, but only a few decades. Dating back to 1984, [The World Value Survey](http://www.worldvaluessurvey.org/wvs.jsp) asked the following question:
+
+Taking all things together, would you say you are:
+
+1. Very happy
+2. Rather happy
+3. Not very happy
+4. Not at all happy
+
+[![All those lines! More going up than down.](/media/images/blog/share-of-people-who-say-they-are-happy.png)](/media/images/blog/share-of-people-who-say-they-are-happy.png)
+_All those lines! More going up than down._
+
+[This chart represents the percentage of people that answered either as being Very happy or Rather happy, plotted against time](https://ourworldindata.org/grapher/share-of-people-who-say-they-are-happy?country=ALB+DZA+AND+ARG+ARM+AUS+AZE+BHR+BGD+BLR+BIH+BRA+BGR+BFA+CAN+CHL+CHN+COL+HRV+EGY+FRA+GEO+DEU+HUN+IND+IRQ+JPN+MYS+MEX+PER+POL+RUS+SGP+SWE+CHE+TWN+THA+UKR+USA+URY+ZMB+ZWE+CYP+CZE+DOM+ECU+SLV+EST+ETH+FIN+GHA+GTM+HKG+IDN+IRN+ISR+ITA+JOR+KAZ+KWT+KGZ+LVA+LBN+LBY+LTU+MKD+MLI+MDA+MNE+MAR+NLD+NZL+NGA+NOR+PAK+PSE+PHL+PRI+QAT+ROU+RWA+SAU+OWID_SRM+SRB+SVK+SVN+ZAF+KOR+ESP+TZA+TTO+TUN+TUR+UGA+GBR+UZB+VEN+VNM+YEM). While there are exceptions, such as Egypt and the United States, the trend is that happiest is staying level or increasing. But even in absolutely terms, the most recent 2014 survey results show that the majority of nations have far more people reporting to be happy than are not. All 2014 nations have over 60% of people claiming to be happy with most reporting above 85%.
+
+This is information showing that most people are happy, and that by far the majority of people are happy.
+
+For more information about statistical happiness:
+
+* [Happiness and Life Satisfaction](https://ourworldindata.org/happiness-and-life-satisfaction/) by Esteban Ortiz-Ospina and Max Roser, found on Our World in Data
+* [World Happiness Report 2017](http://worldhappiness.report/ed/2017/)
+
+I read and researched the above two sources extensively and could find no evidence of a decrease or worsening of peoples attitudes as it relates to happiness. This is the toughest statistic to track! If anyone has a better source of information, either supporting on conflicting with my conclusion, please let me know.
+
+## Violence
+
+Is violence increasing? No.
+
+Less people than ever in history are dying as the result of human violence than ever.
+
+`youtube:https://www.youtube.com/embed/ramBFRt1Uzk`
+
+Torture, punishment and even the death penalty is less common than ever. [The rate of homicide is at its lowest ever.](https://ourworldindata.org/homicides/) In even nation in the world, including third world nations, people in general are less likely to be the victim of physical violence now than in any time in recorded history. Violence motivated my racism, sexism, homophobia and even religion is seen as an increasingly disgusting thing. [Violence and mistreatment of children is becoming less common.](https://ourworldindata.org/violence-against-rights-for-children/)
+
+For more statistics and information regarding rates of violence:
+
+* [The Visual History of Decreasing War and Violence](https://ourworldindata.org/slides/war-and-violence/#/title-slide), from Our World in History
+* [History of Violence: a TED Talk](https://www.youtube.com/watch?v=sjT4HlNJNgI) by psychologist Steven Pinker
+
+## Poverty
+
+Are many people today living in extreme poverty? Sadly, yes. But despite the population of the earth fast going above 8 billion, [the number of people living in extreme poverty is at its lowest for the past 200 years.](https://ourworldindata.org/extreme-poverty/) It has been on a downward trend since the 1970s. Very vulnerable and exploited nations located in sub-Saharan Africa still big issues, with close to 40% of their populations living in extreme poverty, but this is a historical low for the region.
+
+## Famine
+
+[The rate of people dying as a result of famine is at a low.](https://ourworldindata.org/famines/)
+
+## War
+
+No great powers in the world have been at war with each other for over half a century. Since the end of World War Two, the absolute number of people that are dying as a result of warfare has declined. The proportion of people that die in wars is lower than any historical engagement. Many nations in the world used to have raging internal conflicts - from the land wars here in New Zealand, civil war in the Americas and tribal warfare sweeping across the African continent. Nations are working together without bloodshed and violence. War is still a problem in the 21st century, but it may very well be at its lowest point in human history.
+
+_"Violence has been in decline over long stretches of time"_, says Harvard professor Steven Pinker, [_"and we may be living in the most peaceful time in our species' existence."_](https://ourworldindata.org/slides/war-and-violence/#/5)
+
+Even more than a decline in bad things, there is so many advantages to living today. In every nation on earth life expectancy is at a record high and [still going higher.](https://ourworldindata.org/life-expectancy/) Child mortality is [getting better.](https://ourworldindata.org/child-mortality/) Horrendous diseases like Polio are on the decline and may almost be [eradicated in the next decade.](https://ourworldindata.org/polio/) The number of people smoking [is decreasing.](https://ourworldindata.org/smoking/) Healthcare is far better and [more people have access to it now than ever before.](https://ourworldindata.org/financing-healthcare/) More people are literate and are [getting an education.](https://ourworldindata.org/global-rise-of-education)
+
+Politics is a hostile issue that seems to dominate the headlines. The United States has a President that is reaching all time lows in so many areas. But people are speaking up and criticising! They are openly challenging and fighting what could be the most powerful man on the planet. It was barely a few centuries ago that speaking out against a King, Emperor or other powerful leader could result in torture or death.
+
+We are not there. Humanity still has such a long way to go to! While so many things are better now than ever, it doesn't mean we have reached the ultimate goal state of these things. Plus, we face issues around climate change, substance abuse and sexual bigotry.
+
+But we are getting there. If someone states that the world has become a horrible and loveless place, insist they back it up with facts and statistics.
+
+What is it like now, and when in history was it any better?
+]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[We Evolved]]></title>
+            <link>https://aarond.me/blog/2017/11/23/we-evolved/</link>
+            <guid>https://aarond.me/blog/2017/11/23/we-evolved/</guid>
+            <pubDate>Thu, 23 Nov 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+As I wrote here a long time ago, I used to be associated with a rather well known and widespread religion – The Jehovah's Witnesses.
+
+I don't have a problem with other people's beliefs. If I had issue with everyone that believed in an invisible superman I'd never get anything done! If someone wants to reside in a fantasy? Well, that is up to them. But I have a very big problem with anyone that misrepresents my beliefs.
+
+When a creationist endeavours to discredit evolutionary science they often use the tactic of appealing to emotions to make decisions about what to believe is a fact. A common approach is to take a very complex and functional part of the natural world, such as a human eye or a brain, and propose a question such as this:
+
+_“What do you think is more likely: That this remarkable \[eye/brain/bird\] arose by random chance, or was the work of a loving and intelligent creator?”_
+
+First, evolution is not random. It relies on mutations, a regularly observed aspect of physics. Anyone claiming that the scientific theory of evolution states that every aspect of life, from a plant to a human being, came about as the result of random chance is wrong. [Richard Dawkins, the rather well known evolutionary biologist and author, had this to say recently: ](https://www.samharris.org/podcast/item/richard-dawkins-sam-harris-and-matt-dillahunty)
+
+_“There is staggering ignorance at what evolution is all about. Natural selection is quintessentially non-random… Anyone who thinks you could possibly explain the beauty and elegance of living things by some random process would be stark raving bonkers. Anyone who thinks that we think that has got to be stark raving bonkers. Of course it's not random!”_
+
+Another issue is one of plausibility. But how does that even come into it? If there is significant evidence that something occurred a certain way, it is logical to conclude that that is how it happened - regardless of how plausible it may seem.
+
+For illustration, imagine you find a coin on the ground. How did it get there? It is plausible that it might have fallen out of someone's pocket. But how plausible is it that it fell from outer space, somehow survived re-entry and ended up landing at this exact location? It doesn't seem likely at all! Compared to the many other options, that seems extremely unlikely.
+
+[![Just a coin!](/media/images/blog/1.jpg)](/media/images/blog/1.jpg)
+_Just a coin!_
+
+But what if there was evidence that is how the coin got there? Scientific analysis of the coin could show that it has radioactive properties it could only have obtained in outer space, an Astronaut could have lost a coin while outside their spacecraft as it orbited above this location on earth and the location where the coin is could have been completely isolated without any human contact since before this type of coin was first made.
+
+When the Bible or another religious document is quoted to point out a horrific and immoral act that God is condoning, it's often claimed that the passage is misquoted or taken out of context. You might think this would make the Jehovah's Witnesses very careful when writing their own documentation, ensuring that any references to secular works are accurate and framed suitably.
+
+Digging a little deeper, you can see how rampant the cheery picking of key sentences is to try and give the impression that the theory of evolution is on shaky ground.
+
+In the Jehovah's Witness book _‘Reasoning from the Scriptures'_, there is the following quote from the late (and great) Carl Sagan:
+
+_"Carl Sagan, in his book Cosmos, candidly acknowledged 'The fossil evidence could be consistent with the idea of a great designer.'"_ - Reasoning from the Scriptures, 1985, p124
+
+That does give a very sharp impression! But the quote is not only out of context, it cuts out right in the middle of a sentence. Anyone willing to do research would see it continues as so:
+
+_"…perhaps some species are destroyed when the Designer becomes dissatisfied with them, and new experiments are attempted on an imperfect design. But this notion is a little disconcerting. Each plant and animal is exquisitely made; should not a supremely competent Designer have been able to make the intended variety from the start? The fossil record implies trial and error, an inability to anticipate the future, features inconsistent with an efficient Great Designer (although not with a designer of a more remote and indirect temperament)."_ - Cosmos, p29
+
+Not a very good impression of what an intelligent designer would have to be like to be consistent with the evidence!
+
+In a more recent article, biologist Rama Singh was quoted in the January 2015 Awake! magazine:
+
+_“SOME might assume that a scientifically-minded person would pick ‘evolution' and that a religious person would pick ‘creation.' But not always.”_
+
+But, once again, if you do a little bit of research, [the quote in the right context paints a much different picture. ](http://www.nrcresearchpress.com/doi/full/10.1139/g11-046)
+
+_“The opposition to evolution goes beyond religious fundamentalism and includes a great many people from educated sections of the population, including biologists, nonbiologists, and the lay public. This essay will focus on the lack of belief in evolution in this latter group; opposition from religious fundamentalism has been covered in many places… There are several reasons why facts of evolution are not easily comprehensible by the general masses.”_
+
+In fact, [Professor Singh was asked for comment on how his quote was used and had this to say:](http://jwsurvey.org/cedars-blog/watchtower-again-misquotes-scientist-to-argue-against-evolution-and-this-time-its-personal)
+
+_“JW has indeed misquoted me and I do not agree with their article and its anti-evolution stand.”_
+
+They even go after the big guns, Richard Dawkins doesn't escape this! One of his most popular books, The Selfish Gene, gets a strongly out of context quote in the Jehovah's Witness book _‘Life – How did it get here? By evolution or creation'_:
+
+_"At this point a reader may begin to understand Dawkins comment in the preface to his book: This book should be read almost as though it were science fiction."_ – page 39
+
+But, when examined:
+
+_"This book should be read almost as though it were science fiction. It is designed to appeal to the imagination. But it is not science fiction: it is science. Cliche or not, stranger than fiction expresses exactly how I feel about the truth."_
+
+And these are just some examples. The misquoting is rampant, and anyone that does even simple research would clearly see that.
+
+And that brings up a key point I want to make: If you're devoting your life to something, isn't it worth the small amount of time and effort to do just a little bit of research?
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
