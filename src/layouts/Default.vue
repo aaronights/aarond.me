@@ -1,40 +1,86 @@
 <template>
 	<v-app>
-			<v-toolbar>
+		<v-toolbar>
 			<v-toolbar-title>{{$root.$options.metaInfo.title}}</v-toolbar-title>
+			<!--<input id="search" v-model="searchTerm" class="input" type="text" placeholder="Search" />
+			<g-link v-for="result in searchResults" :key="result.id" :to="result.path" class="navbar-item">
+				{{ result.title }}
+			</g-link>-->
+			<v-autocomplete
+				v-model="result"
+				:search-input.sync="searchTerm"
+				:items="searchResults"
+				item-value="id"
+				item-text="title"
+				cache-items
+				color="white"
+				hide-no-data
+				hide-selected
+				placeholder="Search"
+				prepend-icon="mdi-database-search"
+				return-object
+			/>
 			<v-spacer />
 			<v-toolbar-items>
-				<v-btn text exact :to="{name: 'home'}">Home</v-btn>
-				<v-btn text :to="{name: 'blog'}">Blog</v-btn>
+				<v-btn text exact :to="{name: 'home'}">
+					Home
+				</v-btn>
+				<v-btn text :to="{name: 'blog'}">
+					Blog
+				</v-btn>
 			</v-toolbar-items>
 		</v-toolbar>
 		<v-container>
 			<slot />
 		</v-container>
-			<v-footer>
+		<v-footer>
 			<v-layout justify-center row wrap>
-			 <v-flex text-xs-center xs12 style="margin-bottom: 0">Copyright &copy; {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}</v-flex>
+				<v-flex text-xs-center xs12 style="margin-bottom: 0">Copyright &copy; {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}</v-flex>
 			</v-layout>
 		</v-footer>
 	</v-app>
 </template>
 
+<script>
+	import Search from 'gridsome-plugin-flexsearch/SearchMixin'
+	export default {
+		mixins: [Search],
+		data() {
+			return {
+				searchTerm: '',
+				items: [],
+				result: '',
+			};
+		},
+		watch: {
+			result: function(result) {
+				this.$router.push({path: result.path});
+			},
+		},
+	};
+</script>
+
 <style>
-  h1, h2, h3, h4, h5, h6 {
-		font-family: "Roboto Slab", arial, sans-serif;
-    font-weight: 300;
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: 'Roboto Slab', arial, sans-serif;
+		font-weight: 300;
 		color: #000;
 	}
-  h1 {
-    margin-top: 1em;
-    margin-bottom: 0 !important;
-  }
-  h2 {
+	h1 {
 		margin-top: 1em;
-    margin-bottom: 0em;
-  }
+		margin-bottom: 0 !important;
+	}
+	h2 {
+		margin-top: 1em;
+		margin-bottom: 0em;
+	}
 	body {
-		font-family: "Roboto", arial, sans-serif;
+		font-family: 'Roboto', arial, sans-serif;
 		font-weight: 300;
 		font-size: 20px;
 		line-height: 36px;
@@ -44,17 +90,27 @@
 		color: #e32929 !important;
 		text-decoration: none;
 	}
-	a:hover, a:focus {
+	a:hover,
+	a:focus {
 		color: #a91616;
 		text-decoration: underline;
 	}
-  ul, ol {
-    margin-bottom: 1em;
-  }
-	  table, th, td, tr, thead, tbody {
-  border: 1px solid black;  padding: 4px; margin-left:auto; margin-right:auto;
-  }
-  table {
-  border-collapse: collapse;
-  }
+	ul,
+	ol {
+		margin-bottom: 1em;
+	}
+	table,
+	th,
+	td,
+	tr,
+	thead,
+	tbody {
+		border: 1px solid black;
+		padding: 4px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	table {
+		border-collapse: collapse;
+	}
 </style>

@@ -1,0 +1,44 @@
+{
+	"root": true,
+	"env": {
+		"browser": true,
+		"node": true
+	},
+	"parserOptions": {
+		"parser": "babel-eslint"
+	},
+	"extends": [
+		"prettier",
+		"prettier/vue",
+		"plugin:prettier/recommended",
+		"plugin:vue/recommended"
+	],
+	"plugins": [
+		"prettier"
+	],
+	"rules": {
+		"semi": ["warn", "always"],
+		"indent": ["warn", "tab", {"SwitchCase": 1}],
+		"arrow-parens": ["warn", "always"],
+		"quotes": ["warn", "single"],
+		"comma-dangle": ["warn", "only-multiline"],
+		"array-bracket-spacing": ["warn", "never"],
+		"max-len": ["warn", {"code": 200, "tabWidth": 2}],
+		"object-curly-spacing": ["warn", "never"],
+		"no-console": "off",
+		"vue/html-indent": ["warn", "tab", {"baseIndent": 1}],
+		"vue/script-indent": ["warn", "tab", {"baseIndent": 1, "switchCase": 1}],
+		"vue/mustache-interpolation-spacing": ["warn", "never"],
+		"vue/require-prop-types": "off",
+		"nuxt/no-cjs-in-config": "off",
+		"vue/max-attributes-per-line": ["warn", {"singleline": 99, "multiline": 1}]
+	},
+	"overrides": [
+		{
+			"files": ["*.vue"],
+			"rules": {
+				"indent": "off"
+			}
+		}
+	]
+}

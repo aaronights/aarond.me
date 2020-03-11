@@ -12,23 +12,24 @@
 						<v-list-tile :key="post.node.path" avatar ripple :to="post.node.path">
 							<v-list-tile-content>
 								<v-list-tile-title>{{post.node.title}}</v-list-tile-title>
-								<v-list-tile-sub-title class="text--primary">{{(new Date(post.node.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</v-list-tile-sub-title>
-								<v-list-tile-sub-title></v-list-tile-sub-title>
+								<v-list-tile-sub-title class="text--primary">
+									{{new Date(post.node.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}
+								</v-list-tile-sub-title>
+								<v-list-tile-sub-title />
 							</v-list-tile-content>
 							<v-list-tile-action>
 								<v-list-tile-action-text>{{ post.node.timeToRead }} minute read</v-list-tile-action-text>
 							</v-list-tile-action>
 						</v-list-tile>
-						<v-divider v-if="index + 1 < $page.posts.edges.length" :key="index"></v-divider>
+						<v-divider v-if="index + 1 < $page.posts.edges.length" :key="index" />
 					</template>
 				</v-list>
 				<!--<Pager :info="$page.posts.pageInfo"/>-->
-				<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" @input="page" prev-icon="<" next-icon=">"></v-pagination>
+				<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" prev-icon="<" next-icon=">" @input="page" />
 			</v-flex>
 		</v-layout>
 	</Layout>
-	</template>
-
+</template>
 
 <page-query>
 	query Posts ($page: Int) {
@@ -54,26 +55,25 @@
 </page-query>
 
 <script>
-	import { Pager } from "gridsome";
+	// import {Pager} from 'gridsome';
 
 	export default {
-			metaInfo: {
-		title: 'Blog'
-	},
-		components: {
-			Pager
+		metaInfo: {
+			title: 'Blog',
 		},
+		/* components: {
+			Pager,
+		}, */
 		methods: {
 			page: function(page) {
-			 if (page === 1) {
-					this.$router.push({path: "/blog/"});
-					}
-					else {
-					this.$router.push({path: "/blog/" + page});
-}
-		}
-		}
-	}
+				if (page === 1) {
+					this.$router.push({path: '/blog/'});
+				} else {
+					this.$router.push({path: '/blog/' + page});
+				}
+			},
+		},
+	};
 </script>
 
 <style>

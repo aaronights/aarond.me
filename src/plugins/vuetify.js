@@ -2,10 +2,10 @@ import Vuetify from 'vuetify';
 import 'vuetify/dist/vuetify.min.css';
 import DefaultLayout from '~/layouts/Default.vue';
 
-export default function (Vue, {appOptions, head}) {
+export default function(Vue, {appOptions, head}) {
 	head.link.push({
 		rel: 'stylesheet',
-		href: 'https://fonts.googleapis.com/icon?family=Material+Icons'
+		href: 'https://fonts.googleapis.com/icon?family=Material+Icons',
 	});
 
 	const opts = {
@@ -13,8 +13,8 @@ export default function (Vue, {appOptions, head}) {
 		theme: {
 			primary: '#a91616',
 			secondary: '#000000',
-			accent: '#e32929'
-		}
+			accent: '#e32929',
+		},
 	};
 	Vue.use(Vuetify);
 

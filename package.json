@@ -1,32 +1,44 @@
 {
-  "name": "aarond.me",
-  "private": true,
-  "scripts": {
-    "dev": "gridsome develop",
-    "build": "gridsome build",
-    "explore": "gridsome explore",
-    "import": "node ./src/HTMLToMD.js",
-    "share": "lt --port 8080 --subdomain aarond"
-  },
-  "dependencies": {
-    "gridsome": "^0.7.13"
-  },
-  "devDependencies": {
-    "@gridsome/source-filesystem": "^0.6.2",
-    "@gridsome/transformer-remark": "^0.5.0",
-    "acorn": "^7.1.0",
-    "ajv": "^6.12.0",
-    "cheerio": "^1.0.0-rc.3",
-    "gridsome-plugin-remark-youtube": "^1.0.1",
-    "localtunnel": "^2.0.0",
-    "remark": "^11.0.2",
-    "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2",
-    "turndown": "^5.0.3",
-    "vue": "^2.6.11",
-    "vue-cli-plugin-vuetify": "^2.0.5",
-    "vuetify": "^2.2.15",
-    "vuetify-loader": "^1.4.3",
-    "webpack-node-externals": "^1.7.2"
-  }
+	"name": "aarond.me",
+	"private": true,
+	"scripts": {
+		"dev": "gridsome develop",
+		"build": "gridsome build",
+		"lint": "eslint --ext .js,.vue --ignore-path .gitignore -f table .",
+		"lint:fix": "yarn lint --fix",
+		"explore": "gridsome explore",
+		"import": "node ./src/HTMLToMD.js",
+		"share": "lt --port 8080 --subdomain aarond"
+	},
+	"dependencies": {
+		"gridsome": "^0.7.13"
+	},
+	"devDependencies": {
+		"@gridsome/plugin-sitemap": "^0.2.3",
+		"@gridsome/source-filesystem": "^0.6.2",
+		"@gridsome/transformer-remark": "^0.5.0",
+		"acorn": "^7.1.0",
+		"ajv": "^6.12.0",
+		"cheerio": "^1.0.0-rc.3",
+		"gridsome-plugin-feed": "^1.0.2",
+		"gridsome-plugin-flexsearch": "^0.1.13",
+		"gridsome-plugin-pwa": "0.0.13",
+		"gridsome-plugin-remark-youtube": "^1.0.1",
+		"localtunnel": "^2.0.0",
+		"remark": "^11.0.2",
+		"stylus": "^0.54.7",
+		"stylus-loader": "^3.0.2",
+		"turndown": "^5.0.3",
+		"vue": "^2.6.11",
+		"vue-cli-plugin-vuetify": "^2.0.5",
+		"vuetify": "^2.2.15",
+		"vuetify-loader": "^1.4.3",
+		"webpack-node-externals": "^1.7.2",
+		"babel-eslint": "^10.0.3",
+		"eslint": "^6.8.0",
+		"eslint-config-prettier": "^6.10.0",
+		"eslint-plugin-prettier": "^3.1.2",
+		"eslint-plugin-vue": "^6.1.2",
+		"prettier": "^1.19.1"
+	}
 }

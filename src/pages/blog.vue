@@ -2,16 +2,13 @@
 	<Layout>
 		<v-layout v-if="$page" style="max-width: 1100px">
 			<v-flex xs12 pa-1>
-				<template>
-					<v-layout row wrap>
-						<v-flex xs12 md6 class="px-3 py-0">
-							<h1>I am Aaron Davies</h1>
-							<p>I blog here like my opinions actually matter</p>
-							<social />
-						</v-flex>
-					</v-layout>
-				</template>
-
+				<v-layout row wrap>
+					<v-flex xs12 md6 class="px-3 py-0">
+						<h1>I am Aaron Davies</h1>
+						<p>I blog here like my opinions actually matter</p>
+						<social />
+					</v-flex>
+				</v-layout>
 				<v-card v-for="(post, index) in $page.posts.edges" :key="index" class="ma-4 pb-3">
 					<g-link :to="post.node.path"><v-img style="display: block; margin: 0 auto;" max-width="100%" max-height="100px" v-if="post.node.image" :src="post.node.image.replace('./../media/', '/../assets/static/src/media/') " /></g-link>
 					<v-card-title primary-title>
@@ -65,23 +62,22 @@
 
 	export default {
 		metaInfo: {
-			title: 'Blog'
+			title: 'Blog',
 		},
 		components: {
 			Pager,
-			social
+			social,
 		},
 		methods: {
 			page: function(page) {
-			 if (page === 1) {
+				if (page === 1) {
 					this.$router.push({path: "/blog/"});
-					}
-					else {
+				} else {
 					this.$router.push({path: "/blog/" + page});
-}
-		}
-		}
-	}
+				}
+			},
+		},
+	};
 </script>
 
 <style>
@@ -110,10 +106,9 @@
 		font-size: 0.8em;
 	}
 	table, th, td, tr, thead, tbody {
-	border: 1px solid black;	padding: 5px;
+		border: 1px solid black;	padding: 5px;
 	}
 	table {
-	border-collapse: collapse;
+		border-collapse: collapse;
 	}
-
 </style>
