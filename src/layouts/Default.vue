@@ -6,7 +6,7 @@
 			<g-link v-for="result in searchResults" :key="result.id" :to="result.path" class="navbar-item">
 				{{ result.title }}
 			</g-link>-->
-			<v-autocomplete
+			<!--<v-autocomplete
 				v-model="result"
 				:search-input.sync="searchTerm"
 				:items="searchResults"
@@ -19,7 +19,7 @@
 				placeholder="Search"
 				prepend-icon="mdi-database-search"
 				return-object
-			/>
+			/>-->
 			<v-spacer />
 			<v-toolbar-items>
 				<v-btn text exact :to="{name: 'home'}">
@@ -42,9 +42,9 @@
 </template>
 
 <script>
-	import Search from 'gridsome-plugin-flexsearch/SearchMixin'
+	// import Search from 'gridsome-plugin-flexsearch/SearchMixin';
 	export default {
-		mixins: [Search],
+		// mixins: [Search],
 		data() {
 			return {
 				searchTerm: '',

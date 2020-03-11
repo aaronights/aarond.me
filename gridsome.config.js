@@ -22,7 +22,7 @@ module.exports = {
 				},
 			},
 		},
-		{
+		/* {
 			use: 'gridsome-plugin-flexsearch',
 			options: {
 				collections: [
@@ -34,7 +34,7 @@ module.exports = {
 				],
 				searchFields: ['title', 'excerpt'],
 			},
-		},
+		}, */
 		{
 			use: 'gridsome-plugin-feed',
 			options: {
@@ -60,7 +60,7 @@ module.exports = {
 				},
 			},
 		},
-		{
+		/* {
 			use: 'gridsome-plugin-pwa',
 			options: {
 				title: 'aarond.me',
@@ -78,6 +78,6 @@ module.exports = {
 				msTileImage: '',
 				msTileColor: '#666600',
 			},
-		},
+		}, */
 	],
 };
