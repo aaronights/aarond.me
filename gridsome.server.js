@@ -1,16 +1,18 @@
-const nodeExternals = require('webpack-node-externals');
+// const nodeExternals = require('webpack-node-externals');
+const VuetifyLoaderPlugin = require('vuetify-loader/lib/plugin');
 const remark = require('remark');
 const html = require('remark-html');
 
 module.exports = function(api) {
 	api.chainWebpack((config, {isServer}) => {
-		if (isServer) {
+		config.plugin('vuetify-loader').use(VuetifyLoaderPlugin);
+		/* if (isServer) {
 			config.externals([
 				nodeExternals({
-					whitelist: [/^Vuetify/, /^vuetify/],
+					whitelist: [/^vuetify/],
 				}),
 			]);
-		}
+		} */
 	});
 	api.loadSource(({addSchema, addSchemaResolvers, GraphQLSchema, GraphQLObjectType, GraphQLString}) => {
 		addSchemaResolvers({

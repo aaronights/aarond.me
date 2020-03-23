@@ -1,4 +1,5 @@
-import Vuetify from 'vuetify';
+// import Vuetify from 'vuetify';
+import Vuetify from 'vuetify/lib/framework';
 import 'vuetify/dist/vuetify.min.css';
 import DefaultLayout from '~/layouts/Default.vue';
 
