@@ -1,6 +1,6 @@
 <template>
 	<Layout>
-		<v-layout v-if="$page" style="max-width: 1100px">
+		<v-layout v-if="$page" style="max-width: 1100px;">
 			<v-flex xs12 pa-1>
 				<v-layout row wrap>
 					<v-flex xs12 md6 class="px-3 py-0">
@@ -10,27 +10,43 @@
 					</v-flex>
 				</v-layout>
 				<v-card v-for="(post, index) in $page.posts.edges" :key="index" class="ma-4 pb-3">
-					<g-link :to="post.node.path"><v-img style="display: block; margin: 0 auto;" max-width="100%" max-height="100px" v-if="post.node.image" :src="post.node.image.replace('./../media/', '/../assets/static/src/media/') " /></g-link>
+					<g-link :to="post.node.path">
+						<v-img
+							v-if="post.node.image"
+							style="display: block; margin: 0 auto;"
+							max-width="100%"
+							max-height="100px"
+							:src="post.node.image.replace('./../media/', '/../assets/static/src/media/')"
+						/>
+					</g-link>
 					<v-card-title primary-title>
-						<h1 class="display-1 mb-0" style="padding: 0;"><g-link :to="post.node.path">{{post.node.title}}</g-link></h1>
+						<h1 class="display-1 mb-0" style="padding: 0;">
+							<g-link :to="post.node.path">
+								{{post.node.title}}
+							</g-link>
+						</h1>
 					</v-card-title>
-					<h5 style="padding: 0em 1em;">{{(new Date(post.node.date)).toLocaleDateString("en-US", { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</h5><br>
+					<h5 style="padding: 0em 1em;">
+						{{new Date(post.node.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}
+					</h5>
+					<br />
 					<v-card-text>
-					 <div v-html="post.node.excerpt" />
-					<h4> {{post.node.timeToRead}} minute reading time.</h4>
+						<div v-html="post.node.excerpt" />
+						<h4>{{post.node.timeToRead}} minute reading time.</h4>
 					</v-card-text>
 					<v-card-actions>
 						<v-btn class="mt-4">
-							<g-link :to="post.node.path">Read More...</g-link>
+							<g-link :to="post.node.path">
+								Read More...
+							</g-link>
 						</v-btn>
 					</v-card-actions>
 				</v-card>
-				<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" @input="page" prev-icon="<" next-icon=">"></v-pagination>
+				<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" prev-icon="<" next-icon=">" @input="page" />
 			</v-flex>
 		</v-layout>
 	</Layout>
-	</template>
-
+</template>
 
 <page-query>
 	query Posts ($page: Int) {
@@ -57,7 +73,7 @@
 </page-query>
 
 <script>
-	import {Pager} from "gridsome";
+	import {Pager} from 'gridsome';
 	import social from '~/components/social.vue';
 
 	export default {
@@ -69,11 +85,11 @@
 			social,
 		},
 		methods: {
-			page: function(page) {
+			page: function (page) {
 				if (page === 1) {
-					this.$router.push({path: "/blog/"});
+					this.$router.push({path: '/blog/'});
 				} else {
-					this.$router.push({path: "/blog/" + page});
+					this.$router.push({path: '/blog/' + page});
 				}
 			},
 		},
@@ -105,8 +121,14 @@
 	.v-list__tile__sub-title {
 		font-size: 0.8em;
 	}
-	table, th, td, tr, thead, tbody {
-		border: 1px solid black;	padding: 5px;
+	table,
+	th,
+	td,
+	tr,
+	thead,
+	tbody {
+		border: 1px solid black;
+		padding: 5px;
 	}
 	table {
 		border-collapse: collapse;
