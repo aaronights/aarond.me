@@ -65,7 +65,7 @@ I didn’t hear anything from anyone for the next few days. Then, from out of no
 
 She asked to talk. I told her I was finishing up a job just down the road from her. It was against all advice, but I agreed to go and see her.
 
-She looked so beautiful. The first thing she wanted? A hug.
+She looked so beautiful. The first thing she wanted was a hug.
 
 She took the time to calmly explain the finances going on with the house. There was a boatload of bills mounting up! Thanks to her sister's partner, we had got an amazing deal on the house, and he was willing to back her up in any court proceedings.
 
