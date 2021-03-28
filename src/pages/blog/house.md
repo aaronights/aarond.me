@@ -20,7 +20,7 @@ She has a tough job, with varied hours, and something I'll always remember fondl
 
 I even tried making meals! I’m not the best chef, but I got good at cooking a few dishes. My eggs Benedict might not have been as good as the local cafe, but it was… enjoyable, apparently! I tried to make cookies and cupcakes that were inspired by her favourite things - like a Milky Bar cookie cupcake, or loaded caramel sandwich cookies.
 
-I loved getting her flowers. I tried to keep them varied, always striving to get colours and styles that matched the mood and weather of the day. I got really good at knowing where the best stores were on the long drive over to her place. She was always so appreciative, it made me feel amazing.
+I loved getting her flowers. I tried to keep them varied, always striving to get colours and styles that matched the mood and weather of the day. I got really good at knowing where the best stores were on the long drive over to her place. She was always so appreciative, it made me feel amazing!
 
 I'd leave in the morning to head to work, and less than a minute down the road I'd get a message saying how much she missed me already.
 
