@@ -12,38 +12,23 @@
 		"up": "npm update && npm outdated"
 	},
 	"dependencies": {
-		"gridsome": "^0.7.23"
-	},
-	"devDependencies": {
+		"gridsome": "^0.7.23",
 		"@gridsome/plugin-sitemap": "^0.4.0",
 		"@gridsome/source-filesystem": "^0.6.2",
 		"@gridsome/transformer-remark": "^0.6.4",
-		"acorn": "^8.1.0",
-		"ajv": "^8.0.1",
-		"babel-eslint": "^10.1.0",
-		"cheerio": "^1.0.0-rc.5",
-		"deepmerge": "^4.2.2",
-		"eslint": "^7.23.0",
-		"eslint-config-prettier": "^8.1.0",
-		"eslint-plugin-prettier": "^3.3.1",
-		"eslint-plugin-vue": "^7.8.0",
-		"fibers": "^5.0.0",
 		"gridsome-plugin-feed": "^1.0.2",
 		"gridsome-plugin-flexsearch": "^1.1.0",
 		"gridsome-plugin-pwa": "0.0.18",
 		"gridsome-plugin-remark-youtube": "^1.0.1",
-		"localtunnel": "^2.0.1",
-		"prettier": "^2.2.1",
 		"remark": "^13.0.0",
 		"sass": "^1.32.8",
 		"sass-loader": "^7.3.1",
-		"stylus": "^0.54.8",
-		"stylus-loader": "^5.0.0",
-		"turndown": "^7.0.0",
-		"vue": "^2.6.12",
-		"vue-cli-plugin-vuetify": "^2.3.1",
 		"vuetify": "^2.4.8",
-		"vuetify-loader": "^1.7.2",
-		"webpack-node-externals": "^2.5.2"
+		"vuetify-loader": "^1.7.2"
+	},
+	"devDependencies": {
+		"cheerio": "^1.0.0-rc.5",
+		"localtunnel": "^2.0.1",
+		"turndown": "^7.0.0"
 	}
 }
