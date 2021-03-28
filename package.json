@@ -12,10 +12,10 @@
 		"up": "npm update && npm outdated"
 	},
 	"dependencies": {
-		"gridsome": "^0.7.23",
 		"@gridsome/plugin-sitemap": "^0.4.0",
 		"@gridsome/source-filesystem": "^0.6.2",
 		"@gridsome/transformer-remark": "^0.6.4",
+		"gridsome": "^0.7.23",
 		"gridsome-plugin-feed": "^1.0.2",
 		"gridsome-plugin-flexsearch": "^1.1.0",
 		"gridsome-plugin-pwa": "0.0.18",
