@@ -1,16 +1,16 @@
-// import Vuetify from 'vuetify';
 import Vuetify from 'vuetify/lib/framework';
 import 'vuetify/dist/vuetify.min.css';
 import DefaultLayout from '~/layouts/Default.vue';
 
-export default function(Vue, {appOptions, head}) {
+export default function (Vue, {appOptions, head}) {
 	head.link.push({
 		rel: 'stylesheet',
-		href: 'https://fonts.googleapis.com/icon?family=Material+Icons',
+		href: 'https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css',
 	});
+
 	head.link.push({
 		rel: 'stylesheet',
-		href: 'https://fonts.googleapis.com/css?family=Roboto+Slab:300,700|Roboto:300,300i,700,700i',
+		href: 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900',
 	});
 
 	const opts = {
@@ -21,10 +21,7 @@ export default function(Vue, {appOptions, head}) {
 			accent: '#e32929',
 		},
 	};
-
 	Vue.use(Vuetify);
-
-	appOptions.vuetify = new Vuetify(opts); //.$mount('#app');
-
+	appOptions.vuetify = new Vuetify(opts);
 	Vue.component('Layout', DefaultLayout);
 }
