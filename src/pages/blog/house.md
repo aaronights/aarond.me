@@ -1,7 +1,7 @@
 ---
 title: "Life with a House"
 author: Aaron Davies
-date: 1980-01-07
+date: 2021-01-07
 ---
 
 It was nice to have it all.
