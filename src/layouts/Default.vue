@@ -31,7 +31,7 @@
 				<v-btn text exact :to="{name: 'home'}">
 					Home
 				</v-btn>
-				<v-btn text :to="{name: 'blog'}">
+				<v-btn text :to="'/blog'">
 					Blog
 				</v-btn>
 			</v-toolbar-items>
