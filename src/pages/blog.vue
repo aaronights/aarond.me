@@ -15,10 +15,10 @@
 							:src="post.node.image.replace('./../media/', '/../assets/static/src/media/')"
 						>
 							<v-overlay absolute>
-								<v-card-title class="display-1 mb-0 text-wrap" style="word-break: normal; text-shadow: 1px 1px 2px black">{{post.node.title}}</v-card-title>
+								<v-card-title class="display-1 mb-0 text-wrap align-end text-center" style="word-break: normal; height: 150px; text-shadow: 1px 1px 2px black">{{post.node.title}}</v-card-title>
 							</v-overlay>
 						</v-img>
-						<v-card-title v-else class="display-1 mb-0 text-wrap" style="word-break: normal; height: 150px" primary-title>{{post.node.title}}</v-card-title>
+						<v-card-title v-else class="display-1 mb-0 text-wrap align-end text-center grey darken-2" style="word-break: normal; height: 150px; text-shadow: 1px 1px 2px black">{{post.node.title}}</v-card-title>
 					</g-link>
 					<h5 class="ma-3">
 						{{new Date(post.node.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}
@@ -27,7 +27,7 @@
 						<div v-html="post.node.excerpt" class="mb-4 text-justify" />
 					</v-card-text>
 					<v-card-actions>
-						<span class="subtitle-1 mt-4 ml-2">{{post.node.timeToRead}} minute reading time.</span>
+						<span class="subtitle-1 mt-4 ml-2">{{post.node.timeToRead}} minute reading time</span>
 						<v-spacer />
 						<v-btn class="ma-4 mb-0" rounded>
 							<g-link :to="post.node.path">
