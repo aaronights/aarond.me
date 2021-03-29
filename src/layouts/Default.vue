@@ -37,7 +37,7 @@
 			</v-toolbar-items>
 		</v-app-bar>
 		<v-main>
-			<v-container>
+			<v-container fluid style="max-width: 1280px">
 				<slot />
 			</v-container>
 		</v-main>
