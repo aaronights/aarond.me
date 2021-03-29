@@ -4,7 +4,7 @@
         <title>aarond.me</title>
         <link>https://aarond.me/</link>
         <description>The blog of Aaron Davies</description>
-        <lastBuildDate>Mon, 29 Mar 2021 01:44:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Mar 2021 02:02:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://aarond.me/feed.xml" rel="self" type="application/rss+xml"/>
