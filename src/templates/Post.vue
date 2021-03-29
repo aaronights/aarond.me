@@ -1,32 +1,36 @@
 <template>
 	<Layout>
-		<v-layout row wrap>
-			<v-flex xs12 pa-4>
-				<h1>{{$page.post.title}}</h1>
-				<p>
-					<strong>{{(new Date($page.post.date)).toLocaleDateString("en-US", {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</strong>
-				</p>
-				<div v-html="$page.post.content" class="post" />
-				<!--<v-bottom-nav color="transparent">
-					<v-btn text v-if="$page.post.previous">
-						<g-link :to="{path: $page.post.previous.path}">&lt; {{$page.post.previous.title}}</g-link>
-					</v-btn>
-					<v-btn text v-if="$page.post.next">
-						<g-link :to="{path: $page.post.next.path}">{{$page.post.next.title}} &gt;</g-link>
-					</v-btn>
-				</v-bottom-nav>-->
-			</v-flex>
-		</v-layout>
+		<h1 class="red--text">{{$page.post.title}}</h1>
+		<p><strong>{{(new Date($page.post.date)).toLocaleDateString("en-US", {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}</strong></p>
+		<div v-html="$page.post.content" class="post" />
+		<!--<v-bottom-nav>
+			<v-btn text v-if="$page.post.previous">
+				<g-link :to="{path: $page.post.previous.path}">&lt; {{$page.post.previous.title}}</g-link>
+			</v-btn>
+			<v-btn text v-if="$page.post.next">
+				<g-link :to="{path: $page.post.next.path}">{{$page.post.next.title}} &gt;</g-link>
+			</v-btn>
+		</v-bottom-nav>-->
 	</Layout>
 </template>
 
 <page-query>
 	query Post ($path: String!) {
-		post: post (path: $path) {
+		post(path: $path) {
 			title
 			content
 			date
 			timeToRead(speed: 230)
+			belongsTo {
+				edges {
+					next {
+						id
+					}
+					previous {
+						id
+					}
+				}
+			}
 		}
 	}
 </page-query>

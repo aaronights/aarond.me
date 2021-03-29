@@ -1,7 +1,8 @@
 <template>
 	<v-app>
-		<v-toolbar>
-			<v-toolbar-title>{{$root.$options.metaInfo.title}}</v-toolbar-title>
+		<v-app-bar>
+			<!--<social />-->
+			<v-app-bar-title>{{$root.$options.metaInfo.title}}</v-app-bar-title>
 			<!--<input id="search" v-model="searchTerm" class="input" type="text" placeholder="Search" />
 			<g-link v-for="result in searchResults" :key="result.id" :to="result.path" class="navbar-item">
 				{{ result.title }}
@@ -9,16 +10,21 @@
 			<v-autocomplete
 				v-model="result"
 				:search-input.sync="searchTerm"
-				:items="searchResults"
+				:items="searchResults || []"
 				item-value="id"
 				item-text="title"
 				cache-items
 				color="white"
+				rounded
+				solo
+				dense
 				hide-no-data
 				hide-selected
 				placeholder="Search"
-				prepend-icon="mdi-database-search"
+				append-icon="mdi-magnify"
 				return-object
+				class="mt-6"
+				style="max-width: 24rem"
 			/>
 			<v-spacer />
 			<v-toolbar-items>
@@ -29,22 +35,26 @@
 					Blog
 				</v-btn>
 			</v-toolbar-items>
-		</v-toolbar>
-		<v-container>
-			<slot />
-		</v-container>
-		<v-footer>
-			<v-layout justify-center row wrap>
-				<v-flex text-xs-center xs12 style="margin-bottom: 0">Copyright &copy; {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}</v-flex>
-			</v-layout>
+		</v-app-bar>
+		<v-main>
+			<v-container>
+				<slot />
+			</v-container>
+		</v-main>
+		<v-footer padless>
+			<v-col class="text-center" cols="12">
+				Copyright &copy; Aaron Davies {{new Date().getFullYear()}} {{$root.$options.metaInfo.title}}
+			</v-col>
 		</v-footer>
 	</v-app>
 </template>
 
 <script>
 	import Search from 'gridsome-plugin-flexsearch/SearchMixin';
+	import social from '~/components/social.vue';
 	export default {
 		mixins: [Search],
+		components: {social},
 		data() {
 			return {
 				searchTerm: '',

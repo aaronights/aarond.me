@@ -1,56 +1,50 @@
 <template>
 	<Layout>
-		<v-layout v-if="$page" style="max-width: 1100px;">
-			<v-flex xs12 pa-1>
-				<v-layout row wrap>
-					<v-flex xs12 md6 class="px-3 py-0">
-						<h1>I am Aaron Davies</h1>
-						<p>I blog here like my opinions actually matter</p>
-						<social />
-					</v-flex>
-				</v-layout>
-				<v-card v-for="(post, index) in $page.posts.edges" :key="index" class="ma-4 pb-3">
-					<g-link :to="post.node.path">
+		<social :images="true" class="float-right" />
+		<h1>I am Aaron Davies</h1>
+		<p>I blog here like my opinions actually matter</p>
+		<v-row no-gutters class="mt-8">
+			<v-col v-for="(post, index) in $page.posts.edges" :key="index" cols="12" md="6" lg="4">
+				<v-card class="ma-4 pb-3">
+					<g-link :to="post.node.path" class="white--text">
 						<v-img
 							v-if="post.node.image"
-							style="display: block; margin: 0 auto;"
 							max-width="100%"
-							max-height="100px"
+							height="150px"
+							class="align-end"
 							:src="post.node.image.replace('./../media/', '/../assets/static/src/media/')"
-						/>
+						>
+							<v-overlay absolute>
+								<v-card-title class="display-1 mb-0 text-wrap" style="word-break: normal; text-shadow: 1px 1px 2px black">{{post.node.title}}</v-card-title>
+							</v-overlay>
+						</v-img>
+						<v-card-title v-else class="display-1 mb-0 text-wrap" style="word-break: normal; height: 150px" primary-title>{{post.node.title}}</v-card-title>
 					</g-link>
-					<v-card-title primary-title>
-						<h1 class="display-1 mb-0" style="padding: 0;">
-							<g-link :to="post.node.path">
-								{{post.node.title}}
-							</g-link>
-						</h1>
-					</v-card-title>
-					<h5 style="padding: 0em 1em;">
+					<h5 class="ma-3">
 						{{new Date(post.node.date).toLocaleDateString('en-US', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'})}}
 					</h5>
-					<br />
 					<v-card-text>
-						<div v-html="post.node.excerpt" />
-						<h4>{{post.node.timeToRead}} minute reading time.</h4>
+						<div v-html="post.node.excerpt" class="mb-4 text-justify" />
 					</v-card-text>
 					<v-card-actions>
-						<v-btn class="mt-4">
+						<span class="subtitle-1 mt-4 ml-2">{{post.node.timeToRead}} minute reading time.</span>
+						<v-spacer />
+						<v-btn class="ma-4 mb-0" rounded>
 							<g-link :to="post.node.path">
 								Read More...
 							</g-link>
 						</v-btn>
 					</v-card-actions>
 				</v-card>
-				<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" prev-icon="<" next-icon=">" @input="page" />
-			</v-flex>
-		</v-layout>
+			</v-col>
+		</v-row>
+		<v-pagination :value="$page.posts.pageInfo.currentPage" :length="$page.posts.pageInfo.totalPages" prev-icon="<" next-icon=">" @input="page" />
 	</Layout>
 </template>
 
 <page-query>
 	query Posts ($page: Int) {
-		posts: allPost (perPage: 10, page: $page) @paginate {
+		posts: allPost (perPage: 12, page: $page) @paginate {
 			totalCount
 			pageInfo {
 				totalPages
