@@ -20,7 +20,7 @@ Yes, I’m being a little vague! I’m sure the smart people reading this will f
 
 One thing I failed to mention before was the biggest source of joy in my life right now: being the #1 Uncle!
 
-[![My Dad.](/media/images/blog/Uncle.jpg)](/media/images/blog/Uncle.jpg)
+[![My Dad.](/media/images/blog/uncle.jpg)](/media/images/blog/uncle.jpg)
 _Censored to protect the brave and bold._
 
 My nephew is awesome. He’s such an energetic, clever and positive character. I say character just because he’s so dang interesting! He’s not some boring lame-o boy, but a super interesting, dynamic and sharp little man. He’s fun to be around, even if a bit exhausting. When I’m around him I try to give him all my attention, as opposed to most boring adults!
