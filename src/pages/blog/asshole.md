@@ -8,6 +8,9 @@ Shit I’m old. I turned a grand age of 34 on Monday. But let’s not panic, I�
 
 I was resigned just to have a night in, but I got invited out. A girl I dated many moons ago took me out to a really nice local place with her partner. It was an awesome night: Pizza, Beer and Banter. Turns out just hanging out with cool people is a fun thing to do!
 
+[![drinks.](/media/images/blog/drinks.jpg)](/media/images/blog/drinks.jpg)
+_And I didn't used to like beer! Times they are changing._
+
 And after that? I’m slowly realising I might not be the biggest asshole in the world. 
 
 My ex thinks I wronged her in so many ways and never wants to have anything to do with me again. That got to me! I don’t like people hating me, it’s unsettling. With hindsight, it was one of the reasons I was finding it tough to get up and move on. If something is broken, I fix it! I don’t leave it shattered in a million pieces.
@@ -19,6 +22,9 @@ I know with my ex I made some bad decisions, but honestly? Not that bad. I made 
 Another thing I learned that night was that this cool couple were maybe looking to get… A Playstation. No! Cool people don’t do that! How can I sleep at night if I let such a stylish, outgoing and handsome household end up with a damn Sony Playstation. I mean, I want friends! But even I have my limits.
 
 So I got them an Xbox. **[Series S!](https://www.xbox.com/en-NZ/consoles/xbox-series-s)**
+
+[![handwriting.](/media/images/blog/xboxnote.jpg)](/media/images/blog/xboxnote.jpg)
+_Don't diss my handwriting._
 
 A bit of a nerdy tangent, but the Series S is an amazing console. It’s such a capable and sleek powerhouse. Last time I went up to Auckland for training I took mine with me in my suitcase - it’s small enough to fit in next to my undies. And this little black and white box doesn’t miss a beat! I’m playing through Jedi: Fallen Order, and with the next gen update it runs super smooth and looks amazing. Right now they’re $549 here in New Zealand - a little steep, but they’re still hard to find on shelves. When the demand eases up and this global semiconductor shortage is over there’ll likely be a price drop - and at $400 they'd be a must have.
 
