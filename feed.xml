@@ -4,10 +4,65 @@
         <title>aarond.me</title>
         <link>https://aarond.me/</link>
         <description>The blog of Aaron Davies</description>
-        <lastBuildDate>Fri, 16 Jul 2021 10:45:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Jul 2021 09:01:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://aarond.me/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dulling the sensors with shots and socks]]></title>
+            <link>https://aarond.me/blog/2021/07/18/dulling-the-sensors-with-shots-and-socks/</link>
+            <guid>https://aarond.me/blog/2021/07/18/dulling-the-sensors-with-shots-and-socks/</guid>
+            <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+What a fun time! Regular viewers will know that I had a mid-winter Christmas at my good friend Mark’s place last weekend. It was so fun! I opted to do something very unusual for me and partake of the alcoholic beverages. I stopped off at the booze shop on my way over, and ended up getting this.
+
+[![shots.](/media/images/blog/shots.jpg)](/media/images/blog/shots.jpg)
+_A bucket of shots._
+
+As you already know, the most high class and professional drinks all come in buckets. Turns out they weren’t horribly offensive, and they all went! I had… some.
+
+And it actually went down okay! Being a little bit tipsy is better when you’re not feeling down and mopey. I did frustrate everyone around me by always redirecting conversation to two topics: my personal life, and how big the present I bought for the dice roll gift-giving game is.
+
+Sorry to everyone that put up with that! I’ll leave that rambling here, where reading is optional. In social situations I need to shut up more.
+
+And now the big exciting reveal of what the giant present was.
+
+`youtube:https://www.youtube.com/watch?v=W13T6MjhXo8`
+
+A Bear in a Chair! I haggled the chair on Facebook marketplace from $25 to $10, and got the giant teddy bear for $4 at a local op shop. I’m sure the handsome man that ended up with this awesome gift is currently enjoying it. As for me? I got the most awesome thing I could imagine.
+
+[![socks.](/media/images/blog/socks.jpg)](/media/images/blog/socks.jpg)
+_Pokemon socks! Not pictured: Batman socks._
+
+Even if I did rave on, the beautiful people around me were very kind and generous with listening. A few takeaways:
+
+* I should shut up and move on.
+* Most people have gone through what I’m going through, this isn’t special.
+* Get out there and meet people.
+
+Whomever is… lucky enough to be in a relationship, or even just be friends, with me in the future? I don't want to frustrate them with how incredibly dense and stupid I am. I'll beg them to yell at me and hammer how they're feeling into my stupid wee head.
+
+(Metaphorically. I actually have a big head.)
+
+And I'll listen! I will shut up and listen, and also not bounce between extremes. Everyone gets pissed off with me, difficult times will come! But I need to have the… mental discipline to not start feeling hated because a partner or even a friend expresses how upset they are. I won't jump to the conclusion that they hate me - it'll be a grey area, not hot or cold! Tepid, lukewarm. In other words, nice! And also sustainable.
+
+I really like doing things for people.
+
+I help and do everything I can to make people happy and, as you'd imagine, that is amplified a hundred times over when I have a committed partner. And now I know that, even with all the affection, flowers and effort I put in, I just missed the obvious stuff I should be doing as a partner. The “are you happy?” and “what can I do to support you?” stuff. 
+
+With everything going on, I lost track of how the other half was coping with stress and life. 
+
+With hindsight? It didn’t even cross my mind as something I should be aware of. Despite the effort and time I was putting into the relationship, my constant worrying and my behaviour made the stresses worse. I was extremely selfish and now I’m embarrassed about how bad of a boyfriend I was, even though I would have done anything to make her happy and to make us work.
+
+It sucks that I couldn't be what I so desperately wanted to be.
+
+Live and learn. Due to a number of factors, that old relationship was probably doomed before it began, and now I know that I’m in a much better place to make whatever comes next for me succeed. I’m still full of problems, but hopefully now that I’m more aware of what they are I’m better equipped to mitigate them.
+
+One last thing: I’m really wanting to help friends and family more. If you’re reading this? You count as friends! Is there anything I can write here that you’d like? Not about me - doing that only helps one person. Do you want a guide on how to do something tech related? More baking ideas? Reviews of movies, shows, food or wigs?
+
+I’m here and, like Frasier Crane, I’m listening. If anyone just wants someone to talk to about anything at all, please reach out.
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[This is me learning]]></title>
             <link>https://aarond.me/blog/2021/07/16/this-is-me-learning/</link>
@@ -895,63 +950,6 @@ It was a 10 year old PC, so Windows 10 runs rather slowly. I figured that what w
 
 And with luck being a lady, it booted into Windows 10 and showed all 4GB of installed memory. While I don't want to risk testing it, my guess is that either the memory sticks or slots on the motherboard are a bit flakey and abused with age. A little wiggle or shake might make them misbehave, but the hope is that keeping the machine stationary and stable will give it the best chance of running without fault.
 
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Pearson Vue, Microsoft and Upskilling]]></title>
-            <link>https://aarond.me/blog/2019/09/05/pearson-vue-microsoft-and-upskilling/</link>
-            <guid>https://aarond.me/blog/2019/09/05/pearson-vue-microsoft-and-upskilling/</guid>
-            <pubDate>Thu, 05 Sep 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[
-On my quest to upskill, I decided to take exams online to gain some Microsoft certified qualifications. Starting at the beginning, I opted for **[MS-900: Microsoft 365 Certified Fundamentals.](https://www.microsoft.com/en-us/learning/exam-ms-900.aspx)** I signed up to take the exam with the online provider **[Pearson Vue](https://home.pearsonvue.com/)** at 9pm this Thursday night, and spent the last few days doing not much else other than studying. These exams are not free: $184 in local (NZ) currency. It might not seem like much, but money is tight for me right now.
-
-I was a bit nervous, but I was feeling good! Understanding the ins and outs of Microsoft's cloud platform took a little bit of grasping, but I got there. I was very confident leading up to the exam, but still went over the material many times in preparation. I even took hand-written notes! Surely that helps with information retention.
-
-I went through the setup process at 8:30pm, just like it told me - be there half an hour early! During the setup process I had to:
-- Position to get my webcam to get a clear view of my desk
-- Take multiple photos of my desk, the space behind it and to the left and right
-- Take clear photographs of my government issued ID, front and back.
-
-That all went well, and I was all set and ready to go. The last step was to read and accept the Non-Disclosure Agreement.
-
-I tried to click “Yes” to agree. I couldn't, clicking yes did nothing.
-
-I tried to scroll. I couldn't.
-
-I use a big 4K TV as a monitor with 100% display scaling, I think this meant that all the text in the agreement was on the screen at the same time. The program for taking the exam had gone full screen, covering everything including the start bar, meaning I was unable to change any Windows settings.
-
-No matter what I did, I could not progress.
-
-All the preparation material warned me not to have any other applications open or to close the exam application at any time. The only option I had was to click the “Chat” button to get help.
-
-After waiting a bit, an exam proctor chatted with me.
-
-“You need to scroll down in the agreement before you can click yes and accept it”
-
-I can't scroll down. The scroll bar is greyed out.
-
-There was a timer counting down in the top right corner: I had five minutes to accept the agreement.
-
-I started to panic. I tried clicking many times. I tried scrolling down. I tried using tab to highlight the “Yes” option, but I couldn't.
-
-A voice came over my speakers. It was the exam proctor, now trying to help over voice chat. No matter what I did, I could not scroll down and I couldn't click yes.
-
-Then the time ran out. The screen now told me I had failed: scoring 0 out of 700.
-
-Before the voice chat ended I was told that I had to contact customer support to resolve this issue.
-
-I asked if there was a way I could lower my screen resolution or switch to my laptop to try and take the exam. That wasn't an option, the only thing I could do is to submit a case where I would get a result in 3-5 business days. I pleaded to let me re-take the exam sooner - I was prepared and ready, having spent the week getting to this point. Nope, it's 3-5 business days or nothing. I don't even know if the case will be in my favour.
-
-At a guess, the agreement page had a trigger to enable the Yes option when the page has been scrolled to the bottom. However, as my high resolution display could show the whole document at once there was no way to scroll down and no way to enable the Yes button.
-
-It was impossible for me to start the exam.
-
-I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn't have issues like this. It's very sloppy.
-
-[![exam.](/media/images/blog/exam.png)](/media/images/blog/exam.png)
-_I didn't take any exam._
-
-I'm eager to get this exam done! This might seem like a little thing, but for me it's crushing.
 ]]></content:encoded>
         </item>
     </channel>
