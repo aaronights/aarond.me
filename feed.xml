@@ -4,10 +4,87 @@
         <title>aarond.me</title>
         <link>https://aarond.me/</link>
         <description>The blog of Aaron Davies</description>
-        <lastBuildDate>Sun, 18 Jul 2021 09:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jul 2021 11:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://aarond.me/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This what I do on weekdays!]]></title>
+            <link>https://aarond.me/blog/2021/07/19/this-what-i-do-on-weekdays/</link>
+            <guid>https://aarond.me/blog/2021/07/19/this-what-i-do-on-weekdays/</guid>
+            <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Ever wondered what my work day is like? Well, unfortunately you’re about to find out!
+
+My title is a Customer Engineer for a wide range of machines that process money: repairing, servicing and installing them in the lower North Island.  I get around! This is my exciting travel diary for Monday 19 July 2021.
+
+The first thing I did while on the clock was finish off some documentation I was working on. It's a guide on how to clean and service some new hardware we’re rolling out. I enjoy writing, as you probably know, so I'm glad I can do some of that for work.
+
+After sending that off, I jumped in my white Subaru and hit the road. I'm going to work!
+
+You might think of a workplace as an office or workshop, but not for me. I have two places I can realistically claim to be my place of work: my car, and a storage unit.
+
+[![shots.](/media/images/blog/shed.jpg)](/media/images/blog/shed.jpg)
+_Luxury workplace, no expense spared._
+
+The storage unit is just a small garage sized lockup where I keep spare parts for work. Not overly glamorous, but fit for purpose. Today I had to ship a part that another engineer needed for a job somewhere else in the country. Oh, parts and logistics. What fun.
+
+On my way driving to this shed I was assigned my first urgent job of the day.
+
+In my line of work I have urgent jobs for things that are broken and need to be fixed ASAP, and also jobs that aren’t urgent, like servicing and cleaning of hardware.
+
+The job that came in this morning was top tier urgent, and far away in Waiouru! After shipping out the spare part, I went on a road trip.
+
+The most direct route I can take is a horrible windy wide road, but it has the nice benefit of this: Stormy Point Lookout. It's a huge viewpoint that lets you see the rolling rural land for miles and miles. I always try to pull over for 30 seconds to take a photo.
+
+[![shots.](/media/images/blog/stormy.jpg)](/media/images/blog/stormy.jpg)
+_A view for miles and miles and miles._
+
+After 2 hours of driving I hit Waiouru. It's very cold here! The job ended up being much more in depth than I expected, but I got it done.
+
+[![shots.](/media/images/blog/tank.jpg)](/media/images/blog/tank.jpg)
+_Tanks for the fun, Waiouru._
+
+Before I even started this job, I had another assigned to me: Dannevirke. Unfortunately, before I even could start driving to this job, another job with a higher priority came into my queue: Masterton.
+
+That's a hell of a drive! But the idea of seeing the giant gumboot gave me the boost I needed.
+
+[![shots.](/media/images/blog/booty.jpg)](/media/images/blog/booty.jpg)
+_I'm a big fan of a big booty._
+
+Waiouru to Masterton is almost the longest drive I have for work. Before, when I was driving my old personal car, it was exhausting to go on such long voyages. But now I have this new machine with the power and features, it's so much more enjoyable.
+
+Oh, in terms of time? I started work at my desk this morning at 8am, and now it's 6pm and I've still got two urgent jobs to finish.
+
+[![shots.](/media/images/blog/plane.jpg)](/media/images/blog/plane.jpg)
+_I found this yellow aeroplane on my way to Masterton._
+
+Masterton is a nice town! I've been here a lot lately, for both business and pleasure. The one thing I've learned is that everything shuts early, and it becomes a ghost town. To prove this point I took a selfie in the middle of the main street. I could have pitched a tent there.
+
+[![shots.](/media/images/blog/masterton.jpg)](/media/images/blog/masterton.jpg)
+_No nightlife, not even early evening... life._
+
+I often have delays in getting access to the machines I need to work on, and at Masterton I arrived 30 minutes before I could get access. I spent that time writing the majority of this blog post, and going for a brisk walk around downtown. It was extremely cold.
+
+I was able to resolve the job at Masterton, but due to an ongoing issue with it I’ll be back - either tomorrow or the next day. And it’ll be a very complicated and long task.
+
+I departed for Dannevirke, and by this point it was dark outside. Doing these long days is so much easier in the summer!
+
+[![shots.](/media/images/blog/dannevirke.jpg)](/media/images/blog/dannevirke.jpg)
+_Thor says hi._
+
+The Dannevirke job was easy, just a matter of reseating a cable. After doing that it was getting close to 9pm, and I was hoping no new jobs came in - I wanted to go home!
+
+I was tempted to get some unhealthy takeaways now, as I hadn’t eaten much all day. But no! I got home soon after 10pm and had Weet-Bix with some peanut butter for my dinner.
+
+[![shots.](/media/images/blog/dinner.jpg)](/media/images/blog/dinner.jpg)
+_Meal of Champions._
+
+I’m tired now. I’d better shower and get some sleep before I do it all over again tomorrow. Goodnight, kids!
+
+
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Dulling the sensors with shots and socks]]></title>
             <link>https://aarond.me/blog/2021/07/18/dulling-the-sensors-with-shots-and-socks/</link>
@@ -898,58 +975,6 @@ You can install as many instances of the PortableApps version of Chrome as you n
 Using this PortableApps method also allows you to use a different account for each installed copy. This can be very useful: you can have access to both a personal and a business Google Docs suite in two different windows without having to cycle between logins.
 
 There are some other modifiers you can add to the shortcut to further tweak the way the webapp works. Adding --incognito will make the browser run in, as you'd expect, incognito mode. You can also enter chrome://flags into the address bar while the browser is running in normal mode to get access to an extensive range of additional settings.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IT: Getting an old Windows machine running]]></title>
-            <link>https://aarond.me/blog/2019/09/22/it-getting-an-old-windows-machine-running/</link>
-            <guid>https://aarond.me/blog/2019/09/22/it-getting-an-old-windows-machine-running/</guid>
-            <pubDate>Sun, 22 Sep 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[
-After throwing my friend Mark a surprise birthday party yesterday, I was given the task of getting a decade old Windows machine working and running Windows 10. I was given a Windows 7 Ultimate N key and this computer - a four hard drive behemoth - and set to work.
-
-[![mynemesis.](/media/images/blog/nemesis.png)](/media/images/blog/nemesis.png)
-_My nemesis for an evening._
-
-I plugged it in and turned it on. The lights came on and the fans spun up. The monitor sprung to life!
-
-There was a black screen, no POST beep codes and after a few seconds then everything shut down. Before the fans could spin down entirely, the computer started up again! This was an endless loop that it had got locked into.
-
-My initial hunch was that it was a power supply issue, but a suggestion given to me was that the problem was more likely to be with the memory. I juggled the four memory DIMMs in the four slots available, and managed to fix the issue by having just a single 1GB stick out of 4GB in the machine. Even after this the machine was only intermittently working, sometimes entering the same loop seemingly at random. It still entered the boot loop, but reseating the memory again fixed it. After a while of playing around, the issue seemed to occur less frequently.
-
-Yay, progress!
-
-Next up was sorting out the drives. There were four in this machine, and I was told that the operating system would need to be on the smallest one. I tried removing the drives to look at the labels, but an awkward case design made this difficult. To ensure I knew what size each drive was, I unplugged all but one at a time and then proceeded to boot into the BIOS to get the model numbers, and these included the capacity of each drive.
-
-There was a 1000 GB, a 1500 GB, a 2000 GB and a 250 GB. Easy choice!
-
-I plugged in nothing but that 250GB drive, plugged in my Windows 10 USB installation media, and hit F12 during boot to see the boot menu.
-
-I was presented with odd, 2008 era menu options. I had to choose between USB-HDD, USB-FDD, USB-ZIP, and USB-CDROM. Boot from a ZIP drive! That's a blast from the past. Unfortunately none of them worked for booting from the USB drive. So I bridged the jumpers on the CMOS to reset the BIOS settings, but still no cigar. Going through all the settings in the BIOS and changing everything related to booting and USB support still had no luck.
-
-So I booted up what was on that 250GB drive. It started to load Windows, but it just hung. I rebooted into safe mode and it worked! After a quick Google, I found that disabling all programs and services that start on boot and doing a “clean boot” was a common trick to getting normal Windows to start.
-
-It worked! Here I was in Windows…. 7. Unactivated. The key I was given didn't work. I tried running an upgrade to Windows 10, but that either required an activated version of Windows 7 or a valid Windows 10 key.
-
-Looking carefully, I noticed that they key I had was for Windows 7 Ultimate N. I wondered if the N made a difference to the keys working. I couldn't see any reference to this N version in the Control Panel, so on my laptop I headed over to **[archive.org and downloaded a Windows 7 Ultimate N ISO](https://archive.org/details/Win7UltimateNSP1)** and wrote it to my USB memory stick using the **[Windows USB/DVD Tool](https://www.microsoft.com/en-us/download/details.aspx?id=56485)**.
-
-I ran a clean install of Windows 7, and after an extremely slow install process I entered the activation key. I didn't have much hope.
-
-But it worked! Windows 7 Ultimate N was activated.
-
-Installing Windows 10 using the current activation credentials should be a straightforward process. Downloading and executing the official Media Creation Tool for Windows 10 gives the option not only to make a bootable USB memory stick, but also to upgrade the current machine. On the first try, the installer wouldn't get very far: Windows 10 demands a minimum of 2GB memory. I crossed my fingers and slotted in another memory module. Yay, luck was with me and there was no boot loop.
-
- It took a few hours to complete the install process, but afterwards I was presented with this:
-
-[![didntwork.](/media/images/blog/windowserror.png)](/media/images/blog/windowserror.png)
-_It didn't work._
-
-Ugh. Another Google search showed this error can happen sometimes, and a common solution was just to try again. And it worked! After another few hours Windows 10 Pro N was cleanly installed and activated.
-
-It was a 10 year old PC, so Windows 10 runs rather slowly. I figured that what would help would be getting the PC back to its full 4GB of memory! I went back into the BIOS and tweaked any settings related to memory to try to get it working, hoping the issue wasn't something hardware related. I installed another stick of memory, and it booted. Going all the way, I put all four in - the evil boot loop showed up again. I took that last memory module out and reseated it very firmly, really pushing it down and engaging the clips in the sides.
-
-And with luck being a lady, it booted into Windows 10 and showed all 4GB of installed memory. While I don't want to risk testing it, my guess is that either the memory sticks or slots on the motherboard are a bit flakey and abused with age. A little wiggle or shake might make them misbehave, but the hope is that keeping the machine stationary and stable will give it the best chance of running without fault.
-
 ]]></content:encoded>
         </item>
     </channel>
