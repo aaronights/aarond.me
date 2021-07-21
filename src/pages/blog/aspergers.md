@@ -35,7 +35,7 @@ You're amazing. You do all of this naturally! No effort required. You can pick u
 
 These days I have to fight back against staring too much. It's a tough balancing act! I'm better than I was, but know for sure I will always be making progress for the rest of my life. I thought I had conquered this, but recent life experiences prove otherwise.
 
-I spoke recently about how I’m very hold or cold on things, and can’t always grasp a middle ground. This applies to conversations. I find it hard to follow a conversation if it's a topic I can't… grasp. It makes me so uncomfortable when trying to chat about something with someone that I just can't grasp and keep in my head. What should I say? Should I ask a question? Try to contribute? Should I sympathise? Was that a joke? Are you enjoying it?
+I spoke recently about how I’m very hot or cold on things, and can’t always grasp a middle ground. This applies to conversations. I find it hard to follow a conversation if it's a topic I can't… grasp. It makes me so uncomfortable when trying to chat about something with someone that I just can't grasp and keep in my head. What should I say? Should I ask a question? Try to contribute? Should I sympathise? Was that a joke? Are you enjoying it?
 
 On the other hand, if it's a conversation I'm into: Woah! You can't shut me up. It's actually quite a rush when that conversational volley gets going, but I can get carried away. I'll dominate the conversation and just talk endlessly with wild enthusiasm. If I find something really exciting or interesting, I have a tendency to repeat myself.
 
