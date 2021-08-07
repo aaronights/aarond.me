@@ -4,10 +4,36 @@
         <title>aarond.me</title>
         <link>https://aarond.me/</link>
         <description>The blog of Aaron Davies</description>
-        <lastBuildDate>Wed, 21 Jul 2021 09:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 02:02:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Gridsome Feed Plugin</generator>
         <atom:link href="https://aarond.me/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gaining Perspective]]></title>
+            <link>https://aarond.me/blog/2021/08/07/gaining-perspective/</link>
+            <guid>https://aarond.me/blog/2021/08/07/gaining-perspective/</guid>
+            <pubDate>Sat, 07 Aug 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[
+Ideas on how to be a better person: imagine yourself in the third person.
+
+Social situations are hard for me, and oddly I think they drive me more into myself, rather than allowing me to branch out, as happens for other people. In the anxiety of it all, I’ve always focused on me, my behaviour, and what reactions I'd get. Doing this made me miss the whole point of being social: others.
+
+Video games.
+
+Many hit video games allow you to change your viewing perspective. You can have the option of playing in the first person, like through the eyes of the character, or switching to playing in the third person, through the eyes of… an invisible person following you around.
+
+[![Forza.](/media/images/blog/forza.jpg)](/media/images/blog/forza.jpg)
+_Like seeing through the ideas of the driver, or following at some imaginary point behind the car._
+
+While first person might be ideal for immersion, it hinders one very important thing: situational awareness. If you're looking through the eyes of your character, it's very difficult to gauge your surroundings and how you're interacting with the world around you.
+
+So, recently I've adopted the attitude of trying to evaluate actions and reactions from this view. How would some imaginary person looking at me at any given time evaluate what I was doing? It's not the same as considering a particular person’s perspective, taking into account their individual personality - that's still in the too hard basket. I've gone down rabbit holes before, and reached wildly inaccurate conclusions. It'd also be a huge amount of computational effort in my little head to try and imagine being every single person I interacted with. People are hard! But my imaginary third-person person isn't.
+
+So, now situational awareness abounds in me. That's the plan, at least. I'm sure it'll be helpful in certain scenarios, but if I start acting very strange, I hope the friends and colleagues around me are able to point it out.
+
+Oh, I also won't start talking or writing in the third person. Aaron isn't that pretentious.
+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Asperger's syndrome. AKA Ass Burgers]]></title>
             <link>https://aarond.me/blog/2021/07/21/asperger-s-syndrome-aka-ass-burgers/</link>
@@ -962,48 +988,6 @@ I hate admitting this, mainly because I’m not a fan of giving people labels. I
 If you’re interested in what this is all about, [the Wikipedia article here is generally relatable to me.](https://en.wikipedia.org/wiki/Asperger_syndrome) It’s not at all fun, but I like to think I’m used to it. Things people do without thinking, like most social interactions, are things I’ve had to focus on learning how to do properly. 
 
 I’m still not good at it. It’s probably one of many reasons as to why I’ve been struggling to find employment. It’s a bit upsetting, but I understand.
-]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Printer Troubleshooting]]></title>
-            <link>https://aarond.me/blog/2019/09/26/printer-troubleshooting/</link>
-            <guid>https://aarond.me/blog/2019/09/26/printer-troubleshooting/</guid>
-            <pubDate>Thu, 26 Sep 2019 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[
-I was recently contacted to help an elderly person in my small town get his printer working. The printer was consistently printing poorly, with text coming out very blurry and smudged.
-
-My troubleshooting plan was to start simple, and work from there.
-
-[![spoilers.](/media/images/blog/spoilers.jpg)](/media/images/blog/spoilers.jpg)
-_Spoilers: My hands get dirty!_
-
-First was a printer head clean, which was accessed using the touch screen menu on the printer. Running this diagnostic would also print a test pattern to help me see what the specific problem could be. It took a while, but the resulting pattern was rather fuzzy. The edges of fonts had blurry trails and lacked any sharp edges. This matched how the problem had been described to me!
-
-I tried using the printer's auto alignment function next. This function does all kinds of magic to make sure the software is aware of exactly where the print heads are, and can compensate for their position to improve accuracy. This at least seemed to improve things slightly, but unfortunately didn't resolve the issue entirely.
-
-Next up was a manual head align. This is a process where the printer outputs an A4 page full of different patterns, and you inspect each of them and apply the settings to the printer based on which patterns are the most well aligned. This process is done for each printing head: Black, Cyan, Magenta and Yellow.
-
-The trouble is that none of the resulting patterns were good enough. Now it was time to get a little dirty...
-
-I disassembled the printer to get access to the actual print heads, and removed them from the printer. The heads didn't seem too dirty, but could definitely be improved.
-
-[![cart.](/media/images/blog/cart.jpg)](/media/images/blog/cart.jpg)
-_The polished printer heads._
-
-I used cotton swabs and isopropyl alcohol to clean up the heads. Surprisingly, a lot of built-up dried ink came off that wasn't obvious with a simple visual inspection. After cleaning the assembly, I left it out to dry for an hour. When I put it back in the printer I tried another head clean.
-
-The result was an improvement, but still not ideal.
-
-I went in much deeper and disassembled the printing head assembly. It was flooded with excessive ink. Googling for more information showed me that a plastic plate inside the head should be clean and white, but this one was soaked in ink. I cleaned it out as best as I could, but still couldn't get it shiny and white like most example photos online showed.
-
-[![white.](/media/images/blog/shouldbewhite.jpg)](/media/images/blog/shouldbewhite.jpg)
-_That should be completely white._
-
-I put it all back together, and another test page showed very little improvement.
-
-I was now reasonably sure that the fault was either with the ink cartridges or a defect in the printing head. No amount of cleaning was going to resolve this issue, and any further diagnosis would require extra parts to test if my ideas had any merit.
-
-So, not a great result. Still, the printer was better than when I started! It's unfortunate that getting replacement parts for this printer could very well cost more than an entirely new printer, one that would likely be an updated model with better features.
 ]]></content:encoded>
         </item>
     </channel>
