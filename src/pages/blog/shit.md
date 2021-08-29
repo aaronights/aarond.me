@@ -1,18 +1,20 @@
 ---
 title: "Don't shit in my bed and tell me everything's ok."
 author: Aaron Davies
-date: 2020-08-29
+date: 2021-08-29
 ---
 
-"Are you doing ok?"
-"No."
-"Oh, okay."
+#### "Are you doing ok?"
+
+#### "No."
+
+#### "Oh, okay."
 
 That's probably what any realistic conversation with me will be like right now. 
 
 Last level 4 lockdown I had at least 50 hours of work coming in each week, I had my first relationship trucking along still in the happy phase and I went for a run most days. Yeah, the lockdown was frustrating, but it seemed much more… novel. I rode those 4 weeks almost on an adrenaline high! It was neat to be out there in a strange world.
 
-This lockdown sucks. I barely have any work coming in, I feel defeated not just in my most recent relationship but… all areas of that, and I just can't summon the drive to do much. I should run more and eat much better, I have gotten a bit fat. It's difficult to care.
+This lockdown sucks. I barely have any work coming in, I feel defeated not just in my most recent relationship but… all areas related to that, and I just can't summon the drive to do much. I should run more and eat much better, I have gotten a bit fat. It's difficult to care.
  
 I'm realizing just how hard it is for me to integrate with other people. 
 
@@ -28,9 +30,13 @@ I have 23 jobs in my queue right now that I would absolutely love to get out the
 
 Can I live out of my car for a few days, is that… allowed? It'd certainly avoid what happened last night. I was heading to bed and was met with a surprise.
 
+[![slicegone.](/media/images/blog/dogpoo.jpg)](/media/images/blog/dogpoo.jpg)
+_Censored. I talk shit here, I don't show photos of it._
+
 Someone had left a present, right there where I was about to snooze. Still don't know if the gift was left by a cat, a dog or a person. I wouldn't put it past my sister to do this, she finds weird stuff funny. 
 
-I made a cake, too. 
+[![slicegone.](/media/images/blog/dogcake.jpg)](/media/images/blog/dogcake.jpg)
+_I made a cake, too. Poo Dog gets none._
 
 If anyone wants to know, here are the top 5 TV shows of lockdown:
 
@@ -43,3 +49,5 @@ If anyone wants to know, here are the top 5 TV shows of lockdown:
 * The Originals - French vampires? Yes, I'll go with that.
 
 * Ghost Whisperer - Someone that can talk to the dead, but only very quietly? I think it's what Ghostbusters set in a strict library would be like. 
+
+Oh, another thing. It was pointed out to me that writing and posting like this is an incredibly selfish thing to do. I’m putting me and my perspective on me out there, without any consideration of anyone else. I’m sorry. I feel I need this release now. To make up for it, please let me help you. Need anything? Want to also watch these hot lockdown shows too? Drop me a line and I’ll make magic happen.
