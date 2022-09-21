@@ -23,7 +23,7 @@
 		"remark": "^13.0.0",
 		"sass": "^1.32.8",
 		"sass-loader": "^7.3.1",
-		"vuetify": "^2.4.8",
+		"vuetify": "^2.6.10",
 		"vuetify-loader": "^1.7.2"
 	},
 	"devDependencies": {
