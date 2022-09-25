@@ -4,7 +4,7 @@ author: Aaron Davies
 date: 2022-09-25
 ---
 
-Ever had issues with your job? OI course you have! 
+Ever had issues with your job? Of course you have! 
 
 When I talk about my job I have a tendency to rave about the amount of driving I do. It’s epic! For work I cover an area from Ohakune to Otaki. A while ago now, I transitioned from being a contractor to a bona fide full time employee. As part of that, I switched from using my personal car to being provided with a company car.
 
