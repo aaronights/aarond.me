@@ -32,4 +32,4 @@ I work flipping hard at my job! It’s extremely demanding with very long hours.
 
 It’s especially sleazy given my employers constant lip service to being environmentally friendly. All EV’s by 2030! But we are switching from hybrids to these toxic trucks for now.
 
-I thought I was good at my job. Well, at least some people tell me that I am. All words of advice are welcome.
+I thought I was good at my job. Well, at least some people tell me that I am. 
