@@ -1,68 +1,65 @@
-# Astro Starter Kit: Blog
+# Aaron's Blog
 
-```sh
-npm create astro@latest -- --template blog
+## Setup
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/aaronights/aarond.me.git
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
+### Add dependencies
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Install dependencies with npm.
 
-![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-├── public/
-├── src/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
+```bash
+cd aarond.me
+npm i
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Editing the Site
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Add a New Post
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+To add a new post, create a new markdown file in the `src/content/blog/` directory. The file should be named with the format `title-of-post.md`. The file should have the following format:
 
-Any static assets, like images, can be placed in the `public/` directory.
+```markdown
+---
+title: "Title of Post"
+date: YYYY-MM-DD
+---
 
-## 🧞 Commands
+Content of the post goes here.
+```
 
-All commands are run from the root of the project, from a terminal:
+### Add an Image to a Post
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+To add an image to a post, place the image in the `src/assets/images/blog/` directory. Then use a relative reference to the image in the post with the following markdown:
 
-## 👀 Want to learn more?
+```markdown
+![Alt Text](../../assets/images/blog/image-name.jpg)
+```
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Testing your changes
 
-## Credit
+The following command will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.
 
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
+```bash
+npm run dev
+```
+
+### Visit the Site
+
+To open the test site, click the URL that is output in the terminal - or visit the following URL in a browser:
+
+[http://localhost:4321/](http://localhost:4321/)
+
+## Production
+
+### Push to GitHub
+
+If using VS Code, simply commit your changes and then push them to GitHub. This will trigger a build of the site.
+
+### Check the Live Site
+
+[https://aarond.me/](https://aarond.me/)
