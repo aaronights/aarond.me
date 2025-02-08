@@ -48,7 +48,7 @@ It was impossible for me to start the exam.
 
 I hate this. I felt like throwing up, but now I just feel frustrated, a little bit angry and extremely disappointed. I would think that a place that focuses on IT training and exams wouldn't have issues like this. It's very sloppy.
 
-[![exam.](../../assets/images/blog/exam.png)](../../assets/images/blog/exam.png)
+![exam.](../../assets/images/blog/exam.png)
 _I didn't take any exam._
 
 I'm eager to get this exam done! This might seem like a little thing, but for me it's crushing.

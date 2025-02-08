@@ -17,12 +17,12 @@ I've got an awesome wallpaperer locked in, I'm seeing a highly recommended floor
 
 Demolishing stuff brings a lot of joy. I've started smashing out the old junk in the kitchen to make way for the wallpaper. A whole set of hanging cupboards and the pantry are all gone, and the greasy wallpaper behind it has been scraped away. After I’ve put stuff back in order, the next step is more sanding and painting.
 
-[![New Bed.](../../assets/images/blog/bomb.jpg)](../../assets/images/blog/bomb.jpg)
+![New Bed.](../../assets/images/blog/bomb.jpg)
 _It's a bomb site._
 
 If anyone wants to come and paint ceilings, skirting boards and throwing stuff in a skip this weekend, give me a buzz! Beer, food and appreciation will be provided. I'm taking this Friday off work just so I can #getshitdone. I'm sure it'll be a fun time, right here in Levin!
 
-[![New Bed.](../../assets/images/blog/cheap.jpg)](../../assets/images/blog/cheap.jpg)
+![New Bed.](../../assets/images/blog/cheap.jpg)
 _Do NOT buy cheapo paint brushes. Holy crap, they cause so much pain._
 
 It has been a rough time lately. For over a decade I’ve been on medication for anxiety and, well, my mood. But recently? I wasn't coping, stuff was just getting to me, I was oozing with anxiety and wild depression. I saw a local GP, and we opted to change up what I’m taking.

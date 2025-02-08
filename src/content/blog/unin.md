@@ -5,7 +5,7 @@ date: 2021-04-15
 
 Well, training here is going well! It's intimidating to understand a big and complicated machine, but the boss man Karl ensures us it's not as bad as it looks. It's all sensors and belts and mechanicalness.
 
-[![Gin.](../../assets/images/blog/belts.jpg)](../../assets/images/blog/belts.jpg)
+![Gin.](../../assets/images/blog/belts.jpg)
 _Does anyone really know what all that is?!._
 
 I got frustrating news too. I had high hopes of getting a company vehicle provided to me, and I could take it back with me from Auckland while I'm up here. Currently I'm using an old Mazda 2 with the back seat taken out. It's…. Dying, and extremely frustrating to use for work. I just got the news that, despite my boss being optimistic, they can't provide me with a vehicle right now. I'm tempted to buy something myself! But then they'll probably force a company car on me a few months after I've shelled out for some kind of SUV.
@@ -16,7 +16,7 @@ It was good to hang out with a colleague, that was really nice! But holy crap, I
 
 I ended up getting locked out of my hotel room, and I had people phoning me worrying about what I was doing when I wasn't answering my phone. I left messages with… someone that made them be very concerned about me.
 
-[![Gin.](../../assets/images/blog/drink.jpg)](../../assets/images/blog/drink.jpg)
+![Gin.](../../assets/images/blog/drink.jpg)
 _All fun and games to start with._
 
 I'm sorry! I didn't mean to cause distress. That's for caring about me. Also, thank your mum for caring about me too.

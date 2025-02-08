@@ -12,7 +12,7 @@ The motivation for this challenge was my friend Mark's proclamation that Diet Co
 
 The test had six choices. Three were Coca Cola official brand - Zero, No Sugar and Diet. Chasing this was Pepsi Max and two store brands - Nice Sparkling Cola from The Warehouse and Value Cola from New World.
 
-[![A Five Star Selection.](../../assets/images/blog/coke.jpg)](../../assets/images/blog/coke.jpg)
+![A Five Star Selection.](../../assets/images/blog/coke.jpg)
 _A Five Star Collection._
 
 Three contestants took part in the challenge, each given six cups marked only by a number or letter - and the drinks were in a different order for each contestant, to prevent them being influenced by others' opinions.
@@ -35,7 +35,7 @@ He got it! Mark did spot which one the Diet Coke was, but wasn't very confident 
 
 The Nice store brand was said to taste like slightly watered down Diet Coke, but the Value brand just wasn't good. Outside of this, there are rather few trends to show from these results. Coke Zero beat Coke No Sugar, but Diet Coke did come out on top for two of the three contestants. People have preferences, so this is not an objective ranking. Pepsi Max had a strong showing - even if the resident Diet Coke fan ranked it in the middle.
 
-[![Cupping.](../../assets/images/blog/cups.jpg)](../../assets/images/blog/cups.jpg)
+![Cupping.](../../assets/images/blog/cups.jpg)
 _Cupping._
 
 The result? Well, no minds were changed. Despite claiming that the difference between the drinks wasn't great, Mark's favourite Diet Coke still ranked number 1. He'll be sticking with that as his beverage of choice, with the added confidence of “knowing”.

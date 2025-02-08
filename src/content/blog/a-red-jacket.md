@@ -9,7 +9,7 @@ Ugh.
 
 I'm endeavouring to put something here once a week. Be assured that it won't all be sympathy seeking tales from my personal life. Expect games, TV and movie related topics to be featured. The Netflix series [13 Reasons Why](https://www.netflix.com/nz/title/80117470) is incredibly compelling and scarily relatable, I'll discuss that when I've seen it all.
 
-[![This guy isn't surviving.](../../assets/images/blog/me31.jpg)](../../assets/images/blog/me31.jpg)
+![This guy isn't surviving.](../../assets/images/blog/me31.jpg)
 _This guy isn't surviving._
 
 But this past week has been something else, a cascade of failures.
@@ -40,12 +40,12 @@ In this part of the world no one seems to wear much red, but at the same time a 
 
 I took the time to research what jacket to select. I didn't want some extreme red leather motorcycle piece loaded with 50 zippers, [Travis Touchdown](http://nomoreheroes.wikia.com/wiki/Travis_Touchdown) is the only guy who will ever pull that off.
 
-[![Strawberry on the Shortcake. If I could pull that off I would.](../../assets/images/blog/travis.jpg)](../../assets/images/blog/travis.jpg)
+![Strawberry on the Shortcake. If I could pull that off I would.](../../assets/images/blog/travis.jpg)
 _Strawberry on the Shortcake. If I could pull that off I would._
 
 I also don't want a casual hooded sweatshirt, I'm not a rat. I browsed my favourite clothing retailer for options and after thousands of choices I went for this.
 
-[![Don't mind the lining.](../../assets/images/blog/winered.jpg)](../../assets/images/blog/winered.jpg)
+![Don't mind the lining.](../../assets/images/blog/winered.jpg)
 _Don't mind the lining._
 
 Wine Red! Sounds Italian. It might be a little on the formal side, but better then something overly casual. I don't do casual.

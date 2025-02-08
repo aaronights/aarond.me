@@ -11,7 +11,7 @@ I was hungry. It was about 9:30 pm and I hadn't eaten anything substantial that 
 
 I went a little over the top and got a large chargrilled BBQ Chicken Sandwich combo. It was nice! The burger could have been a bit warmer, but I really liked the rather chunky fries. I didn't have a huge amount of time to eat as I had to get home, so I got it all down fairly fast. After I was done I jumped in my car and started the 40 minute drive home.
 
-[![I was so excited, I even took a snap!](../../assets/images/blog/IMG_20171119_000216_281.jpg)](../../assets/images/blog/IMG_20171119_000216_281.jpg)
+![I was so excited, I even took a snap!](../../assets/images/blog/IMG_20171119_000216_281.jpg)
 _I was so excited, I even took a snap!_
 
 Ugh. After about five minutes I started to feel rather unwell. My gut was squealing, I was nauseous and my head started to throb.

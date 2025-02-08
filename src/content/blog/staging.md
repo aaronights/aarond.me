@@ -5,7 +5,7 @@ date: 2021-05-25
 
 What a fun start to the week.
 
-[![slicegone.](../../assets/images/blog/flying.jpg)](../../assets/images/blog/flying.jpg)
+![slicegone.](../../assets/images/blog/flying.jpg)
 _Soaring, Flying, Breaking Free!_
 
 Right now I'm flying back home after another visit to Auckland for training. I seem to be up here more and more frequently these days! It's really nice. I enjoy heading into the office and being able to see all the awesome people I normally only email or phone.
@@ -14,7 +14,7 @@ No drunken shenanigans this time; I didn't get locked out of the hotel room in m
 
 That caramel slice I made? I took it to the office and it all went! I was pleased at how well it survived transport in my carry-on bag. My boss, my boss’s boss, my boss’s boss’s boss and Karl all liked it! The secret is all in the caramel. Maybe my ego is just getting too big, but I'm very proud.
 
-[![slicegone.](../../assets/images/blog/slicegone.jpg)](../../assets/images/blog/slicegone.jpg)
+![slicegone.](../../assets/images/blog/slicegone.jpg)
 _And those last four pieces were gone before I left._
 
 Speaking of bosses, I realised just how much the management at my work really goes into bat for me. I work hard and scarcely get any feedback, but when I asked about how it was looking for me to get a full time salaried job, he showed me a PowerPoint presentation he was going to present to international senior management basically stating how they'd better hire me and a few other contractors before we jump ship!
@@ -25,7 +25,7 @@ I also spoke to another boss about my hours - he's asked me to come up with a wo
 
 The CBD area around the office and the hotel I stay at has become so familiar to me. It's entrenched with memories - not of Auckland, but of what has been happening in my life when I've been here.
 
-[![slicegone.](../../assets/images/blog/streets.jpeg)](../../assets/images/blog/streets.jpeg)
+![slicegone.](../../assets/images/blog/streets.jpeg)
 _Written on these streets are the stories that I can't explain._
 
 The first time I was up here? I was on top of the world! I felt amazing. I remember places where I bought Christmas presents, and where I was when I was on the phone to a certain someone. I remember feeling guilty that I was away yet having such a good time up here.

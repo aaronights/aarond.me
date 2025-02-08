@@ -9,29 +9,29 @@ I've been arting up my house. I'm really keen to paint and renovate this place e
 
 So, while I wait for tradespeople to be available, I'm getting into… art.
 
-[![New Bed.](../../assets/images/blog/nook.jpg)](../../assets/images/blog/nook.jpg)
+![New Bed.](../../assets/images/blog/nook.jpg)
 _I'm glad I don't have to repay more debt to this guy!_
 
 You've already seen my coloured giraffe, but now Tom Nook sits below him! It's a cool cushion, and as the summer months get here and the old gas heater is never used, he'll be a nice decoration for the unused appliance.
 
-[![New Bed.](../../assets/images/blog/beach.jpg)](../../assets/images/blog/beach.jpg)
+![New Bed.](../../assets/images/blog/beach.jpg)
 _Surf's up._
 
 The beach! It's a nice canvas print, and adds a bit of spice to the room.
 
-[![New Bed.](../../assets/images/blog/darkflowers.jpg)](../../assets/images/blog/darkflowers.jpg)
+![New Bed.](../../assets/images/blog/darkflowers.jpg)
 Dark Flowers._
 
 In the dining room I've got a dark floral print. It's flowers without being flowery! I like the tone; it contrasts well with the afternoon sun that shines in.
 
-[![New Bed.](../../assets/images/blog/mars.jpg)](../../assets/images/blog/mars.jpg)
+![New Bed.](../../assets/images/blog/mars.jpg)
 _Oppotunity._
 
 Finally, it's Opportunity! The Mars Rover is in the hallway. It's a fabric print - I'm not too pleased with how it looks framed, so I'll try to find a better solution sometime.
 
 The next thing I want to do is overhaul all my curtains. Here in the living room they're very… brown. Plastering and painting might be a year away, but I'm sure I can fit new curtains myself!
 
-[![New Bed.](../../assets/images/blog/curtains.jpg)](../../assets/images/blog/curtains.jpg)
+![New Bed.](../../assets/images/blog/curtains.jpg)
 _Anything would be an improvement over this!_
 
 Any tips? What's the best place to shop for curtains in the area? I want something notable. Striking, even! Much less brown, much more impact.

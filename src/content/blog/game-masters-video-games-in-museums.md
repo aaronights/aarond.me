@@ -7,14 +7,14 @@ Game Masters is an exhibit that is coming off a showing at the Australian Centre
 
 The exhibit is laid out like a weaving corridor designed to funnel people through. Next to select games was printed concept art and text information not just about the game, but also detailing creators and the legacy games have left. These were informative to read and made the show something more than just the glorified arcade it could have been. Unfortunately, extremely low lighting in the exhibit (done to reduce glare and reflections on the screens) made these panels difficult to read clearly. For select video game developers, iPads were mounted on stands with headphones attached playing looping video interviews discussing their games. Sadly, these weren't strongly featured and ending up being scarcely utilised by patrons. That's unfortunate, because some highlights of the exhibit were watching Tim Schafer talk about how Psychonauts defined the Double Fine style of games and Yuji Naka talk about the programming techniques used to get Sonic running around vertical loops in the first Sonic the Hedgehog on the Mega Drive.
 
-[![Arcade machines line the corridor](../../assets/images/blog/IMG_20121220_105704.jpg)](../../assets/images/blog/IMG_20121220_105704.jpg)
+![Arcade machines line the corridor](../../assets/images/blog/IMG_20121220_105704.jpg)
 _Arcade machines line the corridor_
 
 The first section is a rather narrow path featuring vintage arcade machines. It's rather fortunate that in this area no games had sizeable queues as there would be very little room to accommodate them. It was really impressive to see a good variety of machines in great condition, although some were out of order. A big highlight was a 30 year old and extremely rare Rip-Off arcade machine, famous for it's use of vector monitor technology.
 
 Home console and PC games got the largest share of the show. It was perplexing and disappointing to see all legacy Nintendo titles using the Wii's Virtual Console service rather than the original consoles, something comparable to showing a copy of a paining rather than the original. The Nintendo 3DS was the only handheld featured, and this was limited to a few recent Mario and Zelda games. Rather than taking Nintendo's approach, all past SEGA titles were running on actual hardware. Along with Sonic the Hedgehog games running on Mega Drive systems, less common titles like Shenmue and Nights into Dreams were presented on Dreamcast and Sega Saturn consoles respectively. It is great to see this extra effort made; a large portion of the attendees would have never used or even seen a Sega Saturn 3D Control Pad, making it a notable feature of the exhibit.
 
-[![Sadly, emulated rather than using original hardware](../../assets/images/blog/IMG_20121220_111806.jpg)](../../assets/images/blog/IMG_20121220_111806.jpg)
+![Sadly, emulated rather than using original hardware](../../assets/images/blog/IMG_20121220_111806.jpg)
 _Sadly, emulated rather than using original hardware_
 
 Hideo Kojima and, for the most part, all of Konami was represented with a playable unit of the original Playstation game Metal Gear Solid, but unfortunately it was rather ugly and distorted running in stretched widescreen.
@@ -23,7 +23,7 @@ There is a small area focused on PC development with sections dedicated to legen
 
 Music and Rhythm games were headlined by a large area devoted to Dance Central 3 with loud music rather annoyingly booming throughout the entire exhibit. Rock Band and other music games had enclosed booths to limit the noise pollution. The Playstation Portable also got its only show with Lumines, making this single unit the only handheld system released more than two years ago to be represented.
 
-[![Minecraft is popular with the younger generation](../../assets/images/blog/IMG_20121220_123438.jpg)](../../assets/images/blog/IMG_20121220_123438.jpg)
+![Minecraft is popular with the younger generation](../../assets/images/blog/IMG_20121220_123438.jpg)
 _Minecraft is popular with the younger generation_
 
 A large open area of the exhibit was a showcase of Independent games. Minecraft was very popular, with large groups of young children gathering around to fly through the world in Creative mode. Staples like Angry Birds and Fruit Ninja got big showings, but the smaller games were tucked away, tethered to the wall on iPads. Playstation games also featured in the Indie section, with legacy titles PaRapper the Rapper and Vib-Ribbon being playable, although the sound level in the room made this very difficult. The remaining Playstation games were recent, with the complete collection of acclaimed titles from studio thatgamecompany along with Braid all proudly featured on big screen televisions.
@@ -32,11 +32,11 @@ By the entrance to the exhibit was a store selling gaming memorabilia. Strangely
 
 But possibly the real shining point and best takeaway from the exhibit is the companion book for sale.
 
-[![](../../assets/images/blog/GameMasters2.jpg)](../../assets/images/blog/GameMasters2.jpg)
+![](../../assets/images/blog/GameMasters2.jpg)
 
 The first section of the companion book is divided into the same three sections as the exhibit, each titled Arcade Heroes, Game Changers and Indies. Individual games are not the focus, but the people behind them. Some sections are about development studios, but most pertain to individuals detailing their history and gameography. The middle of the book has two very good and extensive features. The first details the rise and legacy of arcades, dating back to 1966 with the title Spacefall! It's great to see it go into detail about the trends and achievements the arcade scene has given to the industry. The second feature titled New Voices is about the recent rise of independent games. and how they created heroes and have almost come to define their own distinct style. The last section of the book is probably the most interesting and surprising. Mods and Museums: Gaming the Future of Art and Institutions details the history and potential future of how video games represented as art are exhibited. The history is detailed, dating back to the Hot Circuits exhibit at the Museum of the Moving Image in 1989.
 
-[![The research and detail makes the companion book something worthwhile](../../assets/images/blog/GameMasters1.jpg)](../../assets/images/blog/GameMasters1.jpg)
+![The research and detail makes the companion book something worthwhile](../../assets/images/blog/GameMasters1.jpg)
 _The research and detail makes the companion book something worthwhile_
 
 The book does contain a few errors, although mistaking Alien Hominid for Castle Crashers is an easy mistake to make. It really does stand out as a highlight of the exhibition and an accumulation of all the research undertaken.

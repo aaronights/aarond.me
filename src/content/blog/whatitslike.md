@@ -7,14 +7,14 @@ It’s never two years.
 
 I’ve missed it by a few days, but it’s been two years since my Dad died. Even though my life and my lifestyle have changed so much, it still doesn’t feel like two whole years. I'm definitely not the same person I was back then, I've learned and experienced a lot! But still.
 
-[![gus.](../../assets/images/blog/gus.jpg)](../../assets/images/blog/gus.jpg)
+![gus.](../../assets/images/blog/gus.jpg)
 _These two loved a midday snooze._
 
 I miss Dad. He was just an awesome person, and someone that I'm still very proud of.
 
 And I know he'd like the company car they gave me. A big white Subaru Outback. It's actually making my days a lot less exhausting. I've got ample space to fit giant parts in so I'm not always juggling stuff around. Plus driving it is a lot less stressful. The fancy adaptive cruise control just means a lot less fidgeting about. If there's a car ahead of you, just lock it in and it'll keep pace with it. It makes my many, many hours of driving each day just seem a little bit less like work.
 
-[![car.](../../assets/images/blog/car.jpg)](../../assets/images/blog/car.jpg)
+![car.](../../assets/images/blog/car.jpg)
 _White Tiger Subaru Power!_
 
 Oh, but I need to be careful. On the way back from Dannevirke earlier in the week I eagerly passed two semi trucks in a short passing lane. The Subaru did it well! I zoomed passed, smooth as butter! But, it's a company car, and if I speed my boss gets a notification.
@@ -29,7 +29,7 @@ I'm all of those things, by the way. Just in case you didn't already notice!
 
 And, you know what? Stuffs going pretty damn good for me. I've got a job I enjoy, I'm good at and that pays well. Many people live long lives never having that. I also have a house, a company car and extremely cool shoes.
 
-[![car.](../../assets/images/blog/shoes.jpg)](../../assets/images/blog/shoes.jpg)
+![car.](../../assets/images/blog/shoes.jpg)
 _I got style, I got class._
 
 Work is very fulfilling, being the world's most bestest uncle is the most satisfying thing ever! And I love to be able to do nice things for cool people.

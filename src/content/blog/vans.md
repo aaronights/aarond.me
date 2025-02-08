@@ -9,7 +9,7 @@ When I talk about my job I have a tendency to rave about the amount of driving I
 
 I named her White Tiger! Please don’t laugh at the name, I thought it was cool.
 
-[![levin.](../../assets/images/blog/whitetiger.jpg)](../../assets/images/blog/whitetiger.jpg)
+![levin.](../../assets/images/blog/whitetiger.jpg)
 _I've spent a lot of time in this car._
 
 When signing all the forms for being a full time employee, I did attempt to negotiate for a better salary. I thought what I was being offered was rather… low ball. I wasn’t successful here, but as a consolation I was sold on the additional perks of the job. One of these was being able to use the provided company car for full personal use. This was great! I could get rid of my current car and all the expenses that go along with it. White Tiger here would be perfect for everything - supermarket runs, sober driving friends around and taking a certain awesome nephew out and about.
@@ -20,7 +20,7 @@ But now that’s all up for change.
 
 My work is forcing through a switch from Wagon style vehicles to giant, ugly, two seater Diesel Vans.
 
-[![levin.](../../assets/images/blog/freecandy.jpeg)](../../assets/images/blog/freecandy.jpeg)
+![levin.](../../assets/images/blog/freecandy.jpeg)
 _Not exactly accurate, but very close._
 
 I don’t want this. All these benefits for personal use are gone.

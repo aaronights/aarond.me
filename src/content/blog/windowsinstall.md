@@ -5,7 +5,7 @@ date: 2019-09-22
 
 After throwing my friend Mark a surprise birthday party yesterday, I was given the task of getting a decade old Windows machine working and running Windows 10. I was given a Windows 7 Ultimate N key and this computer - a four hard drive behemoth - and set to work.
 
-[![mynemesis.](../../assets/images/blog/nemesis.png)](../../assets/images/blog/nemesis.png)
+![mynemesis.](../../assets/images/blog/nemesis.png)
 _My nemesis for an evening._
 
 I plugged it in and turned it on. The lights came on and the fans spun up. The monitor sprung to life!
@@ -38,7 +38,7 @@ Installing Windows 10 using the current activation credentials should be a strai
 
  It took a few hours to complete the install process, but afterwards I was presented with this:
 
-[![didntwork.](../../assets/images/blog/windowserror.png)](../../assets/images/blog/windowserror.png)
+![didntwork.](../../assets/images/blog/windowserror.png)
 _It didn't work._
 
 Ugh. Another Google search showed this error can happen sometimes, and a common solution was just to try again. And it worked! After another few hours Windows 10 Pro N was cleanly installed and activated.

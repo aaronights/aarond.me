@@ -27,7 +27,7 @@ I've booked in to see my GP, after getting a recommendation to seek out grief co
 
 My Dad was the best. I hope I can keep all the stories he told alive and well. Whenever someone asks me about my Dad, I want to share all his tales and also tell people how he was the best Dad I could have ever wanted.
 
-[![My Dad.](../../assets/images/blog/Dad.jpg)](../../assets/images/blog/Dad.jpg)
+![My Dad.](../../assets/images/blog/Dad.jpg)
 _The best father I could have ever wanted._
 
 My Dad passed a few hours after I finished writing this. Goodbye Dad. I love you, and will miss you so much.

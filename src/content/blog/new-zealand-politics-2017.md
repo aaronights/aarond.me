@@ -9,7 +9,7 @@ New Zealand doesn't have a political system like the United States. The head of 
 
 The next election is due to be held this September and the Labour party (along with their potential coalition partners in the Green party) has been strongly promoting one key point – The country needs a change of government.
 
-[![My enthusiastic face at a political rally.](../../assets/images/blog/IMG_20170801_115130_007.jpg)](../../assets/images/blog/IMG_20170801_115130_007.jpg)
+![My enthusiastic face at a political rally.](../../assets/images/blog/IMG_20170801_115130_007.jpg)
 _My enthusiastic face at a political rally._
 
 I had the opportunity to meet with the heads of the Labour party and attend a political rally last week. They spoke very well about how they would move this country forward, and these were some of the key issues raised.
@@ -30,7 +30,7 @@ And these are just some of the issues.
 
 Unfortunately the Labour party's campaign wasn't getting much traction. Public polls by the media pained a grim picture. They were approaching record lows and the party's leader, Andrew Little, was getting [extremely low numbers in the preferred Prime Minister statistic](http://www.stuff.co.nz/national/politics/90663942/Jacinda-Ardern-leapfrogs-Andrew-Little-in-latest-preferred-prime-minister-poll).
 
-[![Some goof and Mr Andrew Little.](../../assets/images/blog/IMG_20170728_210140_537.jpg)](../../assets/images/blog/IMG_20170728_210140_537.jpg)
+![Some goof and Mr Andrew Little.](../../assets/images/blog/IMG_20170728_210140_537.jpg)
 _Some goof and Mr Andrew Little._
 
 So he did what could be considered the ultimate. Less than eight weeks out from the election he stepped aside as the leader of the Labour party. His former deputy, Jacinda Ardern, unanimously got selected by the party as the new leader.
@@ -47,7 +47,7 @@ And sadly, after less than 48 hours in the role, the new leader has already face
 
 But the old saying is that all publicity is good publicity. That really isn't true, but seeing the excitement over the media is invigorating. I personally don't have huge social circles, but the outpouring of support for her has been spectacular and somewhat surprising.
 
-[![I'm with her. Wait, that's not a good catch phrase!](../../assets/images/blog/IMG_20170728_200721_154.jpg)](../../assets/images/blog/IMG_20170728_200721_154.jpg)
+![I'm with her. Wait, that's not a good catch phrase!](../../assets/images/blog/IMG_20170728_200721_154.jpg)
 _I'm with her. Wait, that's not a good catch phrase!_
 
 Will she and her party win? I'm not willing to wager on that one. But just based on her attitude and how well spoken she is, I really think she would be an excellent option to head the opposition for the next three years. She would bring the current government to task, fighting them all the way until the next opportunity in 2020. My only hope is that if she doesn't outright win it isn't seen as a failure. If the Labour party manages to increase its representation from the last election it should be seen as a very big win for them.

@@ -28,7 +28,7 @@ Taking all things together, would you say you are:
 3. Not very happy
 4. Not at all happy
 
-[![All those lines! More going up than down.](../../assets/images/blog/share-of-people-who-say-they-are-happy.png)](../../assets/images/blog/share-of-people-who-say-they-are-happy.png)
+![All those lines! More going up than down.](../../assets/images/blog/share-of-people-who-say-they-are-happy.png)
 _All those lines! More going up than down._
 
 [This chart represents the percentage of people that answered either as being Very happy or Rather happy, plotted against time](https://ourworldindata.org/grapher/share-of-people-who-say-they-are-happy?country=ALB+DZA+AND+ARG+ARM+AUS+AZE+BHR+BGD+BLR+BIH+BRA+BGR+BFA+CAN+CHL+CHN+COL+HRV+EGY+FRA+GEO+DEU+HUN+IND+IRQ+JPN+MYS+MEX+PER+POL+RUS+SGP+SWE+CHE+TWN+THA+UKR+USA+URY+ZMB+ZWE+CYP+CZE+DOM+ECU+SLV+EST+ETH+FIN+GHA+GTM+HKG+IDN+IRN+ISR+ITA+JOR+KAZ+KWT+KGZ+LVA+LBN+LBY+LTU+MKD+MLI+MDA+MNE+MAR+NLD+NZL+NGA+NOR+PAK+PSE+PHL+PRI+QAT+ROU+RWA+SAU+OWID_SRM+SRB+SVK+SVN+ZAF+KOR+ESP+TZA+TTO+TUN+TUR+UGA+GBR+UZB+VEN+VNM+YEM). While there are exceptions, such as Egypt and the United States, the trend is that happiest is staying level or increasing. But even in absolutely terms, the most recent 2014 survey results show that the majority of nations have far more people reporting to be happy than are not. All 2014 nations have over 60% of people claiming to be happy with most reporting above 85%.

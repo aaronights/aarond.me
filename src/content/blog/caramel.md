@@ -23,14 +23,14 @@ Now, pour in some cream. Not too much! Be careful, as the sugar solution will bu
 
 Next, add a can of condensed milk. Turn the heat down to low, and keep stirring. At this point you’re reducing the moisture and caramelising the sugars from the condensed milk. Here it’s all about the consistency you want - the longer you simmer it for, the thicker and harder the caramel will set. For slices you don’t want it to be very runny, but if you were making this as a sauce you’d simmer it for a shorter time.
 
-[![Caramel.](../../assets/images/blog/caramel.jpg)](../../assets/images/blog/caramel.jpg)
+![Caramel.](../../assets/images/blog/caramel.jpg)
 _Ooooooooh._
 
 And then it’s done! Wasn’t that easy? It’s a gooey caramel, full of flavour. You’ll love it, I promise.
 
 With this batch, I put together a caramel slice. I sandwiched a thick layer of caramel between two vanilla cookie sheets, and then covered it with a thin layer of a dark chocolate and butter icing.
 
-[![Caramel.](../../assets/images/blog/slice.jpg)](../../assets/images/blog/slice.jpg)
+![Caramel.](../../assets/images/blog/slice.jpg)
 _It looks a bit... messy, but this would blow your mind!_
 
 I swear I’m a humble person - sometimes - but this is just an order of magnitude better than most of the caramel based bakery treats I’ve had over the past year. The flavour is just amazing, and it’s got that ultimate smooth, gooey toffee texture. I may be hopeless at so many things, but this time? I’ve won!

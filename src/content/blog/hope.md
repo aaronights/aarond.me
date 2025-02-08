@@ -19,7 +19,7 @@ Yes, I’m being a little vague! I’m sure the smart people reading this will f
 
 One thing I failed to mention before was the biggest source of joy in my life right now: being the #1 Uncle!
 
-[![My Dad.](../../assets/images/blog/uncle.jpg)](../../assets/images/blog/uncle.jpg)
+![My Dad.](../../assets/images/blog/uncle.jpg)
 _Censored to protect the brave and bold._
 
 My nephew is awesome. He’s such an energetic, clever and positive character. I say character just because he’s so dang interesting! He’s not some boring lame-o boy, but a super interesting, dynamic and sharp little man. He’s fun to be around, even if a bit exhausting. When I’m around him I try to give him all my attention, as opposed to most boring adults!
@@ -30,5 +30,5 @@ Emotional Support Animals are a thing, so maybe I’ve just got an Emotional Sup
 
 I have a lot of idle time with work. I’m often waiting around to get access to a site or waiting for a machine to reboot. Now that this here blog site is back up and running I might use some of that time to write stuff. I promise it won’t all be about the failings of my personal life! I’m sure everyone is interested in my adventures in experimental baking.
 
-[![My Dad.](../../assets/images/blog/chocy.jpg)](../../assets/images/blog/chocy.jpg)
+![My Dad.](../../assets/images/blog/chocy.jpg)
 _Caramel chocky goodness._

@@ -14,7 +14,7 @@ It first started just over three years ago. I did a version of a project that wa
 
 [I blogged about the process in detail,](../../assets/images/blog/22/raspberry-pi-2-powered-arcade.html) and as a result I was fortunate enough to have the article promoted here on the front page of IGN. It's quite a rush to have thousands of views and dozens of comments about something you've done. Nothing negative either! I still get messaged today from people asking questions about the build.
 
-[![Mind the dust.](../../assets/images/blog/PiUnit.jpg)](../../assets/images/blog/PiUnit.jpg)
+![Mind the dust.](../../assets/images/blog/PiUnit.jpg)
 _Mind the dust._
 
 And the machine still works, although I almost never turn it on. I should give it away. Given how it's loaded with rom files it wouldn't be right to sell it. Besides, the build quality isn't that great and it has exposed AC wiring inside. It'd be impossible to ship too, it's very heavy.

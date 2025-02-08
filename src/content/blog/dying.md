@@ -15,7 +15,7 @@ I hope his grandson can remember him, even just a little. Dad liked to nap in th
 
 Dad was into his cars before I came along, but sometimes there was a bit of bad luck. He told me stories about his vehicle mishaps - driving up north and having the ceiling lining in the car collapse down over him and his passengers. He bought a small boat once, and when he transported it home on the roof of the car it slid forward over the windshield after a sudden stop.
 
-[![Jump in my car.](../../assets/images/blog/dadscar.jpg)](../../assets/images/blog/dadscar.jpg)
+![Jump in my car.](../../assets/images/blog/dadscar.jpg)
 _Jump in my car._
 
 He painted and did up that little boat, but he never once used it on water. He was terrified of being in water - he never went swimming, and rarely had baths. One time the family stayed at a motel with a pool while on vacation - I was able to get him to wade in to just below his waist, but it was a challenge! It might have been due to a bad experience he had when he was young, but I never did find out.

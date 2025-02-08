@@ -19,7 +19,7 @@ Another issue is one of plausibility. But how does that even come into it? If th
 
 For illustration, imagine you find a coin on the ground. How did it get there? It is plausible that it might have fallen out of someone's pocket. But how plausible is it that it fell from outer space, somehow survived re-entry and ended up landing at this exact location? It doesn't seem likely at all! Compared to the many other options, that seems extremely unlikely.
 
-[![Just a coin!](../../assets/images/blog/1.jpg)](../../assets/images/blog/1.jpg)
+![Just a coin!](../../assets/images/blog/1.jpg)
 _Just a coin!_
 
 But what if there was evidence that is how the coin got there? Scientific analysis of the coin could show that it has radioactive properties it could only have obtained in outer space, an Astronaut could have lost a coin while outside their spacecraft as it orbited above this location on earth and the location where the coin is could have been completely isolated without any human contact since before this type of coin was first made.

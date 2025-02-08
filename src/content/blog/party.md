@@ -18,7 +18,7 @@ But then more and more people I knew started arriving.
 They had cards and beautifully wrapped presents.
 Then Mark's wife Karen and their girls showed up with an absolutely amazing chocolate cake, decorated beautifully with chocolate numbers from 1 to 32, and 32 candles.
 
-[![candles.](../../assets/images/blog/candle.jpg)](../../assets/images/blog/candle.jpg)
+![candles.](../../assets/images/blog/candle.jpg)
 _32 candles. I needed help!_
 
 So many people came! And we all had so much fun! I ended up in a conga party line with the kids - they like to dance about, unlike the adults. The kids and I came up with an evil plan - in my birthday speech I'd put pressure on Mark to dab as one last birthday gift. Even though he despises it, he yielded! Using my birthday powers for such evilness was a rush.

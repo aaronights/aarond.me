@@ -61,7 +61,7 @@ If it's going to be like black goop on water it isn't worth trying in the first 
 
 There are many steps in between, but there is the ultimate. The final epiphany. The revelation. Just by chance the combining of these two worlds could yield a massive fission explosion consuming both of their minds and bodies in heat, power and passion.
 
-[![Oh the metaphors.](../../assets/images/blog/boom.jpg)](../../assets/images/blog/boom.jpg)
+![Oh the metaphors.](../../assets/images/blog/boom.jpg)
 _Oh the metaphors._
 
 How much trepidation should she have, how much research should he do to predict the outcome? Should they just go into it and see what happens, not caring about any potential mess? Should they come at it extremely hard and fast, using all their strength and will power to give it the best chance possible of catalysing that huge explosion? Or should they just lazily lark about and be contempt with just being bland and a little sweet?

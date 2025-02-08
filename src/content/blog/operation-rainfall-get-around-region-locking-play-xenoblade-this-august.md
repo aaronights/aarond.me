@@ -45,19 +45,19 @@ The tools you will need are:
 
 The first step of this mod is the most difficult part – you must delete all custom built stages from Super Smash Bros Brawl. Sadly, this must be done in order for the mod to work. Make sure you have no custom stages in either your Wii's system memory or on your SD card. Just load up Brawl and delete them all one at a time. If you're really eager to keep that replica of N64 Saffron City, you can put your custom levels on a separate SD card.
 
-[![No Custom Levels](../../assets/images/blog/SmashNoCusLevel.jpg)](../../assets/images/blog/SmashNoCusLevel.jpg)
+![No Custom Levels](../../assets/images/blog/SmashNoCusLevel.jpg)
 _No Custom stages can be on your Wii or SD Card_
 
 Now the hard part is over. [Download this file.](http://homepages.ihug.co.nz/~aaronights/SmashstackandGeckoOS.zip) It's a zip folder containing all the necessary files to mod your Wii.
 
 Now copy the _entire_ contents of it to your SD card. This should result in a file named ‘boot.elf' and a folder named ‘private' on the root of your SD card.
 
-[![SD Card](../../assets/images/blog/SD-card.gif)](../../assets/images/blog/SD-card.gif)
+![SD Card](../../assets/images/blog/SD-card.gif)
 _The contents of your SD card should look like this_
 
 Put the SD card into your Wii and load up Super Smash Bros Brawl. Go to the Stage Builder option. The mod should immediately start running. You should see a big block of text pop up on the screen. If it turns green and garbled, do not worry. Simply wait and the mod will initialise.
 
-[![Green Blur](../../assets/images/blog/ThisIsNormal.jpg)](../../assets/images/blog/ThisIsNormal.jpg)
+![Green Blur](../../assets/images/blog/ThisIsNormal.jpg)
 _Don't be alarmed - this is normal_
 
 You have loaded the GeckoOS application onto your Wii. GeckoOS is a homebrew app designed to allow games from any region to run on a Wii.
@@ -66,7 +66,7 @@ Now eject Super Smash Bros Brawl from your Wii and insert your imported game of 
 
 You should see a menu on screen. Press A on the Wii remote to select the ‘Launch Game' option. You should now be successfully playing your imported game.
 
-[![Gecko OS Menu](../../assets/images/blog/GeckoMenu.jpg)](../../assets/images/blog/GeckoMenu.jpg)
+![Gecko OS Menu](../../assets/images/blog/GeckoMenu.jpg)
 _Insert your imported game and press A on this menu to load it_
 
 To summarise the whole procedure:

@@ -11,7 +11,7 @@ It was a scam.
 
 But I wasn't busy at the time, so I went spelunking down the rabbit hole.
 
-[![Forza.](../../assets/images/blog/smallcheese.jpg)](../../assets/images/blog/smallcheese.jpg)
+![Forza.](../../assets/images/blog/smallcheese.jpg)
 _A flurry of hot minestrone. Frankie has a way with words._
 
 I was Frankie! And I was glad she messaged me. The only issue I had right now was eating too much cheese. You know, that blue cheese artistically crafted to permeate the odour of foam sandals oozing with toe jam, then brewed in a concentrate of vinegar and broccoli?
@@ -34,7 +34,7 @@ Today is one of those days for me! Like riding an ocean, you get the highs and t
 
 But here I am.
 
-[![Forza.](../../assets/images/blog/pahiatua.jpg)](../../assets/images/blog/pahiatua.jpg)
+![Forza.](../../assets/images/blog/pahiatua.jpg)
 _In Pahiatua. The weather doesn't help._
 
 I'll be fine, I'm getting better at understanding more about myself, and about the human condition in general. You can survive and prosper by riding the ups and downs like a surfer, rather than stubbornly fighting them. I wish I had reached that epiphany when I was at my all time low earlier this year. It might have helped. When things are bad, it's hard to maintain a perspective on reality that things won't always stay that way - especially when you reach that low after coming off of an...

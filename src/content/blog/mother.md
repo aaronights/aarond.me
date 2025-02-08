@@ -11,7 +11,7 @@ And hey! It’s not like I have anything better to do with my time, so I might a
 
 Here in New Zealand today is Mother’s day (Did you know in Norway it’s in February? Scandinavia is crazy!). All the well wishes and celebrations being shared about on social media have got me thinking about something I haven’t really brought up here before - my mother.
 
-[![My mother.](../../assets/images/blog/mum1.jpg)](../../assets/images/blog/mum1.jpg)
+![My mother.](../../assets/images/blog/mum1.jpg)
 _About 12 years ago. Wellington bays!_
 
 Many years ago, she was an awesome mother. I was fortunate enough to have her around a lot, as she took up the role of a stay at home mum. It was great for me, she was always around and always supportive. She had a lot of health conditions that drained her of energy during most of my youth, but she still pushed hard to doing everything she could for me and my sister.
@@ -30,7 +30,7 @@ For the first few years we visited every day, with only the rare exception. Some
 
 We didn’t dare take her out after that, it was just too much of a risk. We couldn’t handle her.
 
-[![My mother.](../../assets/images/blog/mum2.jpg)](../../assets/images/blog/mum2.jpg)
+![My mother.](../../assets/images/blog/mum2.jpg)
 _My mother today._
 
 Her deterioration continued, and is still ongoing. Mentally she has completely gone now. She has no perception of what’s going on around her, and very little means to communicate with anyone. She spends her days in the dementia ward at her rest home just existing, and nothing more. She can barely walk without assistance, but is still often restless. The nurses and staff that look after her do a remarkable job, and I thank them greatly.

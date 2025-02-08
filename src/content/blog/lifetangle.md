@@ -9,7 +9,7 @@ I can’t really complain, as much as I want to.
 
 Last time I was emotionally distraught was when my father passed, and just like last time I’m getting by with a little help from my friends. Gin and Ice Cream also help.
 
-[![Gin.](../../assets/images/blog/gin.jpg)](../../assets/images/blog/gin.jpg)
+![Gin.](../../assets/images/blog/gin.jpg)
 _I regretted this combination._
 
 I’m such a juvenile. I had such a sheltered upbringing, and for many years of my life I didn’t really get out much. When you’re a full time caregiver, living with your elderly dad? Social life takes a back seat. I didn’t complain, I’m hardly a social animal.

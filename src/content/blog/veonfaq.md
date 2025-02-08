@@ -5,7 +5,7 @@ date: 2019-08-02
 
 Since restarting my blogging venture last year the post that I've received the most feedback on [was my budget Veon TV review.](/blog/2018/11/28/veon-4-k-tv-review) I still get emails nearly a year later with people asking questions while they're looking into buying one, or wanting help with different settings and features. There is very little information on these TV's available online, [The Warehouse](https://www.thewarehouse.co.nz/) doesn't  provide any documentation and there are very few professional reviews available.
 
-[![Veon.](../../assets/images/blog/veonmaster.jpg)](../../assets/images/blog/veonmaster.jpg)
+![Veon.](../../assets/images/blog/veonmaster.jpg)
 _Veon: A brand shrouded in mystery._
 
 Over the past few years I've had a few dealings with this ultra low cost brand, from my first 32” about 8 years ago to my recent acquisition of the rather large (65”) one now sitting in my lounge.
@@ -20,7 +20,7 @@ Yes, based on my experience they can take a full 3840x2160 (4K) resolution signa
 
 There are a variety of options to take full advantage of this. Some choices are the Chromecast Ultra, DishTV Android media players, Xbox One S or X, Playstation 4 Pro and the 5th generation Apple TV - most things that output at 4K pair well with these TV's. Devices that don't support 4K will also work perfectly fine, but just don't get to take advantage of the TV's full resolution.
 
-[![Streaming services like Netflix work very well.](../../assets/images/blog/netflix.jpg)](../../assets/images/blog/netflix.jpg)
+![Streaming services like Netflix work very well.](../../assets/images/blog/netflix.jpg)
 _Streaming services like Netflix work very well._
 
 ### What features are built in?
@@ -98,7 +98,7 @@ HDMI CEC is a part of the HDMI connection that enables you to control devices, l
 
 - *Device List:* Shows a list of HDMI devices the TV has detected that support CEC. If you have an HDMI device that isn't listed here, try going into the menu options for that device and find a setting to turn CEC on. Keep in mind that not all HDMI devices support CEC.
 
-[![CEC.](../../assets/images/blog/cec.jpg)](../../assets/images/blog/cec.jpg)
+![CEC.](../../assets/images/blog/cec.jpg)
 _CEC can allow easy control of HDMI devices with just one remote._
 
 EDID, or Extended Display Identification Data, is the way the TV talks to attached HDMI devices to tell it what settings it supports. Leave this set to *EDID 2.0* unless you have an HDMI device that is outputting the wrong resolution or not working at all.
@@ -108,7 +108,7 @@ EDID, or Extended Display Identification Data, is the way the TV talks to attach
 
 Yes, I would recommend them. For nearly a year I've been using my 50” model as my monitor at my desk. Using the “Just Scan” aspect ratio setting makes the TV do one-to-one pixel mapping from my desktop computer. Fonts are very crisp and clear, and having such a big screen running at a high 3840x2160 resolution lets me use one monitor similar to how a multi monitor setup would work. I normally have a web browser, a document, messenger and a video displaying side by side, taking advantage of all the screen real estate. If you have the space for one at a workplace it's a low cost option worth considering. Keep in mind you'll need a computer with an HDMI port that is capable of outputting at 4k resolution.
 
-[![Veon 4K TV as a desktop monitor.](../../assets/images/blog/monitor.jpg)](../../assets/images/blog/monitor.jpg)
+![Veon 4K TV as a desktop monitor.](../../assets/images/blog/monitor.jpg)
 _A Veon 4K TV as a desktop monitor._
 
 ### What's this Secret Menu I've heard about?
@@ -123,7 +123,7 @@ The secret menu is accessed by pressing the Input/Source button on your remote, 
 
 Yes, I think so. The picture quality is really, really good but you can notice flaws if you look for them - the black levels are slightly grey and the backlight isn't completely even. The casing is made out of plastic that doesn't feel very premium, but the bezel around the screen is so slim you'd never notice once you've set it up. Even the built-in menu looks rather crude, but in most scenarios you won't be navigating these very often.
 
-[![_.](../../assets/images/blog/green4k.jpg)](../../assets/images/blog/green4k.jpg)
+![_.](../../assets/images/blog/green4k.jpg)
 _A very good picture for a low cost display._
 
 A budget Veon is not going to have the same picture quality or feature set as a branded TV that costs three times as much, but with tweaking and tuning the settings you can be pleasantly surprised at how good it can be for the price.

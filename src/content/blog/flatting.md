@@ -9,7 +9,7 @@ I miss work.
 
 My sister, her husband, my nephew, two dogs and a giant cat are living with me. They’re between houses, and this was meant to be a brief stopover. It’s… intense. My brother in law works from home, my sister works occasionally, and my nephew has school hours. But that was ok, I work a lot! I’m never home. Ha. Now everyone is at home.
 
-[![Forza.](../../assets/images/blog/judge.jpg)](../../assets/images/blog/judge.jpg)
+![Forza.](../../assets/images/blog/judge.jpg)
 _Jackjack judges me and observes._
 
 I’m really not cut out for this. They’re not being bad housemates, but I still feel like I’m living in a washing machine full of lead bricks. With my home and even work I’m just used to having agency over what I do! But oh well, I can hardly complain - I will just treat it as a learning experience.
@@ -18,7 +18,7 @@ It’s absolutely making me a better person. If I can’t get through this, I’
 
 I had big, epic plans to move in with my ex-girlfriend in the house we bought. We’d been in love for much less than a year, and now I know without doubt that if we’d stayed together long enough to actually move in it would have been worse. I wasn’t ready, or mature enough, to do that, but this experience with my family is helping me get there! I think I’d need to vibe and gel with someone for 3 to 4 times longer than. 6 months before spending every waking hour at home with them.
 
-[![Forza.](../../assets/images/blog/dog.jpg)](../../assets/images/blog/dog.jpg)
+![Forza.](../../assets/images/blog/dog.jpg)
 _Jojo somehow thinks this is the best spot in the house. He also smells._
 
 Writing it down makes it seem extremely obvious that was an unwise thing to do. I think I should spend time writing down my big life decisions and then read them back to better evaluate if they’re wise or bonkers.

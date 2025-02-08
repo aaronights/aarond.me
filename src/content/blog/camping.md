@@ -11,7 +11,7 @@ So how does one cope with such a strong technology withdrawal? You don't!
 
 I got together a plastic box and some bungee cords, and mounted my old 40 inch display and a Wii U in the back of my Mazda 2.
 
-[![Goofy.](../../assets/images/blog/WiiUCar.jpg)](../../assets/images/blog/WiiUCar.jpg)
+![Goofy.](../../assets/images/blog/WiiUCar.jpg)
 _I'm the goofy thumbs up guy, if you wondered._
 
 I used the Wii U rather than my Xbox One or PC just due to its low power use. Reports claim that a Wii U nominally draws around 34 watts. I could manage that off the car's starting battery for an hour or so, but the 150-plus watts that an alternative system would demand just wouldn't last.
@@ -20,12 +20,12 @@ The TV is the LED backlit LCD panel I was using prior to Black Friday. It's unbr
 
 Both the Wii U and the display do run off DC. If I wanted extreme efficiency I could have rectified a smooth 15v rail to go directly into the Wii U and build a little power box to provide both the 5 and 12 volt rails the TV uses internally. But I wasn't going to be that pedantic! I purchased a cheap inverter online that connects to a standard car accessory socket. It claimed to be able to provide a constant 150 watt output - impressive considering its only cooling was a tiny fan. No doubt the power coming out of it wasn't very smooth, undoubtedly a crude stepped AC sine wave. I was a little hesitant to plug everything together, mildly concerned about potential damage. Thankfully there were no such issues.
 
-[![Power.](../../assets/images/blog/PlayingwithPower.jpg)](../../assets/images/blog/PlayingwithPower.jpg)
+![Power.](../../assets/images/blog/PlayingwithPower.jpg)
 _Now you're playing with Power!_
 
 Everyone loved it! The adults enjoyed playing a few rounds of Mario Kart, and enjoyed it even more when the kids sat still for an hour or two and did the same. A few other hits were 7-player Smash Bros (where no one actually could tell what was going on) and the Artwork mode of Game and Wario.
 
-[![How It's Done.](../../assets/images/blog/HowItsDone.jpg)](../../assets/images/blog/HowItsDone.jpg)
+![How It's Done.](../../assets/images/blog/HowItsDone.jpg)
 _This is how it's done, kids!_
 
 I partook of some non-digital activities too. Mountain biking to a little artisan brewery and turning tomato red swimming all afternoon were highlights. Overall it was a fun time! I'm just glad I got to drive home, just up the road, to my nice normal bed every night.

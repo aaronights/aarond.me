@@ -7,14 +7,14 @@ Today was Tuesday. I'm striving to just write about my days more often here, at 
 
 I had a few minutes free today, waiting at home for a part to be delivered for work. Rather than sitting about, I organized my work bag. It's embarrassing to open up my bag in front of a customer when it's so cluttered! They gave me a car to look more professional, so having a toolbag that is orderly probably helps with that too.
 
-[![drinks.](../../assets/images/blog/shoe.jpg)](../../assets/images/blog/shoe.jpg)
+![drinks.](../../assets/images/blog/shoe.jpg)
 _Hey! I've been busy._
 
 This thing is falling to bits. I've had it for just over a year, and she's had a hard life.
 
 Oh, I also magnetized my screwdrivers.
 
-[![drinks.](../../assets/images/blog/gif.gif)](../../assets/images/blog/gif.gif)
+![drinks.](../../assets/images/blog/gif.gif)
 _She asked me if I'd like to magnetize._
 
 My head is very much not screwed on properly. Remember all those years ago when I wrote about how **[Dating is hard and I am very awkward?](https://aarond.me/blog/2017/04/11/dating-is-hard-and-i-am-very-awkward/)** Well, that hasn't changed.

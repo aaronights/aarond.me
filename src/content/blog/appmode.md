@@ -23,7 +23,7 @@ To
 C:\GoogleChromePortable64\GoogleChromePortable.exe --app=https://docs.google.com
 ```
 
-[![Shortcut.](../../assets/images/blog/portableshortcut.png)](../../assets/images/blog/portableshortcut.png)
+![Shortcut.](../../assets/images/blog/portableshortcut.png)
 _Shortcut menu, accessed by right clicking the shortcut and going into properties._
 
 This trick also works with an offline website - just use the Windows file path of the home page in the Chrome shortcut, rather than a web address.
@@ -32,7 +32,7 @@ Running Chrome in app mode also changes the icon that displays in the taskbar. I
 
 If you're using a browser-based web app for anything mission critical or where security is a requirement, you can also have an independent instance of the Chrome browser specifically for running an app. This can be on the same machine as a standard Chrome installation without making any unwanted changes to your installed Chrome browser. To do this, just install **[the PortableApps version of the Chrome browser](https://portableapps.com/apps/internet/google_chrome_portable)** to a local directly on the machine. After it's installed just right click on the Chrome executable, click “Send To”, then click “Desktop (create shortcut)”. Now add the app parameter to your newly created desktop icon. Before doing this, you can run the portable version of Chrome normally and tweak any settings you want the webapp's browser environment to have - ideal if you want to completely lock it down for security, such as never remembering passwords, only accepting specific security certificates, or flushing all saved and cached data when exiting the app.
 
-[![browser.](../../assets/images/blog/browser.png)](../../assets/images/blog/browser.png)
+![browser.](../../assets/images/blog/browser.png)
 _A clean experience, you might not know it's a browser based app!_
 
 You can install as many instances of the PortableApps version of Chrome as you need, and perform the same shortcut trick for each one. If you have several browser-based web apps in use, and want them all completely independent from other browsing activities, you can deploy the portable version of Chrome as many times as required.

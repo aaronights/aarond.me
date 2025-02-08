@@ -22,7 +22,7 @@ This is an odd one. None of my clothes feature writing or graphics printed on th
 
 The total area that I’ve traveled over in the past 10 years:
 
-[![travel.](../../assets/images/blog/travel.png)](../../assets/images/blog/travel.png)
+![travel.](../../assets/images/blog/travel.png)
 _It's the bit in red. Look closer._
 
 Before that, the distance wasn’t much further than a few family holidays three hours drive away from the small town I live in. It’s not that I don’t want to travel, but between being very introverted in nature and looking after my father for many years, the opportunity never came up. Due to my work being on a very casual basis right now, I doubt I’ll have the means to go on epic long distance voyages any time soon. Besides, I wouldn’t want to travel for whimsical reasons. I’m not a tourist.

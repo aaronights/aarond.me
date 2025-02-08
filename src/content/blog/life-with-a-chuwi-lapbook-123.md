@@ -17,14 +17,14 @@ I didn't want a machine capable of doing huge, mammoth tasks. Just something to 
 
 The unit I selected is the [Chuwi Lapbook 12.3](http://en.chuwi.com/product/items/Chuwi-LapBook123.html). It had a good buzz around it on the review sites and message boards, plus at my time of purchase [GearBest](https://www.gearbest.com/laptops/pp_622091.html) had a rather good promotion on. I was able to get it express shipped to my door for $280 US.
 
-[![Inception.](../../assets/images/blog/chuwi.jpg)](../../assets/images/blog/chuwi.jpg)
+![Inception.](../../assets/images/blog/chuwi.jpg)
 _Inception._
 
 Aesthetically, it is a MacBook Air clone. But a good one! The build is nearly all Aluminium. The only thing plastic in the shell is the bezel around the screen and the hinge. It feels great; my unit has no defects or flaws in the shell.
 
 The keyboard is good, but nothing special. Right now I'm typing this on a rather bumpy bus ride and can still manage to keep up a reasonable speed. It is a little cramped, but that is what you get with this size form factor. One annoying thing is the power button being located right above the backspace key. It isn't a long press key or something with higher resistance, it's just another key. You can hit it rather easily while typing, but fortunately this can be disabled from doing anything inside the Power Management settings in Windows 10.
 
-[![Poor Power Placement.](../../assets/images/blog/IMG_20170904_133120.jpg)](../../assets/images/blog/IMG_20170904_133120.jpg)
+![Poor Power Placement.](../../assets/images/blog/IMG_20170904_133120.jpg)
 _Poor Power Placement._
 
 Now to what makes it tick. This is by no means a high end machine, but it is still running the most recent technology for its pedigree. It has an Apollo Lake Celeron CPU, not a fast beast but it is the latest 14 nm architecture to come out of Intel. It runs laps around the previous generation models or even a modern Intel Atom processor. The integrated graphics won't be pushing the polygons, but it falls in line with what you'd expect.
@@ -33,12 +33,12 @@ Paired with this is 6GB of memory. Bumping that up to 8GB would have been nice, 
 
 Storage comes in the form of 64GB eMMC chip soldered onto the board. This is nowhere near enough for anyone that actually uses Windows 10 for anything productive. Normally you'd expect expansion would come in the form of a slow and expensive microSD card, but this Chuwi has a nice trick up its sleeve. On the bottom is a little panel that slips open to reveal a slot for a M.2 SSD card. Not only is this form factor significantly cheaper than any memory card, it also has the advantage of running at full SATA 3 speeds. I was able to pick up a 256GB module direct from the manufacturer [KingSpec](http://www.kingspec.com/) for less than $80. If it wasn't for this feature I would have avoided this laptop entirely. Some other devices in a comparable price range can come with 128GB built in, but getting the 300 plus GB that I have now would be near impossible.
 
-[![Small and easy to install.](../../assets/images/blog/IMG_20170823_103533.jpg)](../../assets/images/blog/IMG_20170823_103533.jpg)
+![Small and easy to install.](../../assets/images/blog/IMG_20170823_103533.jpg)
 _Small and easy to install._
 
 Connectivity is minimal, but includes everything you probably need. There is a USB port on each side, with only the left hand one being USB 3.0. Video out is over mini HDMI and it even supports 4k resolutions at 60hz. There is also a 3 pole audio input/output jack, a microSD slot and a Kensington Lock socket. There is a webcam and twin microphones, but I haven't had a chance to use these yet. USB-C isn't anywhere to be found, all charging is done via a standard 12 volt barrel jack.
 
-[![All the ports.](../../assets/images/blog/chuwiports.jpg)](../../assets/images/blog/chuwiports.jpg)
+![All the ports.](../../assets/images/blog/chuwiports.jpg)
 _All the ports._
 
 I'm saving the best feature for last here – the display. It's a fully laminated, 12.3 screen running at 2736 x 1824. It's very nice to look at, has great viewing angles and can be used in well lit environments with next to no glare or reflections. Specification wise, this is identical to the screen used on the latest Microsoft Surface tablets. Rumour has it that it is an identical display – definitely punching well above its weight in this price range.
@@ -47,7 +47,7 @@ Windows 10 is included and comes activated right out of the box. Using it is res
 
 Gaming with anything released in the past few years isn't great, just like you'd expect. I have been playing through Sonic Mania without any hitches, but that's an exception. A tip for getting a huge boost in performance is to go into the Intel graphics settings and make a custom resolution of 1368x912 – exactly one quarter of the pixel count of screen. Doing that might lessen the awe of that amazing display, but games can happily run much smother at that resolution without any scaling artefacts and at the correct 3:2 aspect ratio.
 
-[![Don't hate due to the poor controller choice!](../../assets/images/blog/IMG_20170904_133855.jpg)](../../assets/images/blog/IMG_20170904_133855.jpg)
+![Don't hate due to the poor controller choice!](../../assets/images/blog/IMG_20170904_133855.jpg)
 _Don't hate due to the poor controller choice!_
 
 Battery life is at best average, probably because of the power needed to drive that high resolution screen. Being casual I can get 6 hours of life from a full charge, but turning everything on and hammering the processor will no doubt decrease that.

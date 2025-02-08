@@ -16,7 +16,7 @@ One show my Dad and I regularly watched was Outback Truckers, a show all about l
 
 Yes, the show Dad and I have watched was filmed just down the road. If we had known we would have both been there in a flash. Seeing this on the show was huge! I messaged everyone I could when I watched the episode, but it's upsetting that I can't share it with Dad.
 
-[![Sludge was here.](../../assets/images/blog/railwayyard.jpg)](../../assets/images/blog/railwayyard.jpg)
+![Sludge was here.](../../assets/images/blog/railwayyard.jpg)
 _Sludge was here._
 
 That railway yard is of special significance. My grandfather was a railway worker, and for the first 40 years of my Dad's life he lived in a house right there inside the yard. He always liked going there, if we were out and saw the signals indicating that a train would be passing soon we would park up and watch it speed past.

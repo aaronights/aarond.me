@@ -11,7 +11,7 @@ Oh, in other news I'll be voting Green in the upcoming general election here in 
 
 As I pen this (litreally with a pen and paper) I'm on the waterfront in Wellington city during a beautiful and surprisingly warm winter's day.
 
-[![Inception.](../../assets/images/blog/IMG_20170715_124011.jpg)](../../assets/images/blog/IMG_20170715_124011.jpg)
+![Inception.](../../assets/images/blog/IMG_20170715_124011.jpg)
 _Inception._
 
 There are problems in the world, in this country and right now in my life. I keep in mind what I wrote in the Humanist Society of New Zealand's newsletter last month – that the tremendous amount of good I observe around me far outweighs the bad. More than that, the good inside each of us is the driving force that makes us strive to fight and eliminate any bad we see.

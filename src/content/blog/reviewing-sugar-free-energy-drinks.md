@@ -8,7 +8,7 @@ tags:
 
 Some people turn to coffee every day for their caffeine fix, but my tastes lean colder and more carbonated. I don't partake too often, but when I need it I go for an energy drink. To keep the calorie count down, I generally prefer sugar free varieties. Here in the small nation of New Zealand the number of options available isn't as big as some other places around the world, but here I will review in great detail the seven varieties I was able to purchase locally.
 
-[![From left: Lift Plus Zero, Monster Absolute Zero, V Zero, V Sugar Free, Pepsi Max, Rockstar Zerosugar, Monster Zero Ultra](../../assets/images/blog/drinkies.jpg)](../../assets/images/blog/drinkies.jpg)
+![From left: Lift Plus Zero, Monster Absolute Zero, V Zero, V Sugar Free, Pepsi Max, Rockstar Zerosugar, Monster Zero Ultra](../../assets/images/blog/drinkies.jpg)
 _From left: Lift Plus Zero, Monster Absolute Zero, V Zero, V Sugar Free, Pepsi Max, Rockstar Zerosugar, Monster Zero Ultra_
 
 Despite its name, **Monster Energy Absolute Zero** probably isn't recommended to be served at the coldest temperature possible. The flavour is close to the generic 'energy drink', but sort of has enough of a distinct tang to save it from being unpleasant. If it was just a tiny bit more bitter it'd be pushed into slightly horrible, but as is it works very well. Unfortunately it's half litre can only, so small people with puny bladders have to skull cautiously.

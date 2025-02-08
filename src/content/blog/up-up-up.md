@@ -6,7 +6,7 @@ date: 2018-12-30
 
 After moving back from the city at the end of last year, my responsibilities and life have become rather static. I get told I do an important job and do it well, but I still feel sharply pathetic revealing what I do. Saying to someone that I look after an elderly man in a small, dead town isn't very attractive. <!-- more -->
 
-[![At the Beach.](../../assets/images/blog/AtTheBog.jpg)](../../assets/images/blog/AtTheBog.jpg)
+![At the Beach.](../../assets/images/blog/AtTheBog.jpg)
 _Hey! It was overcast and windy._
 
 But like I said before, [I get by with a little help from my friends.](/blog/2018/12/02/a-little-help-from-my-friends) Having a circle of friends has become important to me. Crazy, I know! I manage to organize things so I seem to get away every other weekend, doing things from LAN-ing up for some vintage Halp to going to a pub.
@@ -17,7 +17,7 @@ Some of the time at least.
 
 I am gaming much more. I picked up an Xbox One and opted to go all digital with games. Right now it's showing 204 games installed, that many physical discs would require a small shed! I'm not sure of the legitimacy of the various key trading websites I've been using to buy stuff, but I like to live dangerously. I'm also using the Game Pass subscription service Microsoft offers. Picking up 6 month extensions as they've come on sale has got me all loaded up until sometime late 2020. Remember when that felt like an unobtainable future?
 
-[![Too Many Games.](../../assets/images/blog/XboxGameCount.jpg)](../../assets/images/blog/XboxGameCount.jpg)
+![Too Many Games.](../../assets/images/blog/XboxGameCount.jpg)
 _The big number is daunting._
 
 A few highlights from the experience are:

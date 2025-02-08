@@ -27,7 +27,7 @@ Attacking involves a lock on mechanic similar to that pioneered in The Legend of
 
 What better way to accompany such a gorgeous and stylised game that with a score of upbeat Jazz. Painting adds another layer to the music, similar to the bongos that play while riding Yoshi in _Super Mario World_. The painting also effects the timing of the music, with the tempo speeding up the more you colour and the music gaining in fidelity and depth as you progress through painting an entire level.
 
-[![Taking the world from Grey to Glory](../../assets/images/blog/deblob2.jpg)](../../assets/images/blog/deblob2.jpg)
+![Taking the world from Grey to Glory](../../assets/images/blog/deblob2.jpg)
 _Taking the world from Grey to Glory_
 
 When de Blob 2 was released in early 2011, it did review reasonably well. IGN scored the game 8.0 across all three platforms, with most outlets following the trend. Unfortunately, de Blob 2 wasn't a sale success.

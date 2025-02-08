@@ -7,7 +7,7 @@ And here we go again.
 
 This time I'm not on a bus, but rather a train. And it's classy! I have a high backed chair, a nice big table and enough leg room for someone with exceptionally long legs. It even has full spec AC power outlets along the wall. Too bad I didn't bring the charger for my Chuwi. It does cost a little more than the standard bus, but after the week I had? Squeezing into a Sardine Can would be enough to put me over the edge.
 
-[![Very nice! But by the end of the trip I did feel like I'd been on this train my entire life.](../../assets/images/blog/IMG_20170908_170102.jpg)](../../assets/images/blog/IMG_20170908_170102.jpg)
+![Very nice! But by the end of the trip I did feel like I'd been on this train my entire life.](../../assets/images/blog/IMG_20170908_170102.jpg)
 _Very nice! But by the end of the trip I did feel like I'd been on this train my entire life._
 
 Finding work has been tough.
@@ -46,7 +46,7 @@ I am qualified. I have several certificates plus a Bachelors Degree in Informati
 
 I am eager, maybe even too eager. Right now I have very little social life. Work/Life balance? I need to make up for time. If I got a six month contract it'd be the best value a business will ever spend for those six months. Not all types of jobs would allow this kind of approach, but I would want to dive in head first to a role. I have fire in my mind, and I can't hide it in my walking. I'm glowing in the dark! I give you warning.
 
-[![Who wouldn't hire this guy and his purple tie?](../../assets/images/blog/HireThisGuy.jpg)](../../assets/images/blog/HireThisGuy.jpg)
+![Who wouldn't hire this guy and his purple tie?](../../assets/images/blog/HireThisGuy.jpg)
 _Who wouldn't hire this guy and his purple tie?_
 
 I'm tempted to put up my Curriculum Vitae (also called a CV, or a resume) here, but I doubt I get many readers from anywhere near the location I'm looking for work. It's full of all my personal details, so not exactly something for public consumption. I'm happy to send anyone a copy that wants it. [Email me with ‘CV' in the subject line.](mailto:aaronights@gmail.com?subject=CV)

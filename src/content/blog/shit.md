@@ -29,12 +29,12 @@ I have 23 jobs in my queue right now that I would absolutely love to get out the
 
 Can I live out of my car for a few days, is that… allowed? It'd certainly avoid what happened last night. I was heading to bed and was met with a surprise.
 
-[![slicegone.](../../assets/images/blog/dogpoo.jpg)](../../assets/images/blog/dogpoo.jpg)
+![slicegone.](../../assets/images/blog/dogpoo.jpg)
 _Censored. I talk shit here, I don't show photos of it._
 
 Someone had left a present, right there where I was about to snooze. Still don't know if the gift was left by a cat, a dog or a person. I wouldn't put it past my sister to do this, she finds weird stuff funny.
 
-[![slicegone.](../../assets/images/blog/dogcake.jpg)](../../assets/images/blog/dogcake.jpg)
+![slicegone.](../../assets/images/blog/dogcake.jpg)
 _I made a cake, too. Poo Dog gets none._
 
 If anyone wants to know, here are the top 5 TV shows of lockdown:

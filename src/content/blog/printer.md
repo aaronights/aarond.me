@@ -7,7 +7,7 @@ I was recently contacted to help an elderly person in my small town get his prin
 
 My troubleshooting plan was to start simple, and work from there.
 
-[![spoilers.](../../assets/images/blog/spoilers.jpg)](../../assets/images/blog/spoilers.jpg)
+![spoilers.](../../assets/images/blog/spoilers.jpg)
 _Spoilers: My hands get dirty!_
 
 First was a printer head clean, which was accessed using the touch screen menu on the printer. Running this diagnostic would also print a test pattern to help me see what the specific problem could be. It took a while, but the resulting pattern was rather fuzzy. The edges of fonts had blurry trails and lacked any sharp edges. This matched how the problem had been described to me!
@@ -20,7 +20,7 @@ The trouble is that none of the resulting patterns were good enough. Now it was 
 
 I disassembled the printer to get access to the actual print heads, and removed them from the printer. The heads didn't seem too dirty, but could definitely be improved.
 
-[![cart.](../../assets/images/blog/cart.jpg)](../../assets/images/blog/cart.jpg)
+![cart.](../../assets/images/blog/cart.jpg)
 _The polished printer heads._
 
 I used cotton swabs and isopropyl alcohol to clean up the heads. Surprisingly, a lot of built-up dried ink came off that wasn't obvious with a simple visual inspection. After cleaning the assembly, I left it out to dry for an hour. When I put it back in the printer I tried another head clean.
@@ -29,7 +29,7 @@ The result was an improvement, but still not ideal.
 
 I went in much deeper and disassembled the printing head assembly. It was flooded with excessive ink. Googling for more information showed me that a plastic plate inside the head should be clean and white, but this one was soaked in ink. I cleaned it out as best as I could, but still couldn't get it shiny and white like most example photos online showed.
 
-[![white.](../../assets/images/blog/shouldbewhite.jpg)](../../assets/images/blog/shouldbewhite.jpg)
+![white.](../../assets/images/blog/shouldbewhite.jpg)
 _That should be completely white._
 
 I put it all back together, and another test page showed very little improvement.

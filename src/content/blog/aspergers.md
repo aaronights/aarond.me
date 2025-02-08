@@ -15,7 +15,7 @@ I was diagnosed and first heard of the term soon after dropping out of high scho
 
 I remember when I was at primary school my parents asked in a parent teacher interview why I was so… unique. They’d raised me in the same way as my sister, but I somehow was turning out very different. During my youth I didn't associate much in big groups, and didn’t really do much else outside of school. I kept to myself, or just one or two close friends.
 
-[![shots.](../../assets/images/blog/young.jpg)](../../assets/images/blog/young.jpg)
+![shots.](../../assets/images/blog/young.jpg)
 _I can see how awkward I looked._
 
 I didn’t like school. I found it so stressful and exhausting. I can see why everyone thought I was a massive doofus. When I tried to get in with my peers it never really worked.

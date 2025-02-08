@@ -19,7 +19,7 @@ For a long time I've been writing a story.
 
 I debate that the best part of any story is the faceless exposition. Characters were such a pain. Why would you want to learn about characters when there is a world that I've crafted! A whole new world versus some people! I wanted to break my story out into a spreadsheet and use that. Have columns representing increasing time and rows parallel scenarios and locations. Unfortunately no one wants to read something like that.
 
-[![Not an actual story. Although what will Dave do in that hole?!](../../assets/images/blog/Spreadsheet.jpg)](../../assets/images/blog/Spreadsheet.jpg)
+![Not an actual story. Although what will Dave do in that hole?!](../../assets/images/blog/Spreadsheet.jpg)
 _Not an actual story. Although what will Dave do in that hole?!_
 
 I needed to develop characters. Strong characters, ones that could carry such a farfetched story. I found that so hard. So I tried a long term exercise to help broaden my horizons in this regard.
@@ -63,12 +63,12 @@ However, a while ago something that threatened the reality of Imaginary Grace ha
 
 I read [Real Graces book](http://www.gracesguidebook.com/). Twice!
 
-[![Labeling so I don't get confused](../../assets/images/blog/real.jpg)](../../assets/images/blog/real.jpg)
+![Labeling so I don't get confused](../../assets/images/blog/real.jpg)
 _Labeling so I don't get confused_
 
 I really, really didn't expect it to hit so close to home. I'm so far outside of the teenage girl target demographic. I don't know why, but I was fully expecting fluff, the focus to be a punch line complete with a rimshot on every page. And often, there was. But wait! Stuff was relatable. I'm a hermit! I litreally work in two places; A desk 5 meters away from where I sleep, and a workshop about 15. I hate socialising! Any friends I've had moved on to things like a wife and kids, or backpacking around Europe. (Europe is disgusting, gross.)
 
-[![Join the club, I run it.](../../assets/images/blog/zing.jpg)](../../assets/images/blog/zing.jpg)
+![Join the club, I run it.](../../assets/images/blog/zing.jpg)
 _Join the club, it never meets._
 
 The intense personal section in the book creped me out. Imaginary Grace doesn't have a personal life, at least not one I'm privy to. Half way through my first read of the book I was thinking Real Grace believed every problem was a relationship problem. Imaginary Grace wouldn't care. She's too stubborn.

@@ -9,7 +9,7 @@ Kids are a handful! A never ending source of joy and wonder, but also… so much
 
 For those that usually work at an office, what's it like now working from home? Do you find it tough to adapt and get motivation to work with all the distractions and comforts of home around you, or is it something you prefer?
 
-[![slicegone.](../../assets/images/blog/haircut.jpg)](../../assets/images/blog/haircut.jpg)
+![slicegone.](../../assets/images/blog/haircut.jpg)
 _Enjoying being out there working, but very much need better lockdown grooming!_
 
 Shout out to all the essential workers out there! It sure is eerie to drive around those empty roads. It's a tad embarrassing to compare my work - fixing cash machines - to all the absolutely life and death critical workers. From doctors, nurses and firefighters to supermarket workers and couriers. Without them we all would get sick, get burnt, get extremely hungry and get nothing delivered. I know nurses have an extremely demanding and stressful job as it is, but this must bump it up a level!
@@ -22,7 +22,7 @@ What would help you? What could I, or someone else, do to make your lockdown exp
 
 But the highlight of my week? Well, at midnight Tuesday one of the local fish and chip shops opened as soon as the lockdown in my area was lowered one level…
 
-[![slicegone.](../../assets/images/blog/midnightsnack.jpg)](../../assets/images/blog/midnightsnack.jpg)
+![slicegone.](../../assets/images/blog/midnightsnack.jpg)
 _Socially distanced midnight snack. It was popular!_
 
 Hey! Don't judge. I’ve been running a lot more during lockdown, so this is just catch up! I'll get back to trying to shed the excess flab right away. Besides, I felt heavy and horrible after that pile of fried food. It taught me a lesson.

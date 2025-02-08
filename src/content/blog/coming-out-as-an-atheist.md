@@ -15,7 +15,7 @@ Life on this world originated from a single common ancestor through a process of
 
 I came to understand that after reading more books than some people do in a lifetime. From Charles Darwin's seminal _On the Origin of Species by Means of Natural Selection_, his exhaustive follow up _The Descent of Man and Selection in Relation to Sex_ to a large variety of modern titles including _The Greatest Show on Earth_ and _The Blind Watchmaker_ by renowned biologist Richard Dawkins. I also watched many documentaries including several by David Attenborough, my favourite being _Rise of Animals: Triumph of the Vertebrates_ produced in 2013.
 
-[![Physical books like it's 1999.](../../assets/images/blog/evolution.jpg)](../../assets/images/blog/evolution.jpg)
+![Physical books like it's 1999.](../../assets/images/blog/evolution.jpg)
 _Physical books like it's 1999._
 
 Look at the evidence in the development of the human embryo. Early in development a tail begins to form, the jaw starts to be like that of a reptile before the bones separated out to integrate into the ears. The recurrent laryngeal nerve starts to lay the groundwork for water dwelling gills until the local rules contained in the honed and refined DNA develop further to forge a human form.
@@ -34,7 +34,7 @@ The fixed and universally constant law of gravity collects the ultra abundant Hy
 
 Ancient man several thousand years ago did not know this. They had not seen the experiments done by scientific pioneers like Ernest Rutherford, they had not seen the calculations done and the results of detonating a thermonuclear device. They did not understand the reality around them and resorted to the supernatural to explain what they saw. Believing the Earth, Sun and stars were assembled by an invisible intelligence requires wilful ignorance and a complete disregard of the evidence.
 
-[![Understanding the Magic of Reality makes it more beautiful](../../assets/images/blog/stars.jpg)](../../assets/images/blog/stars.jpg)
+![Understanding the Magic of Reality makes it more beautiful](../../assets/images/blog/stars.jpg)
 _Understanding the Magic of Reality makes it more beautiful_
 
 As you might expect this caused a bit of a crisis.

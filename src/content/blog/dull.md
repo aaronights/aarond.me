@@ -5,7 +5,7 @@ date: 2021-07-18
 
 What a fun time! Regular viewers will know that I had a mid-winter Christmas at my good friend Mark’s place last weekend. It was so fun! I opted to do something very unusual for me and partake of the alcoholic beverages. I stopped off at the booze shop on my way over, and ended up getting this.
 
-[![shots.](../../assets/images/blog/shots.jpg)](../../assets/images/blog/shots.jpg)
+![shots.](../../assets/images/blog/shots.jpg)
 _A bucket of shots._
 
 As you already know, the most high class and professional drinks all come in buckets. Turns out they weren’t horribly offensive, and they all went! I had… some.
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=W13T6MjhXo8
 
 A Bear in a Chair! I haggled the chair on Facebook marketplace from $25 to $10, and got the giant teddy bear for $4 at a local op shop. I’m sure the handsome man that ended up with this awesome gift is currently enjoying it. As for me? I got the most awesome thing I could imagine.
 
-[![socks.](../../assets/images/blog/socks.jpg)](../../assets/images/blog/socks.jpg)
+![socks.](../../assets/images/blog/socks.jpg)
 _Pokemon socks! Not pictured: Batman socks._
 
 Even if I did rave on, the beautiful people around me were very kind and generous with listening. A few takeaways:

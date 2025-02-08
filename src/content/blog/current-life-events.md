@@ -17,7 +17,7 @@ I'm slowly getting used to living at my own place. For the first time in many ye
 
 On the plus side it's nearly Friday night and I have plans. That's neat! Looking forward to it. Even the weather is cooperating, so I may even get away without wearing a goofy giant rough weather jacket.
 
-[![Can you feel the sunshine, does it brighten up your day?](../../assets/images/blog/IMG_20170818_152328.jpg)](../../assets/images/blog/IMG_20170818_152328.jpg)
+![Can you feel the sunshine, does it brighten up your day?](../../assets/images/blog/IMG_20170818_152328.jpg)
 _Can you feel the sunshine, does it brighten up your day?_
 
 I hoped that I would have more traction going on in the work finding area, but thinking about it I'm not too stressed. I have fingers in many pies, and I'm quite content to wait for the right opportunity.

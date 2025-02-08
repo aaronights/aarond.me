@@ -7,12 +7,12 @@ date: 2019-01-31
 
 In my continuing quest to discover the cheapest viable technology products, I've switched my attention to smart phones. Browsing Aliexpress, the best balance between specifications and price I found was under the very obscure Vernee brand - the T3 Pro model. I opted for the dark blue color, paid my $110 and three weeks later it was in my mailbox. <!-- more -->
 
-[![Cheap can!](../../assets/images/blog/vfront.jpg)](../../assets/images/blog/vfront.jpg)
+![Cheap can!](../../assets/images/blog/vfront.jpg)
 _Cheap and Standard._
 
 The hardware is solid, but a very basic all plastic design. The whole back cover of the phone needs to be removed to access the SD card and SIM slot, no sliding trays here. The back cover has a unique serrated texture all of over it - I don't know if this gives much grip, but you can make a really annoying sound by sliding the back of your fingernail over it. Both the headphone jack and micro USB port are found on the top - that's a first for me! While it doesn't cause problems with most uses, it does make it unable to be used with a docking station.
 
-[![Back!](../../assets/images/blog/vback.jpg)](../../assets/images/blog/vback.jpg)
+![Back!](../../assets/images/blog/vback.jpg)
 _Ziggy and Zaggy._
 
 In the middle of the back is a round fingerprint scanner. I registered my right index finger, and haven't had an issue with it. It's not the fastest response - tap it and it's about one second before you're greeted with the launcher. Occasionally it takes two taps to register correctly, but from my experience this would be less than 5% of the time.
@@ -27,22 +27,22 @@ The phone only has 16GB of internal storage, but does have a micro SD card slot.
 
 This is a dual SIM card phone, but the design of the slots means you can't use one of the SIM card slots when you're using a micro SD card. Considering the internal storage is on the low end, you might be relying on that expandability just to get reasonable base functionality.
 
-[![slot!](../../assets/images/blog/vslot.jpg)](../../assets/images/blog/vslot.jpg)
+![slot!](../../assets/images/blog/vslot.jpg)
 _Dual SIM or SD Card and Single Sim._
 
 The software is largely untouched from the way Google intended it to be. It's just... Android. Stock and raw! The same settings menu, launcher and user interface without anything put on top of it. As it's running Android 8.1 you do get a wide range of features, but nothing additional or extra flashy. This is very useful - some of my previous phones came loaded with all kinds of bloatware and Chinese language apps that were a pain to get rid of.
 
 The Android implementation runs well. The only times I've had it lock up on me was when certain apps started being resource hogs - Instagram, I'm looking at you! Thanks to its above average 3GB of memory it works rather well with multi tasking. I haven't had a music or Podcast app close on me while it's running in the background, and going between a browser and Twitter normally doesn't force a complete reload.
 
-[![Cat!](../../assets/images/blog/vcat.jpg)](../../assets/images/blog/vcat.jpg)
+![Cat!](../../assets/images/blog/vcat.jpg)
 _The Rear Camera works. Also, he's not posing at all!_
 
 The camera is useable under good lighting. The rear has twin 13 megapixel lenses - one standard, and one locked into a 2x optical zoom. The photos are clear and detailed, even if they do look extremely flat. It's accurate enough, but lacks the vibrancy that the high end of the market delivers. Even worse is the front facing camera - under anything but the midday sun the color almost disappears and the whole image looks to be covered with an extreme grain filter. Sexy selfies late at night are just disappointing! But this time not just because of my bad complexion.
 
-[![Outside!](../../assets/images/blog/voutside.jpg)](../../assets/images/blog/voutside.jpg)
+![Outside!](../../assets/images/blog/voutside.jpg)
 _The Sun is the best kind of light._
 
 You do get what you pay for, but in this case it's just basic functionality rather than anything broken. The Android implementation is bare bones, but solid. It's not overly prone to crashing or even hanging for long periods, but just won't hold up for power users - especially those vain enough to shower their feeds with selfies.
 
-[![Self!](../../assets/images/blog/vself.jpg)](../../assets/images/blog/vself.jpg)
+![Self!](../../assets/images/blog/vself.jpg)
 _I don't like this guy either._

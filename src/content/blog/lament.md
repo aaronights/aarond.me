@@ -8,20 +8,20 @@ A 2011 Mazda Demio is for sale.
 
 It's green! Yes, the original grasshopper is on the market. She served me well! I spent today removing all of my stuff, vacuuming it all out, reinstalling the back seats and giving it a wash. She’s done 150,000 kilometers, but has been serviced regularly. And after driving my White Tiger for a few weeks I realise how extremely fuel efficient the old grasshopper is.
 
-[![Grass.](../../assets/images/blog/grass.jpg)](../../assets/images/blog/grass.jpg)
+![Grass.](../../assets/images/blog/grass.jpg)
 _This could be yours! All offers considered._
 
 It’s been a solid week. There’s a huge amount of scheduled work going on, so juggling that alongside my usual day to day stuff is a challenge. I have to be in Ohakune at 8am next week, so I’m pushing my boss to let me stay over the night before. Driving those icy roads at the coldest part of the night doesn’t seem wise, even in my All-Wheel Drive machine.
 
 Yikes, it's cold in the morning. Having my car tell me what the outside temperature isn’t very comforting. I burn money all night long keeping the heating on, and I think it’s the absolute best investment ever. Rolling out of bed would require more willpower than I currently have if my house was an ice wonderland. The cold always bothered me.
 
-[![Cold.](../../assets/images/blog/cold.jpg)](../../assets/images/blog/cold.jpg)
+![Cold.](../../assets/images/blog/cold.jpg)
 _This counts as very cold._
 
 Oh, my Instagram account got suspended! The reason? I was accused of being an imposter, pretending to be someone I’m not. Someone reported me for that! Have you seen what I post on Instagram? I mean, I do pretend to be a lively and fun person, but that’s hardly identity fraud. Maybe someone was just sharply jealous of the slice I reviewed.
 
 
-[![Cold.](../../assets/images/blog/ban.jpg)](../../assets/images/blog/ban.jpg)
+![Cold.](../../assets/images/blog/ban.jpg)
 _And I'm not even a goot actor._
 
 Oh, and of the lament I broadcast about my ex.

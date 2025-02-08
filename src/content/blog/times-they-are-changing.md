@@ -53,7 +53,7 @@ For what seems like an eternity I haven't exactly been doing much winning. It is
 
 The opposite is also true. Those currently winning and are on top of the world will eventually fall and fail.
 
-[![trump](../../assets/images/blog/trump.jpg)](../../assets/images/blog/trump.jpg)
+![trump](../../assets/images/blog/trump.jpg)
 _Hopefully some sooner than most._
 
 \- [@aaronights](http://twitter.com/aaronights)

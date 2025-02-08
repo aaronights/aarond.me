@@ -11,7 +11,7 @@ The biggest strength I take from this is my awareness of just how strange and do
 
 I'm also awful at reading people. In conversation I find myself staring right into at faces just to be able to gauge their reactions, often making people very uncomfortable. I'd be the worst phone psychologist.
 
-[![Sharing goofy photos of myself is meant to boost confidence.](../../assets/images/blog/IMG_20170410_165227.jpg)](../../assets/images/blog/IMG_20170410_165227.jpg)
+![Sharing goofy photos of myself is meant to boost confidence.](../../assets/images/blog/IMG_20170410_165227.jpg)
 _Sharing goofy photos of myself is meant to boost confidence._
 
 How do people meet, how does this modern social game work? Around 100 years ago people had status and classes to dictate how people interacted, at least in the western world. Now people seem to engage in a conversational volley, talking back and fourth even in large groups. The media portrays it as simple and effortless, a skill inherent to being human. There is no negotiation done beforehand, no leader or moderator to ensure the talk flows and stays fluid. I'm not good at it; it always comes out as awkward and uncomfortable. I've never done a survey, but get the impression that others find me frustrating in this environment. What are the queues that people follow in social situations, do they consciously pay attention? Or does the nuance and subtlety come naturally, without the need for effort?

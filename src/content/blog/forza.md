@@ -11,7 +11,7 @@ Video games.
 
 Many hit video games allow you to change your viewing perspective. You can have the option of playing in the first person, like through the eyes of the character, or switching to playing in the third person, through the eyes of… an invisible person following you around.
 
-[![Forza.](../../assets/images/blog/forza.jpg)](../../assets/images/blog/forza.jpg)
+![Forza.](../../assets/images/blog/forza.jpg)
 _Like seeing through the ideas of the driver, or following at some imaginary point behind the car._
 
 While first person might be ideal for immersion, it hinders one very important thing: situational awareness. If you're looking through the eyes of your character, it's very difficult to gauge your surroundings and how you're interacting with the world around you.

@@ -8,7 +8,7 @@ tags:
   - stars
 ---
 
-[![](../../assets/images/blog/girlfight.gif)](../../assets/images/blog/girlfight.gif)
+![](../../assets/images/blog/girlfight.gif)
 
 As some IGN readers might be aware, the [Girlfight podcast is close to getting the axe](http://twitter.com/#!/IGNGirlfight/status/101876192042430465).
 

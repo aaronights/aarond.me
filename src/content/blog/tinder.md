@@ -25,7 +25,7 @@ This is a buddy cop show, and it only works due to the actors in the lead roles.
 
 Plus there’s another thing I’ve been sweating bullets over in my spare time: an online dating profile. Tinder is still the hot stuff, right? I should wait til I’m feeling a bit… healthier, but I don’t want to wait around. I’ve so far had advice from two very unlikely people: my friend that’s been married for nearly 23 years, and my ex ex-girlfriend that I dated many moons ago. They've both been super nice, and I’ll take all the help I can get. Having that kind of support means a lot, especially when you’ve had your heart crushed and burned.
 
-[![spoilers.](../../assets/images/aaron.jpg)](../../assets/images/aaron.jpg)
+![spoilers.](../../assets/images/aaron.jpg)
 _Now what way would you swipe?_
 
 Don’t worry, I still have some secrets. My personal life isn’t an open book! That’ll happen when I’m offered six figures for my memoirs.

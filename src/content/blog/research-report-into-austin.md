@@ -7,7 +7,7 @@ date: 2017-06-21
 
 Austin is what is commonly called an “Internet Superstar”.
 
-[![Figure 1: Austin](../../assets/images/blog/eggs.png)](../../assets/images/blog/eggs.png)
+![Figure 1: Austin](../../assets/images/blog/eggs.png)
 _Figure 1: Austin_
 
 ### Where is Austin?
