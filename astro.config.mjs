@@ -7,6 +7,6 @@ import embeds from 'astro-embed/integration';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://aarond.me',
-	outDir: './docs',
+	// outDir: './docs',
 	integrations: [embeds(), mdx(), sitemap()],
 });
