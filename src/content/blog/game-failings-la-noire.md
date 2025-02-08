@@ -30,7 +30,7 @@ Watching the extremely long list of credits emphasises the huge budget LA Noire 
 
 Rockstar still retains the rights to LA Noire, but it's not certain if a potential sequel would follow the first games story or setting. The new genre and technologies pioneered by the first game could be adapted to a variety of settings. One of the leads from LA Noire is independently helming _Whore of the Orient_, a spiritual successor using the same MotionScan technology and a similar narrative style.
 
-https://www.youtube.com/embed/fc_Mww4Ra5k
+https://www.youtube.com/watch?v=/fc_Mww4Ra5k
 
 When LA Noire was released in early 2011, former IGN glory man Hilary Goldstein [reviewed it with an 8.5 score](http://xbox360.ign.com/articles/116/1168433p1.html). Most reviews aligned with this, although certain reviewers were far more negative from the outset. The great attention to detail received universal praise, but the same failings that are discussed here were apparent in most reviews.
 

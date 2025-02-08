@@ -48,7 +48,7 @@ Is violence increasing? No.
 
 Less people than ever in history are dying as the result of human violence than ever.
 
-https://www.youtube.com/embed/ramBFRt1Uzk
+https://www.youtube.com/watch?v=/ramBFRt1Uzk
 
 Torture, punishment and even the death penalty is less common than ever. [The rate of homicide is at its lowest ever.](https://ourworldindata.org/homicides/) In even nation in the world, including third world nations, people in general are less likely to be the victim of physical violence now than in any time in recorded history. Violence motivated my racism, sexism, homophobia and even religion is seen as an increasingly disgusting thing. [Violence and mistreatment of children is becoming less common.](https://ourworldindata.org/violence-against-rights-for-children/)
 

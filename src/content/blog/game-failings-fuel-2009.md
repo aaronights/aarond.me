@@ -16,7 +16,7 @@ _Fuel is a 2009 racing game developed by Asobo Studios. It holds a very notable 
 
 Fuel was originally titled Grand Raid Offroad, appearing first as a technical demonstration video along side the launch of the Xbox 360 in 2005. This demo showed the foundation of what Fuel would become, having off-road cars speeding around a desolated desert environment in search of fuel. From the outset Codemasters was attached as the publisher, falling in line with their extensive racing-focused catalogue including other off road games. It was close to seven years after its initial conception until Fuel was released in July of 2009.
 
-https://www.youtube.com/embed/V_VLy--mkbE
+https://www.youtube.com/watch?v=/V_VLy--mkbE
 
 _[The original Grand Raid Offroad trailer ](http://www.youtube.com/watch?v=V_VLy--mkbE)_
 
@@ -24,11 +24,11 @@ The game has no narrative, but the manual does offer a light back story. Fuel is
 
 Much attention on Fuel was focused on the size of the open world. Over five years Asobo Studios internally developed a proprietary game engine to accommodate the enormous scale. The engine was also designed to give a lengthy 65 kilometre draw distance, making the horizons clear even when at high elevation points. Unfortunately this proves to be an issue, with texture and object pop-in being consistently present. It does become somewhat unnoticeable as most of your attention is for obstacles closer to your vehicle rather than far off in the distance.
 
-https://www.youtube.com/embed/X_QzSydiVy0
+https://www.youtube.com/watch?v=/X_QzSydiVy0
 
 The unparalleled size of the open world is extremely impressive. It spans 14,400 square kilometres, hundreds of times bigger than _Skyrim_ or _Burnout Paradise_ and giving it more land area than the real world locations of Vanuatu, Jamaica and the State of Connecticut. It is not randomly generated, with every mound and tree remaining in the same location across every instance. Elements of the environment do repeat often, with a small variety of identical trees, bushes and even buildings repeating several hundred times on the map. Even with this, it's not made out of stacked blocks or stitched together elements with seams. Nothing seems out of place and the entire world is presented in a believable way, flowing together very cohesively.
 
-https://www.youtube.com/embed/g56-Xzq3TFg
+https://www.youtube.com/watch?v=/g56-Xzq3TFg
 
 _[An hour of driving due east, covering a very small portion of the map.](http://www.youtube.com/watch?v=g56-Xzq3TFg)_
 

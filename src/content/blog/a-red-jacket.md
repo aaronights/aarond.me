@@ -15,7 +15,7 @@ _This guy isn't surviving._
 But this past week has been something else, a cascade of failures.
 
 * I got stood up. I think? I'm new to this. Wasn't pleasant.
-* I had no work all week. [When you're unemployed there's no vacation.](https://youtu.be/WUAcN9UCnbU?t=162)
+* I had no work all week. [When you're unemployed there's no vacation.](https://youtube.com/watch?v=WUAcN9UCnbU?t=162)
 * I self sabotaged an opportunity to be pals with someone cool and fun. My extreme stubbornness gets the blame for this one.
 * I realised how insignificant I am as a person. Most people have this epiphany in their teens.
 

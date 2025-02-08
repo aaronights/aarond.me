@@ -3,7 +3,7 @@ title: "Backwards compatibility and IGN"
 date: 2013-03-08
 ---
 
-https://www.youtube.com/embed/dyEhxX7a-8Y
+https://www.youtube.com/watch?v=/dyEhxX7a-8Y
 
 Is the lack of backwards compatibility in the Playstation 4 a big problem? Will this generation of games live on for after the release of the next generation of hardware? Is Gaikai viable?
 

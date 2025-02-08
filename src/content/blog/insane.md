@@ -7,7 +7,7 @@ tags:
 
 Did I ever tell you what the definition of insanity is? Insanity is doing the exact... same thing... over and over again and… expecting a different outcome.
 
-https://www.youtube.com/embed/7n_1zsCVBxw
+https://www.youtube.com/watch?v=/7n_1zsCVBxw
 
 _Caution: Language may offend._
 

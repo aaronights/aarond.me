@@ -7,7 +7,7 @@ tags:
 
 Well, my last blog post was a hit. I guess problems with peoples personal lives are still things that illicit empathy, even on a two-bit blog written by an anti-social introvert like me. So I'll give it another go.
 
-I got some great feedback. The best words of wisdom I got were this: dating is annoying as shit. I'm not alone in that boat, everyone else isn't having a glorious time seeking out partners. Sure, some people are just machines and can [make a woman (or man) sing on every single stroke, are an iron man and have a master plan.](https://youtu.be/DFMQTKnTMAA?t=23) But these people that are dating twice or thrice a weekend don't seem that much more content or satisfied. They're much better off than me, but that is hardly an achievement.
+I got some great feedback. The best words of wisdom I got were this: dating is annoying as shit. I'm not alone in that boat, everyone else isn't having a glorious time seeking out partners. Sure, some people are just machines and can [make a woman (or man) sing on every single stroke, are an iron man and have a master plan.](https://youtube.com/watch?v=DFMQTKnTMAA?t=23) But these people that are dating twice or thrice a weekend don't seem that much more content or satisfied. They're much better off than me, but that is hardly an achievement.
 
 There is also the advice I got that is a cultural cliché at this point:
 
@@ -36,7 +36,7 @@ Everything I do, I try to make myself a better person. Saying “be yourself” 
 
 But that's not to say I don't have fun. There are heaps of things I enjoy doing. Hell, even the awkward dates and meet ups I've been on over the past few months have been things I'd definitely call fun. The odd [video game](http://au.ign.com/games/the-legend-of-zelda-breath-of-the-wild/nintendo-switch-20052872), reading, a good movie, a comedy show and even writing this are things I find refreshing and enjoyable.
 
-The same applies to relationships or even friendships. I don't want to offer anyone the current version of myself. I want to adapt. [You teach me and I'll teach you!](https://youtu.be/JuYeHPFR3f0?t=53) I take on traits, ideas, behaviours and attributes that make me a better person. Going into a relationship 'being yourself' seems utterly pointless, a folly of maudlin. I'm not interested in anyone, no matter how great they are, that would want this current version of me. Because they'd have bad taste!
+The same applies to relationships or even friendships. I don't want to offer anyone the current version of myself. I want to adapt. [You teach me and I'll teach you!](https://youtube.com/watch?v=JuYeHPFR3f0?t=53) I take on traits, ideas, behaviours and attributes that make me a better person. Going into a relationship 'being yourself' seems utterly pointless, a folly of maudlin. I'm not interested in anyone, no matter how great they are, that would want this current version of me. Because they'd have bad taste!
 
 I want to be a better, different person and would like that any relationship make me strive to achieve this at every opportunity.
 

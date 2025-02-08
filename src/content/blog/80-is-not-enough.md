@@ -7,7 +7,7 @@ tags:
 
 _**Update**: A video portion of this article is now available. I hope this better clarifies the point I'm trying to make. Sorry about the slurring, it's late at night!_
 
-https://youtu.be/6uHF8dFK9s0
+https://youtube.com/watch?v=6uHF8dFK9s0
 
 There has been a long debate over what constitutes a positive review score for a game here at IGN. With the recent overhaul of the review system, [extensive detail](http://www.ign.com/wikis/ign/Game_Reviews) has been added to how the rubric is used and what defines each score range. But for most people who buy and play games, does the system work in the real world?
 

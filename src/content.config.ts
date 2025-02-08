@@ -10,10 +10,9 @@ const blog = defineCollection({
 		// pattern: '**/*.{md,mdx}'
 	// }),
 	loader: globWithParser({
-		pattern: "**/*.md",
+		pattern: "**/*.{md,mdx}",
 		base: "./src/content/blog",
 		parser: async (entry) => {
-			console.log(entry);
 			const { id, data, filePath } = entry;
 			// (data as { year?: string }).year = String(data.date.getFullYear()).padStart(4, '0');
 			if (!data.date) {
@@ -37,12 +36,11 @@ const blog = defineCollection({
 		title: z.string(),
 		author: z.string().optional(),
 		description: z.string().optional(),
-		// Transform string to Date object
 		date: z.coerce.date(),
-		year: z.string().optional(),
-		month: z.string().optional(),
-		day: z.string().optional(),
-		slug: z.string().optional(),
+		year: z.string(),
+		month: z.string(),
+		day: z.string(),
+		slug: z.string(),
 		updated: z.coerce.date().optional(),
 		image: image().optional(),
 	}),

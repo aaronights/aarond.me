@@ -39,6 +39,6 @@ Everyone tells me I should move on. My friend Mark says he'd lock me in his base
 
 I love her, but I really shouldn’t - for her benefit and mine. Right now I'd saw my leg off to be back with her, but that'd be fruitless as it's more and more clear every day that she just isn't interested at all. And that kills me a tiny bit.
 
-https://www.youtube.com/embed/nZXRV4MezEw
+https://www.youtube.com/watch?v=/nZXRV4MezEw
 
 But hey, anyone have great advice for moving on? Other than drink. That didn't work out so well for me.

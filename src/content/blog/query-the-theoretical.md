@@ -27,7 +27,7 @@ She's a character. Bouncing around drinking and teasing, leaving a wake of crush
 
 She wants some action, she wants to live.
 
-https://www.youtube.com/embed/cYhuDCs2zCc
+https://www.youtube.com/watch?v=/cYhuDCs2zCc
 
 She might want the calm and simple life deep down, but she would never admit it. The small town blues with 2.5 children is something that clashes with her reputation. Besides, she has a dog. They're just like kids, but less hassle.
 

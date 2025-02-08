@@ -37,7 +37,7 @@ Now here is the tricky part - making caramel. It’s volatile stuff. Up there wi
 
 Melt a little bit of butter and twice as much brown sugar in a big pot. Keep it on the heat til the butter and the sugar are all combined and bubbling a little. Now, add a full can of condensed milk and stir. Lower the heat to low, and keep gently stirring for about 15 minutes. It’s a long time! If you’re tempted to go do something else? Don’t. The sugar content in the caramel can burn super fast if you stop stirring. You’ll be able to tell when it’s done when the caramel is a nice dark colour and it’s started to thicken.
 
-https://www.youtube.com/embed/YabLEQF73XI
+https://www.youtube.com/watch?v=/YabLEQF73XI
 
 Leave it to cool a little bit, but not all the way to room temperature. You need it to still be a little bit runny for the next step.
 

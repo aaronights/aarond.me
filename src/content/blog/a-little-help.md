@@ -5,7 +5,7 @@ date: 2018-12-02
 
 ### After a whole year, I'm back on this here train.
 
-https://www.youtube.com/embed/0C58ttB2-Qg
+https://www.youtube.com/watch?v=/0C58ttB2-Qg
 
 Thanks to extensive help from a good friend I was able to import my seven years of posts into this new system. And it was a task! IGN really didn't care about helping people keep their content from the ”little My IGN blogging experiment."
 

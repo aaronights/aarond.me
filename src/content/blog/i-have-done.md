@@ -23,13 +23,13 @@ One of the people to see the blog post was a content manager at element14. I was
 
 The first thing I did was [a car DVR system using the Raspberry Pi camera module](https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2015/06/23/the-secrets-of-the-pi-camera--car-dvr-system). That worked well, even if it did look out of place in my old and rusty car. Just look at this amazing footage of the journey between two small New Zealand towns. The shear amount of action is overwhelming.
 
-https://www.youtube.com/embed/_-BUBQsxcJ4
+https://www.youtube.com/watch?v=/_-BUBQsxcJ4
 
 One of the best things I got to work with [was the CodeBug](https://www.element14.com/community/community/stem-academy/codebug/blog/2015/11/06/codebug-car-break-sensor). It's a very easy to use development tool, primarily focused for use by children in education. It even comes on a cute ladybug shaped board. The best part is the web based coding environment. It works like assembling a jigsaw puzzle rather than writing lines of code.
 
 When an upgrade to the Raspberry Pi camera modules were released I got to use the NoIR version for a night vision project. [The final build was a video baby monitor](https://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2016/04/25/noir-v2-video-streaming-baby-monitor), but I also got to have a little fun impersonating a thief in the dark. The light hitting an eyeball always looks spooky in Infrared.
 
-https://www.youtube.com/embed/B45oQsFMWQU
+https://www.youtube.com/watch?v=/B45oQsFMWQU
 
 That's a few of the things I got the opportunity to work on over the past few years. The whole time I was doing projects and articles I always felt incredibly under qualified. I had no training or experience in anything like this, every time I started a project I didn't know if I would be able to complete it. It was like I was an imposter, and at any time it could be found out that I wasn't at all suitable for the job.
 

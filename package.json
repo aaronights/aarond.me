@@ -13,6 +13,8 @@
     "@astrojs/rss": "^4.0.11",
     "@astrojs/sitemap": "^3.2.1",
     "astro": "^5.2.5",
-    "astro-embed": "^0.9.0"
+    "astro-embed": "^0.9.0",
+    "astro-pagefind": "^1.8.0",
+    "astro-robots-txt": "^1.0.0"
   }
 }

@@ -7,7 +7,7 @@ date: 2021-04-04
 
 Turns out this writing thing is really beneficial, I’m glad I can get back into it again.
 
-https://www.youtube.com/embed/N2ICtCO8TCw
+https://www.youtube.com/watch?v=/N2ICtCO8TCw
 
 I really appreciate all the friends and family that reached and out offered support. Over the past few months I have been making myself really isolated. I was fighting a battle on many fronts, and made decisions based on getting advice from a million different people rather than thinking for myself. Because I was wanting to avoid conflict I just kept to myself - but then I shattered that line of thinking and posted here for all the world to see!
 

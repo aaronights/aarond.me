@@ -30,6 +30,6 @@ A few highlights from the experience are:
 
 I still have things to get to! I really want to dive into Paper Mario: Color Splash on Wii U - having that and others in my backlog is somewhat holding me back from investing in a Switch.
 
-Sometime in the New Year, when the postal service starts to run again, I should have another budget review up. This time it's for what I'd call the cheapest viable phone. It's from a brand I've never heard of, but on paper it looks like a deal. I think I'm getting hooked to the thrill of the gamble. [I take a chance, I roll the dice](https://youtu.be/kzwHs9PhJwY?t=99) and either get a great deal or dog shit.
+Sometime in the New Year, when the postal service starts to run again, I should have another budget review up. This time it's for what I'd call the cheapest viable phone. It's from a brand I've never heard of, but on paper it looks like a deal. I think I'm getting hooked to the thrill of the gamble. [I take a chance, I roll the dice](https://youtube.com/watch?v=kzwHs9PhJwY?t=99) and either get a great deal or dog shit.
 
 Could that be a metaphor for dating? Maybe, but it's not very kind.
