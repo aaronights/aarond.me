@@ -1,0 +1,28 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BlogPost from '../../../../../layouts/BlogPost.astro';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+	// return getCollection('blog');
+	const posts = await getCollection('blog');
+	return posts.map((props) => ({
+		params: {
+			slug: props.id,
+			year: props.data.date.getFullYear().toString().padStart(4, '0'),
+			month: (props.data.date.getMonth() + 1).toString().padStart(2, '0'),
+			day: props.data.date.getDate().toString().padStart(2, '0'),
+		},
+		props,
+	}));
+}
+
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+---
+
+<BlogPost {...post.data}>
+	<Content />
+</BlogPost>

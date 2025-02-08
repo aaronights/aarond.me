@@ -1,77 +1,68 @@
-# Aaron's Blog
+# Astro Starter Kit: Blog
 
-## Setup
-
-### Install [Gridsome](https://gridsome.org/)
-
-These commands will install the Gridsome CLI, and install the Gridsome files to the blog folder.
-
-```bash
-npm install --global @gridsome/cli
-gridsome create aarond.me
+```sh
+npm create astro@latest -- --template blog
 ```
 
-### Add dependencies
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/blog)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/blog)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/blog/devcontainer.json)
 
-There are a few extra NPM packages needed for Gridsome, and for the conversion of the blog's original HTML files to Markdown.
+> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-```bash
-cd aarond.me
-npm i --dev @gridsome/source-filesystem @gridsome/transformer-remark webpack-node-externals cheerio localtunnel turndown vuetify
+![blog](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
+
+Features:
+
+- ✅ Minimal styling (make it your own!)
+- ✅ 100/100 Lighthouse performance
+- ✅ SEO-friendly with canonical URLs and OpenGraph data
+- ✅ Sitemap support
+- ✅ RSS Feed support
+- ✅ Markdown & MDX support
+
+## 🚀 Project Structure
+
+Inside of your Astro project, you'll see the following folders and files:
+
+```text
+├── public/
+├── src/
+│   ├── components/
+│   ├── content/
+│   ├── layouts/
+│   └── pages/
+├── astro.config.mjs
+├── README.md
+├── package.json
+└── tsconfig.json
 ```
 
-### Generate MD files from HTML
+Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
-This script will convert all the HTML files scraped from the old blog to Markdown files, along with Front Matter metadata.
+There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
 
-```bash
-node ./src/HTMLToMD.js
-```
+The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
 
-## Development
+Any static assets, like images, can be placed in the `public/` directory.
 
-### Run the Site
+## 🧞 Commands
 
-This will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.
+All commands are run from the root of the project, from a terminal:
 
-```bash
-npm run dev
-```
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-### Visit the Site
+## 👀 Want to learn more?
 
-[http://localhost:8080/](http://localhost:8080/)
+Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-### Explore GraphQL Data
+## Credit
 
-Like Gatsby, Gridsome uses GraphQL in Development to expose page data to the frontend.
-
-[http://localhost:8080/___explore](http://localhost:8080/___explore)
-
-## Production
-
-### Build Static Files
-
-This command will create a set of static website files in the "dist" directory.
-
-```bash
-npm run build
-```
-
-### Push to GitHub
-
-Once the new files are pushed to the website with the command below, the new site will be live.
-
-```bash
-git push
-```
-
-### Check the Live Site
-
-[https://aarond.me/](https://aarond.me/)
-
-## Helpful Pages
-
-- [https://alligator.io/vuejs/gridsome-blog/](https://alligator.io/vuejs/gridsome-blog/)
-- [https://alligator.io/vuejs/gridsome-list-posts/](https://alligator.io/vuejs/gridsome-list-posts/)
-- [https://lobotuerto.com/blog/quickstart-guide-for-a-new-gridsome-project/](https://lobotuerto.com/blog/quickstart-guide-for-a-new-gridsome-project/)
+This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).

@@ -1,34 +1,18 @@
 {
-	"name": "aarond.me",
-	"private": true,
-	"scripts": {
-		"dev": "gridsome develop",
-		"build": "gridsome build",
-		"lint": "eslint --ext .js,.vue --ignore-path .gitignore -f table .",
-		"lint:fix": "npm run lint --fix",
-		"explore": "gridsome explore",
-		"import": "node ./src/HTMLToMD.js",
-		"share": "lt --port 8080 --subdomain aarond",
-		"up": "npm update && npm outdated"
-	},
-	"dependencies": {
-		"@gridsome/plugin-sitemap": "^0.4.0",
-		"@gridsome/source-filesystem": "^0.6.2",
-		"@gridsome/transformer-remark": "^0.6.4",
-		"gridsome": "^0.7.23",
-		"gridsome-plugin-feed": "^1.0.2",
-		"gridsome-plugin-flexsearch": "^1.1.0",
-		"gridsome-plugin-pwa": "0.0.18",
-		"gridsome-plugin-remark-youtube": "^1.0.1",
-		"remark": "^13.0.0",
-		"sass": "^1.32.8",
-		"sass-loader": "^7.3.1",
-		"vuetify": "^2.4.8",
-		"vuetify-loader": "^1.7.2"
-	},
-	"devDependencies": {
-		"cheerio": "^1.0.0-rc.5",
-		"localtunnel": "^2.0.1",
-		"turndown": "^7.0.0"
-	}
+  "name": "blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.0.8",
+    "@astrojs/rss": "^4.0.11",
+    "@astrojs/sitemap": "^3.2.1",
+    "astro": "^5.2.5",
+    "astro-embed": "^0.9.0"
+  }
 }
