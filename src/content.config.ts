@@ -1,5 +1,5 @@
 import {statSync, readFileSync} from 'fs';
-import { glob } from 'astro/loaders';
+// import { glob } from 'astro/loaders';
 import { defineCollection, z } from 'astro:content';
 import { globWithParser } from './utils/globWithParser';
 
@@ -14,10 +14,8 @@ const blog = defineCollection({
 		base: "./src/content/blog",
 		parser: async (entry) => {
 			const { id, data, filePath } = entry;
-			// (data as { year?: string }).year = String(data.date.getFullYear()).padStart(4, '0');
-			if (!data.date) {
-				data.date = new Date(statSync(id).birthtime);
-			}
+			if (!data.date) data.date = new Date(statSync(id).birthtime);
+			// (data as { year?: string }).year = data.date.toISOString().slice(0, 4);
 			data.year = data.date.toISOString().slice(0, 4);
 			data.month = data.date.toISOString().slice(5, 7);
 			data.day = data.date.toISOString().slice(8, 10);
@@ -31,7 +29,6 @@ const blog = defineCollection({
 			return entry;
 		}
 	}),
-	// Type-check frontmatter using a schema
 	schema: ({image}) => z.object({
 		title: z.string(),
 		author: z.string().optional(),

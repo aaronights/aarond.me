@@ -26,7 +26,7 @@ But with the failings of Samurai in the past, Saban is launching Power Rangers M
 
 The first episode of this new series was very similar of the first ever episode of Power Rangers from 1993. Troy, Noah, Emma, Gia and Jake are typical high school students with attitude. When evil aliens plot to conquer earth, the mystic guardian Gosei calls upon these teenagers to defend earth as the Power Rangers Megaforce.
 
-https://www.youtube.com/watch?v=/PsOdcBPzLdk
+https://www.youtube.com/watch?v=PsOdcBPzLdk
 
 The characters fit the clichés just like you would expect; Noah being the nerdy guy with glasses, Gia being the girl that always strives for perfection and Troy as the strong, silent and focused leader. It might feel very familiar, but it is good to see characters with distinct personalities rather than wooden blocks with faces. This teams mentor, Gosei, is a giant plastic head with flashing eyes. Zordon's bald in a plastic tube from the original series felt much more animated than this simple static figure. There is also a small robotic assistant, but this time it's computer generated rather than being a short person in a suit. Hopefully this wont lead to a lack of interaction with the live characters in future episode, but so far it holds up.
 

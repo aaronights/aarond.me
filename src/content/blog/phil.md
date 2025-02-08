@@ -19,6 +19,6 @@ My history proves that. My insecure nature made me demanding and needy, and this
 
 Just giving myself permission to be happy and self assured on my own has been a revelation. Since my relationship crashed and burned I was trying to find something to fill that gap in my life. But now? I don't need that. If that stuff comes my way, great! It could be something amazing. It's just not something I need, but I do know if it comes my way I'll be in a better headspace to make it work.
 
-https://www.youtube.com/watch?v=/C9IwBJYTwQ0
+https://www.youtube.com/watch?v=C9IwBJYTwQ0
 
 You’re a smart man, Phil Collins. But I have to disagree with you on some points.

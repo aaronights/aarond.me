@@ -5,7 +5,7 @@ date: 2017-07-15
 
 Doesn't stuff happen? Nice stuff happens. I like it when nice stuff happens.
 
-https://www.youtube.com/watch?v=/s4U4FuIyPkc
+https://www.youtube.com/watch?v=s4U4FuIyPkc
 
 Oh, in other news I'll be voting Green in the upcoming general election here in New Zealand. Why? That's a great story. I do disagree on things, most notably policies relating to the research and development of Generation 4 nuclear technology, but certain events over the past day or two have persuaded me that this is the right thing for me to do.
 
@@ -30,6 +30,6 @@ Perhaps this is the best way to learn. I've relied on reading an immense amount 
 
 And that's the epiphany I attained. The outcome and prospects for the future can be best described in this great song from all of our childhoods.
 
-https://www.youtube.com/watch?v=/-kl4hJ4j48s
+https://www.youtube.com/watch?v=-kl4hJ4j48s
 
 Now I'm in a whole new world, complete with new horizons to pursue.

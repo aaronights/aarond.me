@@ -13,13 +13,13 @@ _Game Failings is a series of features that checks out forgotten titles, looks a
 
 It's a sad time when such a loved video game publisher like THQ goes under. There has been discussion about it's intellectual properties and studios being sold, including much talk about the Darksiders franchise and developer Vigil not getting a buyer. However, one overlooked franchise is a bit smaller but still much beloved by many - de Blob, developed by the now defunct studio Blue Tongue Entertainment.
 
-https://www.youtube.com/watch?v=/eag0e5YFEcw
+https://www.youtube.com/watch?v=eag0e5YFEcw
 
 The first de Blob game was exclusive to the Nintendo Wii, being Blue Tongue's first game not based on a licensed property. Official sources say that de Blob managed to sell more than 700,000 units, a reasonable success for a new IP and enough to warrant a sequel. But this time the game would be released on all current home consoles and in high definition for the first time.
 
 De Blob 2 is presented in a gorgeous, colourful style. It really emphasises contrast, with the starting environments and enemies being various shades of grey and the protagonist and everything positive being full of vibrant colour and fun. The cartoon style of the characters are stunning with each having their own personality. Everything from menus to the cut scenes are extremely well polished. It even supports 3D on Xbox 360 and Playstation 3, giving incentive to those still supporting that fad.
 
-https://www.youtube.com/watch?v=/jU5xNhbCuQY
+https://www.youtube.com/watch?v=jU5xNhbCuQY
 
 Your goal, playing as the title character named Blob, is to paint the city red, green, purple and all the other colours of the rainbow. The painting aspect might sound similar to _Disney's Epic Mickey_, but rather than using a targeting reticule to paint you simply touch a surface to give it colour. This doesn't make the game simpler, rather it expands on the platforming aspect. Challenges can involve painting certain surfaces a colour without touching others in the process, giving additional layers to the basic gameplay. The later levels do introduce some things that can be a bit annoying, like whole stages taking place over bottomless pits, but the reasonable difficultly level keeps this from getting too infuriating.
 

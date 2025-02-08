@@ -19,7 +19,7 @@ Look at music, movies, people and hairstyles from generations ago and it will of
 
 In 1964 Bob Dylan released The Times They Are a-Changin'. It's clearly a commentary on the turbulent times of change that the 60's were facing, but today those old lyrics might be more relevant than ever before.
 
-https://www.youtube.com/watch?v=/BfFZ9FyB6rs
+https://www.youtube.com/watch?v=BfFZ9FyB6rs
 
 * _Admit that the waters around you have grown_
 

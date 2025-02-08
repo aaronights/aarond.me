@@ -26,7 +26,7 @@ Changes in a species come about over time through mutation, small differences in
 
 Humanity, along with all other life on this humble world, did not come from extreme random chance or the hand of an invisible deity. The beautiful variety and complexity you see is the result of billions of years of accumulation through the most simple process of trial and error, survival of the best. People that, despite being presented with the evidence, deny evolution are as deluded as those that believe the earth is flat.
 
-https://www.youtube.com/watch?v=/Qfm0GCvsIVA
+https://www.youtube.com/watch?v=Qfm0GCvsIVA
 
 Just imagine ancient man looking up at the stars thousands of years ago. The only way they knew to understand origins was by extrapolating from their own experience. Their newly evolved minds thought these points of light must be forged by a someone's hand, as that is the only way they knew something could be made. But no, stars are formed by a process without a guiding deity.
 

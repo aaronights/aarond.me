@@ -23,6 +23,6 @@ What is the etiquette for handing out business cards? I've got enough to hand th
 
 Is meeting a girl and handing her your business card a bit too audacious? It might be simpler than writing down or sharing a number, but can give the impression that I've got an ego the size of the sun.
 
-https://www.youtube.com/watch?v=/WGOohBytKTU
+https://www.youtube.com/watch?v=WGOohBytKTU
 
 But when I'm seeking business time it might be appropriate to make it rain with business cards.
