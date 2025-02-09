@@ -15,7 +15,7 @@ We are building a house!
 
 Yep, my residence for nearly 20 years in Levin has been sold off, and now we are deep into the build process for our new long term home. It’s a big process, and I’m really eager to document it for posterity.
 
-![Levin.](../../assets/images/blog/LevinHouse.jpg)
+![Levin.](../../assets/images/blog/levinhouse.jpg)
 _This Levin house was home for a very long time._
 
 It's been a long road, and we haven't taken any shortcuts.
