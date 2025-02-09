@@ -1,4 +1,4 @@
-import {readdirSync, readFileSync} from 'fs';
+import {existsSync, readdirSync, readFileSync} from 'fs';
 import MarkdownToText from "markdown-to-text";
 const removeMarkdown = MarkdownToText.default;
 import {unified} from 'unified';
@@ -48,10 +48,25 @@ async function getIssues(content) {
 	}
 }
 
-const folder = 'src/content/blog/';
-for (const file of readdirSync(folder)) {
-	const path = folder + file;
+async function checkFile(path) {
 	const content = readFileSync(path, 'utf-8');
 	console.log('\nChecking:', path, '\n');
-	await getIssues(content, file);
+	await getIssues(content);
+}
+
+const folder = './src/content/blog/';
+
+// Check if there's a command line argument for a specific file
+
+if (process.argv.length > 2) {
+	let file = process.argv[2].trim();
+	if (!file.endsWith('.md')) file += '.md';
+	const path = folder + file;
+	if (existsSync(path)) await checkFile(path);
+	else console.error('File not found:', path);
+} else {
+	for (const file of readdirSync(folder)) {
+		const path = folder + file;
+		await checkFile(path);
+	}
 }

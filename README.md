@@ -64,6 +64,12 @@ npm run spellcheck
 
 This will print out a list of potential issues with spelling (and more) in the site. To fix these issues, simply edit the files that are listed in the output, or add them to the `spelling-ignore.txt` file (one per line) to ignore them.
 
+If you only want to check the spelling of a single file, you can append the filename (with or without the `.md` extension) to the command:
+
+```bash
+npm run spellcheck name-of-file
+```
+
 ### Testing your changes
 
 The following command will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.
