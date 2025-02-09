@@ -40,6 +40,10 @@ To add an image to a post, place the image in the `src/assets/images/blog/` dire
 ![Alt Text](../../assets/images/blog/image-name.jpg)
 ```
 
+### Add or edit a page
+
+Individual pages, like the front page or an About page, are added to the `src/pages` directory. These are usually `.astro` files, and if you want them to show up in your navigation, you will need to add links to them to the `src/components/Header.astro` file.
+
 ### Testing your changes
 
 The following command will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.
