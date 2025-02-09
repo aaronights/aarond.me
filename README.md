@@ -19,6 +19,14 @@ npm i
 
 ## Editing the Site
 
+### Updating libraries
+
+Occasionally, the libraries used by this site will need to be updated. To do this, run the following command:
+
+```bash
+npm update
+```
+
 ### Add a New Post
 
 To add a new post, create a new markdown file in the `src/content/blog/` directory. The file should be named with the format `title-of-post.md`. The file should have the following format:
