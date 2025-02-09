@@ -3,7 +3,7 @@ import MarkdownToText from "markdown-to-text";
 const removeMarkdown = MarkdownToText.default;
 import {unified} from 'unified';
 import retextEnglish from 'retext-english';
-import retextEquality from 'retext-equality';
+// import retextEquality from 'retext-equality';
 import retextIndefiniteArticle from 'retext-indefinite-article';
 import retextContractions from 'retext-contractions';
 import retextDiacritics from 'retext-diacritics';
