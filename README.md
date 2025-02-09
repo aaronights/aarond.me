@@ -52,7 +52,7 @@ To add an image to a post, place the image in the `src/assets/images/blog/` dire
 
 ### Add or edit a page
 
-Individual pages, like the front page or an About page, are added to the `src/pages` directory. These are usually `.astro` files, and if you want them to show up in your navigation, you will need to add links to them to the `src/components/Header.astro` file.
+Individual pages, like the front page (currently at `src/pages/index.astro`) or an About page, are added to the `src/pages` directory, using the subfolder structure of the directory for paths, and and `index` file as the default file that is served for each folder. These files are usually `.astro` files, and if you want them to show up in your site navigation, you will need to add links to them to the `src/components/Header.astro` file.
 
 ### Check spelling
 
