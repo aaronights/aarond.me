@@ -7,7 +7,7 @@ In a life update no one expected, I got married!
 
 ![Married life is going well!.](../../assets/images/blog/married.jpg)
 
-But first, I've got to give huge thanks to my best friend and best man Mark. Not only was he the rock of stability on my wedding day, but has also worked his magic to get this site back up in running. It's been migrated from Gridsome to Astro - a platform that's well supported and should keep this place running for many years.
+But first, I've got to give huge thanks to my best friend and best man [Mark](https://mark.honeychurch.org/). Not only was he the rock of stability on my wedding day, but has also worked his magic to get this site back up in running. It's been migrated from Gridsome to Astro - a platform that's well supported and should keep this place running for many years.
 
 It sure has been a long time since I’ve flexed this writing muscle, but now there is actually a purpose. We got married - the wedding was amazing! But the main topic of discussions here is just as intense:
 
@@ -30,7 +30,10 @@ And oh boy, did we investigate! Our process of seeking out a section and a build
 
 First, the section.
 
-There are many new and growing subdivisions coming on the market around where we live. The council developed a big chunk of land on the outskirts of Palmerston North called Tamakuku Terraces. It's really nice, complete with amazing lakeside views. Unfortunately it shared a common issue with nearly every new subdivision we found: size. Just like when we looked at newer houses, section size has trended smaller in recent years. To stay within something we could remotely afford, we had to push our search outside of Palmy a bit.
+There are many new and growing subdivisions coming on the market around where we live. The council developed a big chunk of land on the outskirts of Palmerston North called [Tamakuku Terraces](https://tamakukuterrace.co.nz/). It's really nice, complete with amazing lakeside views. Unfortunately it shared a common issue with nearly every new subdivision we found: size. Just like when we looked at newer houses, section size has trended smaller in recent years. To stay within something we could remotely afford, we had to push our search outside of Palmy a bit.
+
+![Tamakuku.](../../assets/images/blog/tamakuku.jpg)
+_The beautiful Tamakuku Terrace._
 
 Feilding was an option we looked at closely, as the value there was a bit better. There's a whole quadrant of town that seems to be endless fields of new subdivisions. It was looking like our best option, but then a real curveball came along.
 
@@ -49,7 +52,7 @@ We met with the manager of a local company that ended up being such a low energy
 
 So what is the most important thing when selecting a builder? He tangata, he tangata, he tangata - it is the people. If you don't vibe and enjoy meeting with the team you build with, the process will be intolerable. I can't emphasise that enough!
 
-After the long process, Rachel and I very proudly chose the fine folk at Jennian Manawatu.
+After the long process, Rachel and I very proudly chose the fine folk at [Jennian Homes Manawatu](https://jennian.co.nz/franchises/jennian-homes-manawatu).
 
 ![Jennian.](../../assets/images/blog/jennian.jpg)
 _Our children will be named Jenn and Ian._
