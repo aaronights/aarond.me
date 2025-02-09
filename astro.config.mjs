@@ -14,7 +14,13 @@ export default defineConfig({
 	// outDir: './docs',
 	integrations: [/* embeds(), */ pagefind(), mdx(), sitemap(), robotsTxt()],
 	markdown: {
-    // remarkPlugins: [[oembed, { width: 800, height: 450 }]],
+		// remarkPlugins: [[oembed, { width: 800, height: 450 }]],
 		remarkPlugins: [remarkYoutube],
-  },
+	},
+	image: {
+		experimentalLayout: 'responsive',
+	},
+	experimental: {
+		responsiveImages: true,
+	},
 });

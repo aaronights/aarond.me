@@ -23,8 +23,9 @@ const blog = defineCollection({
 				const content = readFileSync(filePath, 'utf-8');
 				// Find first image in markdown content
 				const match = content.match(/!\[.*?\]\((.*?)\)/);
-				data.image = match ? match[1] : '../../../public/blog-placeholder-2.jpg';
+				data.image = match ? match[1] : '../../assets/images/aaron-landscape.jpg';
 			}
+			// if (!data.imagePath) data.imagePath = data.image;
 			if (!data.slug) data.slug = id; // .replace(/\.md$/, '');
 			return entry;
 		}
@@ -40,6 +41,7 @@ const blog = defineCollection({
 		slug: z.string(),
 		updated: z.coerce.date().optional(),
 		image: image().optional(),
+		// imagePath: z.string().optional(),
 	}),
 });
 
