@@ -54,6 +54,16 @@ To add an image to a post, place the image in the `src/assets/images/blog/` dire
 
 Individual pages, like the front page or an About page, are added to the `src/pages` directory. These are usually `.astro` files, and if you want them to show up in your navigation, you will need to add links to them to the `src/components/Header.astro` file.
 
+### Check spelling
+
+To check the spelling of the site, run the following command:
+
+```bash
+npm run spellcheck
+```
+
+This will print out a list of potential issues with spelling (and more) in the site. To fix these issues, simply edit the files that are listed in the output, or add them to the `spelling-ignore.txt` file (one per line) to ignore them.
+
 ### Testing your changes
 
 The following command will launch a local copy of the website, using hot reloading so that any changes to the files will automagically cause a refresh of the site if it is opened in a browser.

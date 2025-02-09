@@ -18,16 +18,18 @@ import retextSpell from 'retext-spell';
 import dictionary from 'dictionary-en-gb';
 import {reporter} from 'vfile-reporter';
 
+const ignore = readFileSync('./spelling-ignore.txt', 'utf-8').split('\n').filter(Boolean);
+
 /**
  * Get issues with an article
  * @param {string} content
  * @param {string} id
  * @returns {string} Issues
 */
-async function getIssues(content, id) {
+async function getIssues(content) {
 	const checks = await unified()
 		.use(retextEnglish)
-		.use(retextSpell, {normalizeApostrophes: true, dictionary, ignore: ['IGN', 'Ziff', '1UP', 'Playstation', 'CCNA']})
+		.use(retextSpell, {normalizeApostrophes: true, dictionary, ignore})
 		.use(retextIndefiniteArticle)
 		// .use(retextEquality)
 		.use(retextRepeatedWords)
@@ -41,11 +43,15 @@ async function getIssues(content, id) {
 		.use(retextStringify)
 		.process(removeMarkdown(content));
 	const issues = reporter(checks);
-	if (issues !== 'no issues found') console.error(id, issues);
+	if (issues !== 'no issues found') {
+		console.error(issues);
+	}
 }
 
 const folder = 'src/content/blog/';
 for (const file of readdirSync(folder)) {
-	const content = readFileSync(folder + file, 'utf-8');
+	const path = folder + file;
+	const content = readFileSync(path, 'utf-8');
+	console.log('\nChecking:', path, '\n');
 	await getIssues(content, file);
 }
