@@ -25,4 +25,4 @@ But the highlight of my week? Well, at midnight Tuesday one of the local fish an
 ![slicegone.](../../assets/images/blog/midnightsnack.jpg)
 _Socially distanced midnight snack. It was popular!_
 
-Hey! Don't judge. I’ve been running a lot more during lockdown, so this is just catch up! I'll get back to trying to shed the excess flab right away. Besides, I felt heavy and horrible after that pile of fried food. It taught me a lesson.
+Hey! Don't judge. I've been running a lot more during lockdown, so this is just catch up! I'll get back to trying to shed the excess flab right away. Besides, I felt heavy and horrible after that pile of fried food. It taught me a lesson.

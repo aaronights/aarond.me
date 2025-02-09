@@ -3,11 +3,11 @@ title: "This what I do on weekdays!"
 date: 2021-07-19
 ---
 
-Ever wondered what my work day is like? Well, unfortunately you’re about to find out!
+Ever wondered what my work day is like? Well, unfortunately you're about to find out!
 
 My title is a Customer Engineer for a wide range of machines that process money: repairing, servicing and installing them in the lower North Island.  I get around! This is my exciting travel diary for Monday 19 July 2021.
 
-The first thing I did while on the clock was finish off some documentation I was working on. It's a guide on how to clean and service some new hardware we’re rolling out. I enjoy writing, as you probably know, so I'm glad I can do some of that for work.
+The first thing I did while on the clock was finish off some documentation I was working on. It's a guide on how to clean and service some new hardware we're rolling out. I enjoy writing, as you probably know, so I'm glad I can do some of that for work.
 
 After sending that off, I jumped in my white Subaru and hit the road. I'm going to work!
 
@@ -20,7 +20,7 @@ The storage unit is just a small garage sized lockup where I keep spare parts fo
 
 On my way driving to this shed I was assigned my first urgent job of the day.
 
-In my line of work I have urgent jobs for things that are broken and need to be fixed ASAP, and also jobs that aren’t urgent, like servicing and cleaning of hardware.
+In my line of work I have urgent jobs for things that are broken and need to be fixed ASAP, and also jobs that aren't urgent, like servicing and cleaning of hardware.
 
 The job that came in this morning was top tier urgent, and far away in Waiouru! After shipping out the spare part, I went on a road trip.
 
@@ -55,7 +55,7 @@ _No nightlife, not even early evening... life._
 
 I often have delays in getting access to the machines I need to work on, and at Masterton I arrived 30 minutes before I could get access. I spent that time writing the majority of this blog post, and going for a brisk walk around downtown. It was extremely cold.
 
-I was able to resolve the job at Masterton, but due to an ongoing issue with it I’ll be back - either tomorrow or the next day. And it’ll be a very complicated and long task.
+I was able to resolve the job at Masterton, but due to an ongoing issue with it I'll be back - either tomorrow or the next day. And it'll be a very complicated and long task.
 
 I departed for Dannevirke, and by this point it was dark outside. Doing these long days is so much easier in the summer!
 
@@ -64,9 +64,9 @@ _Thor says hi._
 
 The Dannevirke job was easy, just a matter of reseating a cable. After doing that it was getting close to 9pm, and I was hoping no new jobs came in - I wanted to go home!
 
-I was tempted to get some unhealthy takeaways now, as I hadn’t eaten much all day. But no! I got home soon after 10pm and had Weet-Bix with some peanut butter for my dinner.
+I was tempted to get some unhealthy takeaways now, as I hadn't eaten much all day. But no! I got home soon after 10pm and had Weet-Bix with some peanut butter for my dinner.
 
 ![shots.](../../assets/images/blog/dinner.jpg)
 _Meal of Champions._
 
-I’m tired now. I’d better shower and get some sleep before I do it all over again tomorrow. Goodnight, kids!
+I'm tired now. I'd better shower and get some sleep before I do it all over again tomorrow. Goodnight, kids!

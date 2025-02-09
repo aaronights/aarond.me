@@ -37,7 +37,7 @@ My head hurts. I miss my former girlfriend so much.
 
 Everyone tells me I should move on. My friend Mark says he'd lock me in his basement if I ever got back with her! A colleague here I shared my story of heartbreak with said I can do better, but I think she was just being nice. Just this morning boss man Karl asked if I was married yet. Owch, that hurt. Last time I was up here in November I wouldn't shut up about my amazing girlfriend and our huge plans, now I only bring it up when drunk and stupid.
 
-I love her, but I really shouldn’t - for her benefit and mine. Right now I'd saw my leg off to be back with her, but that'd be fruitless as it's more and more clear every day that she just isn't interested at all. And that kills me a tiny bit.
+I love her, but I really shouldn't - for her benefit and mine. Right now I'd saw my leg off to be back with her, but that'd be fruitless as it's more and more clear every day that she just isn't interested at all. And that kills me a tiny bit.
 
 https://www.youtube.com/watch?v=nZXRV4MezEw
 

@@ -16,11 +16,11 @@ It's very cold. When I've been matching on Tinder somehow I always end up bringi
 
 Sure!
 
-If anyone has advice on that whole conversation front, bring it! I’d be open to anything. Sometimes the conversation is just the best! It’s fun and it flows like butter on a hot grill. I don’t know, maybe when it’s difficult to get things rolling it’s a clear and present sign that stuff just won’t go anywhere.
+If anyone has advice on that whole conversation front, bring it! I'd be open to anything. Sometimes the conversation is just the best! It's fun and it flows like butter on a hot grill. I don't know, maybe when it's difficult to get things rolling it's a clear and present sign that stuff just won't go anywhere.
 
 I went back home to catch up on what I will call office work. Office work for me involves being frustrated with the worst part of my job - logistics. Getting parts, job details and stock status is a never ending fight. Sometimes I think this company is held together with string and staples given how some of this behind the scenes stuff is.
 
 ![drinks.](../../assets/images/blog/officework.jpg)
 _Home office._
 
-I hate it when work is slow. I like working hard! The satisfaction of doing a good job is something I’m riding high on these days. Yep! Diving headfirst into work. First it was to distract from soul crushing regret and heartbreak, now it’s just… to distract from nothing? Hey! Focusing on nothing isn’t very fun.
+I hate it when work is slow. I like working hard! The satisfaction of doing a good job is something I'm riding high on these days. Yep! Diving headfirst into work. First it was to distract from soul crushing regret and heartbreak, now it's just… to distract from nothing? Hey! Focusing on nothing isn't very fun.

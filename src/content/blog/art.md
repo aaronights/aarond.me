@@ -38,4 +38,4 @@ Any tips? What's the best place to shop for curtains in the area? I want somethi
 
 I sold my old car today. It's good to finally have it gone! It was never getting use now that I have the company car, and it's nice to be able to cancel the insurance. That green machine was the last car my dad bought and even drove, so it's a little bit of personal history that has gone. With work I spent a lot of time in that car, and even had some fun in it. Oh, the fun! But those details aren't things I can share here. Use your imagination.
 
-So, give me your curtain suggestions! All suggestions related to design and colour are appreciated - I have no trust in my own skills in this area. I’ll be having a go at stripping and painting the house, starting with the living room, but if anyone knows someone that can remove and install a kitchen? Send them my way!
+So, give me your curtain suggestions! All suggestions related to design and colour are appreciated - I have no trust in my own skills in this area. I'll be having a go at stripping and painting the house, starting with the living room, but if anyone knows someone that can remove and install a kitchen? Send them my way!

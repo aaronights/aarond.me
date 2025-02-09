@@ -3,9 +3,9 @@ title: "You Can Never Know What It's Like"
 date: 2021-06-24
 ---
 
-It’s never two years.
+It's never two years.
 
-I’ve missed it by a few days, but it’s been two years since my Dad died. Even though my life and my lifestyle have changed so much, it still doesn’t feel like two whole years. I'm definitely not the same person I was back then, I've learned and experienced a lot! But still.
+I've missed it by a few days, but it's been two years since my Dad died. Even though my life and my lifestyle have changed so much, it still doesn't feel like two whole years. I'm definitely not the same person I was back then, I've learned and experienced a lot! But still.
 
 ![gus.](../../assets/images/blog/gus.jpg)
 _These two loved a midday snooze._

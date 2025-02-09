@@ -5,7 +5,7 @@ date: 2021-06-26
 
 My first day off in about three weeks? I slept a lot!
 
-My plan was to clean out my old car and put the back seats back in it, but the weather didn’t play ball. Vacuuming in the rain isn’t a smart idea, and my garage is full of… stuff. Work stuff, rubbish stuff and my sister's stuff.
+My plan was to clean out my old car and put the back seats back in it, but the weather didn't play ball. Vacuuming in the rain isn't a smart idea, and my garage is full of… stuff. Work stuff, rubbish stuff and my sister's stuff.
 
 How are you, anyway? What's happening with everyone out there in the world? I've been on a rollercoaster with work, so I want to know what everyone else has been up to lately.
 
@@ -21,4 +21,4 @@ Just giving myself permission to be happy and self assured on my own has been a 
 
 https://www.youtube.com/watch?v=C9IwBJYTwQ0
 
-You’re a smart man, Phil Collins. But I have to disagree with you on some points.
+You're a smart man, Phil Collins. But I have to disagree with you on some points.

@@ -14,7 +14,7 @@ _Small town Levin isn't usually this scarce._
 
 I've been on standby for work this long holiday weekend, waiting for my phone to make a beep to send me off on a job. It's been busy enough, but not overwhelming.
 
-Is it… expected to feel valued at work? Or is that an old tradition for people with weak willpower? For a while now, my job has been feeling sour. The message and vibe is always "Work hard and long hours, or else. If you don't, we'll track you down." Some of the messages coming from management make it feel like a witch hunt is going on. Oh well! I push myself to have rampant enthusiasm with my job, but it’s been more and more challenging in recent times. Apparently big meetings are happening next month, deciding future plans!  I’d love to put my dress suit on and be involved somehow, but I’ll probably find out results months later. If I’m lucky.
+Is it… expected to feel valued at work? Or is that an old tradition for people with weak willpower? For a while now, my job has been feeling sour. The message and vibe is always "Work hard and long hours, or else. If you don't, we'll track you down." Some of the messages coming from management make it feel like a witch hunt is going on. Oh well! I push myself to have rampant enthusiasm with my job, but it's been more and more challenging in recent times. Apparently big meetings are happening next month, deciding future plans!  I'd love to put my dress suit on and be involved somehow, but I'll probably find out results months later. If I'm lucky.
 
 Besides! Maybe, just maybe, something far more special, fulfilling and absolutely wonderful is going on.
 

@@ -88,12 +88,12 @@ The website can be opened using the same URL given above for the development ser
 
 ### Push to GitHub
 
-If using VS Code, simply commit your changes and then push them to GitHub. This will trigger a build of the site. Builds will take a few minutes to complete, and can be viewed in the Actions tab of the repository:
+If using VS Code, simply _Commit_ your changes and then _Push_ them to GitHub. This will trigger a build of the site using a GitHub Action, which will be run on GitHub's servers. The build file that makes this happen is at `.github/workflows/gh-pages.yml`. Builds will take a few minutes to complete, and can be viewed in the Actions tab of the repository:
 
 [https://github.com/aaronights/aarond.me/actions](https://github.com/aaronights/aarond.me/actions)
 
 ### Check the Live Site
 
-Once the build has completed, a refresh of the site will show and changes that were made:
+Once the build has completed, a refresh of the site will show any changes that were made:
 
 [https://aarond.me/](https://aarond.me/)

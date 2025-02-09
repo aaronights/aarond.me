@@ -12,7 +12,7 @@ Right now I'm flying back home after another visit to Auckland for training. I s
 
 No drunken shenanigans this time; I didn't get locked out of the hotel room in my undies.
 
-That caramel slice I made? I took it to the office and it all went! I was pleased at how well it survived transport in my carry-on bag. My boss, my boss’s boss, my boss’s boss’s boss and Karl all liked it! The secret is all in the caramel. Maybe my ego is just getting too big, but I'm very proud.
+That caramel slice I made? I took it to the office and it all went! I was pleased at how well it survived transport in my carry-on bag. My boss, my boss's boss, my boss's boss's boss and Karl all liked it! The secret is all in the caramel. Maybe my ego is just getting too big, but I'm very proud.
 
 ![slicegone.](../../assets/images/blog/slicegone.jpg)
 _And those last four pieces were gone before I left._
@@ -30,7 +30,7 @@ _Written on these streets are the stories that I can't explain._
 
 The first time I was up here? I was on top of the world! I felt amazing. I remember places where I bought Christmas presents, and where I was when I was on the phone to a certain someone. I remember feeling guilty that I was away yet having such a good time up here.
 
-The second time I was here I was at an all time low, struggling to recover and having booze for the first time in 10,000 years. Yeah, I’m still embarrassed about what happened, especially when I found out that everyone in the office knows! Does it count as office gossip if everyone already knows what happened?
+The second time I was here I was at an all time low, struggling to recover and having booze for the first time in 10,000 years. Yeah, I'm still embarrassed about what happened, especially when I found out that everyone in the office knows! Does it count as office gossip if everyone already knows what happened?
 
 This time? I'm good. I mean, I'm not great! But I can't complain about how stuff is going right now. I still have a massive empty hole in me, but somehow I seem okay to not be in a rush to fill it. Everyone says it will happen, from my skepical best friend Mark to my kick ass colleague Jazz. Thank you! You empower me heaps.
 
