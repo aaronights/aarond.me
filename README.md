@@ -58,12 +58,32 @@ To open the test site, click the URL that is output in the terminal - or visit t
 
 [http://localhost:4321/](http://localhost:4321/)
 
+### Testing the Build
+
+To test the building of the site locally, run the following command:
+
+```bash
+npm run build
+```
+
+Files will be output to the `dist/` directory. To view the built site, run the following command:
+
+```bash
+npm run preview
+```
+
+The website can be opened using the same URL given above for the development server.
+
 ## Production
 
 ### Push to GitHub
 
-If using VS Code, simply commit your changes and then push them to GitHub. This will trigger a build of the site.
+If using VS Code, simply commit your changes and then push them to GitHub. This will trigger a build of the site. Builds will take a few minutes to complete, and can be viewed in the Actions tab of the repository:
+
+[https://github.com/aaronights/aarond.me/actions](https://github.com/aaronights/aarond.me/actions)
 
 ### Check the Live Site
+
+Once the build has completed, a refresh of the site will show and changes that were made:
 
 [https://aarond.me/](https://aarond.me/)
