@@ -60,13 +60,13 @@ To open the test site, click the URL that is output in the terminal - or visit t
 
 ### Testing the Build
 
-To test the building of the site locally, run the following command:
+This step is not necessary, but to test the building of the site for production locally, run the following command:
 
 ```bash
 npm run build
 ```
 
-Files will be output to the `dist/` directory. To view the built site, run the following command:
+Files will be output to the `dist/` directory. To serve and view the built site, run the following command:
 
 ```bash
 npm run preview
