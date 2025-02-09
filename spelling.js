@@ -56,8 +56,6 @@ async function checkFile(path) {
 
 const folder = './src/content/blog/';
 
-// Check if there's a command line argument for a specific file
-
 if (process.argv.length > 2) {
 	let file = process.argv[2].trim();
 	if (!file.endsWith('.md')) file += '.md';
