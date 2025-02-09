@@ -10,12 +10,14 @@ git clone https://github.com/aaronights/aarond.me.git
 
 ### Add dependencies
 
-Install dependencies with npm.
+You should always start by installing the website's dependencies (external libraries) with npm.
 
 ```bash
 cd aarond.me
 npm i
 ```
+
+This command should also be run whenever the `package.json` file is updated to include new dependencies.
 
 ## Editing the Site
 
