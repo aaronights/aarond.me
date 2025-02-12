@@ -1,7 +1,7 @@
 {
-	"name": "blog",
+	"name": "aarond.me",
 	"type": "module",
-	"version": "0.0.1",
+	"version": "2.0.0",
 	"scripts": {
 		"spellcheck": "node ./spelling.js",
 		"dev": "astro dev",
