@@ -24,7 +24,7 @@ Every light in the house will be dimmable.
 
 Historically, dimming lights was fairly straightforward with incandescent bulbs. Just get any dimmer installed off the shelf, and it’d work as expected. Now there is a massive diversity of lighting technologies, and even two different lights using the same underlying technology can behave very differently with dimmers.
 
-Standard dimmers use a component called a triac to control the flow of power going to a light fitting. It works by chopping up the power going to the light very quickly to reduce the overall amount of current going to the light. In simple terms, it turns the light on and off rapidly, hundreds of times a second. This is done using either an electrical component called a TRIAC or a MOSFET. Other types of dimmers are available, but are much less common.
+Standard dimmers use either a TRIAC or a MOSFET electrical component control the flow of power going to a light fitting. It works by chopping up the power going to the light very quickly to reduce the overall amount of current going to the light. In simple terms, it turns the light on and off rapidly, hundreds of times a second. Other types of dimmers are available, but are much less common.
 
 Now I’ll get technical.
 
