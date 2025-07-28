@@ -20,7 +20,7 @@ Broadly, there are two types of hybrids:
 
 * A Standard Hybrid has a small battery that is charged from the car's petrol motor and from regenerative braking.
 
-* A Plug-In Hybrid has a much bigger battery, 10 to 20 times the size of a standard hybrid. It does all the same things, but it can be plugged in to charge up the battery.
+* A Plug-In Hybrid, or Phev, has a much bigger battery, 10 to 20 times the size of a standard hybrid. It does all the same things, but it can be plugged in to charge up the battery.
 
 Unless you've got a high end and very new plug-in hybrid, the all electric range in a plug-in hybrid isn't designed for long distances. Based on what I’ve found, they commonly have around a 14 kilowatt hour battery with a rated range of 60 kilometers, but in the real world you might expect closer to 30 - 40 kilometers. It still has all the benefits of the standard hybrid too, so the plug in capacity can just be a bonus. It’s excellent when going slow in city traffic, plus you can use both the petrol and electric motors at the same time to give that extra power when needed.
 
