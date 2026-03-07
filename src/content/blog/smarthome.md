@@ -12,14 +12,14 @@ _It's very smart. Grass is coming soon!_
 
 The Smart Home is live - fully up and running, with the teething all worked through and most of the kinks ironed out.
 
-So far, I’ve documented my reasoning for the smart home platform and protocols I’ve used. Those decisions turned out well. The wireless mesh network is super robust, with excellent reliability on the dedicated Smart Home Wi-Fi network. I’m also very pleased with how well Tuya is working as the smart home platform. There’s such a massive range of products, and it’s very flexible with the automations we’ve been programming.
+So far, I’ve documented my reasoning for the [smart home platform](https://aarond.me/blog/2025/03/01/sosmart/) and [protocols](https://aarond.me/blog/2025/03/16/sosmartb/) I’ve used. Those decisions turned out well. The wireless mesh network is super robust, with excellent reliability on the dedicated Smart Home Wi-Fi network. I’m also very pleased with how well Tuya is working as the smart home platform. There’s such a massive range of products, and it’s very flexible with the automations we’ve been programming.
 
 The goal was achieved: The smart home is all running under one account, one app and one ecosystem.
 
 ![frankie.](../../assets/images/blog/smarthome/tuya.jpg)
 _Curtains, Blinds, Lights and everything else!_
 
-The last thing I discussed here was around the smart home lighting we’ve used, and I’m happy to report that has gone very well. Every single light in the house is dimmable - I’d say that’s a unique feature of this house, and it’s something we use every day. With few exceptions all the lights are standard downlights, but we rarely run them at 100% brightness - when you’re not used to it, that is just so painfully bright. Adjusting lighting to suit the mood and the time of day is so useful.
+The last thing I discussed here was around [the smart home lighting we’ve used](https://aarond.me/blog/2025/05/25/dimmer/), and I’m happy to report that has gone very well. Every single light in the house is dimmable - I’d say that’s a unique feature of this house, and it’s something we use every day. With few exceptions all the lights are standard downlights, but we rarely run them at 100% brightness - when you’re not used to it, that is just so painfully bright. Adjusting lighting to suit the mood and the time of day is so useful.
 
 Now, let’s dive into the rest of the smart home features.
 
