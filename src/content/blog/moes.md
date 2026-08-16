@@ -34,7 +34,9 @@ Two things really stand out: the screen and the speakers.
 
 The display is bright, sharp, and miles better than the smart panels. It’s not huge, but the clarity makes it easy to navigate and fantastic for photos. And the speakers? Surprisingly impressive. You can use Alexa for Spotify or run it as a Bluetooth speaker, and because the unit has some depth, it actually produces decent bass. Amazon hasn’t released new Alexa hardware in years, but this thing more than fills the gap.
 
-MOES also sent me another device — and I’m sensing a giveaway.
+MOES also sent me another device — and I’m sensing a...
+
+### Giveaway!
 
 It’s a smart video doorbell. Mount it on your front door, and when someone presses the button you get an alert on your phone. Perfect for courier deliveries when you’re not home — you can talk to them through the two‑way audio and tell them to leave the package safely. It also records motion, so it doubles as a security camera. Plus it comes with a wireless indoor chime you can place anywhere in the house.
 
