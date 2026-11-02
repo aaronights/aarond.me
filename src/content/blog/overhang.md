@@ -45,13 +45,14 @@ I think it's a crucial flaw that has the potential to undermine our democratic s
 
 What are the solutions? In other countries that use a similar voting system there are two main solutions:
 
-You cannot win an electorate seat unless you also win enough of the party vote to entitle you to a seat. This would make the party vote reliably more proportional, but has the risk of leaving some regions without an electorate MP in parliament at all.
+* You cannot win an electorate seat unless you also win enough of the party vote to entitle you to a seat. This would make the party vote reliably more proportional, but has the risk of leaving some regions without an electorate MP in parliament at all.
 
-Another option used in Germany is to add balancing seats. If one party gets an overhang, all other parties get free additional seats in parliament until the party vote proportionality is restored. An overhang of 8 would result in potentially 16 additional MPs total. This has the downside of potentially giving us way, way more MPs - and they're expensive! You've got to feed and wash them, and that adds up.
+* Another option used in Germany is to add balancing seats. If one party gets an overhang, all other parties get free additional seats in parliament until the party vote proportionality is restored. An overhang of 8 would result in potentially 16 additional MPs total. This has the downside of potentially giving us way, way more MPs - and they're expensive! You've got to feed and wash them, and that adds up.
 
-There are also other experimental solutions: limit the number of overhang seats a party can get to two or even one. Doing this would hopefully mean regions would be less likely to be without a local MP, but it also squashes the idea of actively pushing for a hugely disproportionate government using the overhang.
+There are also other experimental solutions:
+* Limit the number of overhang seats a party can get to two or even one. Doing this would hopefully mean regions would be less likely to be without a local MP, but it also squashes the idea of actively pushing for a hugely disproportionate government using the overhang.
 
-You could also make overhang seats count as a different type of MP, one that is more of an advocate for an electoral region in parliament but unable to vote and add count towards a governing coalition.
+* You could also make overhang seats count as a different type of MP, one that is more of an advocate for an electoral region in parliament but unable to vote and add count towards a governing coalition.
 
 It sucks. This promotion of tactical voting makes democracy disproportionate and confusing, but under the current rules it is a viable strategy. 
 
