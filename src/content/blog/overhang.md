@@ -3,6 +3,8 @@ title: "The Overhang Hangover"
 date: 2026-11-02
 ---
 
+_Updated November 10: Added another option to resolve the overhang._
+
 Well, voting season is upon us. I bet you’ve seen the hundreds of promotional signs all around, along with your social media feeds full of ads from all these budding candidates. If you follow the commentary around this election you might have heard about something called “The Overhang” - and it isn't a bit sticking out on a deck.
 
 ![overhang.](../../assets/images/blog/overhang.jpg)
@@ -53,6 +55,8 @@ There are also other experimental solutions:
 * Limit the number of overhang seats a party can get to two or even one. Doing this would hopefully mean regions would be less likely to be without a local MP, but it also squashes the idea of actively pushing for a hugely disproportionate government using the overhang.
 
 * You could also make overhang seats count as a different type of MP, one that is more of an advocate for an electoral region in parliament but unable to vote and add count towards a governing coalition.
+
+* If you want to give more power to the regional electorate seats, you could split the house! Assuming you'd want to keep a 120 seat house, you could allocate 60 seats to electorates, and have the other 60 proportionally allocated to the party vote. This has the upside of forcing political parties to put much more effort into winning electorate seats - using a single transferable vote system to elect those MPs would also add to increasing that competition. This system would... kind of maintain proportionality, but those electorate seats would be winner takes all rather than proportional. No chance of an overhang, though!
 
 It sucks. This promotion of tactical voting makes democracy disproportionate and confusing, but under the current rules it is a viable strategy. 
 
